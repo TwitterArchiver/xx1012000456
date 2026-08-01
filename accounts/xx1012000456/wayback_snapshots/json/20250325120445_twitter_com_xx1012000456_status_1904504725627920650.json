@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904499335540416909",
+    "created_at": "2025-03-25T12:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T13:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904504725627920650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760204098731913216",
+          "start": 0,
+          "username": "KateamineR23573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904504725627920650",
+    "in_reply_to_user_id": "1760204098731913216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904499335540416909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KateamineR23573 不列管好处是合法，所以来源和成分是有保障的，坏处是应用时间短毒副作用模糊。旧品类经过时间验证，用量效果都有参考，坏处是土作坊合成杂质多，以及各个分销商可能会给你掺东西，包括但不限于奶粉、面粉、玻璃粉、糖粉、滑石粉、白色的药粉等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904499335540416909",
+        "created_at": "2025-03-25T12:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T13:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904504725627920650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760204098731913216",
+              "start": 0,
+              "username": "KateamineR23573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904504725627920650",
+        "in_reply_to_user_id": "1760204098731913216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904499335540416909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KateamineR23573 不列管好处是合法，所以来源和成分是有保障的，坏处是应用时间短毒副作用模糊。旧品类经过时间验证，用量效果都有参考，坏处是土作坊合成杂质多，以及各个分销商可能会给你掺东西，包括但不限于奶粉、面粉、玻璃粉、糖粉、滑石粉、白色的药粉等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760204098731913216",
+        "conversation_id": "1904499335540416909",
+        "created_at": "2025-03-25T11:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T12:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904499335540416909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904499335540416909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己感覺越新的藥其實越危險，很多藥頭都說xx是新藥，是不列管的效果更好，或者說是醫院也會用的，更安全，真不是这样的。那些旧毒品虽然被污名很多，但是是經過成千上萬人實驗選擇的。你看芬太尼、海洛因多危險，但是他們一系的嗎啡就安全得多，甲卡、冰弄多了會精神病，但一系的小安和coke就不會。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 501,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1104
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T07:25:46.000Z",
+        "description": "新的telegram頻道：https://t.co/ZEhFTicuiJ\n想成爲偶像藝人。努力擁有10萬粉！！。我永遠永遠不會有任何問粉絲收錢的狀況，如果有人說是我要收錢怎樣怎樣，那就是壞人假扮我要騙你。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XekiigLpGvpkN…",
+                "end": 36,
+                "expanded_url": "https://t.me/+XekiigLpGvpkNzFi",
+                "start": 13,
+                "url": "https://t.co/ZEhFTicuiJ"
+              }
+            ]
+          }
+        },
+        "id": "1760204098731913216",
+        "location": "台灣",
+        "name": "Kateamine-reblog",
+        "pinned_tweet_id": "1903663540961169797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760210871693758464/ahTI1T72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14398,
+          "following_count": 95,
+          "like_count": 100,
+          "listed_count": 25,
+          "media_count": 114,
+          "tweet_count": 1237
+        },
+        "username": "KateamineR23573",
+        "verified": false
+      }
+    ]
+  }
+}

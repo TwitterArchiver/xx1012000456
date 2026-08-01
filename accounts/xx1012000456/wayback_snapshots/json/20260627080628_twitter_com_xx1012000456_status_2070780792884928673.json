@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070694757454745704",
+    "created_at": "2026-06-27T08:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070780792884928673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971182614745841666",
+          "start": 0,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070780792884928673",
+    "in_reply_to_user_id": "1971182614745841666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070694757454745704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bjsd394019 卖家被抓管我买家什么事😅不过北京地区的同类买还是谨慎一点，毕竟在我翻案之前还是有可能发到平谷这种法外之地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070694757454745704",
+        "created_at": "2026-06-27T08:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070780792884928673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971182614745841666",
+              "start": 0,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070780792884928673",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070694757454745704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bjsd394019 卖家被抓管我买家什么事😅不过北京地区的同类买还是谨慎一点，毕竟在我翻案之前还是有可能发到平谷这种法外之地"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971182614745841666",
+        "conversation_id": "2070694757454745704",
+        "created_at": "2026-06-27T02:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070694757454745704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070694757454745704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "港美怎么又流行起来了，去年好几个卖家都被抓了你们不知道吗🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 611,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "",
+        "id": "1971182614745841666",
+        "name": "Karasushappiness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986033393499521024/QFRzaER__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 56,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false
+      }
+    ]
+  }
+}

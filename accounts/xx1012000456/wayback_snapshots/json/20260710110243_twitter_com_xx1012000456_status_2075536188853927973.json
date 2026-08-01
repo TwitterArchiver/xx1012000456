@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075240549846860270",
+    "created_at": "2026-07-10T11:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075536188853927973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040070879888220160",
+          "start": 0,
+          "username": "Yumi320521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075536188853927973",
+    "in_reply_to_user_id": "2040070879888220160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075240549846860270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumi320521 不会的，下面是---策划药RC大时代😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075240549846860270",
+        "created_at": "2026-07-10T11:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075536188853927973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075536188853927973",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240549846860270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 不会的，下面是---策划药RC大时代😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040070879888220160",
+        "conversation_id": "2075240549846860270",
+        "created_at": "2026-07-09T15:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075240549846860270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075240549846860270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4901,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药物大滥用时代落幕了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 672,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 153,
+          "like_count": 5471,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

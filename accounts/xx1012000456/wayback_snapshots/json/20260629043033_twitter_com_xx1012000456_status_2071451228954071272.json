@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071449693218045952"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071451228954071272",
+    "created_at": "2026-06-29T04:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071451228954071272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqR8fgEQiJ",
+          "end": 136,
+          "expanded_url": "https://x.com/xx1012000456/status/2071451228954071272/photo/1",
+          "media_key": "3_2071449693218045952",
+          "start": 113,
+          "url": "https://t.co/lqR8fgEQiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071451228954071272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作为优格案的当事人，我觉得你反应过度了，大部分人的防守策略应该侧重于避免被认定吸毒😅从于小姐的判决书来看，购买后表示自己不要了都无法脱罪。因此如果你赶上一个司法洼地你怎么防守都是没用的，这也是我不支持八本华的处方合理化的原因 https://t.co/lqR8fgEQiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2071449693218045952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9EhV5agAAx0y4.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071449693218045952"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071451228954071272",
+        "created_at": "2026-06-29T04:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071451228954071272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqR8fgEQiJ",
+              "end": 136,
+              "expanded_url": "https://x.com/xx1012000456/status/2071451228954071272/photo/1",
+              "media_key": "3_2071449693218045952",
+              "start": 113,
+              "url": "https://t.co/lqR8fgEQiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071451228954071272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为优格案的当事人，我觉得你反应过度了，大部分人的防守策略应该侧重于避免被认定吸毒😅从于小姐的判决书来看，购买后表示自己不要了都无法脱罪。因此如果你赶上一个司法洼地你怎么防守都是没用的，这也是我不支持八本华的处方合理化的原因 https://t.co/lqR8fgEQiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 623,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1806
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1925211424005255398",
+    "created_at": "2025-05-21T15:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925212833215898100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "YoselinZhang"
+        },
+        {
+          "end": 27,
+          "id": "1682474617208709122",
+          "start": 14,
+          "username": "jpdrugdealer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925212833215898100",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925211588891664514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoselinZhang @jpdrugdealer 你去百度蘑菇吧问问其实也行🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1925211424005255398",
+        "created_at": "2025-05-21T15:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925212833215898100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinZhang"
+            },
+            {
+              "end": 27,
+              "id": "1682474617208709122",
+              "start": 14,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925212833215898100",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925211588891664514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinZhang @jpdrugdealer 你去百度蘑菇吧问问其实也行🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1925211424005255398",
+        "created_at": "2025-05-21T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925211588891664514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682474617208709122",
+              "start": 0,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925211588891664514",
+        "in_reply_to_user_id": "1682474617208709122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925211424005255398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpdrugdealer 求论坛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1555
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, 计划26fall US, 泛性恋一/三爱顺女，LGBTQ+友好，Brat(BDSM), 中文&ENG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/upsetallday",
+                "end": 23,
+                "expanded_url": "https://t.me/upsetallday",
+                "start": 0,
+                "url": "https://t.co/DrDwjEvGaG"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "物质滥用/药物依赖/精神病发作/碎碎念",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1925173802385981764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 280,
+          "like_count": 9656,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2983
+        },
+        "url": "https://t.co/DrDwjEvGaG",
+        "username": "YoselinZhang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 113,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 74
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      }
+    ]
+  }
+}

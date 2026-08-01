@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1866503138213277851",
+    "created_at": "2024-12-11T12:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T13:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866819526471585995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866819526471585995",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866503138213277851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 1.所有药物如果不计副作用和感受均可以鼻吸，同理也均可以舌下或直肠给药。\n2.非消化道途径给药会绕过肝脏的首关效应，因此少数原型药效甚微或无效而代谢物药效猛烈的会效果很差，目前唯一能想到的是赛洛西宾。\n3.普瑞主靠肾脏代谢且多以原型排出，鼻吸没有任何优势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1866503138213277851",
+        "created_at": "2024-12-11T12:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866819526471585995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866819526471585995",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866503138213277851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 1.所有药物如果不计副作用和感受均可以鼻吸，同理也均可以舌下或直肠给药。\n2.非消化道途径给药会绕过肝脏的首关效应，因此少数原型药效甚微或无效而代谢物药效猛烈的会效果很差，目前唯一能想到的是赛洛西宾。\n3.普瑞主靠肾脏代谢且多以原型排出，鼻吸没有任何优势"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1866503138213277851",
+        "created_at": "2024-12-10T15:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T16:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866503138213277851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866503138213277851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说普瑞巴林可以鼻吸吗。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 385,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 358
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂毒瘾婊的QQ空间DLC｜非典型恶人｜不许取关我｜ #shtwt #drugtwt #goretwt ｜会回fo我感兴趣的人｜自残吸毒od碎碎念情绪垃圾桶｜嗑大了会乱讲话｜傻逼人畜两脚羊无脑看黃蛆点进你毒枭祖宗主页还不快点喷金上贡人民币？｜🚪300坐标999精确到国家｜非单 女朋友 @Primrose_NB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "shtwt"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Primrose_NB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "和撒旦共用一根吸毒针",
+        "name": "新中国第一毒枭𝐑𝐚𝐢𝐧𝐲𝟑𝟔𝟎𝟒𝟐𝟔",
+        "pinned_tweet_id": "1857119414556172303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865303864699723777/wVpf4I3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 72,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1689
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

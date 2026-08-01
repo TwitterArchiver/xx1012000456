@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1914780624331874644",
+    "created_at": "2025-04-23T13:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T14:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915041988271108580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        },
+        {
+          "end": 27,
+          "id": "1597257668313260033",
+          "start": 17,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915041988271108580",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914844572934607255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko @Minokakay 苏联模式和共产本来就是骗局，就算世界上真的有地方能实现共产也绝不可能在道德洼地的中国实现。上层不肯让利传导到下层囤积居奇，下层内卷希望得道飞升反向剥削同类，再大的生产力都不可能平衡这种人心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1914780624331874644",
+        "created_at": "2025-04-23T13:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T14:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915041988271108580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915041988271108580",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914844572934607255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko @Minokakay 苏联模式和共产本来就是骗局，就算世界上真的有地方能实现共产也绝不可能在道德洼地的中国实现。上层不肯让利传导到下层囤积居奇，下层内卷希望得道飞升反向剥削同类，再大的生产力都不可能平衡这种人心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1914780624331874644",
+        "created_at": "2025-04-23T00:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914844572934607255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914844572934607255",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914780624331874644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 要不走苏联模式？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 534,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1438
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系、跨性别🏳️‍⚧️、二次元、非人类；可可爱爱，装跨顺男，树的天使，三氯福司，腦的電波，od咨询，hrt咨询，特别宝宝@tube1925\n|she/they|mtf|无性别主义|女权主义|hrt2025.1.28|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "tube1925"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀衫田緑子♓",
+        "pinned_tweet_id": "1910309703848255874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914843174469873664/if6tRK_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 649,
+          "like_count": 27702,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 5806
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 867,
+          "like_count": 41017,
+          "listed_count": 30,
+          "media_count": 821,
+          "tweet_count": 16445
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

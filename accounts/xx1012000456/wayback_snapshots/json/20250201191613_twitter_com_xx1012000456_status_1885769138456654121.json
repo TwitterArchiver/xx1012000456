@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1885764211273592862",
+    "created_at": "2025-02-01T19:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T20:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885769138456654121"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885769138456654121",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885767610060738974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另一方面很不幸我是大多数od圈人士眼里的的上位者，我并不缺乏金钱及你们渴求的爱（只是不是我想要的），我的创伤来自天赋原生的究极自我拉扯。抑郁后我的记忆录入削弱了约6-7成，但剩下的部分足够我混毕业以及装配搭建新的知识体系，因此我在抑郁患者这个群体中也是十足的异类。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1885764211273592862",
+        "created_at": "2025-02-01T19:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T20:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885769138456654121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885769138456654121",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885767610060738974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一方面很不幸我是大多数od圈人士眼里的的上位者，我并不缺乏金钱及你们渴求的爱（只是不是我想要的），我的创伤来自天赋原生的究极自我拉扯。抑郁后我的记忆录入削弱了约6-7成，但剩下的部分足够我混毕业以及装配搭建新的知识体系，因此我在抑郁患者这个群体中也是十足的异类。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1885764211273592862",
+        "created_at": "2025-02-01T19:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T20:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885767610060738974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885767610060738974",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885766062115094624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但解离本质上只能削弱我对记忆掌控而不能真正分离或遗忘旧记忆及影响解离态的记忆录入，也因此我个人可能更多的推崇od右美，低估了解离带来的记忆和学习能力破坏以及持正面态度评价MECT。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 456,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 649
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

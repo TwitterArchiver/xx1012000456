@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930612887313375418",
+    "created_at": "2025-06-05T15:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930648487743598853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930648487743598853",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930612887313375418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 我知道有好几个200t没死的，折算3g，确实很难干掉人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930612883593003008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrqMFVagAA-pEc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930612887313375418",
+        "created_at": "2025-06-05T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930648487743598853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930648487743598853",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930612887313375418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 我知道有好几个200t没死的，折算3g，确实很难干掉人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930612883593003008"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930612887313375418",
+        "created_at": "2025-06-05T13:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930612887313375418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoYFd6gx0G",
+              "end": 87,
+              "expanded_url": "https://x.com/omo0903/status/1930612887313375418/photo/1",
+              "media_key": "3_1930612883593003008",
+              "start": 64,
+              "url": "https://t.co/XoYFd6gx0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930612887313375418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "問過藥物實驗室了，吃再多都不會死，超過70t的話容易bad trip ，所以換算成台灣版本的話大概是17t\n9：10分準備起飛 https://t.co/XoYFd6gx0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 566,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1611
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n聊天隨意\n重鬱/中焦/ADD/解離/恐慌/自殺未遂\n目前流浪中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/UFWHGqfbbogogx…",
+                "end": 23,
+                "expanded_url": "https://lit.link/UFWHGqfbbogogxgPwfYEFlXTIEA3",
+                "start": 0,
+                "url": "https://t.co/5uTbEJIJNq"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "New Taipei City, Taiwan",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922830309684543489/dL8hFayq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 822,
+          "like_count": 49456,
+          "listed_count": 6,
+          "media_count": 501,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/5uTbEJIJNq",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

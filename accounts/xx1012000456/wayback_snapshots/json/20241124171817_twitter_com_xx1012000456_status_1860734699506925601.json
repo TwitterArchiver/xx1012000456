@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1860645274840125893",
+    "created_at": "2024-11-24T17:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T18:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860734699506925601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        },
+        {
+          "end": 19,
+          "id": "1448206950903255040",
+          "start": 8,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860734699506925601",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860661278852661504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 @_Shikieiki 变笨是肯定的，解离=NMDA拮抗=学习与记忆能力的干扰，这三者本身就是一回事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-11-24T17:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T18:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860734699506925601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            },
+            {
+              "end": 19,
+              "id": "1448206950903255040",
+              "start": 8,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860734699506925601",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860661278852661504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 @_Shikieiki 变笨是肯定的，解离=NMDA拮抗=学习与记忆能力的干扰，这三者本身就是一回事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-11-24T12:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860661278852661504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860661278852661504",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860645274840125893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 買的到嗎，會不會o笨了a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 368,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 287
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "主播是 INFP-T，不参与政治📚，furry设定是菜狗，活在网络世界🌐。希望能见证人类命运共同体的实现🌍，也渴望获得更多关注💘！最喜欢的推主是 @umichen0502324 💖，单推初音未来🎤。汉堡是最美味的🍔！提问箱https://t.co/FFArbOevnj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "umichen0502324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b.mtw.so/633sCI",
+                "end": 134,
+                "expanded_url": "http://b.mtw.so/633sCI",
+                "start": 111,
+                "url": "https://t.co/FFArbOevnj"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1.7km",
+        "name": "十九方鸞齉灥麤齾𰻝",
+        "pinned_tweet_id": "1785706715612107044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846526765252120576/rYR52hhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 943,
+          "like_count": 9548,
+          "listed_count": 1,
+          "tweet_count": 13667
+        },
+        "username": "sysjf0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 275,
+          "like_count": 5167,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

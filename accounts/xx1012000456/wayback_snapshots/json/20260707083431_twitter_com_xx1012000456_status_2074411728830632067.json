@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2074386528529441008",
+    "created_at": "2026-07-07T08:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074411728830632067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        },
+        {
+          "end": 26,
+          "id": "1360522586317348865",
+          "start": 15,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074411728830632067",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074392607229362523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 @nanami_mua 一样的，我记得是右美75安非他酮300"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2074386528529441008",
+        "created_at": "2026-07-07T08:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074411728830632067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            },
+            {
+              "end": 26,
+              "id": "1360522586317348865",
+              "start": 15,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411728830632067",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074392607229362523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 @nanami_mua 一样的，我记得是右美75安非他酮300"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2074386528529441008",
+        "created_at": "2026-07-07T07:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074392607229362523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074392607229362523",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074392180333101330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 我也听说过那个药 想开 不知道哪有卖。不知道这个玩意同时吃右美沙芬和安非他酮能有一样的效果吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 662,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5122,
+          "following_count": 562,
+          "like_count": 13354,
+          "listed_count": 8,
+          "media_count": 1083,
+          "tweet_count": 14419
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 503,
+          "like_count": 90086,
+          "listed_count": 6,
+          "media_count": 859,
+          "tweet_count": 10936
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

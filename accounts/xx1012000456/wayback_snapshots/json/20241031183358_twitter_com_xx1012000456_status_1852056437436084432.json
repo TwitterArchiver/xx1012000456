@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1850239812449554450",
+    "created_at": "2024-10-31T18:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T19:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852056437436084432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748717733569875968",
+          "start": 0,
+          "username": "GLaDOS8964"
+        },
+        {
+          "end": 21,
+          "id": "1481172876589821952",
+          "start": 12,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852056437436084432",
+    "in_reply_to_user_id": "1748717733569875968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850242387924426983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLaDOS8964 @pyke2076 苯丙胺是俗称，真正的名字是安非他命，即阿尔法（安）甲基（非）苯基（他）乙胺（命），有N甲基苯乙胺以及在苯环上甲基的苯乙胺。还有冰其实特指N甲基安非他命，别的构造的甲基苯丙胺没有列管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1850239812449554450",
+        "created_at": "2024-10-31T18:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T19:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852056437436084432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748717733569875968",
+              "start": 0,
+              "username": "GLaDOS8964"
+            },
+            {
+              "end": 21,
+              "id": "1481172876589821952",
+              "start": 12,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852056437436084432",
+        "in_reply_to_user_id": "1748717733569875968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850242387924426983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLaDOS8964 @pyke2076 苯丙胺是俗称，真正的名字是安非他命，即阿尔法（安）甲基（非）苯基（他）乙胺（命），有N甲基苯乙胺以及在苯环上甲基的苯乙胺。还有冰其实特指N甲基安非他命，别的构造的甲基苯丙胺没有列管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748717733569875968",
+        "conversation_id": "1850239812449554450",
+        "created_at": "2024-10-26T18:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T19:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850242387924426983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850242387924426983",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850241987741425708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 你是想在哪里加甲基？甲基苯乙胺一般没这么说的，直接说苯丙胺了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 323,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 216
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "友跨，i am here   \n备：@zau743598828677  \nDOS向你问好\n这里是，格拉道斯\n沾负能鉴证经济学哲学思考，理性主义万岁，社会自由主义，右边偏左，反极端主义，反政治宗教化，图腾崇拜化\n\n家庭化学，CS，瓦，各种电脑游戏，经济学本科学习中，键政爱好，伪ADHD，od，一些伪心理疾病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zau743598828677"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "荷兰郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1838205367186333709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808141941017890816/gINiWXJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 873,
+          "like_count": 28619,
+          "listed_count": 1,
+          "tweet_count": 14566
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 757,
+          "like_count": 34073,
+          "listed_count": 5,
+          "tweet_count": 8906
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

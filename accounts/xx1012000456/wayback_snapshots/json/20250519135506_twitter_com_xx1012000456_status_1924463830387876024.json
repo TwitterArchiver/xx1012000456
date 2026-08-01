@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924458532013068322",
+    "created_at": "2025-05-19T13:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924463830387876024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803098194248900608",
+          "start": 0,
+          "username": "huacaiuuu"
+        },
+        {
+          "end": 24,
+          "id": "1595057856864477185",
+          "start": 11,
+          "username": "BabyLoloDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924463830387876024",
+    "in_reply_to_user_id": "1803098194248900608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924462520880005206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huacaiuuu @BabyLoloDoll 直接网购，司美国内只被用于糖尿病。不止司美其实所有的胰高血糖素受体1激动药物都行（普遍为XXX肽），但用量可能可以参考的数据不多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924458532013068322",
+        "created_at": "2025-05-19T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924463830387876024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803098194248900608",
+              "start": 0,
+              "username": "huacaiuuu"
+            },
+            {
+              "end": 24,
+              "id": "1595057856864477185",
+              "start": 11,
+              "username": "BabyLoloDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924463830387876024",
+        "in_reply_to_user_id": "1803098194248900608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924462520880005206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huacaiuuu @BabyLoloDoll 直接网购，司美国内只被用于糖尿病。不止司美其实所有的胰高血糖素受体1激动药物都行（普遍为XXX肽），但用量可能可以参考的数据不多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803098194248900608",
+        "conversation_id": "1924458532013068322",
+        "created_at": "2025-05-19T13:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924462520880005206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595057856864477185",
+              "start": 0,
+              "username": "BabyLoloDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924462520880005206",
+        "in_reply_to_user_id": "1595057856864477185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924462263844671745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabyLoloDoll 宝宝你打过吗！去医院怎么和医生说他才会给你开啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 562,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1530
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T16:11:34.000Z",
+        "description": "世界上一枚普通的小蛋糕",
+        "id": "1803098194248900608",
+        "name": "奶油号角",
+        "pinned_tweet_id": "1866763320394650082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921478924007030784/nAr8ZbRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 140,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1084
+        },
+        "username": "huacaiuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T14:13:49.000Z",
+        "description": "有老公请勿扰🫰喜欢lolita的普通人 想和大家多分享 谢谢你的关注 谢谢喜欢我的女宝",
+        "id": "1595057856864477185",
+        "name": "洛洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921928747210473472/zSmVu-l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110387,
+          "following_count": 36,
+          "like_count": 1202,
+          "listed_count": 231,
+          "media_count": 111,
+          "tweet_count": 3071
+        },
+        "username": "BabyLoloDoll",
+        "verified": false
+      }
+    ]
+  }
+}

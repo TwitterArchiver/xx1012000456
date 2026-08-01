@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1872242386828742915",
+    "created_at": "2024-12-26T15:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T16:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872301012150854036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872301012150854036",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872242386828742915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ 是亢奋和精力过剩典型的躁狂症状，和抑郁相对，不是字面上的意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1872242386828742915",
+        "created_at": "2024-12-26T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872301012150854036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872301012150854036",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872242386828742915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 是亢奋和精力过剩典型的躁狂症状，和抑郁相对，不是字面上的意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "1872242386828742915",
+        "created_at": "2024-12-26T11:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872242386828742915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872242386828742915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 798,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躁狂发作是什么症状，是我理解的字面意思上的大喊大叫生气摔东西吗，刚才看了一个视频说普信和莫名其妙的开心也算躁狂发作😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 401,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 415
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0\n🚪50",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773789205656920065/2_24Pg8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 292,
+          "like_count": 3226,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 3562
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

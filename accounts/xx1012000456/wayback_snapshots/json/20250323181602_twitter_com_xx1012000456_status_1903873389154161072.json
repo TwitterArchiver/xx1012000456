@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902425974115008752",
+    "created_at": "2025-03-23T18:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T19:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903873389154161072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897309588699168768",
+          "start": 0,
+          "username": "right_drugs_knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903873389154161072",
+    "in_reply_to_user_id": "1897309588699168768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902425974115008752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@right_drugs_knl 大家都掌握了正确的起号方式🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902425974115008752",
+        "created_at": "2025-03-23T18:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903873389154161072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897309588699168768",
+              "start": 0,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903873389154161072",
+        "in_reply_to_user_id": "1897309588699168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902425974115008752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right_drugs_knl 大家都掌握了正确的起号方式🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897309588699168768",
+        "conversation_id": "1902425974115008752",
+        "created_at": "2025-03-19T18:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T19:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902425974115008752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902425974115008752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想找地雷女谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 498,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1076
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 52,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      }
+    ]
+  }
+}

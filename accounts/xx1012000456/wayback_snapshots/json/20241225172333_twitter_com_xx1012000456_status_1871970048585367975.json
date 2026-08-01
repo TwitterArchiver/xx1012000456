@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-25T17:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T18:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871970048585367975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1871970048585367975",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871968933584228817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人就小小的自傲一波，作为北京化学奥赛省二、211毕业、可以和我医学专业的朋友谈笑风生的知识储备。我可以负责任的说，他就是个欺负od圈文化水平低的江湖郎中欺世盗名罢了。也结果论的说句，能和鸡哥一起混并共建wiki，能是什么好鸟吗？一丘之貉罢了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-25T17:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871970048585367975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871970048585367975",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871968933584228817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人就小小的自傲一波，作为北京化学奥赛省二、211毕业、可以和我医学专业的朋友谈笑风生的知识储备。我可以负责任的说，他就是个欺负od圈文化水平低的江湖郎中欺世盗名罢了。也结果论的说句，能和鸡哥一起混并共建wiki，能是什么好鸟吗？一丘之貉罢了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-25T17:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871968933584228817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871968933584228817",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871967743664329091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此很诚惶诚恐的加了这位“大佬”的微信希望得到一些指导和讨论，然后他就发出了如今我看起来甚是可笑的言论“右美溶解度和愈创持平”“水溶液会破坏氢溴酸右美的稳定性”“右美人体不能吸收，必须要氢溴酸配位”等。作为药师，他的化学和药理学低到很可笑的水平，我甚至觉得他和spring风都相差甚远。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 397,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 401
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

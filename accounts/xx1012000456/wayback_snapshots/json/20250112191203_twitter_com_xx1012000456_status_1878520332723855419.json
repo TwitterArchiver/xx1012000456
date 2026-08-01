@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1878501136929616369",
+    "created_at": "2025-01-12T19:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T20:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878520332723855419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878520332723855419",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878501136929616369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 劳拉这么保守干嘛，4-8mg都不算多的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1878501136929616369",
+        "created_at": "2025-01-12T19:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T20:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878520332723855419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878520332723855419",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878501136929616369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 劳拉这么保守干嘛，4-8mg都不算多的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1878501136929616369",
+        "created_at": "2025-01-12T17:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T18:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878501136929616369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878501136929616369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了1t劳拉西泮但没法睡着甚至都没有镇静下来，很焦虑，吃下去了24t右美沙芬，我需要平静，哪怕是幻觉的平静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 444,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 527
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "🚪200 吞下我才成为我",
+        "id": "1000763746430500865",
+        "name": "河南井盖之神",
+        "pinned_tweet_id": "1877527630762721370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878501581345427456/4OOkq2aG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28816,
+          "following_count": 252,
+          "like_count": 1363,
+          "listed_count": 61,
+          "media_count": 121,
+          "tweet_count": 881
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

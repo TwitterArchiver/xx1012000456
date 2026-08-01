@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1890770061809295649",
+    "created_at": "2025-02-15T14:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T15:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890777390365753638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890777390365753638",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890770061809295649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 对的这个风控很重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1890770061809295649",
+        "created_at": "2025-02-15T14:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890777390365753638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890777390365753638",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890770061809295649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 对的这个风控很重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1890770061809295649",
+        "created_at": "2025-02-15T14:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890770061809295649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "☯️🧬無極生物科技公司’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkKz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ZkKzYDREnNxv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1890770063893856257/vBE3iA5P?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1890770063893856257/vBE3iA5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 生物黑客聚会Biohacker",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkKzYDREnNxv/peek",
+              "url": "https://t.co/NRVymhb8vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890770061809295649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NRVymhb8vX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 459,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 714
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "合法过检利他林｜您的抑郁症痊愈｜杀死失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi3加速回復｜ENG OK👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "paitangcuzhi3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqN78M"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "Nootropic/向知性藥",
+        "name": "☯️🧬無極生物科技公司",
+        "pinned_tweet_id": "1890683067699781811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887520471966416896/FSrG7jf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8723,
+          "following_count": 368,
+          "like_count": 6631,
+          "listed_count": 26,
+          "media_count": 1388,
+          "tweet_count": 11392
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

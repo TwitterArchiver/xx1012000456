@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902449338217066911",
+    "created_at": "2025-03-20T07:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T08:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902626482955903186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727018936326336512",
+          "start": 0,
+          "username": "XueNai10130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902626482955903186",
+    "in_reply_to_user_id": "1727018936326336512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902449338217066911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XueNai10130 500g别说亚硝酸钠了，氯化钠的LD50都到了，胃怎么着也会吐出来，一眼假真的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902449338217066911",
+        "created_at": "2025-03-20T07:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902626482955903186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727018936326336512",
+              "start": 0,
+              "username": "XueNai10130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902626482955903186",
+        "in_reply_to_user_id": "1727018936326336512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902449338217066911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XueNai10130 500g别说亚硝酸钠了，氯化钠的LD50都到了，胃怎么着也会吐出来，一眼假真的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727018936326336512",
+        "conversation_id": "1902449338217066911",
+        "created_at": "2025-03-19T19:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902449338217066911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902449338217066911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 80115,
+          "like_count": 238,
+          "quote_count": 23,
+          "reply_count": 67,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "他把一整瓶500g亚硝酸钠吃了，连抢救的机会都没有了，我好绝望啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 984
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T17:39:51.000Z",
+        "description": "咱是雪奈/184cm/50kg/06年来到地球🌏/重抑重焦➕成分复杂/无证含糖🏳️‍⚧️hrt 2023.12.8/现居漳州/🚪22块钱解锁聊闲",
+        "id": "1727018936326336512",
+        "location": "天堂",
+        "name": "ゆきな",
+        "pinned_tweet_id": "1902432366624436479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874013853471928320/_tgD_a5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 345,
+          "like_count": 595,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 493
+        },
+        "username": "XueNai10130",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070746448866824212",
+    "created_at": "2026-06-27T08:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070789215777120418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070789215777120418",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070787526915489923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 苯海拉明比你想象的要更容易出现复视，我不知道你有没有体验过或见过单独的苯海拉明报告，我见过至少3份独立的抗胆碱M复视的案例（苯海拉明、东莨菪碱苯巴比妥、异丙嗪）\n我仍然坚持我的观点，这不是间接走私。主观化解就是等死，就像我的那位同类什么都说了不还是8个月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070746448866824212",
+        "created_at": "2026-06-27T08:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070789215777120418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070789215777120418",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070787526915489923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 苯海拉明比你想象的要更容易出现复视，我不知道你有没有体验过或见过单独的苯海拉明报告，我见过至少3份独立的抗胆碱M复视的案例（苯海拉明、东莨菪碱苯巴比妥、异丙嗪）\n我仍然坚持我的观点，这不是间接走私。主观化解就是等死，就像我的那位同类什么都说了不还是8个月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698345259661418499",
+        "conversation_id": "2070746448866824212",
+        "created_at": "2026-06-27T08:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070787526915489923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070787526915489923",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070785096848936977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 dxm和pr出现复视的概率比那两种多的多，如果四个一起，绝对是上述两种物质主导 然而，你第一条推文就是在否定我 再然后嫖娼跟间接走私公安取证力度天差地别 能上门说明证据已经十分不利 再然后你对于已有不利客观证据的回应，居然是拒不承认对抗，而不是主观情节来化解 最后法官又会作何感想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 612,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069592669077295390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 428,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

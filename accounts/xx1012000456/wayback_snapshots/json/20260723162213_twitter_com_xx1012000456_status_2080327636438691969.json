@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2080232046111473822",
+    "created_at": "2026-07-23T16:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080327636438691969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        },
+        {
+          "end": 23,
+          "id": "1802704441961017344",
+          "start": 10,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 37,
+          "id": "1729362484195393536",
+          "start": 24,
+          "username": "potato413561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080327636438691969",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080268762880864574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv @misumikaede3 @potato413561 普瑞可是抗癫痫药，虽然现在不怎么用这个功能了吧，这对吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2080232046111473822",
+        "created_at": "2026-07-23T16:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080327636438691969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            },
+            {
+              "end": 23,
+              "id": "1802704441961017344",
+              "start": 10,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 37,
+              "id": "1729362484195393536",
+              "start": 24,
+              "username": "potato413561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080327636438691969",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080268762880864574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv @misumikaede3 @potato413561 普瑞可是抗癫痫药，虽然现在不怎么用这个功能了吧，这对吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080232046111473822",
+        "created_at": "2026-07-23T12:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080268762880864574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 27,
+              "id": "1729362484195393536",
+              "start": 14,
+              "username": "potato413561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080268762880864574",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080267684802179126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 @potato413561 安非他酮会增加癫痫风险 pr会导致癫痫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 717,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2107
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 434,
+          "like_count": 3367,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜atmosPheRe for sale｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2078395124082737236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1340,
+          "like_count": 42439,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 13700
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:52:15.000Z",
+        "description": "至今为止我都不相信医院给我诊断出的双相^ ^不许骚扰我 正常私信看到回 工作和学业都很忙（ ; ; ）偷我图倒霉一辈子 我觉得我是暴力s",
+        "id": "1729362484195393536",
+        "name": "potatokami",
+        "pinned_tweet_id": "2070766067715330257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079405031099715585/o7kCk-ya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 256,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "potato413561",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1927589877304185229",
+    "created_at": "2025-05-29T12:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T13:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928065330472960483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928065330472960483",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928064213466972587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 我不否认两者有互相挑选的成分，但在两方明显不对等的付出下，出价更多的一方是天生处于弱势和被挑选的地位，即部分的物化和商品化。同时相亲不同于一般的破圈交际，你的前相亲对象几乎不可能成为你的朋友，也因此可以看出相亲是有巨大目的与利益推动的行为，因此它天生就更接近交易而非交际"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1927589877304185229",
+        "created_at": "2025-05-29T12:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928065330472960483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928065330472960483",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928064213466972587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我不否认两者有互相挑选的成分，但在两方明显不对等的付出下，出价更多的一方是天生处于弱势和被挑选的地位，即部分的物化和商品化。同时相亲不同于一般的破圈交际，你的前相亲对象几乎不可能成为你的朋友，也因此可以看出相亲是有巨大目的与利益推动的行为，因此它天生就更接近交易而非交际"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1927589877304185229",
+        "created_at": "2025-05-29T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928064213466972587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928064213466972587",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928062461808365638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 2假设男女相亲与结婚是你口中的平权状态，那说明婚姻对男女双方的价值应该是相等的。事实上对于婚姻明显能看出女性比男性要更加关心，因此可以推断出婚姻是更偏向有利于女性而对男性不利的。婚姻是标准的形式上完全对等条款，产生这种偏置差异只可能是女性开放的权利实质上更多从而形成了不对等弱势"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 560,
+          "like_count": 27,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1579
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第4天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7880,
+          "following_count": 670,
+          "like_count": 18886,
+          "listed_count": 10,
+          "media_count": 2630,
+          "tweet_count": 18481
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

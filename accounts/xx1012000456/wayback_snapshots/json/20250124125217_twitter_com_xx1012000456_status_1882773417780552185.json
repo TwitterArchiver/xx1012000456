@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1882754120924475869",
+    "created_at": "2025-01-24T12:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882773417780552185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        },
+        {
+          "end": 21,
+          "id": "1734571748635652096",
+          "start": 10,
+          "username": "jpxy120764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882773417780552185",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882771137094103283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skura_ku @jpxy120764 用着大麻和氯胺酮的人羡慕我们这种盗版货干嘛🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1882754120924475869",
+        "created_at": "2025-01-24T12:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882773417780552185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            },
+            {
+              "end": 21,
+              "id": "1734571748635652096",
+              "start": 10,
+              "username": "jpxy120764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882773417780552185",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882771137094103283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skura_ku @jpxy120764 用着大麻和氯胺酮的人羡慕我们这种盗版货干嘛🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "1882754120924475869",
+        "created_at": "2025-01-24T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882771137094103283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734571748635652096",
+              "start": 0,
+              "username": "jpxy120764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882771137094103283",
+        "in_reply_to_user_id": "1734571748635652096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882764532726325642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpxy120764 我羡慕！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 452,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 621
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς)🐹🍮🐾 @nu4xue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "nu4xue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/sakura4448",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/sakura4448",
+                "start": 0,
+                "url": "https://t.co/W9ebuocjas"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "^david^",
+        "name": "アヤナ",
+        "pinned_tweet_id": "1878051962538869030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881401917131419648/YuTQ-RkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16579,
+          "following_count": 352,
+          "like_count": 13011,
+          "listed_count": 43,
+          "media_count": 410,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/W9ebuocjas",
+        "username": "skura_ku",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T13:52:20.000Z",
+        "description": "OD | edtwt | shtwt | 负能 | gw-33kg ugw-28kg | 欢迎互fo | 女生除外私信只回口令 带姓 不接线下",
+        "id": "1734571748635652096",
+        "location": "🚪52/88/128",
+        "name": "番茄炒拉面",
+        "pinned_tweet_id": "1881031844172624079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882344387973357568/yHHt7-gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 90,
+          "like_count": 13071,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 813
+        },
+        "username": "jpxy120764",
+        "verified": false
+      }
+    ]
+  }
+}

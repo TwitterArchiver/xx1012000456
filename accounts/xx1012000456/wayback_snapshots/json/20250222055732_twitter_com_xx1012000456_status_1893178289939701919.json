@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893134074270892298",
+    "created_at": "2025-02-22T05:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T06:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893178289939701919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893178289939701919",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893175104428773466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 我不确定，但注射纳洛酮作为解毒剂是有记录的，这里只能反推有别的阿片效应，当然也有可能和可待因类止咳药混服导致的。WIKI上有受体结合表，但是只有μ有人类记录且和小鼠差异很大。右美整体上是个兴奋剂，抑制效应总不能是抗胆碱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893134074270892298",
+        "created_at": "2025-02-22T05:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893178289939701919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893178289939701919",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893175104428773466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 我不确定，但注射纳洛酮作为解毒剂是有记录的，这里只能反推有别的阿片效应，当然也有可能和可待因类止咳药混服导致的。WIKI上有受体结合表，但是只有μ有人类记录且和小鼠差异很大。右美整体上是个兴奋剂，抑制效应总不能是抗胆碱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1893134074270892298",
+        "created_at": "2025-02-22T05:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893175104428773466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893175104428773466",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893174576814739535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 你确定你所谓的呼吸抑制和阿片有关系？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 760
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化研究者 物种：蛆 可以叫我蛆老师 反超人主义 提供用药及药理咨询（不包括任何已列管毒品！） 不推荐任何人使用我提到的药品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yiqunfeiwu",
+                "end": 23,
+                "expanded_url": "https://t.me/yiqunfeiwu",
+                "start": 0,
+                "url": "https://t.co/Nc6Ly3FTVF"
+              }
+            ]
+          }
+        },
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884396929767071746/vz8FuozQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 35,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/Nc6Ly3FTVF",
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1884457469298237464",
+    "created_at": "2025-01-31T17:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T18:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885375151824572577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        },
+        {
+          "end": 26,
+          "id": "1826984800390889472",
+          "start": 17,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885375151824572577",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885347103863693677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium @LethalRC 人没法编出这种化学缩写吧，英文的化学命名也不是唯一的，参考已知物质缩写命名也有变化和差异，P和MA都是常见的缩写，就是这个A不知道是啥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1884457469298237464",
+        "created_at": "2025-01-31T17:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T18:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885375151824572577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            },
+            {
+              "end": 26,
+              "id": "1826984800390889472",
+              "start": 17,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885375151824572577",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885347103863693677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium @LethalRC 人没法编出这种化学缩写吧，英文的化学命名也不是唯一的，参考已知物质缩写命名也有变化和差异，P和MA都是常见的缩写，就是这个A不知道是啥。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638893284218261504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1884457469298237464",
+        "created_at": "2025-01-31T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885347103863693677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 23,
+              "id": "1826984800390889472",
+              "start": 14,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885347103863693677",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885269076303634573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @LethalRC 这是他们想出来的名字，和化学名，缩写可能没任何关系，这就是策划药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 457,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 642
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 516,
+          "like_count": 8298,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "Dealer/毒虫/自残/偏执/自毁/MTF/抑郁症/双相情感障碍/精神分裂症/ADHD/ED/喷系/地雷系/OPIUM\n\n永久群组用户名：https://t.co/zLx1zHLApP\n自助购买：https://t.co/Usj1sMM2i3\nOD科普机器人：https://t.co/AU4I64YxEm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lethalrc",
+                "end": 93,
+                "expanded_url": "https://t.me/lethalrc",
+                "start": 70,
+                "url": "https://t.co/zLx1zHLApP"
+              },
+              {
+                "display_url": "t.me/LethalRC_bot",
+                "end": 122,
+                "expanded_url": "https://t.me/LethalRC_bot",
+                "start": 99,
+                "url": "https://t.co/Usj1sMM2i3"
+              },
+              {
+                "display_url": "t.me/DrugDataBot",
+                "end": 154,
+                "expanded_url": "https://t.me/DrugDataBot",
+                "start": 131,
+                "url": "https://t.co/AU4I64YxEm"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "中国最大研化学研究品社区",
+        "name": "𝗟𝗲𝘁𝗵𝗮𝗹 🆁🅲 - 化学试剂【OFFICAL】",
+        "pinned_tweet_id": "1882019627238338898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880947023635255296/4fLpaj94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 29,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 72
+        },
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906920653758038473",
+    "created_at": "2025-04-01T16:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T17:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907106277039513618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700172355082035200",
+          "start": 0,
+          "username": "MihieMiyaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907106277039513618",
+    "in_reply_to_user_id": "1700172355082035200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906920653758038473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MihieMiyaha 文拉、帕罗本来就是SNRI，NRI这部分大概率会诱发焦虑的。普瑞到底是个什么药理逻辑不清楚，但是能治神经痛能治癫痫肯定是抑制性的，抑制焦虑肯定有效啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906920642949308416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gna-OLHaYAATjFG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906920653758038473",
+        "created_at": "2025-04-01T16:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T17:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907106277039513618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700172355082035200",
+              "start": 0,
+              "username": "MihieMiyaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907106277039513618",
+        "in_reply_to_user_id": "1700172355082035200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906920653758038473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MihieMiyaha 文拉、帕罗本来就是SNRI，NRI这部分大概率会诱发焦虑的。普瑞到底是个什么药理逻辑不清楚，但是能治神经痛能治癫痫肯定是抑制性的，抑制焦虑肯定有效啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906920642949308416"
+          ]
+        },
+        "author_id": "1700172355082035200",
+        "conversation_id": "1906920653758038473",
+        "created_at": "2025-04-01T04:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906920653758038473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSyAsA4AC7",
+              "end": 41,
+              "expanded_url": "https://x.com/MihieMiyaha/status/1906920653758038473/photo/1",
+              "media_key": "3_1906920642949308416",
+              "start": 18,
+              "url": "https://t.co/rSyAsA4AC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906920653758038473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的，你们o的这个药这么有用吗 https://t.co/rSyAsA4AC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1284
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T15:41:32.000Z",
+        "description": "艾司西酞普兰→文拉法辛→帕罗西汀；右佐匹克隆+氯硝西泮+米氮平+阿普唑仑\n生活状态比较沮丧，目前的推文以抱怨生活和失眠为主。\n性别男。\n老御宅族",
+        "id": "1700172355082035200",
+        "location": "幻想乡",
+        "name": "雨宮葵",
+        "pinned_tweet_id": "1886904535450534380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700179731231240192/x5ejZlyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 146,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2842
+        },
+        "username": "MihieMiyaha",
+        "verified": false
+      }
+    ]
+  }
+}

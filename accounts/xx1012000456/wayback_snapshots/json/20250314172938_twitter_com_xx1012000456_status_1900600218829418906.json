@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1899339827310682504",
+    "created_at": "2025-03-14T17:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T18:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900600218829418906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900600218829418906",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899339827310682504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem 2A拮抗致幻可能不顺畅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1899339818355863552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvPgGzbMAAUNiH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899339827310682504",
+        "created_at": "2025-03-14T17:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900600218829418906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900600218829418906",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899339827310682504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem 2A拮抗致幻可能不顺畅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899339818355863552"
+          ]
+        },
+        "author_id": "1739908593254883328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1899339827310682504",
+        "created_at": "2025-03-11T06:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T07:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899339827310682504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oL1pVHCwTg",
+              "end": 76,
+              "expanded_url": "https://x.com/AngelSexyHem/status/1899339827310682504/photo/1",
+              "media_key": "3_1899339818355863552",
+              "start": 53,
+              "url": "https://t.co/oL1pVHCwTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899339827310682504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求救懂药理的推油\n医生给我开了鲁拉西酮 之后使用其他化学物质有什么禁忌吗（普瑞右美晚安致幻剂thc之类的 https://t.co/oL1pVHCwTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 919
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖我是鸭鸭^ ^⚠️od血图裸露注意⚠️来互fo～匿名提问箱：https://t.co/IcTMNBCS7a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andrea94071",
+                "end": 90,
+                "expanded_url": "https://ngl.link/andrea94071",
+                "start": 67,
+                "url": "https://t.co/IcTMNBCS7a"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1892900255642812441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 180,
+          "like_count": 2501,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1121
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1934117137297379448",
+    "created_at": "2025-06-17T19:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T20:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935050758791295010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        },
+        {
+          "end": 20,
+          "id": "1893688350076542976",
+          "start": 8,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935050758791295010",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934141329875054911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y @drug_artist 这东西估计是闪莓，我当时还挺好奇的什么药真的有阿片能不怕纳洛酮验证的，完美解惑了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1934117137297379448",
+        "created_at": "2025-06-17T19:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935050758791295010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 20,
+              "id": "1893688350076542976",
+              "start": 8,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935050758791295010",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934141329875054911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @drug_artist 这东西估计是闪莓，我当时还挺好奇的什么药真的有阿片能不怕纳洛酮验证的，完美解惑了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1934117137297379448",
+        "created_at": "2025-06-15T06:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T07:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934141329875054911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934141329875054911",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934117137297379448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 在骂谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 581,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1666
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜温良的恋哥癖｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 945,
+          "like_count": 13757,
+          "listed_count": 8,
+          "media_count": 728,
+          "tweet_count": 10834
+        },
+        "username": "8964_Y",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "沐雨",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 136,
+          "like_count": 204,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

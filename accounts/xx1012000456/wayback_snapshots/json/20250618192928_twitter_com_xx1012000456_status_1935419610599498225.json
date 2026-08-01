@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1935358997395292285",
+    "created_at": "2025-06-18T19:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T20:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935419610599498225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 21,
+          "id": "1608413813648527360",
+          "start": 11,
+          "username": "Cano_3118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935419610599498225",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935413544432091139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @Cano_3118 MAOI或者SDNRI这种方案该担心的不是自杀问题，更可能直接血清素综合症甚至更要命的直接儿茶酚胺系统过载了😅或者直接给干到重躁狂去了😅这种方案已经接近于给抑郁患者吸冰了，不太可能诱导自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1935358997395292285",
+        "created_at": "2025-06-18T19:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935419610599498225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 21,
+              "id": "1608413813648527360",
+              "start": 11,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935419610599498225",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935413544432091139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Cano_3118 MAOI或者SDNRI这种方案该担心的不是自杀问题，更可能直接血清素综合症甚至更要命的直接儿茶酚胺系统过载了😅或者直接给干到重躁狂去了😅这种方案已经接近于给抑郁患者吸冰了，不太可能诱导自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935358997395292285",
+        "created_at": "2025-06-18T19:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935413544432091139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935413544432091139",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935413203053551785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 自杀倾向越严重我越不敢上激进方案，尤其是没有监视和管控的情况下，自杀率容易升高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 579,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1675
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko 里推随缘过 @Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7741,
+          "following_count": 884,
+          "like_count": 43686,
+          "listed_count": 30,
+          "media_count": 1193,
+          "tweet_count": 18937
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "谁用乌云换日星 谁用匕首换光明/enby,pan/爱欲对象@misako_25ji /潮酷骚孩/下坠下坠下坠精神成员/什么都不耐受/搬我推到墙内的祝你永远是中国人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "你的后面",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1901160571510419748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 787,
+          "like_count": 23353,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 4669
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

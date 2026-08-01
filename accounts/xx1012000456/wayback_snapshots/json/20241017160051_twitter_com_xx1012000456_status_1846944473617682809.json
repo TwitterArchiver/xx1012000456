@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1846868571269542394",
+    "created_at": "2024-10-17T16:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T17:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846944473617682809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573099369234300928",
+          "start": 0,
+          "username": "jiojio95580952"
+        },
+        {
+          "end": 32,
+          "id": "1734801038270664705",
+          "start": 16,
+          "username": "angelkawaii_uou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846944473617682809",
+    "in_reply_to_user_id": "1573099369234300928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846944017080328369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiojio95580952 @angelkawaii_uou 谁让你o安非他酮了。。。是右美剂量+1t安菲他酮起到抑制作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1846868571269542394",
+        "created_at": "2024-10-17T16:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T17:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846944473617682809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573099369234300928",
+              "start": 0,
+              "username": "jiojio95580952"
+            },
+            {
+              "end": 32,
+              "id": "1734801038270664705",
+              "start": 16,
+              "username": "angelkawaii_uou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846944473617682809",
+        "in_reply_to_user_id": "1573099369234300928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846944017080328369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiojio95580952 @angelkawaii_uou 谁让你o安非他酮了。。。是右美剂量+1t安菲他酮起到抑制作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573099369234300928",
+        "conversation_id": "1846868571269542394",
+        "created_at": "2024-10-17T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846944017080328369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 30,
+              "id": "1734801038270664705",
+              "start": 14,
+              "username": "angelkawaii_uou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846944017080328369",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846903101254783338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @angelkawaii_uou NONO安非他酮不要，会难受疯掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 261,
+          "like_count": 5,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T23:58:20.000Z",
+        "description": "🚪88",
+        "id": "1573099369234300928",
+        "location": "0.01km",
+        "name": "斷尾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843380806624137216/Uahyhf63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 213,
+          "like_count": 1082,
+          "listed_count": 1,
+          "tweet_count": 1275
+        },
+        "username": "jiojio95580952",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T05:03:01.000Z",
+        "description": "友善脆弱的小女孩丨07丨intj丨重抑中焦丨mtf请勿关注丨互关欢迎⊂( ᴖ ̫ᴖ)⊃丨中文·EN·日本語ok 🎐丨無言フォローごめんね🧊",
+        "id": "1734801038270664705",
+        "location": "無盡的銀河列車🌌✨",
+        "name": "夜神ちゃん⋆ ᖭི༏ᖫྀ ⋆",
+        "pinned_tweet_id": "1751075566047105099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788948188826927104/KFT8zSpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 816,
+          "like_count": 24575,
+          "listed_count": 1,
+          "tweet_count": 6505
+        },
+        "username": "angelkawaii_uou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075162581342560621",
+    "created_at": "2026-07-09T12:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075199022495899889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074568420574851072",
+          "start": 0,
+          "username": "jinshi778899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075199022495899889",
+    "in_reply_to_user_id": "2074568420574851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075162581342560621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshi778899 DXM是3A4与2D6双代谢，因此2D6抑制（常见抗抑郁药一类）也能强化药效（解离和SSRI）\nDXM和DXO均有NMDA效应，因此2D6抑制也能强化药效\n别的差不多吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075162581342560621",
+        "created_at": "2026-07-09T12:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075199022495899889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074568420574851072",
+              "start": 0,
+              "username": "jinshi778899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075199022495899889",
+        "in_reply_to_user_id": "2074568420574851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075162581342560621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshi778899 DXM是3A4与2D6双代谢，因此2D6抑制（常见抗抑郁药一类）也能强化药效（解离和SSRI）\nDXM和DXO均有NMDA效应，因此2D6抑制也能强化药效\n别的差不多吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074568420574851072",
+        "conversation_id": "2075162581342560621",
+        "created_at": "2026-07-09T10:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075162581342560621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075162581342560621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org/%E8%8D%AF%E7%8…",
+                "end": 737,
+                "expanded_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%AC.html",
+                "start": 714,
+                "url": "https://t.co/Ohf7T4oj6E"
+              },
+              {
+                "display_url": "od-wiki.com/Drugs/DXM",
+                "end": 762,
+                "expanded_url": "https://www.od-wiki.com/Drugs/DXM",
+                "start": 739,
+                "url": "https://t.co/OaeIXIy8e0"
+              }
+            ]
+          },
+          "text": "建议所有oder们都必须要知道你o的药物药理知识 而不是傻逼的乱o\n\n不同个体代谢能力不同 体重 耐受 个人敏感性不同\n由此 我们应当从最小效果剂量开始\n\n你至少需要知道的 考虑的有\n\n1.药物联用互相作用效果 2.不同给药方式下不同的剂量风险 3.准备下机药 4.可以的话最好有监护陪伴\n\n以右美沙芬为例 （以下记DXM省略）\n\nDXM有着奇怪的剂量称呼 我们称作为西格玛高原（具体请细看od wiki）\n\n第二高原起 （2.5 ~ 7.5 mg/kg）\n使用你的体重*对应高原剂量\n以60kg 平均 无耐受计算\n60*2.5=150mg 60*7.5=450mg\n那么适合你的第二高原剂量至少是150mg 最多是450mg\n你至少需要服用10t 15mg dxm 才能达到第二高原效果被认为是最具有娱乐性，第二高原比起刺激性更偏向镇静，而欣快感与视觉分离也会更强。第二高原的额外效应可以包括但不限于：清醒、躯体欣快感、空间定向障碍、躯体轻盈感、视觉加工减慢以及音乐欣赏能力增强\n\n DXM以CYP3A4 酶代谢 而西柚汁又是能够抑制CYP3A4 酶 我们通过摄入一定量的西柚汁可增效 使得更多的代谢成DXO，DXO则是香饽饽😍\n\nDXM主要抑制再摄取血清素 拮抗受体：NMDA 这会导致过量服用DXM下 会产生血清素综合征 这是一个极其危险的情况\n因此了解这点后 我们得知需要避免抗抑郁药SSRI类\n\n安全起见我们尽可能需要准备血清素能拮抗剂 例如 赛庚啶 或苯二氮卓类药物例如地西泮\n\n前人们已经走了很长的一段路了\n右美沙芬是神\n在od历史上是无可代替的神\n\n请至少了解基础知识后再进行od\n\n相关od wiki有很多\n\nhttps://t.co/Ohf7T4oj6E\n\nhttps://t.co/OaeIXIy8e0"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建议所有oder们都必须要知道你o的药物药理知识 而不是傻逼的乱o\n\n不同个体代谢能力不同 体重 耐受 个人敏感性不同\n由此 我们应当从最小效果剂量开始\n\n你至少需要知道的 考虑的有\n\n1.药物联用互相作用效果 2.不同给药方式下不同的剂量风险 3.准备下机药 4.可以的话最好有监护陪伴\n\n以右美沙芬为例"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 662,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2075147292433404247/3678XNSDuo",
+                "start": 0,
+                "url": "https://t.co/KDxHo16TRg"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 58,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/KDxHo16TRg",
+        "username": "jinshi778899",
+        "verified": true
+      }
+    ]
+  }
+}

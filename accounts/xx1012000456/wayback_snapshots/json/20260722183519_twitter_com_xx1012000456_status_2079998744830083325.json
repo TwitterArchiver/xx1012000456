@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079998259989479449",
+    "created_at": "2026-07-22T18:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079998744830083325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985165448825196544",
+          "start": 0,
+          "username": "tapioka05057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079998744830083325",
+    "in_reply_to_user_id": "1985165448825196544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079998259989479449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tapioka05057 这个点？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079998259989479449].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079998259989479449",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079998259989479449"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079998259989479449",
+        "created_at": "2026-07-22T18:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079998744830083325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985165448825196544",
+              "start": 0,
+              "username": "tapioka05057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079998744830083325",
+        "in_reply_to_user_id": "1985165448825196544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079998259989479449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tapioka05057 这个点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 705,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2073
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T02:01:50.000Z",
+        "description": "我是小里 ♀20↑⋮ 雑多垢⋮無言フォロー失礼します",
+        "id": "1985165448825196544",
+        "name": "ふうか🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060106231742955520/TGN7uY0b_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 166,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "tapioka05057",
+        "verified": false
+      }
+    ]
+  }
+}

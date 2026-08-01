@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916078723838972097",
+    "created_at": "2025-04-26T14:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T15:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916140657531408393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1575767611165798403",
+          "start": 0,
+          "username": "xzzzjpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916140657531408393",
+    "in_reply_to_user_id": "1575767611165798403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916078723838972097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzzzjpl 苏联能源出口的结果，本质上还是苏联扶持的产物，一但能源价格回归市场便直接破碎😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916078723838972097",
+        "created_at": "2025-04-26T14:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916140657531408393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1575767611165798403",
+              "start": 0,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916140657531408393",
+        "in_reply_to_user_id": "1575767611165798403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916078723838972097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzzzjpl 苏联能源出口的结果，本质上还是苏联扶持的产物，一但能源价格回归市场便直接破碎😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575767611165798403",
+        "conversation_id": "1916078723838972097",
+        "created_at": "2025-04-26T10:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916078723838972097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916078723838972097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 59958,
+          "like_count": 141,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "鲜为人知的是，上个世纪六七十年代，朝鲜的经济水平曾经达到了准发达国家的水平。在苏联的帮助下，60年代，朝鲜就实现了全国电气化，而中国直到2000年才达到他们的水平。到70年代，朝鲜城市化率就达到了70%。1970年，朝鲜人均收入1000美元，是韩国的五倍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 536,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1448
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "大阪鲁社长，走遍半个地球，最后落地日本。专业的政治评论者和日本房地产投资者。 油管：https://t.co/DRi1lDGB2W，telegram群：https://t.co/0hrTBVylfU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 65,
+                "expanded_url": "https://youtube.com/@zrzjpl",
+                "start": 42,
+                "url": "https://t.co/DRi1lDGB2W"
+              },
+              {
+                "display_url": "t.me/zrzjpl",
+                "end": 99,
+                "expanded_url": "http://t.me/zrzjpl",
+                "start": 76,
+                "url": "https://t.co/0hrTBVylfU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@zrzjpl",
+                "start": 0,
+                "url": "https://t.co/lL4MO2ewyi"
+              }
+            ]
+          }
+        },
+        "id": "1575767611165798403",
+        "name": "中日政经评论",
+        "pinned_tweet_id": "1914512589553590762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575768131406303232/UCoTPU2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471267,
+          "following_count": 373,
+          "like_count": 2670,
+          "listed_count": 1496,
+          "media_count": 3540,
+          "tweet_count": 14037
+        },
+        "url": "https://t.co/lL4MO2ewyi",
+        "username": "xzzzjpl",
+        "verified": true
+      }
+    ]
+  }
+}

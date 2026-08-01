@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1910757564759035947",
+    "created_at": "2025-04-11T18:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T19:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910758994706391552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910758994706391552",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910757564759035947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 横跨药理地雷黄推多栖发展是吧😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1910757564759035947",
+        "created_at": "2025-04-11T18:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T19:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910758994706391552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910758994706391552",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910757564759035947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 横跨药理地雷黄推多栖发展是吧😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1910757564759035947",
+        "created_at": "2025-04-11T18:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T19:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910757564759035947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910757564759035947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药实终于同意我做黄推了，以后可以发瑟图了，我宣布，我是药推特药区第一个黄推药理博主！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 524,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1381
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1909277266947043362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4332,
+          "following_count": 44,
+          "like_count": 544,
+          "listed_count": 10,
+          "media_count": 11,
+          "tweet_count": 38
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

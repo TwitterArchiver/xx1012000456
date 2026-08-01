@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1926301527800426789",
+    "created_at": "2025-05-25T17:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T18:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926695836701835664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926695836701835664",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926301527800426789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 我持怀疑态度的部分是，氯胺酮本身就在美国的管控法附表3中。因此即使是做麻醉品的氯胺酮，在美国的医学界认知中更接近中国的精一/二而非麻醉品。同样查表可知旋光体和复方一般会降表，因此艾斯氯胺酮真的需要资本运作吗才能通过审批吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1926301527800426789",
+        "created_at": "2025-05-25T17:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926695836701835664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926695836701835664",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926301527800426789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 我持怀疑态度的部分是，氯胺酮本身就在美国的管控法附表3中。因此即使是做麻醉品的氯胺酮，在美国的医学界认知中更接近中国的精一/二而非麻醉品。同样查表可知旋光体和复方一般会降表，因此艾斯氯胺酮真的需要资本运作吗才能通过审批吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1926301527800426789",
+        "created_at": "2025-05-24T15:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926301527800426789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926301527800426789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3903,
+          "like_count": 34,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "资本其实对于药厂影响非常大\n美国医药资本真的吓人，氯胺酮，这样高成瘾性的东西，疗效在计算生物学中的效果是非常差的，反对的论文发不出去\n还有对阿片受体的抗抑郁药，纯坏\n还有阿戈美拉汀也是高成瘾，褪黑素受体的问题，而且疗效不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 560,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1568
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 644,
+          "like_count": 7688,
+          "listed_count": 2,
+          "media_count": 982,
+          "tweet_count": 6442
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

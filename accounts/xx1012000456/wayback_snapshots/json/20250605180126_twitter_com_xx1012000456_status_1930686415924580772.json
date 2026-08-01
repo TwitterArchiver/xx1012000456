@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930445518318268580",
+    "created_at": "2025-06-05T18:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T19:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930686415924580772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930686415924580772",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930445518318268580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 你笔录不知道认了啥，你如果笔录否认购买过右美+右美阳咬死愈美就没事。你要笔录承认购买了是个有瑕疵的走私大概率行政罚款+吸毒。你要认了走私认罪认罚就是缓刑或酌定不起诉😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930445518318268580",
+        "created_at": "2025-06-05T18:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930686415924580772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930686415924580772",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930445518318268580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 你笔录不知道认了啥，你如果笔录否认购买过右美+右美阳咬死愈美就没事。你要笔录承认购买了是个有瑕疵的走私大概率行政罚款+吸毒。你要认了走私认罪认罚就是缓刑或酌定不起诉😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1930445518318268580",
+        "created_at": "2025-06-05T02:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930445518318268580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930445518318268580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1475,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "优美阳性哈，不知道咋处理，崩溃死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 569,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1612
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜空蝉原｜06｜INFP｜ 高中生｜不互关互转｜日本語学习中｜乌蒙dx｜随缘fo｜是的我是萝卜哥｜🚪188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanyan_kwaii",
+                "start": 0,
+                "url": "https://t.co/7PLNNU5F9q"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "空蝉如此世，幻灭若朝霞",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902213129842642944/arvYOjXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6889,
+          "following_count": 286,
+          "like_count": 2602,
+          "listed_count": 9,
+          "media_count": 326,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/7PLNNU5F9q",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

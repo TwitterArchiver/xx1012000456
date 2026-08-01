@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904195344373551487",
+    "created_at": "2025-03-26T04:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T05:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904757654213513455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904757654213513455",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904757451120873596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904195344373551487",
+        "created_at": "2025-03-26T04:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904757654213513455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904757654213513455",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904757451120873596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830775691375218688",
+        "conversation_id": "1904195344373551487",
+        "created_at": "2025-03-26T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904757451120873596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904757451120873596",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904757104654643288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 不會削弱藥性嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 501,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1133
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "簡介不知道要寫什麼怎麼辦（）\n求互fo/雖然我知道我存在感極低 沒人會在意我（）",
+        "id": "1830775691375218688",
+        "location": "中國 廣東 東莞",
+        "name": "咕噜咕噜🏳️‍⚧️🇨🇳🇰🇵🇮🇱🇺🇸",
+        "pinned_tweet_id": "1901257373542437031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890824776161038337/_kXzR1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 259,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1917
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

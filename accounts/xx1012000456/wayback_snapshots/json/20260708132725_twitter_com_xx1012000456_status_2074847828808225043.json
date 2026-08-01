@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2074843085285339398",
+    "created_at": "2026-07-08T13:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074847828808225043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074847828808225043",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074843085285339398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 这还是有点太危险了吧，不明成分也敢这么玩吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2074843026472759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSvVWa8AA_ljr.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843038791393281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSwDPaYAEdM8o.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843055107321856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSxABbsAAMDWZ.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843073163792384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSyDSbkAAlB1x.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2074843085285339398",
+        "created_at": "2026-07-08T13:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074847828808225043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074847828808225043",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074843085285339398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 这还是有点太危险了吧，不明成分也敢这么玩吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074843026472759296",
+            "3_2074843038791393281",
+            "3_2074843055107321856",
+            "3_2074843073163792384"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "conversation_id": "2074843085285339398",
+        "created_at": "2026-07-08T13:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074843085285339398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843026472759296",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843038791393281",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843055107321856",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843073163792384",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074843085285339398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试一下棉花糖静注 https://t.co/ZGCLnu7L5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 662,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 66,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

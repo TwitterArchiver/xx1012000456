@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073436119019274439",
+    "created_at": "2026-07-04T17:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073462769417081316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073462769417081316",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073436119019274439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 大型药物连用现场🤣🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2073435974600929280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZTCIqasAAfxGN.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073436119019274439",
+        "created_at": "2026-07-04T17:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073462769417081316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073462769417081316",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073436119019274439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 大型药物连用现场🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073435974600929280"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073436119019274439",
+        "created_at": "2026-07-04T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073436119019274439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDYL6ZRZmJ",
+              "end": 125,
+              "expanded_url": "https://x.com/wmy072011/status/2073436119019274439/photo/1",
+              "media_key": "3_2073435974600929280",
+              "start": 102,
+              "url": "https://t.co/zDYL6ZRZmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073436119019274439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈刚才又在发疯。我被气的想死 有啥算啥吧 劳拉被我吃完了 随便找了点东西吃\n2t奥沙西泮 1t地达西尼 1t坦度螺酮 1t舍曲林 2t苯丙哌林 1t二甲双胍\n奥沙这次吃完也就没了 气死我了 我要睡觉了 https://t.co/zDYL6ZRZmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 655,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1875
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "爱人@MercuricCyanide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "MercuricCyanide"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 466,
+          "like_count": 55956,
+          "listed_count": 0,
+          "media_count": 1711,
+          "tweet_count": 16690
+        },
+        "url": "",
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

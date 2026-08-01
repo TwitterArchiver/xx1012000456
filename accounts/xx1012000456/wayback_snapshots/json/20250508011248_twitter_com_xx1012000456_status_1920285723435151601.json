@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1920177981818847241",
+    "created_at": "2025-05-08T01:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T02:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920285723435151601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        },
+        {
+          "end": 22,
+          "id": "1279702935102865409",
+          "start": 9,
+          "username": "YoselinZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920285723435151601",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920250779257929994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 @YoselinZhang 那tm也太贵了，干蘑菇1.6%最多最多了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1920177981818847241",
+        "created_at": "2025-05-08T01:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920285723435151601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 22,
+              "id": "1279702935102865409",
+              "start": 9,
+              "username": "YoselinZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920285723435151601",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920250779257929994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @YoselinZhang 那tm也太贵了，干蘑菇1.6%最多最多了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920177981818847241",
+        "created_at": "2025-05-07T22:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T23:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920250779257929994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "1279702935102865409",
+              "start": 14,
+              "username": "YoselinZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920250779257929994",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920192201071735230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @YoselinZhang 肯定是把干蘑菇说成裸盖菇素的 合成的裸盖菇素全世界都难找 哪会流入中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 556,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1488
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 184,
+          "like_count": 419,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1186
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, 计划26fall US, 泛性恋一/三爱顺女，LGBTQ+友好，Brat(BDSM), 中文&ENG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/upsetallday",
+                "end": 23,
+                "expanded_url": "https://t.me/upsetallday",
+                "start": 0,
+                "url": "https://t.co/DrDwjEvGaG"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "物质滥用/精神病发作/性/日常+碎碎念",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1914647966574330345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 254,
+          "like_count": 8872,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/DrDwjEvGaG",
+        "username": "YoselinZhang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903786972251898080",
+    "created_at": "2025-03-23T18:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T19:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903876586237243511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903876586237243511",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903786972251898080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss TMD，这话是真的对😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903786972251898080",
+        "created_at": "2025-03-23T18:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903876586237243511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903876586237243511",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903786972251898080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss TMD，这话是真的对😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1903786972251898080",
+        "created_at": "2025-03-23T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903786972251898080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903786972251898080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3898,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "当我还是个小朋友时，不理解的是，为什么爸妈总要，把我跟有上顿没下顿的，比“物质条件”。又让我跟那样成绩极好的，比“成绩”。\n\n那时我想，我也没拿有钱有权的父母，跟你们比。我也没质问你们，宁可整天打麻将也不陪我。\n\n现在明白，对很多人，生孩子只是“投资”，投资当然希望尽可能低投入，高收益:)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 498,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1078
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27372,
+          "following_count": 3443,
+          "like_count": 139902,
+          "listed_count": 94,
+          "media_count": 3191,
+          "tweet_count": 51289
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

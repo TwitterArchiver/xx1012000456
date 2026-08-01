@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902394524040884545",
+    "created_at": "2025-03-19T19:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T20:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902443885366014052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        },
+        {
+          "end": 21,
+          "id": "1733852461390348288",
+          "start": 12,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902443885366014052",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902442007999734148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 @a4451020 幻猫叫幻猫是因为它类似邮票上面印了一个猫，这东西小鸭也是个代理商而已，肯定有上级供应商流出途径的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902394524040884545",
+        "created_at": "2025-03-19T19:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902443885366014052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 21,
+              "id": "1733852461390348288",
+              "start": 12,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902443885366014052",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902442007999734148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @a4451020 幻猫叫幻猫是因为它类似邮票上面印了一个猫，这东西小鸭也是个代理商而已，肯定有上级供应商流出途径的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1902394524040884545",
+        "created_at": "2025-03-19T19:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902442007999734148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902442007999734148",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902394524040884545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 🦆活了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 979
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899304337999810560/sEeF268-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 39,
+          "like_count": 286,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "kansj68531",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜网哲爱好者 人体照片拍摄爱好者｜前世8000fo大号@djalxjhshytf1｜🚪198/298/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "djalxjhshytf1"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "1897649221639000341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887934200176852999/TlrbMpiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 24,
+          "like_count": 4312,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2717
+        },
+        "username": "a4451020",
+        "verified": false
+      }
+    ]
+  }
+}

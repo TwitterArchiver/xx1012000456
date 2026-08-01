@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924356325108220167",
+    "created_at": "2025-05-19T16:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924495284165558689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "46877785",
+          "start": 0,
+          "username": "jeanbritneyl"
+        },
+        {
+          "end": 30,
+          "id": "1645627834701082624",
+          "start": 14,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924495284165558689",
+    "in_reply_to_user_id": "46877785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924379344140750923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeanbritneyl @kira20194922529 .45是沙鹰，9mm是美警手枪或反恐冲锋枪一类的东西。当然不能完全这么算，45子弹一般是全装药弹威力更大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924356325108220167",
+        "created_at": "2025-05-19T16:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924495284165558689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "46877785",
+              "start": 0,
+              "username": "jeanbritneyl"
+            },
+            {
+              "end": 30,
+              "id": "1645627834701082624",
+              "start": 14,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924495284165558689",
+        "in_reply_to_user_id": "46877785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924379344140750923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeanbritneyl @kira20194922529 .45是沙鹰，9mm是美警手枪或反恐冲锋枪一类的东西。当然不能完全这么算，45子弹一般是全装药弹威力更大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46877785",
+        "conversation_id": "1924356325108220167",
+        "created_at": "2025-05-19T08:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T09:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924379344140750923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924379344140750923",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924356325108220167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 .45和9mm哪种子弹尺寸更大？哪种伤害更高呢？🤔（我只在射击游戏里见过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1532
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-13T12:31:01.000Z",
+        "description": "#GlorytoHongKong🇬🇧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 0,
+                "tag": "GlorytoHongKong"
+              }
+            ]
+          }
+        },
+        "id": "46877785",
+        "name": "刁迈乎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923454075137556482/c7WUzQfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 191,
+          "like_count": 2364,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3787
+        },
+        "username": "jeanbritneyl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "🚪30\n@keaiiea←这是我的黄推号\n入门可关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas",
+        "pinned_tweet_id": "1914812256770199869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1337,
+          "like_count": 46673,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 3712
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

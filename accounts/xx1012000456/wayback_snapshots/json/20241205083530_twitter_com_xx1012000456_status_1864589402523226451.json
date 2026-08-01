@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-05T08:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T09:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864589402523226451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864589402523226451",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864580683152413115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 1.二学士之前被清退的理由即硕士多及认可度低，本就在淘汰边缘。\n2.不妨说的简单一点，即二学士经历和硕士一样计算工龄。那套现的方法只有编制-上岸和岗位门槛这两条线，而你的同位竞争者大多是硕士，两条路径均需要利用人脉或资源才能有门槛的兑现。法考我是政策前入学的考生，目前哪些不清楚不做评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T08:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864589402523226451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864589402523226451",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864580683152413115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 1.二学士之前被清退的理由即硕士多及认可度低，本就在淘汰边缘。\n2.不妨说的简单一点，即二学士经历和硕士一样计算工龄。那套现的方法只有编制-上岸和岗位门槛这两条线，而你的同位竞争者大多是硕士，两条路径均需要利用人脉或资源才能有门槛的兑现。法考我是政策前入学的考生，目前哪些不清楚不做评价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864580683152413115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864580683152413115",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864572723240030638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 1.“重新推行”\n2.考执业药师资格证，二学士所需要的工作时间只有一年（而普通本科是3年），法律职业资格证也同样认可二学士，但是不认可辅修和双学位，其他很多执业资格和水平资格职业证书都有类似的情况（除了执医证）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 324
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33892,
+          "following_count": 3425,
+          "like_count": 296,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

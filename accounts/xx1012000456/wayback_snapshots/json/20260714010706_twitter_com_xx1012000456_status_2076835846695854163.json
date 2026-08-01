@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2076709560950366346",
+    "created_at": "2026-07-14T01:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076835846695854163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842268081567272960",
+          "start": 0,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076835846695854163",
+    "in_reply_to_user_id": "1842268081567272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076709560950366346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyBe89332 酸碱法萃取？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076709541170028546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH0UycaoAI91iW.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2076709560950366346",
+        "created_at": "2026-07-14T01:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076835846695854163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842268081567272960",
+              "start": 0,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076835846695854163",
+        "in_reply_to_user_id": "1842268081567272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076709560950366346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyBe89332 酸碱法萃取？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076709541170028546"
+          ]
+        },
+        "author_id": "1842268081567272960",
+        "conversation_id": "2076709560950366346",
+        "created_at": "2026-07-13T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076709560950366346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIlQqdBf9S",
+              "end": 29,
+              "expanded_url": "https://x.com/BrittanyBe89332/status/2076709560950366346/photo/1",
+              "media_key": "3_2076709541170028546",
+              "start": 6,
+              "url": "https://t.co/NIlQqdBf9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076709560950366346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4856,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂的 https://t.co/NIlQqdBf9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 681,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1969
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "私信只回口令 | ins↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stalkill11?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stalkill11?igsh=MWl3Z282YXVhYmJiNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AqzBHlheJ0"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪388+v纯绿",
+        "name": "我咋哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979975049563066368/WOhOVKlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35986,
+          "following_count": 243,
+          "like_count": 953,
+          "listed_count": 72,
+          "media_count": 144,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/AqzBHlheJ0",
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

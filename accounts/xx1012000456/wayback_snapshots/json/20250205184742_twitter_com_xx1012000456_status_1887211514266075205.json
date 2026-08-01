@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1887022689799561531",
+    "created_at": "2025-02-05T18:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T19:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887211514266075205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887211514266075205",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887022689799561531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 替来上也早上了，替来列管的难度在于兽用麻醉剂在美托被ban后有一定的空白，列管会干扰目前本就不多的兽用麻醉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1887022689799561531",
+        "created_at": "2025-02-05T18:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T19:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887211514266075205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887211514266075205",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887022689799561531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 替来上也早上了，替来列管的难度在于兽用麻醉剂在美托被ban后有一定的空白，列管会干扰目前本就不多的兽用麻醉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887022684963569664",
+            "3_1887022685722697728"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1887022689799561531",
+        "created_at": "2025-02-05T06:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887022689799561531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdVRhIvNAo",
+              "end": 79,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1887022689799561531/photo/1",
+              "media_key": "3_1887022684963569664",
+              "start": 56,
+              "url": "https://t.co/zdVRhIvNAo"
+            },
+            {
+              "display_url": "pic.x.com/zdVRhIvNAo",
+              "end": 79,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1887022689799561531/photo/1",
+              "media_key": "3_1887022685722697728",
+              "start": 56,
+              "url": "https://t.co/zdVRhIvNAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887022689799561531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1892,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没有正式被列管(但替来他明上了湖南省非列管物质临时管制品种增补目录),但是已经有尿检板的玩意，感觉下一批就上榜 https://t.co/zdVRhIvNAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 457,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 678
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 518,
+          "like_count": 8301,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

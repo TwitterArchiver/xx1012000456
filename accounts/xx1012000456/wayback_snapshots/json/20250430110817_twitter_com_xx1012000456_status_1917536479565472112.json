@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1917236280079122829",
+    "created_at": "2025-04-30T11:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T12:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917536479565472112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1884749761343078400",
+          "start": 0,
+          "username": "xiaojun1812010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917536479565472112",
+    "in_reply_to_user_id": "1884749761343078400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917236280079122829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojun1812010 建议加入too young、香港记者、拉清单😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1917236280079122829",
+        "created_at": "2025-04-30T11:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917536479565472112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884749761343078400",
+              "start": 0,
+              "username": "xiaojun1812010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917536479565472112",
+        "in_reply_to_user_id": "1884749761343078400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917236280079122829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojun1812010 建议加入too young、香港记者、拉清单😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884749761343078400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1917236280079122829",
+        "created_at": "2025-04-29T15:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917236280079122829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917236280079122829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 146291,
+          "like_count": 836,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "国家主席们可以写进高考作文的高分句子\n\n毛泽东：我很难受，叫医生来。\n\n邓小平：我一向乐观，天塌下来，我也不怕，因为有高个子顶着。\n\n江泽民：I'm angry ！！！\n\n胡锦涛：他们太可怜，被愚弄了，我去给他们指导指导思想。\n\n习近平：一突开就溅的满脸喷粪啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 537,
+          "like_count": 18,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1468
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:45:47.000Z",
+        "description": "爱是最小的共产主义 ☭ 共产主义是人类最大的爱♡\n\nentp/射手/女高🧃    「没人比我更懂搞表」😈\n                       会屏蔽目之所及的所有支黑，无脑反共和极端粉红🙏",
+        "id": "1884749761343078400",
+        "location": "侵入胡锦涛同志腹地",
+        "name": "消菌乳",
+        "pinned_tweet_id": "1917080640908103851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915617463246766080/W7IuW_iJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 106,
+          "like_count": 3450,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1213
+        },
+        "username": "xiaojun1812010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067653443154845745",
+    "created_at": "2026-06-19T12:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067941800732733938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 22,
+          "id": "1643934829514493952",
+          "start": 15,
+          "username": "nmudm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067941800732733938",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067940235267526809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 @nmudm1 我肯定不可能供😅另一位估计是公安就认罪认罚了。大概的逻辑就是你买了境外药物，该药物没有合法渠道，你就是走私，很难想象吧这竟然是在北京吧🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067653443154845745",
+        "created_at": "2026-06-19T12:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067941800732733938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 22,
+              "id": "1643934829514493952",
+              "start": 15,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941800732733938",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067940235267526809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @nmudm1 我肯定不可能供😅另一位估计是公安就认罪认罚了。大概的逻辑就是你买了境外药物，该药物没有合法渠道，你就是走私，很难想象吧这竟然是在北京吧🤡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067653443154845745",
+        "created_at": "2026-06-19T11:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067940235267526809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 21,
+              "id": "1643934829514493952",
+              "start": 14,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067940235267526809",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067919277844545841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @nmudm1 我服了 被诱供？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 493,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1690
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 358,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2748
+        },
+        "url": "",
+        "username": "godspeedyou50",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做个俗人，贪财好色",
+        "id": "1643934829514493952",
+        "name": "Yeshua（我有抑郁症",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066174205591515136/rWWKmDCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 23,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "nmudm1",
+        "verified": false
+      }
+    ]
+  }
+}

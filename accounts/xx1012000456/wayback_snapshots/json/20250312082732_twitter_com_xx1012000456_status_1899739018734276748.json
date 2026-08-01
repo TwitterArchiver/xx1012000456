@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1894090640792981589",
+    "created_at": "2025-03-12T08:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T09:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899739018734276748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554775421954187264",
+          "start": 0,
+          "username": "Rslyl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899739018734276748",
+    "in_reply_to_user_id": "1554775421954187264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899714983619105134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rslyl1 各地区法规和执行是不一样的，法律对列管药物这一块没有明确规定。一种说法是列管后无资格的销售商需要退货/上缴未售出药物由药厂销毁，另一说法是在列管前生产的无精神药品字样的药物可以继续销售，但药厂之后生产的药物需要打上精二标志。我知道的都是大甩卖清仓，因为药厂只会按成本价回收"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1894090640792981589",
+        "created_at": "2025-03-12T08:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899739018734276748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554775421954187264",
+              "start": 0,
+              "username": "Rslyl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899739018734276748",
+        "in_reply_to_user_id": "1554775421954187264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899714983619105134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rslyl1 各地区法规和执行是不一样的，法律对列管药物这一块没有明确规定。一种说法是列管后无资格的销售商需要退货/上缴未售出药物由药厂销毁，另一说法是在列管前生产的无精神药品字样的药物可以继续销售，但药厂之后生产的药物需要打上精二标志。我知道的都是大甩卖清仓，因为药厂只会按成本价回收"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554775421954187264",
+        "conversation_id": "1894090640792981589",
+        "created_at": "2025-03-12T06:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T07:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899714983619105134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899714983619105134",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894090640792981589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我記得當時右美被禁之前藥店在漲價喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 877
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T10:25:28.000Z",
+        "description": "",
+        "id": "1554775421954187264",
+        "name": "Rslyl~Rosaliya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785214472719904768/Ah3-shR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "Rslyl1",
+        "verified": false
+      }
+    ]
+  }
+}

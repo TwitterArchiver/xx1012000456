@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1901111332553838890",
+    "created_at": "2025-03-16T09:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T10:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901199201112854546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901199201112854546",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901111332553838890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyebush1 去奥氮平试试？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1901111332553838890",
+        "created_at": "2025-03-16T09:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T10:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901199201112854546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901199201112854546",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901111332553838890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 去奥氮平试试？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "1901111332553838890",
+        "created_at": "2025-03-16T03:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T04:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901111332553838890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901111332553838890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 450,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能改变重度抑郁带来的什么也不想做，目前在吃伏硫西汀奥氮平，我需要帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 484,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 935
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900774021362483200/RYkMvnZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5186,
+          "following_count": 589,
+          "like_count": 42338,
+          "listed_count": 17,
+          "media_count": 2145,
+          "tweet_count": 15891
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

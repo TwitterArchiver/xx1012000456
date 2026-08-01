@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073760447074013677",
+    "created_at": "2026-07-05T16:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073805202050908182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073805202050908182",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073760447074013677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 我艹这还是太激进了吧😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36430,
+        "height": 1280,
+        "media_key": "13_2073760356468666368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073760356468666368/img/sBb-NmeDziu66oL_.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073760356468666368/vid/avc1/320x568/nNZxRp1PxcY6AVML.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073760356468666368/vid/avc1/480x852/yz5f964-S_NipaeQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073760356468666368/vid/avc1/720x1280/QDORyuGl91pzSBE_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073760356468666368/pl/qlv9R-G8ZlCfZkNX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073760447074013677",
+        "created_at": "2026-07-05T16:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073805202050908182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073805202050908182",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073760447074013677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 我艹这还是太激进了吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073760356468666368"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "conversation_id": "2073760447074013677",
+        "created_at": "2026-07-05T13:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073760447074013677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kc3dSnFfuO",
+              "end": 27,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2073760447074013677/video/1",
+              "media_key": "13_2073760356468666368",
+              "start": 4,
+              "url": "https://t.co/kc3dSnFfuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073760447074013677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舒服呀 https://t.co/kc3dSnFfuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 658,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 61,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

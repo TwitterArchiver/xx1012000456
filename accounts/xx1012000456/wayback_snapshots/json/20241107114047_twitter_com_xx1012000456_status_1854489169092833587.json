@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854328839725556150",
+    "created_at": "2024-11-07T11:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T12:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854489169092833587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647175261866332160",
+          "start": 0,
+          "username": "MrWogo47492"
+        },
+        {
+          "end": 29,
+          "id": "1456231777224347651",
+          "start": 13,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854489169092833587",
+    "in_reply_to_user_id": "1647175261866332160",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854469067484315708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrWogo47492 @dDguwkiRkZcCSrt 所谓的促智药类似于超频，可以逼近或者打破你的极限，但不会颠覆性的提升你的认知。天赋和之前的积累决定了你超频的平台是什么，不存在用了就是天才的情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854328839725556150",
+        "created_at": "2024-11-07T11:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T12:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854489169092833587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647175261866332160",
+              "start": 0,
+              "username": "MrWogo47492"
+            },
+            {
+              "end": 29,
+              "id": "1456231777224347651",
+              "start": 13,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854489169092833587",
+        "in_reply_to_user_id": "1647175261866332160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854469067484315708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrWogo47492 @dDguwkiRkZcCSrt 所谓的促智药类似于超频，可以逼近或者打破你的极限，但不会颠覆性的提升你的认知。天赋和之前的积累决定了你超频的平台是什么，不存在用了就是天才的情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647175261866332160",
+        "conversation_id": "1854328839725556150",
+        "created_at": "2024-11-07T10:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T11:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854469067484315708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854469067484315708",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854328839725556150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 我比較好像我吃了是不是能解開本來不懂的數學題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 360,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 259
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:53:01.000Z",
+        "description": "有四個朋友，腦迴路都很驚人",
+        "id": "1647175261866332160",
+        "location": "住在貝塔鎮(一個在另一個平行宇宙的鎮)",
+        "name": "Mr wogo🌶🌶🌶",
+        "pinned_tweet_id": "1766743775806959851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734861660442312704/UKnloeoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 1428,
+          "listed_count": 0,
+          "tweet_count": 915
+        },
+        "username": "MrWogo47492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 32,
+          "like_count": 184,
+          "listed_count": 0,
+          "tweet_count": 568
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

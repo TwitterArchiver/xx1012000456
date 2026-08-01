@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1933948827922502006",
+    "created_at": "2025-06-14T20:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T21:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933979641804693707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933979641804693707",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933948827922502006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 其实我也有点这趋势，我英语后面两篇作文被扣了18分（17/35）😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1933948827922502006",
+        "created_at": "2025-06-14T20:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T21:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933979641804693707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933979641804693707",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933948827922502006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 其实我也有点这趋势，我英语后面两篇作文被扣了18分（17/35）😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1933948827922502006",
+        "created_at": "2025-06-14T18:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933948827922502006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933948827922502006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人能想象得到\n英语46分和语文110分同时出现在一个人的卷子上吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 576,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1657
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🐙我是爱礼/是碎碎念推和猫猫推丨ff14猫区欢迎加我丨🚪门槛55r丨嘤鹉：@SENDOH214丨 是自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 55,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "仿生柴郡貓想夢見電子愛麗絲",
+        "pinned_tweet_id": "1931985739627266454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41122,
+          "following_count": 1067,
+          "like_count": 23397,
+          "listed_count": 47,
+          "media_count": 2391,
+          "tweet_count": 28162
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

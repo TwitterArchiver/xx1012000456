@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1842549592161669219",
+    "created_at": "2024-10-06T09:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T10:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842865538000953735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3302867136",
+          "start": 0,
+          "username": "tuiteleshab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842865538000953735",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842864409242161347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuiteleshab 另：部委直属的公是极难考的，我认识范围内的有个985的年级顶尖去了部委直属，乐观估计得有清北中游水平才有希望。同时部委直属可以从下级单位任意借调人员，这些人员大多是沾亲带故，你真能考进去也很难跟这些二代们比资源比人脉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1842549592161669219",
+        "created_at": "2024-10-06T09:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T10:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842865538000953735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3302867136",
+              "start": 0,
+              "username": "tuiteleshab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842865538000953735",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842864409242161347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuiteleshab 另：部委直属的公是极难考的，我认识范围内的有个985的年级顶尖去了部委直属，乐观估计得有清北中游水平才有希望。同时部委直属可以从下级单位任意借调人员，这些人员大多是沾亲带故，你真能考进去也很难跟这些二代们比资源比人脉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1842549592161669219",
+        "created_at": "2024-10-06T09:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T10:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842864409242161347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3302867136",
+              "start": 0,
+              "username": "tuiteleshab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842864409242161347",
+        "in_reply_to_user_id": "3302867136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842549592161669219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuiteleshab 部分正确，过得很爽是真的，部位基本不卡级别，你基本上到点就能评上主任科员、调研员之类的虚职。一年40万据我所知是没有的，到厅局级可能勉强才能到？分房老的领导干部可能轮得上，年轻人就只有便宜的公租房可以分。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 224,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T02:10:17.000Z",
+        "description": "我的人生就是被倒排需求毁掉的",
+        "id": "3302867136",
+        "location": "虹ヶ咲学園",
+        "name": "🩵谷圈低龄儿童请原地爆炸💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833508826802245632/sIXJSxWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 726,
+          "like_count": 29311,
+          "listed_count": 17,
+          "tweet_count": 27084
+        },
+        "username": "tuiteleshab",
+        "verified": false
+      }
+    ]
+  }
+}

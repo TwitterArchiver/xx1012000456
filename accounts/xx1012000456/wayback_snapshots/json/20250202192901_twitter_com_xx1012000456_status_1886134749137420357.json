@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1885764211273592862",
+    "created_at": "2025-02-02T19:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T20:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886134749137420357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1470460575490592769",
+          "start": 0,
+          "username": "MiomooN13"
+        },
+        {
+          "end": 21,
+          "id": "1418328991493070850",
+          "start": 11,
+          "username": "Strelexia"
+        },
+        {
+          "end": 31,
+          "id": "1611797144809398273",
+          "start": 22,
+          "username": "Shyuusui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886134749137420357",
+    "in_reply_to_user_id": "1470460575490592769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886133376505283040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiomooN13 @Strelexia @Shyuusui 真省一我确实碰不了瓷啊😅我前面确实一百多个呢。能拿省一本来就NB啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1885764211273592862",
+        "created_at": "2025-02-02T19:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886134749137420357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1470460575490592769",
+              "start": 0,
+              "username": "MiomooN13"
+            },
+            {
+              "end": 21,
+              "id": "1418328991493070850",
+              "start": 11,
+              "username": "Strelexia"
+            },
+            {
+              "end": 31,
+              "id": "1611797144809398273",
+              "start": 22,
+              "username": "Shyuusui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886134749137420357",
+        "in_reply_to_user_id": "1470460575490592769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886133376505283040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiomooN13 @Strelexia @Shyuusui 真省一我确实碰不了瓷啊😅我前面确实一百多个呢。能拿省一本来就NB啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470460575490592769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1885764211273592862",
+        "created_at": "2025-02-02T19:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886133376505283040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418328991493070850",
+              "start": 0,
+              "username": "Strelexia"
+            },
+            {
+              "end": 20,
+              "id": "1611797144809398273",
+              "start": 11,
+              "username": "Shyuusui"
+            },
+            {
+              "end": 34,
+              "id": "1386670401422434304",
+              "start": 21,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886133376505283040",
+        "in_reply_to_user_id": "1418328991493070850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885954273307189328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strelexia @Shyuusui @xx1012000456 照他这么说我还是化学省一呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 458,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 659
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T18:28:21.000Z",
+        "description": "中文：10/10 Eng: 8/10__Anti idiots, I'm a tolerant spectator__被aoe到了想想自己是不是魔怔杀软",
+        "id": "1470460575490592769",
+        "name": "MiooN",
+        "pinned_tweet_id": "1681707858013097984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683895793575682049/VniNQPV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 76,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "MiomooN13",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "这我妹 @_Eyre_S|对象是晴岚|纯血山东人|IP属地：山东|认识的宝宝会通过 @Matthiora",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "_Eyre_S"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Matthiora"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltyec.com",
+                "end": 23,
+                "expanded_url": "http://ltyec.com",
+                "start": 0,
+                "url": "https://t.co/xwVui83dNh"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "location": "セカイ",
+        "name": "申必名居天子@えな勢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850203926643326976/BPJqlwQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1418,
+          "like_count": 24860,
+          "listed_count": 9,
+          "media_count": 748,
+          "tweet_count": 6264
+        },
+        "url": "https://t.co/xwVui83dNh",
+        "username": "Strelexia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-07T18:49:26.000Z",
+        "description": "難しく考えず千切ればいいの丨PJS字幕组听译",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ShyuusuiWonder…",
+                "end": 23,
+                "expanded_url": "http://t.me/ShyuusuiWonderhoy",
+                "start": 0,
+                "url": "https://t.co/f7aE9MciQw"
+              }
+            ]
+          }
+        },
+        "id": "1611797144809398273",
+        "location": "御茶水女子大学",
+        "name": "秋水",
+        "pinned_tweet_id": "1879502985753174047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878485625533603840/ZP0SluQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 174,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/f7aE9MciQw",
+        "username": "Shyuusui",
+        "verified": false
+      }
+    ]
+  }
+}

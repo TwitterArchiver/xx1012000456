@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904049231486165117",
+    "created_at": "2025-03-24T09:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T10:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904098557331910820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476149587421413386",
+          "start": 0,
+          "username": "2O12O72O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904098557331910820",
+    "in_reply_to_user_id": "1476149587421413386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904049231486165117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2O12O72O 联用是做2D6抑制剂，降右美剂量的，以前od手册也写过这种用法，害怕反应可以用特比萘芬。那个40t的是纯坏不在讨论范围"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904049231486165117",
+        "created_at": "2025-03-24T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904098557331910820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476149587421413386",
+              "start": 0,
+              "username": "2O12O72O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904098557331910820",
+        "in_reply_to_user_id": "1476149587421413386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904049231486165117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2O12O72O 联用是做2D6抑制剂，降右美剂量的，以前od手册也写过这种用法，害怕反应可以用特比萘芬。那个40t的是纯坏不在讨论范围"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476149587421413386",
+        "conversation_id": "1904049231486165117",
+        "created_at": "2025-03-24T05:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T06:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904049231486165117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904049231486165117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么坏逼在教导别人抗抑郁药物和右美沙芬联用的？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 500,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1081
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T11:14:34.000Z",
+        "description": "絵｜世界是一片荒原。",
+        "id": "1476149587421413386",
+        "name": "10⁴⁰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903500146572414976/7wQqzIJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 245,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 228
+        },
+        "username": "2O12O72O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913113809230922006",
+    "created_at": "2025-04-18T20:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T21:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913328715473600524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        },
+        {
+          "end": 29,
+          "id": "1505596113813876736",
+          "start": 17,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913328715473600524",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913323299356246244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose @chrorine_17 你要这么说堵住2D6才是正道，右美代谢要走一次2D6和一次3D4，活性产物是右美、右啡烷。右美-2D6-右啡烷（80%）-3A4-无活性，右美-3A4-吗啡喃（20%无活性）-2D6-无活性，为了强化药效显然直接控住右美原体的效率更高，解离也不一定弱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913113809230922006",
+        "created_at": "2025-04-18T20:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T21:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913328715473600524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            },
+            {
+              "end": 29,
+              "id": "1505596113813876736",
+              "start": 17,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913328715473600524",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913323299356246244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose @chrorine_17 你要这么说堵住2D6才是正道，右美代谢要走一次2D6和一次3D4，活性产物是右美、右啡烷。右美-2D6-右啡烷（80%）-3A4-无活性，右美-3A4-吗啡喃（20%无活性）-2D6-无活性，为了强化药效显然直接控住右美原体的效率更高，解离也不一定弱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1913113809230922006",
+        "created_at": "2025-04-18T20:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T21:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913323299356246244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 26,
+              "id": "1505596113813876736",
+              "start": 14,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913323299356246244",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913196003148415220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @chrorine_17 她意思可能是堵住无效代谢\n这个东西我去年都写过\n当然堵2d6也是种蛮有意思的旅途哦☺️\n比如扭曲认知的大量血清素和弱点的解离什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 526,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1417
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），医学🐶，战地一睾手，友跨，阳痿，不定时上推回消息。另外药物相关会转到@Nijika_Dark\n请不要将内容搬至墙内，谢谢\noverdose wiki 已死，但感谢所有曾经的来过，期待并相信后人的智慧\n主包建小群辣！！！群号883781732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Nijika_Dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/ePu64qfQjm"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1910297544397328668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 157,
+          "like_count": 2477,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/ePu64qfQjm",
+        "username": "Nijika_overdose",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ptrlC5rClZFlN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ptrlC5rClZFlNjhl",
+                "start": 0,
+                "url": "https://t.co/S90iLDAKgt"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "Fiume",
+        "name": "chrorinE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905899972077539328/oaS07Ug9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 201,
+          "like_count": 11087,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/S90iLDAKgt",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

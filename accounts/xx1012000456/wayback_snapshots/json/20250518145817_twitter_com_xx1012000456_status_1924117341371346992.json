@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1923776745972625877",
+    "created_at": "2025-05-18T14:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T15:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924117341371346992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        },
+        {
+          "end": 26,
+          "id": "1390652924481527810",
+          "start": 12,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924117341371346992",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924085492544643247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 @zqtlovekris99 因为轻度抑制导致的皮层优先抑制，会使人丧失思考复杂事物能力变得盲目和冲动，类似于一种兽性和本能的解放，产生兴奋错觉。随着剂量的上升，慢慢中央延髓区也被抑制，从而形成镇静效应。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1923776745972625877",
+        "created_at": "2025-05-18T14:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T15:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924117341371346992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 26,
+              "id": "1390652924481527810",
+              "start": 12,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924117341371346992",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924085492544643247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @zqtlovekris99 因为轻度抑制导致的皮层优先抑制，会使人丧失思考复杂事物能力变得盲目和冲动，类似于一种兽性和本能的解放，产生兴奋错觉。随着剂量的上升，慢慢中央延髓区也被抑制，从而形成镇静效应。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1923776745972625877",
+        "created_at": "2025-05-18T12:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924085492544643247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924085492544643247",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923776745972625877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 过于过量导致的，微微亢奋 兴奋 困倦减弱叠上社交提升，会让你觉得你处于服用兴奋剂状态，我没搞懂原理，但我分析是这样的，因为我太过过量就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1506
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed编辑组人员，药圈第一个地雷女科普系博主，喜欢所有喜欢林林的人，很好说话，会回复用药咨询，闲聊过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1923265743350644891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 63,
+          "like_count": 478,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 40
+        },
+        "username": "kansj68531",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 741,
+          "like_count": 18581,
+          "listed_count": 10,
+          "media_count": 2541,
+          "tweet_count": 18085
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

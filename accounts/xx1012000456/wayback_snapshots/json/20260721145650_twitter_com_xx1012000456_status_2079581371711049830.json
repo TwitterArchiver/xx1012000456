@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079007622787932608",
+    "created_at": "2026-07-21T14:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079581371711049830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079581371711049830",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079007622787932608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 我觉得这不是oder，应该是抽替来的精神小妹😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_2079007614109888512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoeaPRaMAAjXVe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079007622787932608",
+        "created_at": "2026-07-21T14:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079581371711049830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079581371711049830",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079007622787932608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 我觉得这不是oder，应该是抽替来的精神小妹😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079007614109888512"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2079007622787932608",
+        "created_at": "2026-07-20T00:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079007622787932608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4q7YKP2oyG",
+              "end": 28,
+              "expanded_url": "https://x.com/xccpma/status/2079007622787932608/photo/1",
+              "media_key": "3_2079007614109888512",
+              "start": 5,
+              "url": "https://t.co/4q7YKP2oyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079007622787932608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4885,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这你们谁 https://t.co/4q7YKP2oyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 694,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2077954045441081358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 234,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

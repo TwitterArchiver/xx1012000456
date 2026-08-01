@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1863267548613189761",
+    "created_at": "2024-12-02T12:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T13:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863558398467576202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        },
+        {
+          "end": 23,
+          "id": "1705582301642653696",
+          "start": 12,
+          "username": "miuchisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863558398467576202",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863540825004892524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki @miuchisama 西布曲明可不是管控啊。。。看来真的很多人不知道毒不毒的定义啊😅"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1863540825004892524].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1863540825004892524",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1863540825004892524"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1863267548613189761",
+        "created_at": "2024-12-02T12:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863558398467576202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            },
+            {
+              "end": 23,
+              "id": "1705582301642653696",
+              "start": 12,
+              "username": "miuchisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863558398467576202",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863540825004892524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki @miuchisama 西布曲明可不是管控啊。。。看来真的很多人不知道毒不毒的定义啊😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 313
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌我女神我主任@SpicyspacEmk16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "SpicyspacEmk16"
+              }
+            ]
+          }
+        },
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（入土）",
+        "pinned_tweet_id": "1821775383345172551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740197391121498113/MJm4woj4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 619,
+          "like_count": 17387,
+          "listed_count": 25,
+          "media_count": 626,
+          "tweet_count": 10309
+        },
+        "username": "MuyumeKiki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T13:58:13.000Z",
+        "description": "𓆩 ♡ 𓆪 ᴍɪᴜᴄʜɪ 𓆩 ♡ 𓆪 / ♀️ / ૮₍ • ˕ - ₎ა🩷₊˚/ 愛を満たしておくれよ/ ほんとうは幸せを知っているのに不幸なフリやめられないね //互关小女孩看到会回的（沒回私信我）号炸了在这里找我@xiaomiuchiiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "xiaomiuchiiu"
+              }
+            ]
+          }
+        },
+        "id": "1705582301642653696",
+        "location": "暴风雨来临前",
+        "name": "𝗠𝗶𝘂𝗰𝗵𝗶",
+        "pinned_tweet_id": "1850761234532167780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847529546788327426/Bojsg08S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 448,
+          "like_count": 9394,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1054
+        },
+        "username": "miuchisama",
+        "verified": false
+      }
+    ]
+  }
+}

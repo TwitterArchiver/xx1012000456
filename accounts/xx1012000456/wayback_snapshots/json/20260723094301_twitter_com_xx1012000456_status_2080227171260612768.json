@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2080148129924751583",
+    "created_at": "2026-07-23T09:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080227171260612768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080227171260612768",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080148129924751583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 感觉这就是在抖音上od的人群😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2080148118495236096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4rsVMbEAAsm7L.jpg",
+        "width": 926
+      },
+      {
+        "height": 2119,
+        "media_key": "3_2080148118889431040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4rsWqaAAAvc3p.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2080148129924751583",
+        "created_at": "2026-07-23T09:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080227171260612768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080227171260612768",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080148129924751583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 感觉这就是在抖音上od的人群😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080148118495236096",
+            "3_2080148118889431040"
+          ]
+        },
+        "author_id": "1967736228725575681",
+        "conversation_id": "2080148129924751583",
+        "created_at": "2026-07-23T04:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080148129924751583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbP0XVj7Kf",
+              "end": 50,
+              "expanded_url": "https://x.com/shier6639/status/2080148129924751583/photo/1",
+              "media_key": "3_2080148118495236096",
+              "start": 27,
+              "url": "https://t.co/GbP0XVj7Kf"
+            },
+            {
+              "display_url": "pic.x.com/GbP0XVj7Kf",
+              "end": 50,
+              "expanded_url": "https://x.com/shier6639/status/2080148129924751583/photo/1",
+              "media_key": "3_2080148118889431040",
+              "start": 27,
+              "url": "https://t.co/GbP0XVj7Kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080148129924751583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了。笑得我 之前我喜欢过他三年。我是个傻子吧😹 https://t.co/GbP0XVj7Kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 710,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2091
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 157,
+          "like_count": 2427,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

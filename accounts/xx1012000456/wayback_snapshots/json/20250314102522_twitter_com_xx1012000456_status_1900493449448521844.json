@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1900493023307542930",
+    "created_at": "2025-03-14T10:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T11:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900493449448521844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900493449448521844",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900493023307542930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 直接关机，下次想自杀前可以试试🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1900493023307542930",
+        "created_at": "2025-03-14T10:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900493449448521844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900493449448521844",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900493023307542930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 直接关机，下次想自杀前可以试试🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1900493023307542930",
+        "created_at": "2025-03-14T10:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900493023307542930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900493023307542930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平什么药效手边有十颗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 915
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "门槛200/520=我们是朋友",
+        "id": "1000763746430500865",
+        "name": "泪",
+        "pinned_tweet_id": "1899810164464836914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900411824354566144/wbScGBvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40458,
+          "following_count": 339,
+          "like_count": 1946,
+          "listed_count": 76,
+          "media_count": 152,
+          "tweet_count": 1243
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895418236646379896",
+    "created_at": "2025-03-03T13:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896556725899296985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "LethalRC"
+        },
+        {
+          "end": 21,
+          "id": "1617685747116675073",
+          "start": 10,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896556725899296985",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896540214174364053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LethalRC @_mucha_000 亮成分是为了确定东西是不是真列管，至少美托、替来、氟托、乙基氟胺酮、LSD衍生当初都是以此为卖点的。结构又不是这些卖家能设计出来的，有异丙基麦司卡林为啥没有叔丁基麦司卡林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895418236646379896",
+        "created_at": "2025-03-03T13:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896556725899296985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            },
+            {
+              "end": 21,
+              "id": "1617685747116675073",
+              "start": 10,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896556725899296985",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896540214174364053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC @_mucha_000 亮成分是为了确定东西是不是真列管，至少美托、替来、氟托、乙基氟胺酮、LSD衍生当初都是以此为卖点的。结构又不是这些卖家能设计出来的，有异丙基麦司卡林为啥没有叔丁基麦司卡林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1895418236646379896",
+        "created_at": "2025-03-03T12:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896540214174364053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1617685747116675073",
+              "start": 14,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896540214174364053",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896539326475046928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @_mucha_000 替美是替来他明，哪个策划药会亮出成分。做的好的也不会跟你亮成分，人家自己设计的结构干嘛要告诉你。科普出来给警方列管吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 477,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 839
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "Dealer/毒虫/自残/偏执/自毁/MTF/抑郁症/双相情感障碍/精神分裂症/ADHD/ED/喷系/地雷系/OPIUM\n\n永久群组用户名：https://t.co/zLx1zHLApP\n自助购买：https://t.co/Usj1sMM2i3\nOD科普机器人：https://t.co/AU4I64YxEm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lethalrc",
+                "end": 93,
+                "expanded_url": "https://t.me/lethalrc",
+                "start": 70,
+                "url": "https://t.co/zLx1zHLApP"
+              },
+              {
+                "display_url": "t.me/LethalRC_bot",
+                "end": 122,
+                "expanded_url": "https://t.me/LethalRC_bot",
+                "start": 99,
+                "url": "https://t.co/Usj1sMM2i3"
+              },
+              {
+                "display_url": "t.me/DrugDataBot",
+                "end": 154,
+                "expanded_url": "https://t.me/DrugDataBot",
+                "start": 131,
+                "url": "https://t.co/AU4I64YxEm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 23,
+                "expanded_url": "http://t.me/LethalRC",
+                "start": 0,
+                "url": "https://t.co/X82pA7CUef"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "中国最大研化学研究品社区",
+        "name": "𝗟𝗲𝘁𝗵𝗮𝗹 RC - 化学试剂【OFFICAL】",
+        "pinned_tweet_id": "1882019627238338898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 32,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/X82pA7CUef",
+        "username": "LethalRC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "「四下无人  请抱紧我」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/mAHZjU9O62"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "牧雨",
+        "pinned_tweet_id": "1890387684021174338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877249171063029760/baLAT9nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 576,
+          "like_count": 47288,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 6499
+        },
+        "url": "https://t.co/mAHZjU9O62",
+        "username": "_mucha_000",
+        "verified": false
+      }
+    ]
+  }
+}

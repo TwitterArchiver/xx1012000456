@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1877283813027393729",
+    "created_at": "2025-01-09T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877286384613896645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877286384613896645",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877283813027393729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab 其实所有的胰高血糖素类似物都行，就是剂量很难推算😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1877283813027393729",
+        "created_at": "2025-01-09T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877286384613896645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877286384613896645",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877283813027393729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 其实所有的胰高血糖素类似物都行，就是剂量很难推算😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1877283813027393729",
+        "created_at": "2025-01-09T09:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877283813027393729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877283813027393729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想减肥又不怕死的，可以尝试购买国产替尔泊肽自己注射，比司美格鲁肽效果还要好，可能是目前市面上没有巨大副作用的效果最好的减肥药物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 429,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 510
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 15,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077083632389541944",
+    "created_at": "2026-07-14T19:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077113477119058320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653266334619402245",
+          "start": 0,
+          "username": "itsagoodnameO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077113477119058320",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077083632389541944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsagoodnameO_o 不仅如此甚至连肝损伤都小于酒精😅od伤肝伤肾很多只是以讹传讹罢了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077083632389541944",
+        "created_at": "2026-07-14T19:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077113477119058320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077113477119058320",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077083632389541944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 不仅如此甚至连肝损伤都小于酒精😅od伤肝伤肾很多只是以讹传讹罢了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2077083632389541944",
+        "created_at": "2026-07-14T17:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077083632389541944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077083632389541944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候在质疑od真的会肝肾衰竭吗……我觉得你们发出来的一些药盒数量太恐怖了。居然这样人类都不会死吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 683,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 121,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

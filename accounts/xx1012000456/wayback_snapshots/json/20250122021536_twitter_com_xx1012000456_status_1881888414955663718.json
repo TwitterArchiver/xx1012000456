@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1881880720215593292",
+    "created_at": "2025-01-22T02:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T03:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881888414955663718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658222935717580800",
+          "start": 0,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881888414955663718",
+    "in_reply_to_user_id": "1658222935717580800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881880720215593292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong23_3 更贴切的表述是od只能缓解急性的精神障碍，在此语境下od更接近超说明书剂量和范围的应用。不论到底是不是称得上戒断，至少od带来的精神和心境冲击是巨大的，怎么看都很难在较平稳状态下获益。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1881880720215593292",
+        "created_at": "2025-01-22T02:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T03:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881888414955663718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881888414955663718",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881880720215593292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 更贴切的表述是od只能缓解急性的精神障碍，在此语境下od更接近超说明书剂量和范围的应用。不论到底是不是称得上戒断，至少od带来的精神和心境冲击是巨大的，怎么看都很难在较平稳状态下获益。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1881880720215593292",
+        "created_at": "2025-01-22T01:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T02:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881880720215593292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881880720215593292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所谓od缓解精神障碍也是不存在的\n正常的医用剂量就可以达到这一目的，od只会让耐药性增强，于是一般的用量变得基本无效。\n另外长期od会导致戒断反应和精神症状混在一起，根本搞不清楚是怎么个事，我一般会让其先戒o一周\n但绝大多数连一周都坚持不了，没个几天就又以躯体化为由继续o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 448,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 607
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "xiaosong。 \n钢丝｜战争后霆｜充军  \n喜欢日术\n接精神问题咨询，详见置顶 有事找我的话 https://t.co/Astgqj3Uap",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 72,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 49,
+                "url": "https://t.co/Astgqj3Uap"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "pinned_tweet_id": "1866145799266300414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 278,
+          "like_count": 17701,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2609
+        },
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

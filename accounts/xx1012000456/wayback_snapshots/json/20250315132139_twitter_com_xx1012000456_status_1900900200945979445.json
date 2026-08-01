@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1900890820297060622",
+    "created_at": "2025-03-15T13:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T14:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900900200945979445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824394555904626689",
+          "start": 0,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900900200945979445",
+    "in_reply_to_user_id": "1824394555904626689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900890820297060622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun2007 如果你不是超常发挥的话可以混，我是靠天赋+吃老本+实验报告作业抄抄抄小组纯混的。没有天赋的话不太能坚持，我明显能感到我差不多丢了六成以上的能力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1900890820297060622",
+        "created_at": "2025-03-15T13:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900900200945979445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900900200945979445",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900890820297060622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 如果你不是超常发挥的话可以混，我是靠天赋+吃老本+实验报告作业抄抄抄小组纯混的。没有天赋的话不太能坚持，我明显能感到我差不多丢了六成以上的能力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824394555904626689",
+        "conversation_id": "1900890820297060622",
+        "created_at": "2025-03-15T12:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T13:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900890820297060622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900890820297060622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本科学历的抑郁症患者到底是怎么坚持学习下去的😦，本人经过一番仪器和药物治疗感觉变得很呆傻，脑子里根本就灌不进去知识更别说考本科了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 484,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 922
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "寧可痛苦不要麻木",
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1893535423265112266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 213,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 432
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

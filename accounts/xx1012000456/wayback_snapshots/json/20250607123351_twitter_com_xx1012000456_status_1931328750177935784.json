@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1914115551124922514",
+    "created_at": "2025-06-07T12:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931328750177935784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1687536266878042112",
+          "start": 0,
+          "username": "imnotyege"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931328750177935784",
+    "in_reply_to_user_id": "1687536266878042112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931306430919041331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotyege 如果说理论上，肯定都是能拔的，你这篇论文也是探讨这种极弱的作用。人体所有的代谢逻辑都是脂溶性/难溶---水溶性/可溶易溶这个逻辑的，普萘洛尔的主代谢物是4-HO-普萘洛尔也说明这个问题，苯环上的对位羟基化占优势主导。相比于拔两次丙基，我个人更倾向于原型代谢或有可能45位羟基化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1914115551124922514",
+        "created_at": "2025-06-07T12:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931328750177935784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1687536266878042112",
+              "start": 0,
+              "username": "imnotyege"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931328750177935784",
+        "in_reply_to_user_id": "1687536266878042112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931306430919041331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotyege 如果说理论上，肯定都是能拔的，你这篇论文也是探讨这种极弱的作用。人体所有的代谢逻辑都是脂溶性/难溶---水溶性/可溶易溶这个逻辑的，普萘洛尔的主代谢物是4-HO-普萘洛尔也说明这个问题，苯环上的对位羟基化占优势主导。相比于拔两次丙基，我个人更倾向于原型代谢或有可能45位羟基化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687536266878042112",
+        "conversation_id": "1914115551124922514",
+        "created_at": "2025-06-07T11:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931306430919041331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Recombinant cDNA expression systems for CYP2D6 have been shown to have significant catalytic activity with respect to the N-dealkylation of propranolol. However, the involvement of CYP2D6 in this reaction in human liver is inconclusive. We have ...",
+              "display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+              "end": 73,
+              "expanded_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2042674/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1931306432668061697/9_RMJ-lv?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1931306432668061697/9_RMJ-lv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "Variable contribution of CYP2D6 to the N-Dealkylation of S-(-)-propranolol by human liver microsomes",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2042674/",
+              "url": "https://t.co/I6tXd5lvvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931306430919041331",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930958873667445134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 更多可能是3a4 3a5拔的，然后2d6不是没有可能拔下的，你可以看一下https://t.co/I6tXd5lvvd这篇论文证明了2d6酶可以催化N-去丙基化反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 571,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1640
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T18:50:04.000Z",
+        "description": "“我与自然共存；性别是植物” ｜半性恋｜药理与化学爱好者｜电工｜vintage音乐爱好者｜物种是相思树",
+        "id": "1687536266878042112",
+        "location": "乱葬谷",
+        "name": "小欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897608897806143488/uxkl2nmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "username": "imnotyege",
+        "verified": false
+      }
+    ]
+  }
+}

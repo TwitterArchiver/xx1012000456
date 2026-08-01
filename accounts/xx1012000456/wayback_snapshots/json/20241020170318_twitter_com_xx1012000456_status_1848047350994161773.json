@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1847996838424834283",
+    "created_at": "2024-10-20T17:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848047350994161773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767040816986656768",
+          "start": 0,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848047350994161773",
+    "in_reply_to_user_id": "1767040816986656768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847996838424834283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeviuslX_Xl 只能说，是真不怕死🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1847996838424834283",
+        "created_at": "2024-10-20T17:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T18:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848047350994161773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848047350994161773",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847996838424834283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 只能说，是真不怕死🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767040816986656768",
+        "conversation_id": "1847996838424834283",
+        "created_at": "2024-10-20T13:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T14:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847996838424834283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847996838424834283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10009,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被气笑了……怎么室友翻我柜子把我的652给吃了一片啊……50mg色……4mg补……\n我就出去买了包烟……来回不超过半个小时，我室友说是本来想找我的背夹散热，结果在我抽屉找到了我的652，某度上拍照查看到某乎上有人说这个是祛痘印的……\n然后这sb就不分青红皂白给652当美容保健药给吃了………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 282,
+          "like_count": 8,
+          "listed_count": 1,
+          "tweet_count": 135
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "持证含糖の人妻小魅魔｜HRT2024.04.05｜半家长党｜欢迎同类互fo哦｜可以把小梅当作树洞哦｜小梅的主人+老公 @mengx1ntu ｜小梅的妈咪 @miya051223｜小梅的姐姐 @xukongbingyuan｜小梅比闺蜜还要好的闺蜜@yanyan2567 ｜小梅的老婆们 @Ming_xm2 和@XCCQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "mengx1ntu"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "miya051223"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "xukongbingyuan"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "Ming_xm2"
+              },
+              {
+                "end": 160,
+                "start": 153,
+                "username": "XCCQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+oqO369PsMekyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+oqO369PsMekyYTBl",
+                "start": 0,
+                "url": "https://t.co/5Qs1HXsUW4"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "世界蛇",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈 🍥",
+        "pinned_tweet_id": "1847656084296913282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845163669405278208/XAnw0neM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6721,
+          "following_count": 1017,
+          "like_count": 7589,
+          "listed_count": 12,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/5Qs1HXsUW4",
+        "username": "MeviuslX_Xl",
+        "verified": true
+      }
+    ]
+  }
+}

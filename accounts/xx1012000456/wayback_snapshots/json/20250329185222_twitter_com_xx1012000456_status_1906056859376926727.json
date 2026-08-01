@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905963049799815400",
+    "created_at": "2025-03-29T18:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T19:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906056859376926727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707375521015967744",
+          "start": 0,
+          "username": "gekkifxxkearth"
+        },
+        {
+          "end": 25,
+          "id": "1826984800390889472",
+          "start": 16,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906056859376926727",
+    "in_reply_to_user_id": "1707375521015967744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905976952730611855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gekkifxxkearth @LethalRC DMT，天然二甲基色胺，但需要搭配适量的MAOI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905963049799815400",
+        "created_at": "2025-03-29T18:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T19:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906056859376926727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707375521015967744",
+              "start": 0,
+              "username": "gekkifxxkearth"
+            },
+            {
+              "end": 25,
+              "id": "1826984800390889472",
+              "start": 16,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906056859376926727",
+        "in_reply_to_user_id": "1707375521015967744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905976952730611855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gekkifxxkearth @LethalRC DMT，天然二甲基色胺，但需要搭配适量的MAOI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707375521015967744",
+        "conversation_id": "1905963049799815400",
+        "created_at": "2025-03-29T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905976952730611855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905976952730611855",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 723,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905963049799815400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC 药效是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 506,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1246
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T12:44:00.000Z",
+        "description": "GEKKI/haruru 羽遥。/ENG/中文ok精神崩溃中 地雷系大好き！ デスノート激推中（՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷̥᷅⸝⸝՞)｜🖋️🌙｜ 🚪120/520/1314纯绿无福利 只想看想看的东西。找我拉赞转帖需支付100 关心我请先给我打钱",
+        "id": "1707375521015967744",
+        "location": "只属于KIKI的星球",
+        "name": "Gekki",
+        "pinned_tweet_id": "1861824869215904226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905921508985430016/7WlQGep5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 237,
+          "like_count": 6494,
+          "listed_count": 3,
+          "media_count": 1161,
+          "tweet_count": 6553
+        },
+        "username": "gekkifxxkearth",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "obsessed｜mtf｜幕后黑手｜od科普 https://t.co/qKJUyDNgc0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 46,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 23,
+                "url": "https://t.co/qKJUyDNgc0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNgc0"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "name": "凌驾",
+        "pinned_tweet_id": "1905830276753715659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 48,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/qKJUyDNgc0",
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1933413948986122717",
+    "created_at": "2025-06-13T10:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933473921384489112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933473921384489112",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933413948986122717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 解释的很垃圾，意思差不多吧😅DL指的是具有物理旋光特性的一组而不是一对。相反的RS指的是一个手性原子上的一对异构体。如果一个物质有两个手性中心，那么就有SS\\RR\\SR\\RS四种异构体，大概率有两种是D两种是L😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1846,
+        "media_key": "3_1933413945836285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTdvXVbsAAn_Ih.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1933413948986122717",
+        "created_at": "2025-06-13T10:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933473921384489112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933473921384489112",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933413948986122717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 解释的很垃圾，意思差不多吧😅DL指的是具有物理旋光特性的一组而不是一对。相反的RS指的是一个手性原子上的一对异构体。如果一个物质有两个手性中心，那么就有SS\\RR\\SR\\RS四种异构体，大概率有两种是D两种是L😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933413945836285952"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1933413948986122717",
+        "created_at": "2025-06-13T06:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T07:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933413948986122717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1wWoOpXKv",
+              "end": 66,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1933413948986122717/photo/1",
+              "media_key": "3_1933413945836285952",
+              "start": 43,
+              "url": "https://t.co/k1wWoOpXKv"
+            },
+            {
+              "display_url": "x.com/Benzyl_titaniu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Benzyl_titanium/status/1931655951846981873",
+              "start": 67,
+              "url": "https://t.co/RHkIQoFtpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933413948986122717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 526,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931655951846981873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由中国禁毒报发表的对于异构体的释义，可以看出所谓的异构体指的是手性异构，或者旋光异构 https://t.co/k1wWoOpXKv https://t.co/RHkIQoFtpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 577,
+          "like_count": 30,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1654
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/TI6gzKswdQ @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/TI6gzKswdQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev",
+                "start": 0,
+                "url": "https://t.co/yrj4arophi"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 524,
+          "like_count": 8218,
+          "listed_count": 5,
+          "media_count": 309,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/yrj4arophi",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

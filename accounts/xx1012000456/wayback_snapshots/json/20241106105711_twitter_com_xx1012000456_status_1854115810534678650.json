@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854076643079492072",
+    "created_at": "2024-11-06T10:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T11:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854115810534678650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854115810534678650",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854076643079492072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki 阿这，美金刚吃了是越来越傻的😅要考试真别吃这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854076643079492072",
+        "created_at": "2024-11-06T10:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T11:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854115810534678650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854115810534678650",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854076643079492072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki 阿这，美金刚吃了是越来越傻的😅要考试真别吃这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854076640214777856"
+          ]
+        },
+        "author_id": "1471440753645793286",
+        "conversation_id": "1854076643079492072",
+        "created_at": "2024-11-06T08:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T09:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854076643079492072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VI7igXTy7",
+              "end": 137,
+              "expanded_url": "https://x.com/MuyumeKiki/status/1854076643079492072/photo/1",
+              "media_key": "3_1854076640214777856",
+              "start": 114,
+              "url": "https://t.co/9VI7igXTy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854076643079492072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明天考试于是疯狂正常服用老年痴呆药…美金刚我真服了我买不到专注达十块钱都没的老年痴呆药我还吃不了吗呵呵。。。我真的感觉我是弱质好脑瘫我操我今天吃一片明天吃一片我就不信我还考不来，以前上学的时候每次考试都吃我真服了不会少年痴呆吧 https://t.co/9VI7igXTy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 358,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 254
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌",
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（入土）",
+        "pinned_tweet_id": "1821775383345172551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740197391121498113/MJm4woj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2601,
+          "following_count": 615,
+          "like_count": 16757,
+          "listed_count": 26,
+          "tweet_count": 9584
+        },
+        "username": "MuyumeKiki",
+        "verified": false
+      }
+    ]
+  }
+}

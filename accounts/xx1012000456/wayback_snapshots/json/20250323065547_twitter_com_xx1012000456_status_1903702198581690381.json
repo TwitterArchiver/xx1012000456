@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1903485833216143608",
+    "created_at": "2025-03-23T06:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T07:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903702198581690381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678650617202610176",
+          "start": 0,
+          "username": "heitailove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903702198581690381",
+    "in_reply_to_user_id": "1678650617202610176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903485833216143608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heitailove 理论可行，民主和权利分解制衡是保下限的刹车制度。如果有全知全能的神明做法官，自然不需要陪审团。如果党能做对每一个决定任免对每一位官员，一党专政就是遥遥领先的；如果能做到决策是正收益，那么一党专政是可以维持的；如果是习近平这种蠢猪，那就算了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1903485833216143608",
+        "created_at": "2025-03-23T06:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903702198581690381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678650617202610176",
+              "start": 0,
+              "username": "heitailove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903702198581690381",
+        "in_reply_to_user_id": "1678650617202610176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903485833216143608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heitailove 理论可行，民主和权利分解制衡是保下限的刹车制度。如果有全知全能的神明做法官，自然不需要陪审团。如果党能做对每一个决定任免对每一位官员，一党专政就是遥遥领先的；如果能做到决策是正收益，那么一党专政是可以维持的；如果是习近平这种蠢猪，那就算了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678650617202610176",
+        "conversation_id": "1903485833216143608",
+        "created_at": "2025-03-22T16:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903485833216143608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903485833216143608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2715,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一党专政到底可不可行？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 493,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1048
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:21:27.000Z",
+        "description": "马列主义者☭/毛泽东思想🇨🇳/毛粉😼/支持两岸统一🇨🇳/一个只喜欢见证和打游戏🎮的可爱女孩纸qwq/互follow100%🫶🏻/一国两制统一中国🇨🇳🇭🇰🇲🇴/like💕莲/大致坐标📍40°N 125°E/2nd日常推👉@Xiyuecatn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "Xiyuecatn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1921.cn",
+                "end": 23,
+                "expanded_url": "http://1921.cn",
+                "start": 0,
+                "url": "https://t.co/m6rXg8EORK"
+              }
+            ]
+          }
+        },
+        "id": "1678650617202610176",
+        "location": "People's Republic of China",
+        "name": "東 雪蓮🍼",
+        "pinned_tweet_id": "1900915771896942740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872635321399332864/kxXI-Tcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1869,
+          "like_count": 220,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/m6rXg8EORK",
+        "username": "heitailove",
+        "verified": false
+      }
+    ]
+  }
+}

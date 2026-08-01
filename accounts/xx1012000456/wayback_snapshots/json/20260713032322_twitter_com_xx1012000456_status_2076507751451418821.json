@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2076399913911611547",
+    "created_at": "2026-07-13T03:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076507751451418821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076507751451418821",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076399913911611547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 有可能毕竟所有的ssri都有机会引发躁狂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2076399913911611547",
+        "created_at": "2026-07-13T03:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076507751451418821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076507751451418821",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076399913911611547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 有可能毕竟所有的ssri都有机会引发躁狂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2076399913911611547",
+        "created_at": "2026-07-12T20:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076399913911611547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076399913911611547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1589,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬可以诱发躁狂吗，我现在好躁，是自发的还是药物影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 677,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1962
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 infj-t 双相情感障碍、重度焦虑 服药治疗中 🚬💊 音乐 jrock/噪音/盯鞋/黑金残死旋死血碾/电子/ボカロ/jpop/emo/地下udg 是个九年二次元小资历/cult片/舞萌dx/拉康派精神分析 会回fo喜欢的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 307,
+          "like_count": 17052,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

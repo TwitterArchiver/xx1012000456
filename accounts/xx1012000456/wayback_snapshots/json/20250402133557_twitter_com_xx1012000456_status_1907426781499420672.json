@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907290416078291122",
+    "created_at": "2025-04-02T13:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T14:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907426781499420672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907426781499420672",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907290416078291122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od 现在看懂了，这逼纯是胡说八道，阿尔法位甲基作用就是干扰单胺氧化酶的氧化，N位甲基反而是为了增加脂溶性"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103900,
+        "height": 1280,
+        "media_key": "13_1907290147038883841",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907290147038883841/img/3DBLPkWna95hnszi.jpg",
+        "public_metrics": {
+          "view_count": 546
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907290147038883841/vid/avc1/320x568/sG-wim5WYuGvzdKc.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907290147038883841/vid/avc1/480x852/3OadTYbaIwcZXPFY.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907290147038883841/vid/avc1/720x1280/vmYODGaCbd1B9QAP.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907290147038883841/pl/mK-zIbDFbDjfcxSq.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907290416078291122",
+        "created_at": "2025-04-02T13:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T14:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907426781499420672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907426781499420672",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907290416078291122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 现在看懂了，这逼纯是胡说八道，阿尔法位甲基作用就是干扰单胺氧化酶的氧化，N位甲基反而是为了增加脂溶性"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907290147038883841"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "conversation_id": "1907290416078291122",
+        "created_at": "2025-04-02T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907290416078291122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOXXNtBFgC",
+              "end": 68,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1907290416078291122/video/1",
+              "media_key": "13_1907290147038883841",
+              "start": 45,
+              "url": "https://t.co/VOXXNtBFgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907290416078291122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1249,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个视频告诉你苯乙胺和司来吉兰的关系\n\n司来吉兰作为酶抑制剂\n\n低剂量不可逆转MAO-B https://t.co/VOXXNtBFgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 512,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1311
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "最好的od百科，最专业的od专家.全民od，人类崛起. 欢迎投稿报告我们，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7020,
+          "following_count": 4759,
+          "like_count": 3678,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 4223
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

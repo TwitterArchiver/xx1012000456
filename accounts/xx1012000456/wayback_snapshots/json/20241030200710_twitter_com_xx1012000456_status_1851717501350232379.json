@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1851494977471463694",
+    "created_at": "2024-10-30T20:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T21:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851717501350232379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1066186101713395712",
+          "start": 0,
+          "username": "Summer4Night"
+        },
+        {
+          "end": 24,
+          "id": "1361799910882873351",
+          "start": 14,
+          "username": "Fish_dioc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851717501350232379",
+    "in_reply_to_user_id": "1066186101713395712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851694737197265174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summer4Night @Fish_dioc 不存在长期的负面状态，一般2-4周的持续就是确诊，这么写其实是等价于抑郁焦虑了。本质上没什么区别，我的诊断抑郁障碍抑郁发作抑郁状态也都写过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1851494977471463694",
+        "created_at": "2024-10-30T20:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T21:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851717501350232379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1066186101713395712",
+              "start": 0,
+              "username": "Summer4Night"
+            },
+            {
+              "end": 24,
+              "id": "1361799910882873351",
+              "start": 14,
+              "username": "Fish_dioc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851717501350232379",
+        "in_reply_to_user_id": "1066186101713395712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851694737197265174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summer4Night @Fish_dioc 不存在长期的负面状态，一般2-4周的持续就是确诊，这么写其实是等价于抑郁焦虑了。本质上没什么区别，我的诊断抑郁障碍抑郁发作抑郁状态也都写过。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066186101713395712",
+        "conversation_id": "1851494977471463694",
+        "created_at": "2024-10-30T18:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T19:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851694737197265174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "1361799910882873351",
+              "start": 14,
+              "username": "Fish_dioc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851694737197265174",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851616619539443877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Fish_dioc 啊。原来如此，我真的有吗？有些不真实感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 318,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 205
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-24T04:25:50.000Z",
+        "description": "只会一个形容词「草」的人型机器人/INFP?/会说些奇怪的呓语/回复我会很开心。骂我也没关系/随便私信，我不太会我聊天，希望不会冒犯你/推文有很多负能量的东西，希望不要在意。/『请不要问我性别，喊我哥哥姐姐都可以』/ 永远的18↑不要问我具体年龄/",
+        "id": "1066186101713395712",
+        "location": "♁不存于世间的天堂♁",
+        "name": "死了的夏夜",
+        "pinned_tweet_id": "1671473524836552704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455849269106184193/5dOsbHcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 584,
+          "like_count": 30459,
+          "listed_count": 6,
+          "tweet_count": 8438
+        },
+        "username": "Summer4Night",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-16T22:09:42.000Z",
+        "description": "只是世界的垃圾场",
+        "id": "1361799910882873351",
+        "location": "比深海更深",
+        "name": "减少",
+        "pinned_tweet_id": "1751868410798223645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791010931859931136/1d_A8HPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 133,
+          "like_count": 17807,
+          "listed_count": 2,
+          "tweet_count": 7141
+        },
+        "username": "Fish_dioc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1813523702837022951",
+    "created_at": "2024-09-18T07:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T08:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836301269226439053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 25,
+          "id": "1533024617811812352",
+          "start": 14,
+          "username": "Spr1ngW1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836301269226439053",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813523702837022951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki @Spr1ngW1nd 参拜🙏原来只是高中生而已啊，也难怪过于疏忽了MAO的危险性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1813523702837022951",
+        "created_at": "2024-09-18T07:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T08:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836301269226439053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 25,
+              "id": "1533024617811812352",
+              "start": 14,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836301269226439053",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813523702837022951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki @Spr1ngW1nd 参拜🙏原来只是高中生而已啊，也难怪过于疏忽了MAO的危险性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1813523702837022951",
+        "created_at": "2024-07-17T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813523702837022951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1533024617811812352",
+              "start": 16,
+              "username": "Spr1ngW1nd"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Spring风 （2004.04.11 ~ 2023.01.11, 19y3m0d），著名药师，2022.06.04加入twit，以化学、药理学能力成为第一代od指路人。死前为高中生（2022届九年级毕业生），死前居住于广西南宁西乡塘区的相思湖区域到心 圩 xū 江区域之间。最终死因是全器官衰竭 2023.01.08，在06:15煮下骆驼蓬碱之后，中午Spring风就拿到了从咸鱼买到的相思树树皮，并于14:33吞下24t哮喘片。下午17:17，麻黄碱药效未退 的Spring风不慎弄湿在16:48拿出的20g相思树树皮，17:26重新取出一份徒手掰碎，疲累不堪，掰得掰手出血。19:47，Spring风一饮而下那扔进锅里而熬了一个半小时多的死藤水。20:11 剧烈变形 风父察觉不对劲，冲进屋中。Spring风根本就没有把刀子那些收了，于临终前恐惧与痛苦的幻觉中，那墙上喷溅的都是Spring风自残割出来的血。抢救了很久，终究回天乏术，最终死因是中毒导致的全器官衰竭。Spring风的葬礼举办于2023.02月份 首先，那相思树树皮中同时富含混乱不堪的5-MeO-DMT“蟾蜍毒素”，死藤水熬太久了，让Spring风陷",
+              "display_url": "overdose.wiki/Report/RP-74",
+              "end": 73,
+              "expanded_url": "https://overdose.wiki/Report/RP-74",
+              "start": 50,
+              "status": 200,
+              "title": "报告74-稍尽春风（持续载入报告",
+              "unwound_url": "https://overdose.wiki/Report/RP-74",
+              "url": "https://t.co/6sU2gxYM5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813523702837022951",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 45812,
+          "like_count": 125,
+          "quote_count": 16,
+          "reply_count": 22,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "收集了一些一手史料，总结得出了 @Spr1ngW1nd Spring风的生前死后。请查看RP-74\nhttps://t.co/6sU2gxYM5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 184,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 32
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/w0mFDxhZLC站点方面的问题可以私信我，只有这边才能收到反馈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "忠！诚！",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1815754831950475530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 7,
+          "like_count": 271,
+          "listed_count": 0,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4366,
+          "following_count": 383,
+          "like_count": 4583,
+          "listed_count": 14,
+          "tweet_count": 4994
+        },
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904519478509207676",
+    "created_at": "2025-03-25T13:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T14:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904520557183599079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904520557183599079",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904519478509207676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 看来药效到了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904519478509207676",
+        "created_at": "2025-03-25T13:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904520557183599079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904520557183599079",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904519478509207676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 看来药效到了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1904519478509207676",
+        "created_at": "2025-03-25T13:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904519478509207676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904519478509207676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的我能给当时的我一个完整的答案了，请放心吧，过去的爱礼，我把现在的爱礼照顾得很好，你已经做的很好了，过去的我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 501,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1107
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🧸关注我加入爱礼教丨🚪门槛77r仅闲聊丨日常分享型推丨小号仅过眼熟@lanmeiweimaomao 丨你杠就是你对哦丨🪜自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lanmeiweimaomao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 65,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "爱礼的天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1901978305433161929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40871,
+          "following_count": 932,
+          "like_count": 22265,
+          "listed_count": 46,
+          "media_count": 1863,
+          "tweet_count": 25026
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

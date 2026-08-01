@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1874933942756970960",
+    "created_at": "2025-01-03T06:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T07:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875061658193998132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502703480355844101",
+          "start": 0,
+          "username": "AnXinby_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875061658193998132",
+    "in_reply_to_user_id": "1502703480355844101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874933942756970960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnXinby_ 如果是小体重女性的话应该是挺多的，作为大体重男性12t也出现过弱的药效状态，按体重折算6t有效的人应该不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1874933942756970960",
+        "created_at": "2025-01-03T06:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875061658193998132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502703480355844101",
+              "start": 0,
+              "username": "AnXinby_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875061658193998132",
+        "in_reply_to_user_id": "1502703480355844101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874933942756970960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnXinby_ 如果是小体重女性的话应该是挺多的，作为大体重男性12t也出现过弱的药效状态，按体重折算6t有效的人应该不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502703480355844101",
+        "conversation_id": "1874933942756970960",
+        "created_at": "2025-01-02T21:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T22:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874933942756970960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874933942756970960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问一件事，6t就有效果的人多吗？总感觉好像人人都小剂量就有效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 410,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 442
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T17:50:31.000Z",
+        "description": "...不配活",
+        "id": "1502703480355844101",
+        "name": "从来都不是安心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798022740483645440/1KN1Cdw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 75,
+          "like_count": 1681,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 113
+        },
+        "username": "AnXinby_",
+        "verified": false
+      }
+    ]
+  }
+}

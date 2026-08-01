@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075116662836359380",
+    "created_at": "2026-07-09T11:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075187095791096202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075187095791096202",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075116662836359380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 200t左右，感觉不是很够😅更何况gaba系安眠药有氟马西尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075116662836359380",
+        "created_at": "2026-07-09T11:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187095791096202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187095791096202",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075116662836359380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 200t左右，感觉不是很够😅更何况gaba系安眠药有氟马西尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2075116662836359380",
+        "created_at": "2026-07-09T07:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075116662836359380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075116662836359380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在手上有\n130±T 片状扎来普隆\n19T  胶囊扎来普隆\n78T  思诺思\n有止吐药的情况下\n\n能死掉吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 661,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1915
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人\n人生是被恐惧追赶着逃跑\n梦想是像普通人一样的身体",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2074645061342826708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072863807450529793/WGetqfPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 450,
+          "like_count": 3663,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

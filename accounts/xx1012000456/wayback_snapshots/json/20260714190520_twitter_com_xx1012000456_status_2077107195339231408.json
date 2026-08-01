@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077082024712757759",
+    "created_at": "2026-07-14T19:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077107195339231408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077107195339231408",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077082024712757759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 过关这件事是没有问题的，甚至《精麻药品管理条例》对精二过关越境都没有规定。优格他们带3000t港美过关也没事。风险主要在你分销时，如果只给小圈子里的人用用问题不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077082024712757759",
+        "created_at": "2026-07-14T19:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077107195339231408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077107195339231408",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077082024712757759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 过关这件事是没有问题的，甚至《精麻药品管理条例》对精二过关越境都没有规定。优格他们带3000t港美过关也没事。风险主要在你分销时，如果只给小圈子里的人用用问题不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2077082024712757759",
+        "created_at": "2026-07-14T17:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077082024712757759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077082024712757759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要是做药代\n从泰国代大陆\n容易被晶吗……\n人肉飞反正有学生签不会太频繁\n回想国内药圈火深火热我有点觉得惋惜\n想做慈善\n除了成本都不要🤯\n有点冲动吧\n而且好累我不在曼谷需要辗转很多次巴士飞机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 682,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 340,
+          "like_count": 1753,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

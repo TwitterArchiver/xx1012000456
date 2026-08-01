@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1882765684645699965",
+    "created_at": "2025-01-24T12:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882765684645699965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882765684645699965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于后藤和wiki的经典错误之普瑞与晚安的连用风险：\n右美与晚安、美金刚最大的区别在于，右美除了NMDA拮抗（即解离效应），同时有极强的SNRI效应。简单来说右美既是镇静剂又是兴奋剂。而晚安和美金刚没有SNRI效应，相当于是单纯镇静剂。普瑞作为GABA类似物，同样是镇静剂（不是少量兴奋大量镇静）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1882765684645699965",
+        "created_at": "2025-01-24T12:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882765684645699965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882765684645699965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于后藤和wiki的经典错误之普瑞与晚安的连用风险：\n右美与晚安、美金刚最大的区别在于，右美除了NMDA拮抗（即解离效应），同时有极强的SNRI效应。简单来说右美既是镇静剂又是兴奋剂。而晚安和美金刚没有SNRI效应，相当于是单纯镇静剂。普瑞作为GABA类似物，同样是镇静剂（不是少量兴奋大量镇静）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 452,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 617
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

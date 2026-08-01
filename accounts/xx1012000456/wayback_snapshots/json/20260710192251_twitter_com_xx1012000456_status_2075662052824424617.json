@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075252044571811936",
+    "created_at": "2026-07-10T19:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075662052824424617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548471557873610752",
+          "start": 0,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075662052824424617",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075252044571811936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In2dTt HPV不是很常见的吗😅从寻常疣、跖疣、扁平疣什么的😅除非她是尖锐湿疣不然没啥啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2075252032584482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzGun2bAAAssDz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2075252032563523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzGunxbMAA0Oqa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-10T19:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075662052824424617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075662052824424617",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075252044571811936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt HPV不是很常见的吗😅从寻常疣、跖疣、扁平疣什么的😅除非她是尖锐湿疣不然没啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075252032584482816",
+            "3_2075252032563523584"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-09T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075252044571811936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CLk7cm0H8",
+              "end": 137,
+              "expanded_url": "https://x.com/In2dTt/status/2075252044571811936/photo/1",
+              "media_key": "3_2075252032584482816",
+              "start": 114,
+              "url": "https://t.co/1CLk7cm0H8"
+            },
+            {
+              "display_url": "pic.x.com/1CLk7cm0H8",
+              "end": 137,
+              "expanded_url": "https://x.com/In2dTt/status/2075252044571811936/photo/1",
+              "media_key": "3_2075252032563523584",
+              "start": 114,
+              "url": "https://t.co/1CLk7cm0H8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075252044571811936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15276,
+          "like_count": 128,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我和knk切割了 隐瞒hpv导致身边多为朋友受影响 和她有过伤口接触的朋友如果看到最好也自测一下吧 下面这张图是我的结果请放心 我这个账号以后不用了我注销不掉 最后一次发推了我开放一下锁推是想让不知情的和她接触过的人都小心一些 https://t.co/1CLk7cm0H8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 676,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1929
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28932,
+          "following_count": 301,
+          "like_count": 10716,
+          "listed_count": 24,
+          "media_count": 834,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      }
+    ]
+  }
+}

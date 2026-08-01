@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071880191060984246",
+    "created_at": "2026-06-30T09:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071891495196766341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071891495196766341",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071891064760541490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 只有尿检一般不查而已，目前来看发检都查，我的单子上也有这个。还是说只有北京上海这种大城市天生就默认含这些东西？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071880191060984246",
+        "created_at": "2026-06-30T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071891495196766341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071891495196766341",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071891064760541490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 只有尿检一般不查而已，目前来看发检都查，我的单子上也有这个。还是说只有北京上海这种大城市天生就默认含这些东西？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698345259661418499",
+        "conversation_id": "2071880191060984246",
+        "created_at": "2026-06-30T09:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071891064760541490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071891064760541490",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071889704702890377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 只能说可以检 但是主动拓展 不是常规项目 我的意思是一般物质滥用检测不会牵扯sns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 631,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1820
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069592669077295390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 427,
+          "like_count": 1681,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "x-square「公子」様",
+  "username": "@xx1012000456",
+  "bio": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机 提问箱：http://ngl.link/gongzisama 大概几天统一回复一次 备用小号：@gongzisama1  策划药官方：名人堂梦工场@mingrentangRC",
+  "location": "北京",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 87,
+        "start": 75,
+        "username": "gongzisama1"
+      },
+      {
+        "end": 115,
+        "start": 101,
+        "username": "mingrentangRC"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/gongzisama",
+        "end": 58,
+        "expanded_url": "http://ngl.link/gongzisama",
+        "start": 35,
+        "url": "https://t.co/FKsoJLOYIa"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg"
+}

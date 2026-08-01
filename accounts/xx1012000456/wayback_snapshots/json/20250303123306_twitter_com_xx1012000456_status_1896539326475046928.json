@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895418236646379896",
+    "created_at": "2025-03-03T12:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T13:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896539326475046928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        },
+        {
+          "end": 21,
+          "id": "1826984800390889472",
+          "start": 12,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896539326475046928",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895420658282270735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 @LethalRC 不敢亮成分的策划药必然是有问题的，要么是廉价原料有巨大的信息利润差，要么就根本货不对板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895418236646379896",
+        "created_at": "2025-03-03T12:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T13:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896539326475046928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 21,
+              "id": "1826984800390889472",
+              "start": 12,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896539326475046928",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895420658282270735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 @LethalRC 不敢亮成分的策划药必然是有问题的，要么是廉价原料有巨大的信息利润差，要么就根本货不对板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1895418236646379896",
+        "created_at": "2025-02-28T10:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T11:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895420658282270735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895420658282270735",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895420458792837145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC 嗯，还有那个替美胶囊，里面是什么心里清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 477,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 838
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "「四下无人  请抱紧我」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/mAHZjU9O62"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "牧雨",
+        "pinned_tweet_id": "1890387684021174338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877249171063029760/baLAT9nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 576,
+          "like_count": 47288,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 6499
+        },
+        "url": "https://t.co/mAHZjU9O62",
+        "username": "_mucha_000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "Dealer/毒虫/自残/偏执/自毁/MTF/抑郁症/双相情感障碍/精神分裂症/ADHD/ED/喷系/地雷系/OPIUM\n\n永久群组用户名：https://t.co/zLx1zHLApP\n自助购买：https://t.co/Usj1sMM2i3\nOD科普机器人：https://t.co/AU4I64YxEm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lethalrc",
+                "end": 93,
+                "expanded_url": "https://t.me/lethalrc",
+                "start": 70,
+                "url": "https://t.co/zLx1zHLApP"
+              },
+              {
+                "display_url": "t.me/LethalRC_bot",
+                "end": 122,
+                "expanded_url": "https://t.me/LethalRC_bot",
+                "start": 99,
+                "url": "https://t.co/Usj1sMM2i3"
+              },
+              {
+                "display_url": "t.me/DrugDataBot",
+                "end": 154,
+                "expanded_url": "https://t.me/DrugDataBot",
+                "start": 131,
+                "url": "https://t.co/AU4I64YxEm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 23,
+                "expanded_url": "http://t.me/LethalRC",
+                "start": 0,
+                "url": "https://t.co/X82pA7CUef"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "中国最大研化学研究品社区",
+        "name": "𝗟𝗲𝘁𝗵𝗮𝗹 RC - 化学试剂【OFFICAL】",
+        "pinned_tweet_id": "1882019627238338898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 31,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/X82pA7CUef",
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

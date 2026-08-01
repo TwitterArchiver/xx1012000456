@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875855057012531228",
+    "created_at": "2025-01-05T11:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T12:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875866657312354526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875866657312354526",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875855057012531228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 这跟药没关系吧，我倾向是病理性的解离/人格解体/精分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875855057012531228",
+        "created_at": "2025-01-05T11:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T12:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875866657312354526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875866657312354526",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875855057012531228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 这跟药没关系吧，我倾向是病理性的解离/人格解体/精分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1875855057012531228",
+        "created_at": "2025-01-05T10:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T11:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875855057012531228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875855057012531228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂药理的朋友，我前四天睡眠障碍很严重，两天两夜没有睡着，昨天吃了朋友给的氯氮平和艾司唑仑，然后睡着了，现在五感出现了很大问题，颜色糊成一团，低血糖发黑那种，耳鸣，听觉视觉嗅觉都像是被隔开了，我不想去医院因为已经过了洗胃最佳的四小时，而且走不了医保这个费用对我来说太高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 416,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 462
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "🚪200",
+        "id": "1000763746430500865",
+        "name": "河南井盖之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875768606446977024/AYUn6zmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28232,
+          "following_count": 236,
+          "like_count": 1346,
+          "listed_count": 58,
+          "media_count": 120,
+          "tweet_count": 857
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

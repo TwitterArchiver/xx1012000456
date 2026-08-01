@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905500839965589590",
+    "created_at": "2025-04-01T09:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T10:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906998580297998621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906998580297998621",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905500839965589590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 我不想要保护我只想要伤害药物🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_1905500833644773377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGy6ZSbgAEj3_W.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2004,
+        "media_key": "3_1905500833703493633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGy6ZgbgAEuJpH.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1720,
+        "media_key": "3_1905500833632190466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGy6ZPbgAI5r-m.jpg",
+        "width": 1178
+      },
+      {
+        "height": 841,
+        "media_key": "3_1905500833657356290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnGy6ZVbgAIZdaM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905500839965589590",
+        "created_at": "2025-04-01T09:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906998580297998621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906998580297998621",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905500839965589590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 我不想要保护我只想要伤害药物🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905500833644773377",
+            "3_1905500833703493633",
+            "3_1905500833632190466",
+            "3_1905500833657356290"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905500839965589590",
+        "created_at": "2025-03-28T06:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T07:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905500839965589590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjBp01u0zg",
+              "end": 53,
+              "expanded_url": "https://x.com/AnIncandescence/status/1905500839965589590/photo/1",
+              "media_key": "3_1905500833644773377",
+              "start": 30,
+              "url": "https://t.co/jjBp01u0zg"
+            },
+            {
+              "display_url": "pic.x.com/jjBp01u0zg",
+              "end": 53,
+              "expanded_url": "https://x.com/AnIncandescence/status/1905500839965589590/photo/1",
+              "media_key": "3_1905500833703493633",
+              "start": 30,
+              "url": "https://t.co/jjBp01u0zg"
+            },
+            {
+              "display_url": "pic.x.com/jjBp01u0zg",
+              "end": 53,
+              "expanded_url": "https://x.com/AnIncandescence/status/1905500839965589590/photo/1",
+              "media_key": "3_1905500833632190466",
+              "start": 30,
+              "url": "https://t.co/jjBp01u0zg"
+            },
+            {
+              "display_url": "pic.x.com/jjBp01u0zg",
+              "end": 53,
+              "expanded_url": "https://x.com/AnIncandescence/status/1905500839965589590/photo/1",
+              "media_key": "3_1905500833657356290",
+              "start": 30,
+              "url": "https://t.co/jjBp01u0zg"
+            },
+            {
+              "display_url": "x.com/anincandescenc…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/anincandescence/status/1905180514383978681",
+              "start": 54,
+              "url": "https://t.co/ZSTv7Bik6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905500839965589590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8808,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905180514383978681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经保护pro，可以自备也可以找我要\n理论上致幻剂后都适用 https://t.co/jjBp01u0zg https://t.co/ZSTv7Bik6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 509,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1277
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "互fo欢迎！ 猫，诗歌，精神动力学。艺术，C#，波粒二象性。回归曲线上的量子生物，无攻击性。 | “我们彻夜飞旋，直至没入火焰。” | 阴暗碎碎念纯享版@TauCeti_10700 | 🚪88/158 |  提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "TauCeti_10700"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/MuEKSg3VTk"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1905895186867400960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789433740277567488/d3KhwUX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 181,
+          "like_count": 5669,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/MuEKSg3VTk",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

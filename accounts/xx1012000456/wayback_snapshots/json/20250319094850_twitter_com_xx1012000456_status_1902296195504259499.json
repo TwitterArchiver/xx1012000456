@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902295689087873360",
+    "created_at": "2025-03-19T09:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T10:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902296195504259499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902296195504259499",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902295689087873360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 拉着手一起自杀？🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1902295680930213890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZP18-a8AIqMqZ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902295689087873360",
+        "created_at": "2025-03-19T09:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902296195504259499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902296195504259499",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902295689087873360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 拉着手一起自杀？🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902295680930213890"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1902295689087873360",
+        "created_at": "2025-03-19T09:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902295689087873360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Vw4H7keNU",
+              "end": 23,
+              "expanded_url": "https://x.com/8964_Y/status/1902295689087873360/photo/1",
+              "media_key": "3_1902295680930213890",
+              "start": 0,
+              "url": "https://t.co/7Vw4H7keNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902295689087873360",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7Vw4H7keNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 965
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900745047026638848/lYUe4VUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5291,
+          "following_count": 936,
+          "like_count": 10907,
+          "listed_count": 7,
+          "media_count": 558,
+          "tweet_count": 8293
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

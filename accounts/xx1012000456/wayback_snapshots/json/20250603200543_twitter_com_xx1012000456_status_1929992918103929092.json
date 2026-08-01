@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1914115551124922514",
+    "created_at": "2025-06-03T20:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T21:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929992918103929092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1687536266878042112",
+          "start": 0,
+          "username": "imnotyege"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929992918103929092",
+    "in_reply_to_user_id": "1687536266878042112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914115551124922514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotyege 好奇，dpt首过效应产物是啥啊🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1914115551124922514",
+        "created_at": "2025-06-03T20:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T21:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929992918103929092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1687536266878042112",
+              "start": 0,
+              "username": "imnotyege"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929992918103929092",
+        "in_reply_to_user_id": "1687536266878042112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914115551124922514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotyege 好奇，dpt首过效应产物是啥啊🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687536266878042112",
+        "conversation_id": "1914115551124922514",
+        "created_at": "2025-04-21T00:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T01:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914115551124922514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914115551124922514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于dpt有的人没效果\ndpt盐酸盐口服因首过效应生物利用度降至10-20%\n游离碱注射生物利用度近乎100%\n2d6酶代谢出来的是废物，可以尝试抑制2d6酶提高生物利用度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 564,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1601
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T18:50:04.000Z",
+        "description": "“我与自然共存；性别是植物” ｜半性恋｜药理与化学爱好者｜电工｜vintage音乐爱好者｜物种是相思树",
+        "id": "1687536266878042112",
+        "location": "乱葬谷",
+        "name": "小欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897608897806143488/uxkl2nmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 69,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 143
+        },
+        "username": "imnotyege",
+        "verified": false
+      }
+    ]
+  }
+}

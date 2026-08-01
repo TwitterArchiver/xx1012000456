@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073844523315433944",
+    "created_at": "2026-07-05T19:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073844918704033894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073844918704033894",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073844523315433944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4.赛拉嗪可能有潜力但也不会太多，这东西更接近美托咪定、可乐定、三环类抗抑郁药，或许有些人可能需要？但感觉到不了滥用的水平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2073841491936735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfD2Wda8AA4zwW.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073844523315433944",
+        "created_at": "2026-07-05T19:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073844918704033894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073844918704033894",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073844523315433944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4.赛拉嗪可能有潜力但也不会太多，这东西更接近美托咪定、可乐定、三环类抗抑郁药，或许有些人可能需要？但感觉到不了滥用的水平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073841491936735232"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073844523315433944",
+        "created_at": "2026-07-05T19:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073844523315433944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6L9NDODO8",
+              "end": 151,
+              "expanded_url": "https://x.com/xx1012000456/status/2073844523315433944/photo/1",
+              "media_key": "3_2073841491936735232",
+              "start": 128,
+              "url": "https://t.co/p6L9NDODO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073844523315433944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你的专场🤣🤣🤣\n1.是北京的，咱们领域差不多\n2.DXM复方我不太认为会列管精二，列管DXM本来就是世界头一份（印尼不允许单方DXM生产但不是毒品）\npr有可能，美国pr在联邦管制表3，和K平级\n3.普鲁卡因是表面麻醉剂，我认为纯属没有知识走在岔道上了 https://t.co/p6L9NDODO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 660,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

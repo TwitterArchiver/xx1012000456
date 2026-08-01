@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876642594530468181",
+    "created_at": "2025-01-08T08:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T09:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876912433496719372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        },
+        {
+          "end": 22,
+          "id": "1560129932524544000",
+          "start": 15,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876912433496719372",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876699863204630709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux @xijiu_ 错误的，干咳和有痰都可以使用右美，只是有痰会有因抑制咳嗽反射导致痰液积蓄、倒流等风险。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876642594530468181",
+        "created_at": "2025-01-08T08:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876912433496719372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            },
+            {
+              "end": 22,
+              "id": "1560129932524544000",
+              "start": 15,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876912433496719372",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876699863204630709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux @xijiu_ 错误的，干咳和有痰都可以使用右美，只是有痰会有因抑制咳嗽反射导致痰液积蓄、倒流等风险。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1876642594530468181",
+        "created_at": "2025-01-07T18:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T19:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876699863204630709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876699863204630709",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876642594530468181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 错误的，干咳才用右美，愚昧是有痰用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 424,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 487
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "蛇瞳，无性别，祈求永恒的光",
+        "id": "1754871332091682817",
+        "name": "屍犬",
+        "pinned_tweet_id": "1842224842852192315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856817015736156160/Gop-5lTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 932,
+          "like_count": 50447,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 4915
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|有爱人|不约不圆不od不割手",
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 803,
+          "like_count": 110126,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 5843
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

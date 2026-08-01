@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047774388",
+          "name": "魔法科高校の劣等生"
+        }
+      }
+    ],
+    "conversation_id": "2079278609290973470",
+    "created_at": "2026-07-21T04:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079430476226515173"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079430476226515173",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079278609290973470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5.很出圈的像东京喰种就不推了\n头像出处，14年名著改，精灵使的剑舞\n如果有备选我会推\n魔法科高校的劣科生\n学战都市Asterisk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047774388",
+              "name": "魔法科高校の劣等生"
+            }
+          }
+        ],
+        "conversation_id": "2079278609290973470",
+        "created_at": "2026-07-21T04:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079430476226515173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079430476226515173",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079278609290973470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5.很出圈的像东京喰种就不推了\n头像出处，14年名著改，精灵使的剑舞\n如果有备选我会推\n魔法科高校的劣科生\n学战都市Asterisk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079278609290973470",
+        "created_at": "2026-07-20T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079278609290973470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiaiaiai_9/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/aiaiaiai_9/status/2078892660635619639",
+              "start": 8,
+              "url": "https://t.co/y5n98gRiYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079278609290973470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078892660635619639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩这个😇 https://t.co/y5n98gRiYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 688,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

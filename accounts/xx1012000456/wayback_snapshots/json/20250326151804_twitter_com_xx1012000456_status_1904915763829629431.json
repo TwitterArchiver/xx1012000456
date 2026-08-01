@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904843481891451198",
+    "created_at": "2025-03-26T15:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T16:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904915763829629431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1513035734844059649",
+          "start": 0,
+          "username": "Bingkler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904915763829629431",
+    "in_reply_to_user_id": "1513035734844059649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904843481891451198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bingkler 500g时尚单品🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1105,
+        "media_key": "3_1904843475436396549",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9dDHIbYAUq3m2.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904843481891451198",
+        "created_at": "2025-03-26T15:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904915763829629431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1513035734844059649",
+              "start": 0,
+              "username": "Bingkler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904915763829629431",
+        "in_reply_to_user_id": "1513035734844059649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904843481891451198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bingkler 500g时尚单品🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904843475436396549"
+          ]
+        },
+        "author_id": "1513035734844059649",
+        "conversation_id": "1904843481891451198",
+        "created_at": "2025-03-26T10:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904843481891451198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jXazCntcr",
+              "end": 41,
+              "expanded_url": "https://x.com/Bingkler/status/1904843481891451198/photo/1",
+              "media_key": "3_1904843475436396549",
+              "start": 18,
+              "url": "https://t.co/2jXazCntcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904843481891451198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1502,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么记得之前网上买不到的.jpg https://t.co/2jXazCntcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 503,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1147
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T06:06:58.000Z",
+        "description": "主人喵 @liychn30019070 | 伊蕾娜天下第一|水月|御坂|澄闪|友跨|键政🚫|这里是冰可乐！|Minecraft|Arknights|Clash Royale|精神状态堪忧|对大多数人友好||愿世间没有死亡，也愿已经离开的人会在另一个世界被温柔以待||梦想是让死者苏生 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "liychn30019070"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bingkler.com",
+                "end": 23,
+                "expanded_url": "http://bingkler.com",
+                "start": 0,
+                "url": "https://t.co/MrotFr3hDP"
+              }
+            ]
+          }
+        },
+        "id": "1513035734844059649",
+        "location": "ShangHai",
+        "name": "Bingkler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717177890356580352/Fpvn8tR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 486,
+          "like_count": 2871,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/MrotFr3hDP",
+        "username": "Bingkler",
+        "verified": false
+      }
+    ]
+  }
+}

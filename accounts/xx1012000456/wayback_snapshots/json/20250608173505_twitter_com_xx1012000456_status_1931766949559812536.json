@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1931755897078042756",
+    "created_at": "2025-06-08T17:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931766949559812536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877247334658224128",
+          "start": 0,
+          "username": "DrugPr0ject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931766949559812536",
+    "in_reply_to_user_id": "1877247334658224128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931755897078042756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrugPr0ject NB😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1931755897078042756",
+        "created_at": "2025-06-08T17:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931766949559812536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877247334658224128",
+              "start": 0,
+              "username": "DrugPr0ject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931766949559812536",
+        "in_reply_to_user_id": "1877247334658224128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931755897078042756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrugPr0ject NB😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877247334658224128",
+        "conversation_id": "1931755897078042756",
+        "created_at": "2025-06-08T16:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931755897078042756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931755897078042756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了很便宜的右美渠道，折下來最後可能可以給到你們2CNY/15mg，但還需要觀望一下，盡情期待吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 569,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1648
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T06:53:46.000Z",
+        "description": "團隊運營帳號，一般晚上在線，現有優美等多種藥物在售，日本直髮，詳情看置頂，降價活動進行中，詳情看置頂",
+        "id": "1877247334658224128",
+        "location": "Washington, DC",
+        "name": "Drug-Project Team（日美藥代）",
+        "pinned_tweet_id": "1931417748955070938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926714950547873792/PI-1BRX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 36,
+          "like_count": 2810,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 496
+        },
+        "username": "DrugPr0ject",
+        "verified": false
+      }
+    ]
+  }
+}

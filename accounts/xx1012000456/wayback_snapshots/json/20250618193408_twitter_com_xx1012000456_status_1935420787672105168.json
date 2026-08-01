@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1935358997395292285",
+    "created_at": "2025-06-18T19:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T20:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935420787672105168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552339082889789446",
+          "start": 0,
+          "username": "SnAuFlat"
+        },
+        {
+          "end": 20,
+          "id": "1597257668313260033",
+          "start": 10,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935420787672105168",
+    "in_reply_to_user_id": "1552339082889789446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935362143517557016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAuFlat @Minokakay 焦虑本来更多也是先天的，精神疾病中称呼的抑郁、躁狂、焦虑、恐惧、强迫之类的名词和你日常想象的完全不同。病态化焦虑翻译一下实际是不正常的紧张/不正常的恐惧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1935358997395292285",
+        "created_at": "2025-06-18T19:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935420787672105168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552339082889789446",
+              "start": 0,
+              "username": "SnAuFlat"
+            },
+            {
+              "end": 20,
+              "id": "1597257668313260033",
+              "start": 10,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935420787672105168",
+        "in_reply_to_user_id": "1552339082889789446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935362143517557016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAuFlat @Minokakay 焦虑本来更多也是先天的，精神疾病中称呼的抑郁、躁狂、焦虑、恐惧、强迫之类的名词和你日常想象的完全不同。病态化焦虑翻译一下实际是不正常的紧张/不正常的恐惧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552339082889789446",
+        "conversation_id": "1935358997395292285",
+        "created_at": "2025-06-18T15:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935362143517557016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935362143517557016",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935361837736018293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 第一次知道還有先天的😨，我一直以為是環境因素導向"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 579,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1676
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "👊🇦🇶🔥🐧🚩🐧🚩🐧🚩🐧🚩\n/我先投降主義🏳️\n/法烏克斯薯薯\n/小帳@SnAuFlat_Kaiser \n/fumo @miyuki_114 \n/窩的好朋朋 @CoolJX4 \n/limSir @liminfin\n/卡滋大手 @H1nako_4ever\n視成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "SnAuFlat_Kaiser"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "miyuki_114"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "CoolJX4"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "liminfin"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "H1nako_4ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76XCP"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "新士瓦本",
+        "name": "SnAuFlat(CLZ預備工具人)",
+        "pinned_tweet_id": "1927751797906473315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873806130264051712/07FI5ZSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 641,
+          "like_count": 92248,
+          "listed_count": 1,
+          "media_count": 3051,
+          "tweet_count": 12756
+        },
+        "url": "https://t.co/wCURv76XCP",
+        "username": "SnAuFlat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko 里推随缘过 @Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7741,
+          "following_count": 884,
+          "like_count": 43686,
+          "listed_count": 30,
+          "media_count": 1193,
+          "tweet_count": 18937
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

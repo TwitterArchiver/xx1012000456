@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906246443746390401",
+    "created_at": "2025-03-30T09:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T10:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906284390629437482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        },
+        {
+          "end": 33,
+          "id": "1897275526559272960",
+          "start": 17,
+          "username": "nenno_shiawsene"
+        },
+        {
+          "end": 50,
+          "id": "1797727504540807168",
+          "start": 34,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906284390629437482",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906259522626208182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo @nenno_shiawsene @od_angelkaii_od 真正的硬毒只有阿片及可卡因，冰介于中间，MDMA是修饰苯环的更接近2C和仙人掌致幻剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906246443746390401",
+        "created_at": "2025-03-30T09:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906284390629437482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            },
+            {
+              "end": 33,
+              "id": "1897275526559272960",
+              "start": 17,
+              "username": "nenno_shiawsene"
+            },
+            {
+              "end": 50,
+              "id": "1797727504540807168",
+              "start": 34,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906284390629437482",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906259522626208182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo @nenno_shiawsene @od_angelkaii_od 真正的硬毒只有阿片及可卡因，冰介于中间，MDMA是修饰苯环的更接近2C和仙人掌致幻剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1906246443746390401",
+        "created_at": "2025-03-30T08:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T09:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906259522626208182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897275526559272960",
+              "start": 0,
+              "username": "nenno_shiawsene"
+            },
+            {
+              "end": 33,
+              "id": "1797727504540807168",
+              "start": 17,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906259522626208182",
+        "in_reply_to_user_id": "1897275526559272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906259390690468340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nenno_shiawsene @od_angelkaii_od mdma不是硬毒的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 507,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1254
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "moeTvT"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Kazuko045"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "Shirasu8964228"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1898684314717765927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 261,
+          "like_count": 6049,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2127
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T13:18:40.000Z",
+        "description": "",
+        "id": "1897275526559272960",
+        "location": "啊哈哈",
+        "name": "nenno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897291630761426944/8orziA-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "nenno_shiawsene",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "全民吸毒 人类崛起. 欢迎投稿报告我们，私信只回药物咨询和药物报告内容，不闲聊，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6703,
+          "following_count": 4680,
+          "like_count": 3465,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 3935
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

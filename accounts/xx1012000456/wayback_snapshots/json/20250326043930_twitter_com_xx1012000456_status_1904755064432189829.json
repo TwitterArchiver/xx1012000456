@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904195344373551487",
+    "created_at": "2025-03-26T04:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T05:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904755064432189829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904755064432189829",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904195344373551487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 解离是抑制，普瑞到底是什么原理有争议但曾用来治癫痫肯定也是抑制。右美自己SNRI和解离大概能打个平手，加上普瑞肯定是偏抑制了，困是自然的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904195344373551487",
+        "created_at": "2025-03-26T04:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904755064432189829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904755064432189829",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904195344373551487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 解离是抑制，普瑞到底是什么原理有争议但曾用来治癫痫肯定也是抑制。右美自己SNRI和解离大概能打个平手，加上普瑞肯定是偏抑制了，困是自然的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830775691375218688",
+        "conversation_id": "1904195344373551487",
+        "created_at": "2025-03-24T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904195344373551487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904195344373551487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "說是od完不能睡覺，我也不想睡啊，但是為什麼本來超級精神的，吃完這些後睏意逐漸加重了，我看別人吃完後各種症狀，怎麼到我這就是頭暈耳鳴犯困（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 501,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1128
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "簡介不知道要寫什麼怎麼辦（）\n求互fo/雖然我知道我存在感極低 沒人會在意我（）",
+        "id": "1830775691375218688",
+        "location": "中國 廣東 東莞",
+        "name": "咕噜咕噜🏳️‍⚧️🇨🇳🇰🇵🇮🇱🇺🇸",
+        "pinned_tweet_id": "1901257373542437031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890824776161038337/_kXzR1_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 258,
+          "like_count": 862,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1908
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

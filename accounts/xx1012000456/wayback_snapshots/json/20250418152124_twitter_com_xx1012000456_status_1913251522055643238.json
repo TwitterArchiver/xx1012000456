@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1913043847204282862",
+    "created_at": "2025-04-18T15:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T16:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913251522055643238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "986148401925402624",
+          "start": 0,
+          "username": "ShijiAsuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913251522055643238",
+    "in_reply_to_user_id": "986148401925402624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913043847204282862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShijiAsuka 但DNA证据大于处女膜吧，能靠口供定罪插入吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1913043847204282862",
+        "created_at": "2025-04-18T15:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913251522055643238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "986148401925402624",
+              "start": 0,
+              "username": "ShijiAsuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913251522055643238",
+        "in_reply_to_user_id": "986148401925402624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913043847204282862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShijiAsuka 但DNA证据大于处女膜吧，能靠口供定罪插入吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986148401925402624",
+        "conversation_id": "1913043847204282862",
+        "created_at": "2025-04-18T01:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913043847204282862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913043847204282862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13785,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对案情我不了解，但是插入式性行为不一定必然导致处女膜破裂这应该算不得冷知识了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 526,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1414
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T07:44:35.000Z",
+        "description": "Oh, Joey, if you're hurting so am I.",
+        "id": "986148401925402624",
+        "name": "Chandler Jing",
+        "pinned_tweet_id": "1706471716179124699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698235559247048704/Bb4IPN13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 226,
+          "like_count": 14741,
+          "listed_count": 5,
+          "media_count": 1219,
+          "tweet_count": 5194
+        },
+        "username": "ShijiAsuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "author_id": "1386670401422434304",
+    "conversation_id": "1844624802537177374",
+    "created_at": "2024-10-13T18:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-13T19:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845527395799023800"
+    ],
+    "id": "1845527395799023800",
+    "in_reply_to_user_id": "1774807840039088128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 73,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844624802537177374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@withRainyNight 右美NMDA解离协同BZD的GABA镇静吧，解离本身就会削弱对现实的认知。单吃右美很难睡过去的，右美是SNRI，去甲与血清素的双通道再摄取抑制，直接就是内分泌兴奋拉满。右美的其他受体比如西格玛、胆碱M、阿片K的弱镇静效应不足以对抗SNRI的作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1386670401422434304",
+        "conversation_id": "1844624802537177374",
+        "created_at": "2024-10-13T18:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-13T19:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845527395799023800"
+        ],
+        "id": "1845527395799023800",
+        "in_reply_to_user_id": "1774807840039088128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844624802537177374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@withRainyNight 右美NMDA解离协同BZD的GABA镇静吧，解离本身就会削弱对现实的认知。单吃右美很难睡过去的，右美是SNRI，去甲与血清素的双通道再摄取抑制，直接就是内分泌兴奋拉满。右美的其他受体比如西格玛、胆碱M、阿片K的弱镇静效应不足以对抗SNRI的作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 375,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 337
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

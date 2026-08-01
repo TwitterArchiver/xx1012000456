@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904125614048866327",
+    "created_at": "2025-03-24T16:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904215074698616857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaSiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904215074698616857",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904125614048866327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSiri 说实话我感觉是做不出来的，我毕设就是做的类似的项目，带上眼动仪给你看小短片测试人有没有抑郁，是导师实践过的项目。实际的效果是在训练集中准确率能到接近90%，样本分3份两份训练一组测试，但到了外来样本就50%多一点点。覆盖这么多情感变化还没有锚定，不如期待ai先过图灵测试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1904125604741668864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmzQJiZaYAAYZfP.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904125614048866327",
+        "created_at": "2025-03-24T16:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904215074698616857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaSiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904215074698616857",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904125614048866327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSiri 说实话我感觉是做不出来的，我毕设就是做的类似的项目，带上眼动仪给你看小短片测试人有没有抑郁，是导师实践过的项目。实际的效果是在训练集中准确率能到接近90%，样本分3份两份训练一组测试，但到了外来样本就50%多一点点。覆盖这么多情感变化还没有锚定，不如期待ai先过图灵测试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904125604741668864"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1904125614048866327",
+        "created_at": "2025-03-24T10:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904125614048866327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECiSjZDhAS",
+              "end": 29,
+              "expanded_url": "https://x.com/KagurazakaSiri/status/1904125614048866327/photo/1",
+              "media_key": "3_1904125604741668864",
+              "start": 6,
+              "url": "https://t.co/ECiSjZDhAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904125614048866327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1642,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老大哥来了 https://t.co/ECiSjZDhAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 500,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1088
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "正在循环播放《𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒉𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒍𝒊𝒈𝒉𝒕𝒔》 0:50━━●━━━━━──2:31 ⇆ ◁ ❚❚ ▷ ↻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Project Raputa",
+        "name": "翎.𝑰𝒓𝒊𝒔",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900936210782224384/8TrbAA92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 599,
+          "like_count": 13619,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 4112
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaSiri",
+        "verified": false
+      }
+    ]
+  }
+}

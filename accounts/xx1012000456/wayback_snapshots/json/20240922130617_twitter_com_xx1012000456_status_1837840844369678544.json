@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1837814204289765417",
+    "created_at": "2024-09-22T13:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T14:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837840844369678544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837840844369678544",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837814204289765417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 好奇奈福泮是什么效果和副作用？可以描述下吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1837814204289765417",
+        "created_at": "2024-09-22T13:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T14:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837840844369678544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837840844369678544",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837814204289765417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 好奇奈福泮是什么效果和副作用？可以描述下吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837814197801177094",
+            "3_1837814201567662082"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "conversation_id": "1837814204289765417",
+        "created_at": "2024-09-22T11:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T12:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837814204289765417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc9fr5vc0g",
+              "end": 78,
+              "expanded_url": "https://twitter.com/HJS_2403_0/status/1837814204289765417/photo/1",
+              "media_key": "3_1837814197801177094",
+              "start": 55,
+              "url": "https://t.co/zC9fR5vC0G"
+            },
+            {
+              "display_url": "pic.x.com/zc9fr5vc0g",
+              "end": 78,
+              "expanded_url": "https://twitter.com/HJS_2403_0/status/1837814204289765417/photo/1",
+              "media_key": "3_1837814201567662082",
+              "start": 55,
+              "url": "https://t.co/zC9fR5vC0G"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7ee61f505fdfdf5c"
+        },
+        "id": "1837814204289765417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OD\n卡托普利 2t\nVb6           2t\n奈福泮   32t\n\n并附上专注达18 纵向 性质图 https://t.co/zC9fR5vC0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 191,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "这里是一些些3.2\n笨蛋量子猫学习观察人类中……👁\n|⚠️| od | shtwt | 負能碎碎念 | 圖片重加工 |\n꒰ঌ♫*'✟:.｡-願你退此苦海以至願山-.｡.:*♡'*♪໒꒱\n🏳️‍🌈  🏳️‍⚧️ 🦋 🦴 💙 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/m6iqvkIoqx"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "「死曜日」星のある場所  🚪78/188/298私问 ",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些 3.2",
+        "pinned_tweet_id": "1790220270785159548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 347,
+          "like_count": 22587,
+          "listed_count": 4,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/m6iqvkIoqx",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913603588452221284",
+    "created_at": "2025-04-23T20:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T21:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915142675885678844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1871396589471952896",
+          "start": 0,
+          "username": "jiujicarbon"
+        },
+        {
+          "end": 29,
+          "id": "1760204098731913216",
+          "start": 13,
+          "username": "KateamineR23573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915142675885678844",
+    "in_reply_to_user_id": "1871396589471952896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915112426305196527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujicarbon @KateamineR23573 虽然但是，可卡因是偏麻醉镇静的吧，当初可卡因是局麻药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913603588452221284",
+        "created_at": "2025-04-23T20:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T21:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915142675885678844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1871396589471952896",
+              "start": 0,
+              "username": "jiujicarbon"
+            },
+            {
+              "end": 29,
+              "id": "1760204098731913216",
+              "start": 13,
+              "username": "KateamineR23573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915142675885678844",
+        "in_reply_to_user_id": "1871396589471952896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915112426305196527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujicarbon @KateamineR23573 虽然但是，可卡因是偏麻醉镇静的吧，当初可卡因是局麻药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871396589471952896",
+        "conversation_id": "1913603588452221284",
+        "created_at": "2025-04-23T18:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T19:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915112426305196527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760204098731913216",
+              "start": 0,
+              "username": "KateamineR23573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915112426305196527",
+        "in_reply_to_user_id": "1760204098731913216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914683471408324916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KateamineR23573 一克 100刀美國價格，我目測妳那裡20几克可能有。如果妳那時身體裡有安，那就不誇張了。因為有安在身，任何興奮劑類對你都沒用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 534,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1441
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T03:25:01.000Z",
+        "description": "",
+        "id": "1871396589471952896",
+        "location": "Taipei City, Taiwan",
+        "name": "楊銘睿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872501408605593600/Sm_o71nv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 155,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 106
+        },
+        "username": "jiujicarbon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T07:25:46.000Z",
+        "description": "新的telegram頻道：https://t.co/ZEhFTicuiJ\n想成爲偶像藝人。努力擁有10萬粉！！。我永遠永遠不會有任何問粉絲收錢的狀況，如果有人說是我要收錢怎樣怎樣，那就是壞人假扮我要騙你。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XekiigLpGvpkN…",
+                "end": 36,
+                "expanded_url": "https://t.me/+XekiigLpGvpkNzFi",
+                "start": 13,
+                "url": "https://t.co/ZEhFTicuiJ"
+              }
+            ]
+          }
+        },
+        "id": "1760204098731913216",
+        "location": "台灣",
+        "name": "Kateamine-reblog",
+        "pinned_tweet_id": "1903663540961169797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760210871693758464/ahTI1T72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15661,
+          "following_count": 91,
+          "like_count": 126,
+          "listed_count": 28,
+          "media_count": 128,
+          "tweet_count": 1439
+        },
+        "username": "KateamineR23573",
+        "verified": false
+      }
+    ]
+  }
+}

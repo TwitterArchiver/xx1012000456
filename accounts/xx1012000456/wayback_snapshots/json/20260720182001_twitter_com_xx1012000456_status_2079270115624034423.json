@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079249950010171574",
+    "created_at": "2026-07-20T18:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079270115624034423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079270115624034423",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079249950010171574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 冲！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079249950010171574",
+        "created_at": "2026-07-20T18:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079270115624034423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079270115624034423",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079249950010171574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 冲！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "2079249950010171574",
+        "created_at": "2026-07-20T16:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079249950010171574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079249950010171574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了监督大家严肃响应0721自慰日，请大家自觉私信我自慰视频，严禁造假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 689,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2013
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 我在接线下请来找我玩\n可爱是唯一追求 ！爱好是唱歌与美少女\n为什么不喜欢我，难道就因为我们不认识吗;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪私信口令88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2078827982949679123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18135,
+          "following_count": 423,
+          "like_count": 17445,
+          "listed_count": 35,
+          "media_count": 1438,
+          "tweet_count": 14892
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1849915405994950823",
+    "created_at": "2024-10-26T21:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T22:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850290191417942400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1115068672098226176",
+          "start": 0,
+          "username": "uslO6TIZesf19C2"
+        },
+        {
+          "end": 33,
+          "id": "1531971331902050304",
+          "start": 17,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850290191417942400",
+    "in_reply_to_user_id": "1115068672098226176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849917292622250173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uslO6TIZesf19C2 @Liangbuxiangchi 尝试过，感觉有难度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1849915405994950823",
+        "created_at": "2024-10-26T21:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T22:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850290191417942400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1115068672098226176",
+              "start": 0,
+              "username": "uslO6TIZesf19C2"
+            },
+            {
+              "end": 33,
+              "id": "1531971331902050304",
+              "start": 17,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850290191417942400",
+        "in_reply_to_user_id": "1115068672098226176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849917292622250173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uslO6TIZesf19C2 @Liangbuxiangchi 尝试过，感觉有难度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115068672098226176",
+        "conversation_id": "1849915405994950823",
+        "created_at": "2024-10-25T20:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T21:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849917292622250173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849917292622250173",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849915405994950823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 愈美居然没被一起禁掉吗，那不是想办法提纯一下就又有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 311,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 183
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:47:43.000Z",
+        "description": "讨厌宿醉",
+        "id": "1115068672098226176",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "星野",
+        "pinned_tweet_id": "1848093076679721035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690936930668834816/tDAsep4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 1063,
+          "like_count": 11427,
+          "listed_count": 0,
+          "tweet_count": 6397
+        },
+        "username": "uslO6TIZesf19C2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "od/ed 上网就是为了被网暴",
+        "id": "1531971331902050304",
+        "location": "我服",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1606159169849298944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845493517055049728/o3mnttjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 369,
+          "like_count": 13559,
+          "listed_count": 3,
+          "tweet_count": 3872
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

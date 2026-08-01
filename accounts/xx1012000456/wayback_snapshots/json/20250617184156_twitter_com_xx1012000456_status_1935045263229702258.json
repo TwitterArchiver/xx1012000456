@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1934843389398405552",
+    "created_at": "2025-06-17T18:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T19:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935045263229702258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi520521"
+        },
+        {
+          "end": 23,
+          "id": "1836782122037874688",
+          "start": 12,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935045263229702258",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934843389398405552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520521 @mio1738468 所以是哪一款药物是违禁的，好奇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-17T18:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T19:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935045263229702258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520521"
+            },
+            {
+              "end": 23,
+              "id": "1836782122037874688",
+              "start": 12,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935045263229702258",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934843389398405552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520521 @mio1738468 所以是哪一款药物是违禁的，好奇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-17T05:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T06:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934843389398405552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1836782122037874688",
+              "start": 13,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934843389398405552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6664,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "三崎@misakaxyg/@mio1738468两个号，最近失去音讯，特此说明:\n三崎因不可抗力被晶哥带走指控罪名贩毒，针对已在三崎处购买了药品的可以告知我，如果我在三崎住处又发现尚且残余的药品我会及时发货，针对已被带走取证的药物我无能为力需要等三崎本人取保候审、缓刑、刑满释放才能退款发货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 581,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1665
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8658,
+          "following_count": 1025,
+          "like_count": 14927,
+          "listed_count": 15,
+          "media_count": 239,
+          "tweet_count": 1758
+        },
+        "username": "YuKi520521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是三崎，@misakixyg这个也是我哦谢谢你和我一起玩，我会记得你😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "misakixyg"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被拉莫三崎噎死",
+        "pinned_tweet_id": "1887720941645615580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887983199336476672/YFxSqeQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 479,
+          "like_count": 10573,
+          "listed_count": 5,
+          "media_count": 955,
+          "tweet_count": 8862
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

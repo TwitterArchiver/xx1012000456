@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905691949660868725",
+    "created_at": "2025-03-28T18:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T19:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905691949660868725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905691949660868725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是那句话，敬畏精神药物，别觉得自己是天选之子。\n不懂药物特性请询问“靠谱”的“药师”或出售药物的“药商”\n请务必了解药物联用的原理，不懂请参照上一条\n对于方向相同的药物联用要尤其谨慎\n测试新物质/首次使用或联用请从最低剂量开始，量不够补药很容易，量多了后悔很麻烦\n如果你听了我的建议该多好🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905691949660868725",
+        "created_at": "2025-03-28T18:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T19:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905691949660868725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905691949660868725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是那句话，敬畏精神药物，别觉得自己是天选之子。\n不懂药物特性请询问“靠谱”的“药师”或出售药物的“药商”\n请务必了解药物联用的原理，不懂请参照上一条\n对于方向相同的药物联用要尤其谨慎\n测试新物质/首次使用或联用请从最低剂量开始，量不够补药很容易，量多了后悔很麻烦\n如果你听了我的建议该多好🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 503,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1211
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

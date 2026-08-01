@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875216049106538792",
+    "created_at": "2025-01-04T17:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T18:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875596504544768339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "56112917",
+          "start": 0,
+          "username": "monkeyalien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875596504544768339",
+    "in_reply_to_user_id": "56112917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875216049106538792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monkeyalien 这就是真正过了双盲的药物和宣传向药物的区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875216049106538792",
+        "created_at": "2025-01-04T17:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T18:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875596504544768339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "56112917",
+              "start": 0,
+              "username": "monkeyalien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875596504544768339",
+        "in_reply_to_user_id": "56112917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875216049106538792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monkeyalien 这就是真正过了双盲的药物和宣传向药物的区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "56112917",
+        "conversation_id": "1875216049106538792",
+        "created_at": "2025-01-03T16:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T17:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875216049106538792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875216049106538792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 93414,
+          "like_count": 414,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "真的给病人开药才发现，23年年中的几款抗新冠小分子国产药已经悄悄地从药房里消失了。当时也费了很大劲做临床试验、请了很多专家站台…反倒是23年4月1日医保就不再支付的奈玛特韦辉瑞P药，现在还在稳定供货，一盒还是1750元…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 414,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 458
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-12T15:19:16.000Z",
+        "description": "Attending of Emergency Medicine",
+        "id": "56112917",
+        "location": "Wulugu, Ghana",
+        "name": "Mr. VE折太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/782833596163760129/8VSEvnXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13121,
+          "following_count": 355,
+          "like_count": 2485,
+          "listed_count": 95,
+          "media_count": 444,
+          "tweet_count": 3678
+        },
+        "username": "monkeyalien",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865341967745565043",
+    "created_at": "2024-12-07T17:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T18:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865455112648552700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820902594396774400",
+          "start": 0,
+          "username": "ziyaoawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865455112648552700",
+    "in_reply_to_user_id": "1820902594396774400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865341967745565043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyaoawa 没区别，但说实话药商不一定便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865341967745565043",
+        "created_at": "2024-12-07T17:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865455112648552700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820902594396774400",
+              "start": 0,
+              "username": "ziyaoawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865455112648552700",
+        "in_reply_to_user_id": "1820902594396774400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865341967745565043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyaoawa 没区别，但说实话药商不一定便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820902594396774400",
+        "conversation_id": "1865341967745565043",
+        "created_at": "2024-12-07T10:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T11:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865341967745565043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865341967745565043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般情况买pr80是找药商买还是直接pdd买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 377,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 346
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:20:15.000Z",
+        "description": "这生活太累了，咱还是先去睡觉，其他的再说吧！\ni am not a bot😭\n喜欢你们所有人\ncs/vrc/mc   inhuman\n无特定身份 随意称呼我 未定性别🤗\nLGBT+ Friendly\n最最最喜欢睡觉\n本体死了想换个新圈子生活 请重新认识一下我🥺\n如果很长时间不玩推就是死了",
+        "id": "1820902594396774400",
+        "name": "285288233uffjkoufdssssddd",
+        "pinned_tweet_id": "1827091882385748008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863242247841460224/vkO_ooQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 255,
+          "like_count": 3995,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1629
+        },
+        "username": "ziyaoawa",
+        "verified": false
+      }
+    ]
+  }
+}

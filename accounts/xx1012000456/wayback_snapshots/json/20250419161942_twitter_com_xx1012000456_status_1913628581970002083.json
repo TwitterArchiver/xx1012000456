@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913622007629136088",
+    "created_at": "2025-04-19T16:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T17:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913628581970002083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705284098850467840",
+          "start": 0,
+          "username": "wan0924290"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913628581970002083",
+    "in_reply_to_user_id": "1705284098850467840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913627222629560579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wan0924290 你这条推文之前，我根本没见过你，我也没觉得我们之间有任何共性可以被推。我自己看到推文大概是20%鉴证、40%od+药娘、30%的福利以及10%的零零碎碎（币圈、弱智吧、奇怪的科普视频等）这个比例。只能这么解释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913622007629136088",
+        "created_at": "2025-04-19T16:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T17:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913628581970002083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705284098850467840",
+              "start": 0,
+              "username": "wan0924290"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913628581970002083",
+        "in_reply_to_user_id": "1705284098850467840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913627222629560579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wan0924290 你这条推文之前，我根本没见过你，我也没觉得我们之间有任何共性可以被推。我自己看到推文大概是20%鉴证、40%od+药娘、30%的福利以及10%的零零碎碎（币圈、弱智吧、奇怪的科普视频等）这个比例。只能这么解释"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705284098850467840",
+        "conversation_id": "1913622007629136088",
+        "created_at": "2025-04-19T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913627222629560579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913627222629560579",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913626449652949235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 你认为是这样吗🤔🤔这种机制我其实不太清楚。因为我其他互动很多的推文，好像也没有因此推到陌生人的推荐里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 527,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1422
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T18:13:16.000Z",
+        "description": "能先给夕㔾皿点个关注吗 温柔人机\n小孩梓｜脆鲨｜嘉心糖｜校服｜汉服\n💴有钱的捧个钱场💴👍没钱的评论转发点赞👍\n不催不更\n#夕㔾皿今天吃什么 ←不知道吃什么的时候进来看看吧\n提问箱↓🔗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "夕㔾皿今天吃什么"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wan09242901",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wan09242901",
+                "start": 0,
+                "url": "https://t.co/9LWtdXSTgA"
+              }
+            ]
+          }
+        },
+        "id": "1705284098850467840",
+        "location": "ALL OF ME｜私のすべては｜我的全部",
+        "name": "夕㔾皿",
+        "pinned_tweet_id": "1912182436899000417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874118482977075200/7ng_G2DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11066,
+          "following_count": 582,
+          "like_count": 10326,
+          "listed_count": 12,
+          "media_count": 381,
+          "tweet_count": 3626
+        },
+        "url": "https://t.co/9LWtdXSTgA",
+        "username": "wan0924290",
+        "verified": true
+      }
+    ]
+  }
+}

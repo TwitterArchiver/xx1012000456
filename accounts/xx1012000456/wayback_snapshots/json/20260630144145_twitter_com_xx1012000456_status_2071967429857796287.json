@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071214441828696209",
+    "created_at": "2026-06-30T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071967429857796287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998633997623300096",
+          "start": 0,
+          "username": "17kxscvooo45974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071967429857796287",
+    "in_reply_to_user_id": "1998633997623300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071214441828696209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17kxscvooo45974 奥美拉唑没啥用，抑制胃酸分泌的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071214432513052672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5ujXeaUAApAhr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071214441828696209",
+        "created_at": "2026-06-30T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071967429857796287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998633997623300096",
+              "start": 0,
+              "username": "17kxscvooo45974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071967429857796287",
+        "in_reply_to_user_id": "1998633997623300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071214441828696209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17kxscvooo45974 奥美拉唑没啥用，抑制胃酸分泌的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071214432513052672"
+          ]
+        },
+        "author_id": "1998633997623300096",
+        "conversation_id": "2071214441828696209",
+        "created_at": "2026-06-28T12:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071214441828696209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3L7ddWmNE",
+              "end": 37,
+              "expanded_url": "https://x.com/17kxscvooo45974/status/2071214441828696209/photo/1",
+              "media_key": "3_2071214432513052672",
+              "start": 14,
+              "url": "https://t.co/M3L7ddWmNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071214441828696209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不晓得有没有用 还是先买了 https://t.co/M3L7ddWmNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 633,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1829
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2XnAZK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2XnAZK"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "name": "123kluqefyhhbn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066343689430110208/q5jHkBZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 342,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false
+      }
+    ]
+  }
+}

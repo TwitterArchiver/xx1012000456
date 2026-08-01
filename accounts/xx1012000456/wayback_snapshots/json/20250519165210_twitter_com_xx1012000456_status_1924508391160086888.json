@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924308713801953723",
+    "created_at": "2025-05-19T16:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924508391160086888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1408728834799673351",
+          "start": 0,
+          "username": "KELMAND1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924508391160086888",
+    "in_reply_to_user_id": "1408728834799673351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924308713801953723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KELMAND1 鸭肝其实就是平时的鹅肝🤣法语这里其实泛指水禽类的肝脏，而且烤鸭用填鸭应该也不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924308713801953723",
+        "created_at": "2025-05-19T16:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924508391160086888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1408728834799673351",
+              "start": 0,
+              "username": "KELMAND1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924508391160086888",
+        "in_reply_to_user_id": "1408728834799673351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924308713801953723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KELMAND1 鸭肝其实就是平时的鹅肝🤣法语这里其实泛指水禽类的肝脏，而且烤鸭用填鸭应该也不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408728834799673351",
+        "conversation_id": "1924308713801953723",
+        "created_at": "2025-05-19T03:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T04:38:19.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924308611494523025",
+          "1924308660223959109",
+          "1924308713801953723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924308713801953723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "user.guancha.cn/main/content?i…",
+                "end": 643,
+                "expanded_url": "https://user.guancha.cn/main/content?id=1443828&s=fwzxhfbt",
+                "start": 620,
+                "url": "https://t.co/nzN5Lb25js"
+              }
+            ]
+          },
+          "text": "以小见大，什么叫产业链：一只十几元的烤鸭，是美国无法翻越的高山 \n\n十几元的烤鸭，出厂批发价实际才2、3元一只，鸭产业发达的地方，甚至还不到2元一只。但一只2斤半，对应至少4斤饲料，这么低的价格连饲料钱都不够。\n\n之所以能把价格压到这么低，是因为围绕这一只鸭子建立了一条非常长的产业链，形成了非常庞大而又完善的产业循环。\n\n每一个环节都在产生利润，到了最后变成烤鸭，自然就可以十几元一整套了。\n\n这类烤鸭用的鸭子，饲养的主要目的是获得鸭绒。取得鸭绒后，剩下的白条鸭还要进行进一步精细处理，要摘出鸭舌、鸭脖、鸭肝、鸭心、鸭肠甚至是鸭血，这些都能卖出比鸭肉更高的价格，需求量非常大，最后剩下的白条鸭卖个两三块钱就够了，可谓“买椟还珠”。\n\n这就是中国制造的高山，其他任何国家都无法企及。要么本土市场不够大、内部过于分裂形不成统一大市场，要么技术不足、产业欠缺形不成完整产业链，再要么历史太短没有非常多元的饮食文化等，总之种种原因叠加，就导致全球任何国家都达不到中国物尽其用的水平，这就决定了全球任何国家的制造业都不可能达到中国的效率。\n\n制造业一看高、二看广，高是技术先进程度，广则体现在规模和效率，前者很光鲜，但后者才是根本。因为只要一个市场足够大、竞争足够激烈，为了取得竞争的胜利，一定会催生技术、模式不断创新，这就是制造一线才是创新源泉的道理，这一进程只要不被打断，一定会最终突破到先进、高端领域。\n\n类似一只烤鸭的例子还有很多很多。\n\nhttps://t.co/nzN5Lb25js"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 100418,
+          "like_count": 349,
+          "quote_count": 5,
+          "reply_count": 67,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "以小见大，什么叫产业链：一只十几元的烤鸭，是美国无法翻越的高山 \n\n十几元的烤鸭，出厂批发价实际才2、3元一只，鸭产业发达的地方，甚至还不到2元一只。但一只2斤半，对应至少4斤饲料，这么低的价格连饲料钱都不够。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1542
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:08:30.000Z",
+        "description": "古今多少事\n都付笑谈中",
+        "id": "1408728834799673351",
+        "location": "Abgrund",
+        "name": "Eason Mao☢",
+        "pinned_tweet_id": "1439835269469859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878091031721492480/YBnYt6xY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94851,
+          "following_count": 4172,
+          "like_count": 187089,
+          "listed_count": 507,
+          "media_count": 23727,
+          "tweet_count": 140985
+        },
+        "username": "KELMAND1",
+        "verified": true
+      }
+    ]
+  }
+}

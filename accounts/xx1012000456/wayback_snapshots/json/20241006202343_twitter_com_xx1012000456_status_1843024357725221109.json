@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1842939247751221337",
+    "created_at": "2024-10-06T20:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T21:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843024357725221109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767139045774360576",
+          "start": 0,
+          "username": "gu4327053743275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843024357725221109",
+    "in_reply_to_user_id": "1767139045774360576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842939247751221337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu4327053743275 对的，这东西又叫做熏肉粉，是通过亚硝酸盐的氧化作用模拟出烟熏环的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1842939247751221337",
+        "created_at": "2024-10-06T20:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T21:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843024357725221109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767139045774360576",
+              "start": 0,
+              "username": "gu4327053743275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843024357725221109",
+        "in_reply_to_user_id": "1767139045774360576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842939247751221337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu4327053743275 对的，这东西又叫做熏肉粉，是通过亚硝酸盐的氧化作用模拟出烟熏环的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "1842939247751221337",
+        "created_at": "2024-10-06T14:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T15:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842939247751221337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842939247751221337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以肉类保色用的粉盐是布拉格粉不是喜马拉雅粉盐🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 227,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班不想上班，有那么多好玩的事，鱼钓不够一盘，72支打不到600，为什么还要上班\n\n梦想是被裁员然后拿着补偿金去开个小饭店",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776519944965885952/ZYAtigLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 158,
+          "like_count": 8204,
+          "listed_count": 0,
+          "tweet_count": 8386
+        },
+        "username": "gu4327053743275",
+        "verified": false
+      }
+    ]
+  }
+}

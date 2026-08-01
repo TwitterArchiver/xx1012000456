@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2064041038868807975",
+    "created_at": "2026-06-28T03:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071066292640182506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        },
+        {
+          "end": 23,
+          "id": "1962425480612851712",
+          "start": 12,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071066292640182506",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064056478059950204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE @yaowubaike 虽然但是，K导致的膀胱萎缩是个很罕见的副作用，具体机理不明。如果说PCP衍生有类似副作用，那身为K高度相似的替来也必然会有类似作用，可你看墙内那么多用替来的谁说自己膀胱有问题的。拿这个点攻击怕不是疯了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2064041038868807975",
+        "created_at": "2026-06-28T03:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071066292640182506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 23,
+              "id": "1962425480612851712",
+              "start": 12,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071066292640182506",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064056478059950204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @yaowubaike 虽然但是，K导致的膀胱萎缩是个很罕见的副作用，具体机理不明。如果说PCP衍生有类似副作用，那身为K高度相似的替来也必然会有类似作用，可你看墙内那么多用替来的谁说自己膀胱有问题的。拿这个点攻击怕不是疯了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064041038868807975",
+        "created_at": "2026-06-08T18:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064056478059950204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064056478059950204",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2774,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064041038868807975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 无副作用下膀胱萎缩至200ml的月尘爱好者与戒断致死的苯二氮卓爱好者也来软点鸦片瘾君子力，贵圈各weiki的爹味能不能小一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 616,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 112,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5036,
+          "following_count": 57,
+          "like_count": 695,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true
+      }
+    ]
+  }
+}

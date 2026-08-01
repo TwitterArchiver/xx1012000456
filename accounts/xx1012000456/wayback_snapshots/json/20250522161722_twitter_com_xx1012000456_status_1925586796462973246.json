@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925575065808380313",
+    "created_at": "2025-05-22T16:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925586796462973246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925586796462973246",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925575065808380313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 单次应该1-2天，当然快递可以取出来再放进去拉长时间，能几次我不太清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925575065808380313",
+        "created_at": "2025-05-22T16:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925586796462973246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925586796462973246",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925575065808380313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 单次应该1-2天，当然快递可以取出来再放进去拉长时间，能几次我不太清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "1925575065808380313",
+        "created_at": "2025-05-22T15:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925575065808380313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925575065808380313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丰巢柜能存几天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 1561
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "fishoutworld"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1910718002544468453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4630,
+          "following_count": 565,
+          "like_count": 12848,
+          "listed_count": 12,
+          "media_count": 1234,
+          "tweet_count": 12455
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

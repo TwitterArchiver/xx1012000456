@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070294518067536291",
+    "created_at": "2026-06-26T05:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070376810924372326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069070474269868034",
+          "start": 0,
+          "username": "meyuyume121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070376810924372326",
+    "in_reply_to_user_id": "2069070474269868034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070294518067536291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyuyume121 是的，这是绿色糖豆版本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070294509964115968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsp407aQAANOwq.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070294518067536291",
+        "created_at": "2026-06-26T05:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070376810924372326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069070474269868034",
+              "start": 0,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070376810924372326",
+        "in_reply_to_user_id": "2069070474269868034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070294518067536291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyuyume121 是的，这是绿色糖豆版本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070294509964115968"
+          ]
+        },
+        "author_id": "2069070474269868034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070294518067536291",
+        "created_at": "2026-06-25T23:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070294518067536291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2NiocrzVC",
+              "end": 35,
+              "expanded_url": "https://x.com/meyuyume121/status/2070294518067536291/photo/1",
+              "media_key": "3_2070294509964115968",
+              "start": 12,
+              "url": "https://t.co/P2NiocrzVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070294518067536291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港的人，這是右美嗎？ https://t.co/P2NiocrzVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 604,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1760
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 88,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      }
+    ]
+  }
+}

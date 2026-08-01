@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070538217158545912",
+    "created_at": "2026-06-27T07:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070777829466472552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070777829466472552",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070749368483979308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 我的案子中尤其是检察院一直咬定一个逻辑，该药物是海外药物--该药物没有在境内合法上市--所有境内该药物都是走私品--购买走私品即为间接走私。这个法条至少说明了对于国外的成品药物：精二药物有天然合法出入境的方式。而走私本身要求货物非法穿越边境，因此向国内商家购买此类精二不符合间接走私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070538217158545912",
+        "created_at": "2026-06-27T07:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070777829466472552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070777829466472552",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070749368483979308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 我的案子中尤其是检察院一直咬定一个逻辑，该药物是海外药物--该药物没有在境内合法上市--所有境内该药物都是走私品--购买走私品即为间接走私。这个法条至少说明了对于国外的成品药物：精二药物有天然合法出入境的方式。而走私本身要求货物非法穿越边境，因此向国内商家购买此类精二不符合间接走私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698345259661418499",
+        "conversation_id": "2070538217158545912",
+        "created_at": "2026-06-27T06:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070749368483979308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070749368483979308",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070538894958072131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 但首先第347条的要件跟毒品的定义均框住了精二 凭此法条不可能推定精二获得走私毒品罪的豁免 在司法实践中，精二也从未获得过这样的豁免  历来的判决都已经证明了你的那个条款虽然未修改但是现有法律已经覆盖了对精二走私的打击  二者互不否定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 611,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1775
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069592669077295390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 428,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

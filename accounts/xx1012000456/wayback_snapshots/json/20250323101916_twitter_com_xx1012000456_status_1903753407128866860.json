@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903736996822151283",
+    "created_at": "2025-03-23T10:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T11:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903753407128866860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1649338568635207682",
+          "start": 0,
+          "username": "mrjlv0527"
+        },
+        {
+          "end": 21,
+          "id": "1666010240725450752",
+          "start": 11,
+          "username": "amedesu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903753407128866860",
+    "in_reply_to_user_id": "1649338568635207682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903740289417691351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrjlv0527 @amedesu01 成都是这样的，低消费低收入的自循环，想赚大钱还得北上广江浙沪😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903736996822151283",
+        "created_at": "2025-03-23T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903753407128866860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1649338568635207682",
+              "start": 0,
+              "username": "mrjlv0527"
+            },
+            {
+              "end": 21,
+              "id": "1666010240725450752",
+              "start": 11,
+              "username": "amedesu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903753407128866860",
+        "in_reply_to_user_id": "1649338568635207682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903740289417691351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrjlv0527 @amedesu01 成都是这样的，低消费低收入的自循环，想赚大钱还得北上广江浙沪😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649338568635207682",
+        "conversation_id": "1903736996822151283",
+        "created_at": "2025-03-23T09:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T10:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903740289417691351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666010240725450752",
+              "start": 0,
+              "username": "amedesu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903740289417691351",
+        "in_reply_to_user_id": "1666010240725450752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903739987792982109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amedesu01 妈逼成都都是穷逼 🙄我非绿2500没几个人来找我约 可以说0个入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 494,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1057
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T09:05:43.000Z",
+        "description": "@qin_wan91922",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "qin_wan91922"
+              }
+            ]
+          }
+        },
+        "id": "1649338568635207682",
+        "location": "🪼",
+        "name": "めらじ",
+        "pinned_tweet_id": "1894786872939028680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894646450694262784/U_-57bkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 380,
+          "like_count": 11286,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 3064
+        },
+        "username": "mrjlv0527",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 不互关不互转，会回关喜欢的人 过门有视频福利可定制 ，广告不走平台，'座標成都過門檻諮詢，https://t.co/9d3qiGqVPo自用VPN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com",
+                "end": 75,
+                "expanded_url": "http://wwwwwl.sogood9.com",
+                "start": 52,
+                "url": "https://t.co/9d3qiGqVPo"
+              }
+            ]
+          }
+        },
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520/1314/5200",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1882360826889445545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901573944991465472/DxcIkXfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11121,
+          "following_count": 289,
+          "like_count": 8749,
+          "listed_count": 24,
+          "media_count": 531,
+          "tweet_count": 4508
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

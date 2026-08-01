@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871577392726335917",
+    "created_at": "2024-12-24T15:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T16:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871579776500330513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "TNSZ8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871579776500330513",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871577392726335917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNSZ8964 底层原理不就是这样吗，介绍了卡痛之后过了两年多才ban"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871577392726335917",
+        "created_at": "2024-12-24T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871579776500330513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "TNSZ8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871579776500330513",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871577392726335917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNSZ8964 底层原理不就是这样吗，介绍了卡痛之后过了两年多才ban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1871577392726335917",
+        "created_at": "2024-12-24T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871577392726335917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871577392726335917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很讨厌墙内说od的任何人，不管是跟风的科普的我都讨厌，我还不太懂od是什么的时候在墙内搜到了右美可以od，那个视频还科普了过量后药效是什么，如果你们不科普的话我可能都不会成现在这样药物上瘾，这东西有什么好科普的？？给那些不知道od是什么的不知道可以o什么的人提供教材吗？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 397,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 394
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "在你面前的正是伟大的猫猫魔女兼神明少女绮洇！｜逃生舱：@yamikawayihime ｜私信只回门槛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "yamikawayihime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871579605376864256/kIEj58f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 455,
+          "like_count": 3557,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "TNSZ8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916444325661298973",
+    "created_at": "2025-04-27T11:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916453933159247997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916453933159247997",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916444325661298973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 完全不能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1916444318816186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpiT9EbasAAoky3.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916444325661298973",
+        "created_at": "2025-04-27T11:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916453933159247997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916453933159247997",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916444325661298973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 完全不能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916444318816186368"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916444325661298973",
+        "created_at": "2025-04-27T10:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916444325661298973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t16tUFAHiM",
+              "end": 29,
+              "expanded_url": "https://x.com/manoj901858808/status/1916444325661298973/photo/1",
+              "media_key": "3_1916444318816186368",
+              "start": 6,
+              "url": "https://t.co/t16tUFAHiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916444325661298973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个能磕吗 https://t.co/t16tUFAHiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 536,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1451
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "変わり果てて行く様を走らせる",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1895352661081497922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916446387371466752/28ZUBjQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41309,
+          "following_count": 374,
+          "like_count": 2144,
+          "listed_count": 77,
+          "media_count": 181,
+          "tweet_count": 1093
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

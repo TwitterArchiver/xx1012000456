@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902135100487467285",
+    "created_at": "2025-03-19T10:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T11:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902312429062930754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 28,
+          "id": "1485268522074730497",
+          "start": 17,
+          "username": "jiulin2333"
+        },
+        {
+          "end": 38,
+          "id": "1233131261213855744",
+          "start": 29,
+          "username": "liltai10"
+        },
+        {
+          "end": 50,
+          "id": "1535245607773696000",
+          "start": 39,
+          "username": "PepperSgt4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902312429062930754",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902255606104518931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od @jiulin2333 @liltai10 @PepperSgt4 戒酒是因为酒精成瘾是GABA同源，是替代疗法。推出来能用别的戒断可太荒谬了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902135100487467285",
+        "created_at": "2025-03-19T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902312429062930754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 28,
+              "id": "1485268522074730497",
+              "start": 17,
+              "username": "jiulin2333"
+            },
+            {
+              "end": 38,
+              "id": "1233131261213855744",
+              "start": 29,
+              "username": "liltai10"
+            },
+            {
+              "end": 50,
+              "id": "1535245607773696000",
+              "start": 39,
+              "username": "PepperSgt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902312429062930754",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902255606104518931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od @jiulin2333 @liltai10 @PepperSgt4 戒酒是因为酒精成瘾是GABA同源，是替代疗法。推出来能用别的戒断可太荒谬了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1902135100487467285",
+        "created_at": "2025-03-19T07:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T08:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902255606104518931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            },
+            {
+              "end": 21,
+              "id": "1233131261213855744",
+              "start": 12,
+              "username": "liltai10"
+            },
+            {
+              "end": 33,
+              "id": "1535245607773696000",
+              "start": 22,
+              "username": "PepperSgt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902255606104518931",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902246834321371382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 @liltai10 @PepperSgt4 本二卓都可以戒普瑞巴林成瘾，戒酒也有用奥沙西泮的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 968
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神 本账号为多人账号 发广告和发几把照片的直接拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1901216591343391081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5688,
+          "following_count": 4441,
+          "like_count": 2954,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。/\nenfp及infp/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 60,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "pinned_tweet_id": "1890434443476602971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803256966841561088/bPuCy6Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 2602,
+          "like_count": 27103,
+          "listed_count": 5,
+          "media_count": 1597,
+          "tweet_count": 20446
+        },
+        "username": "jiulin2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T20:46:27.000Z",
+        "description": "吸毒，大麻，致力于推广全亚洲大麻合法化",
+        "id": "1233131261213855744",
+        "location": "California, USA",
+        "name": "Lil Tai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475125075737477126/rTTM9ijM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 555,
+          "like_count": 2810,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 701
+        },
+        "username": "liltai10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T13:01:26.000Z",
+        "description": "Hegel OverDose 🥀✝️ *2009",
+        "id": "1535245607773696000",
+        "name": "Uainiux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894714092541100032/YhZsTuZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 42,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 159
+        },
+        "username": "PepperSgt4",
+        "verified": false
+      }
+    ]
+  }
+}

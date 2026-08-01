@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1860773561021157593",
+    "created_at": "2024-11-25T07:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T08:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860948396175167938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Asiya_Tukimi"
+        },
+        {
+          "end": 29,
+          "id": "1804587925805596672",
+          "start": 14,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860948396175167938",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860865242605183120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asiya_Tukimi @OverSpeed_Wiki 血清素综合症本来就没有特效药，BZD是为了对症镇静+抗癫痫的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1860773561021157593",
+        "created_at": "2024-11-25T07:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T08:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860948396175167938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Asiya_Tukimi"
+            },
+            {
+              "end": 29,
+              "id": "1804587925805596672",
+              "start": 14,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860948396175167938",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860865242605183120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asiya_Tukimi @OverSpeed_Wiki 血清素综合症本来就没有特效药，BZD是为了对症镇静+抗癫痫的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "1860773561021157593",
+        "created_at": "2024-11-25T01:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T02:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860865242605183120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860865242605183120",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860773840512798892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 氯硝西泮对血清素综合症无效，最好的选择是劳拉西泮注射液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 369,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 291
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "无证含糖MtF🏳‍⚧｜百合厨🏳‍🌈｜哲学爱好者｜非存在比存在更好｜千金@YukiYukiAmeAme｜妹妹@suwanzi2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "YukiYukiAmeAme"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "suwanzi2333"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703524877133570048/4UeH0ISr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 241,
+          "like_count": 31847,
+          "listed_count": 1,
+          "tweet_count": 7281
+        },
+        "username": "Asiya_Tukimi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为OvsSuki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OvackSpeed Suki",
+        "pinned_tweet_id": "1853034703034716562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 490,
+          "like_count": 7875,
+          "listed_count": 3,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

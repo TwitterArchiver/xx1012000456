@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1834517662686208226",
+    "created_at": "2024-09-15T10:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T11:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835271933665108253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1579384502178091010",
+          "start": 0,
+          "username": "Mrsong94411422"
+        },
+        {
+          "end": 25,
+          "id": "1464586716010921985",
+          "start": 16,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835271933665108253",
+    "in_reply_to_user_id": "1579384502178091010",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834811490932506688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrsong94411422 @RDrugLab 苯乙胺类和苯乙胺盐酸盐完全不是一个东西，苯乙胺类下属如安非他命、麦司卡林，如果算上非毒品的话麻黄碱、文拉法辛一类药物也是，是以苯乙胺为框架修饰的有机物，也因此我说苯丙胺和卡西酮完全可以归为苯乙胺类。苯乙胺在空气中会转化为碳酸盐，所以没有特殊用途一般使用盐酸盐的形式保存。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1834517662686208226",
+        "created_at": "2024-09-15T10:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T11:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835271933665108253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1579384502178091010",
+              "start": 0,
+              "username": "Mrsong94411422"
+            },
+            {
+              "end": 25,
+              "id": "1464586716010921985",
+              "start": 16,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835271933665108253",
+        "in_reply_to_user_id": "1579384502178091010",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834811490932506688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrsong94411422 @RDrugLab 苯乙胺类和苯乙胺盐酸盐完全不是一个东西，苯乙胺类下属如安非他命、麦司卡林，如果算上非毒品的话麻黄碱、文拉法辛一类药物也是，是以苯乙胺为框架修饰的有机物，也因此我说苯丙胺和卡西酮完全可以归为苯乙胺类。苯乙胺在空气中会转化为碳酸盐，所以没有特殊用途一般使用盐酸盐的形式保存。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579384502178091010",
+        "conversation_id": "1834517662686208226",
+        "created_at": "2024-09-14T04:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T05:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834811490932506688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            },
+            {
+              "end": 23,
+              "id": "1386670401422434304",
+              "start": 10,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834811490932506688",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834579423443788161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab @xx1012000456 苯乙胺类和苯乙胺盐酸盐，是指的一个东西吗？最近买了苯乙胺盐酸盐，不会被上门吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 180,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T08:13:30.000Z",
+        "description": "a good boy",
+        "id": "1579384502178091010",
+        "location": "asian",
+        "name": "Mr.song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579385466402443264/8S6XRi5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 5525,
+          "like_count": 4461,
+          "listed_count": 1,
+          "tweet_count": 1601
+        },
+        "username": "Mrsong94411422",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "id": "1464586716010921985",
+        "location": "距您7945km 𝕏",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1834909423854403793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820173045639651328/jasu6zB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 23,
+          "like_count": 6,
+          "listed_count": 8,
+          "tweet_count": 501
+        },
+        "username": "RDrugLab",
+        "verified": false
+      }
+    ]
+  }
+}

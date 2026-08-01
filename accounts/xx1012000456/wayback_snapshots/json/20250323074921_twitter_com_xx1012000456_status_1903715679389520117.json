@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903562136145871340",
+    "created_at": "2025-03-23T07:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T08:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903715679389520117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "731777174835879937",
+          "start": 0,
+          "username": "Wfgggggc"
+        },
+        {
+          "end": 20,
+          "id": "86889819",
+          "start": 10,
+          "username": "jessyshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903715679389520117",
+    "in_reply_to_user_id": "731777174835879937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903710283643961658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wfgggggc @jessyshen 会计所当然不是好地方，那是对普通牛马的。能有流动千万的家庭没有公司需要服务？没有产业的朋友需要服务？你给银行存1000万看看你能不能应聘上投资经理？本质上是利益互换罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903562136145871340",
+        "created_at": "2025-03-23T07:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T08:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903715679389520117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "731777174835879937",
+              "start": 0,
+              "username": "Wfgggggc"
+            },
+            {
+              "end": 20,
+              "id": "86889819",
+              "start": 10,
+              "username": "jessyshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903715679389520117",
+        "in_reply_to_user_id": "731777174835879937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903710283643961658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wfgggggc @jessyshen 会计所当然不是好地方，那是对普通牛马的。能有流动千万的家庭没有公司需要服务？没有产业的朋友需要服务？你给银行存1000万看看你能不能应聘上投资经理？本质上是利益互换罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "731777174835879937",
+        "conversation_id": "1903562136145871340",
+        "created_at": "2025-03-23T07:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T08:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903710283643961658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "86889819",
+              "start": 0,
+              "username": "jessyshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903710283643961658",
+        "in_reply_to_user_id": "86889819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903562136145871340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jessyshen 会计所是啥好地方吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 493,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1052
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-15T09:24:09.000Z",
+        "description": "文明冲浪 努力健身 有点洁癖 喜欢涩涩 未成年勿扰 男同勿扰，谢谢了 无聊可以找我聊天，电报： https://t.co/FcdGl39W4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/cabaagez",
+                "end": 71,
+                "expanded_url": "https://t.me/cabaagez",
+                "start": 48,
+                "url": "https://t.co/FcdGl39W4G"
+              }
+            ]
+          }
+        },
+        "id": "731777174835879937",
+        "location": "guangzhou",
+        "name": "羊皮卷",
+        "pinned_tweet_id": "1850501066816958731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846457243535134721/aFXw7yGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 3260,
+          "like_count": 9825,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 3869
+        },
+        "username": "Wfgggggc",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-02T06:50:57.000Z",
+        "description": "墙头草，利己主义者，如有我的私信，必为假冒",
+        "id": "86889819",
+        "location": "Newport Beach, CA",
+        "name": "沈仝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889860116637425670/C2Rma0Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111439,
+          "following_count": 845,
+          "like_count": 810,
+          "listed_count": 594,
+          "media_count": 1022,
+          "tweet_count": 12243
+        },
+        "username": "jessyshen",
+        "verified": false
+      }
+    ]
+  }
+}

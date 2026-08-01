@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1899851722492981448",
+    "created_at": "2025-03-12T16:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T17:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899864168393826403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899864168393826403",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899851722492981448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 坏了我以为你穿黑丝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14722,
+        "height": 1280,
+        "media_key": "13_1899851662833201152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1899851662833201152/img/F3EZsPSpEmcNbEhK.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899851662833201152/vid/avc1/320x568/Vy734Scs3XSeCGn8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899851662833201152/vid/avc1/480x852/oyrLgYXW89e7MFXG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899851662833201152/vid/avc1/720x1280/rk5sB_ITfDInNmIO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1899851662833201152/pl/rAYkwdGWtabJRsJR.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899851722492981448",
+        "created_at": "2025-03-12T16:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T17:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899864168393826403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899864168393826403",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899851722492981448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 坏了我以为你穿黑丝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1899851662833201152"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "1899851722492981448",
+        "created_at": "2025-03-12T15:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899851722492981448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXsam6Vjzo",
+              "end": 23,
+              "expanded_url": "https://x.com/skura_ku/status/1899851722492981448/video/1",
+              "media_key": "13_1899851662833201152",
+              "start": 0,
+              "url": "https://t.co/pXsam6Vjzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899851722492981448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/pXsam6Vjzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 890
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς) 𓉸ྀི ݁ᛪ༙ 🐹🍮🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/sakura4448",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/sakura4448",
+                "start": 0,
+                "url": "https://t.co/W9ebuocjas"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི",
+        "pinned_tweet_id": "1899706842852544708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898588109031493632/GTupwYKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18454,
+          "following_count": 371,
+          "like_count": 14747,
+          "listed_count": 48,
+          "media_count": 569,
+          "tweet_count": 5391
+        },
+        "url": "https://t.co/W9ebuocjas",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

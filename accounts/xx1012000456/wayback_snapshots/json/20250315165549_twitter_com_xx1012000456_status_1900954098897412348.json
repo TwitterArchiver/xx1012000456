@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1900890820297060622",
+    "created_at": "2025-03-15T16:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T17:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900954098897412348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1522837739313508352",
+          "start": 0,
+          "username": "liyia18"
+        },
+        {
+          "end": 21,
+          "id": "1824394555904626689",
+          "start": 9,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900954098897412348",
+    "in_reply_to_user_id": "1522837739313508352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900945772654514289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyia18 @xiaoxun2007 我当时是疫情，基本上就是拼接了几篇导师的文章，而且我看来机器学习模型其实比自动控制要简单的多，主要前端的数据处理和采集都是导师的成型研究。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1900890820297060622",
+        "created_at": "2025-03-15T16:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900954098897412348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1522837739313508352",
+              "start": 0,
+              "username": "liyia18"
+            },
+            {
+              "end": 21,
+              "id": "1824394555904626689",
+              "start": 9,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900954098897412348",
+        "in_reply_to_user_id": "1522837739313508352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900945772654514289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyia18 @xiaoxun2007 我当时是疫情，基本上就是拼接了几篇导师的文章，而且我看来机器学习模型其实比自动控制要简单的多，主要前端的数据处理和采集都是导师的成型研究。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522837739313508352",
+        "conversation_id": "1900890820297060622",
+        "created_at": "2025-03-15T16:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900945772654514289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 26,
+              "id": "1824394555904626689",
+              "start": 14,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900945772654514289",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900900200945979445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @xiaoxun2007 毕设咋做的，没啥别的意思，就是我现在毕设做的想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 484,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 929
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T07:16:43.000Z",
+        "description": "重度抑郁，中度焦虑，偶尔发病，大部分时间是个人。无证含糖。hrt：2025.3.6",
+        "id": "1522837739313508352",
+        "location": "梦里",
+        "name": "mapafng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822238785213526017/vKxMs1U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 406
+        },
+        "username": "liyia18",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "寧可痛苦不要麻木",
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1893535423265112266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 217,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 459
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

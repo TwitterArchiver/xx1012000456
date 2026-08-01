@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073539418192060436",
+    "created_at": "2026-07-05T06:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073650810966466628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        },
+        {
+          "end": 19,
+          "id": "467659726",
+          "start": 10,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073650810966466628",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073649245182447624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 @WorstCat 乌羽玉，麦司卡林的天然来源🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073539418192060436",
+        "created_at": "2026-07-05T06:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073650810966466628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 19,
+              "id": "467659726",
+              "start": 10,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073650810966466628",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073649245182447624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @WorstCat 乌羽玉，麦司卡林的天然来源🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073539418192060436",
+        "created_at": "2026-07-05T06:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073649245182447624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073649245182447624",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073539418192060436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 652,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1879
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 130,
+          "like_count": 938,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 2325
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11455,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

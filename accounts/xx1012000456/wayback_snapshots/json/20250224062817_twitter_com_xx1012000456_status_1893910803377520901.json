@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893675979572117741",
+    "created_at": "2025-02-24T06:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893910803377520901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893910803377520901",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893675979572117741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 茶碱和咖啡因搞的鬼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893675979572117741",
+        "created_at": "2025-02-24T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893910803377520901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893910803377520901",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893675979572117741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 茶碱和咖啡因搞的鬼吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1893675979572117741",
+        "created_at": "2025-02-23T14:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893675979572117741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893675979572117741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6280,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才在服用利他林的情况下喝奶茶，有明显心悸orz。\n\n然后意识到奶茶里很可能也有咖啡因or类似的东西。\n\n感觉突然解锁了一种新的潜在可能的自杀方式（x不是\n\n以后可能得注意，adhd药物服用时，戒酒戒咖啡戒奶茶orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 781
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26981,
+          "following_count": 3417,
+          "like_count": 135372,
+          "listed_count": 91,
+          "media_count": 3110,
+          "tweet_count": 50062
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

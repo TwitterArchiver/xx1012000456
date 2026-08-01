@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902295139521085487",
+    "created_at": "2025-03-19T10:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T11:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902299414460243975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902299414460243975",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902298377880228340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 淘宝有交易快照的，相当于卖家要为成分背书，你可以凭经验“合理推断”淘宝销售的物品均为合法🤣。当然卖家是走私毒品罪和诱骗吸毒罪跑不了了，所以自己别跨国购是真的，有人帮你过滤风险何乐不为呢🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902295139521085487",
+        "created_at": "2025-03-19T10:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902299414460243975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902299414460243975",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902298377880228340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 淘宝有交易快照的，相当于卖家要为成分背书，你可以凭经验“合理推断”淘宝销售的物品均为合法🤣。当然卖家是走私毒品罪和诱骗吸毒罪跑不了了，所以自己别跨国购是真的，有人帮你过滤风险何乐不为呢🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1902295139521085487",
+        "created_at": "2025-03-19T09:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902298377880228340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902298377880228340",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902295139521085487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 有点怕晶哥想一网打尽😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 966
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🧸关注我加入爱礼教丨🚪门槛77r闲聊丨日常分享推丨小号仅过眼熟@lanmeiweimaomai 丨你杠就是你对哦丨🪜自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "lanmeiweimaomai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 86,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 63,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "爱礼的天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1901978305433161929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40681,
+          "following_count": 921,
+          "like_count": 22093,
+          "listed_count": 45,
+          "media_count": 1828,
+          "tweet_count": 24713
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1896246688391770481",
+    "created_at": "2025-03-02T17:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896258134538391817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896258134538391817",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896246688391770481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 那只能说他代理有点太烂了，隔离都做不好😅真得找靠谱的人做马仔的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_1896246680296759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDSTxmaIAA4a8k.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1896246688391770481",
+        "created_at": "2025-03-02T17:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896258134538391817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896258134538391817",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896246688391770481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 那只能说他代理有点太烂了，隔离都做不好😅真得找靠谱的人做马仔的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896246680296759296"
+          ]
+        },
+        "author_id": "1531971331902050304",
+        "conversation_id": "1896246688391770481",
+        "created_at": "2025-03-02T17:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896246688391770481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c1oj2jEYH",
+              "end": 43,
+              "expanded_url": "https://x.com/Liangbuxiangchi/status/1896246688391770481/photo/1",
+              "media_key": "3_1896246680296759296",
+              "start": 20,
+              "url": "https://t.co/5c1oj2jEYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896246688391770481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要问我牢格怎么样了，俺也不晓得，蛋疼 https://t.co/5c1oj2jEYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 472,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 832
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "茂名神人一个 不互推互转",
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 1351,
+          "like_count": 31797,
+          "listed_count": 6,
+          "media_count": 844,
+          "tweet_count": 7812
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

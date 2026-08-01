@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1859202611976769711",
+    "created_at": "2024-11-20T14:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T15:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859240679408648313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859240679408648313",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859202611976769711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 白兔淘宝就能买，右美倒是没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1859202611976769711",
+        "created_at": "2024-11-20T14:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859240679408648313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859240679408648313",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859202611976769711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 白兔淘宝就能买，右美倒是没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859202598932566016"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "conversation_id": "1859202611976769711",
+        "created_at": "2024-11-20T11:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T12:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859202611976769711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srvOUP4eXS",
+              "end": 66,
+              "expanded_url": "https://x.com/ahixnming/status/1859202611976769711/photo/1",
+              "media_key": "3_1859202598932566016",
+              "start": 43,
+              "url": "https://t.co/srvOUP4eXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859202611976769711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 243,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意外發現全家app裡的比比昂可以買日本右美 白兔🙂‍↕️↕️\n有需要的人可以參考🫴🏻 https://t.co/srvOUP4eXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 366,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 280
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "",
+        "id": "1690948132979515392",
+        "name": "阿明🪬",
+        "pinned_tweet_id": "1794389247102980388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 570,
+          "like_count": 24919,
+          "listed_count": 0,
+          "tweet_count": 19672
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

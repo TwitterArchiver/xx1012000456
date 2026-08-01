@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906760300281622607",
+    "created_at": "2025-03-31T17:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906766908374102470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906766908374102470",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906760300281622607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od 普瑞根本就是原型代谢，透析那是没有办法或没法确定毒物的统一处理，所谓的走肾只是没代谢从尿液出去了而已😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906760300281622607",
+        "created_at": "2025-03-31T17:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906766908374102470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906766908374102470",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906760300281622607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 普瑞根本就是原型代谢，透析那是没有办法或没法确定毒物的统一处理，所谓的走肾只是没代谢从尿液出去了而已😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1906760300281622607",
+        "created_at": "2025-03-31T17:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906760300281622607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906760300281622607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林死亡案例很少，但是不代表没有意外啊🤣🤣🤣🤣，在推特上搜索一下，有过量普瑞巴林被送去医院透析的，这个药走肾你们懂得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 509,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1272
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "全民吸毒 人类崛起. 欢迎投稿报告我们，私信只回药物咨询和药物报告内容，不闲聊，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6794,
+          "following_count": 4721,
+          "like_count": 3565,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 4048
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

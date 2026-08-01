@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924416152748298598",
+    "created_at": "2025-05-19T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924504812848329168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1602328096622800896",
+          "start": 0,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924504812848329168",
+    "in_reply_to_user_id": "1602328096622800896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924416152748298598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dutyge 我倾向于胡扯，这你一线每年一个一个出工伤工亡，你安全生产能过？家属外面摆花圈能过？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_1924416148491091969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTmSoLWQAEdXEI.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924416152748298598",
+        "created_at": "2025-05-19T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924504812848329168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924504812848329168",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924416152748298598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 我倾向于胡扯，这你一线每年一个一个出工伤工亡，你安全生产能过？家属外面摆花圈能过？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924416148491091969"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1924416152748298598",
+        "created_at": "2025-05-19T10:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924416152748298598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fqG3emSfT",
+              "end": 56,
+              "expanded_url": "https://x.com/dutyge/status/1924416152748298598/photo/1",
+              "media_key": "3_1924416148491091969",
+              "start": 33,
+              "url": "https://t.co/2fqG3emSfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924416152748298598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6917,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "活在底层的人，是什么样子？\n\n央企的一线工人，如何被逼下岗。\n👇 https://t.co/2fqG3emSfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1540
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26346,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 102,
+          "media_count": 6542,
+          "tweet_count": 9917
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

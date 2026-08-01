@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079654074191163504",
+    "created_at": "2026-07-22T11:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079890368527839360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079623281263706112",
+          "start": 0,
+          "username": "huaxiangdiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079890368527839360",
+    "in_reply_to_user_id": "2079623281263706112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079827913629945899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxiangdiea 不懂法的人才会敬畏法律😇懂法的人只会利用法律。律师分分钟都可以成为合法诬告、合法敲诈、合法盗窃和诈骗的完美罪犯。进去就要老实？你真该进去参观下里面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079654074191163504",
+        "created_at": "2026-07-22T11:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079890368527839360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079623281263706112",
+              "start": 0,
+              "username": "huaxiangdiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079890368527839360",
+        "in_reply_to_user_id": "2079623281263706112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079827913629945899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxiangdiea 不懂法的人才会敬畏法律😇懂法的人只会利用法律。律师分分钟都可以成为合法诬告、合法敲诈、合法盗窃和诈骗的完美罪犯。进去就要老实？你真该进去参观下里面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2079654074191163504",
+        "created_at": "2026-07-22T07:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079827913629945899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079827913629945899",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079816605178142870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我记得你😁法考都没过的假律师\n听说因为优格案进去了一年\n还不老实？一年少了看来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 698,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2058
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

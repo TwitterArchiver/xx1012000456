@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1908400780266397993",
+    "created_at": "2025-04-05T09:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T10:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908453521013563611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908453521013563611",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908400780266397993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako 骂自己傻逼🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1908400780266397993",
+        "created_at": "2025-04-05T09:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908453521013563611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908453521013563611",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908400780266397993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako 骂自己傻逼🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "1908400780266397993",
+        "created_at": "2025-04-05T06:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908400780266397993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908400780266397993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1164,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么样的内容可以不踩所有人的雷？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 521,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1354
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 欢迎来大连找我吃饭！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "这个世界破破烂烂，却没有人缝缝补补",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1884744270307012988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901883546161274880/m83OTMFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 1490,
+          "like_count": 40459,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": false
+      }
+    ]
+  }
+}

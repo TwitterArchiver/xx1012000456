@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073844523315433944",
+    "created_at": "2026-07-06T01:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073940192369705189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608457883108405248",
+          "start": 0,
+          "username": "HoshimiDyeus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073940192369705189",
+    "in_reply_to_user_id": "1608457883108405248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073858317513023605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshimiDyeus 坏了，好像我记错了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073844523315433944",
+        "created_at": "2026-07-06T01:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073940192369705189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608457883108405248",
+              "start": 0,
+              "username": "HoshimiDyeus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073940192369705189",
+        "in_reply_to_user_id": "1608457883108405248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073858317513023605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshimiDyeus 坏了，好像我记错了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608457883108405248",
+        "conversation_id": "2073844523315433944",
+        "created_at": "2026-07-05T19:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073858317513023605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073858317513023605",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073844523315433944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 PR在美国不是Schedule V吗？最低管制级别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 660,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T13:40:27.000Z",
+        "description": "TT...",
+        "id": "1608457883108405248",
+        "name": "我本应是主人公的，明明应该是这样的…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066959862647627777/ZYR3nzFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "HoshimiDyeus",
+        "verified": false
+      }
+    ]
+  }
+}

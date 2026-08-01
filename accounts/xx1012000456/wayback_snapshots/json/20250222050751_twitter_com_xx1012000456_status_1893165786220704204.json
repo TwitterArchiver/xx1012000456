@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893087099987075124",
+    "created_at": "2025-02-22T05:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T06:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893165786220704204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571484780050407424",
+          "start": 0,
+          "username": "kwi_cattt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893165786220704204",
+    "in_reply_to_user_id": "1571484780050407424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893087099987075124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwi_cattt 一方面可能是你对这药物敏感。另一方面焦虑一般是由儿茶酚胺回路中去甲和肾上腺素诱发，和GABA回路是强对冲关系，如果真的焦虑药效是有折扣的，这也是抗焦虑的药物剂量一般远大于单纯性失眠的剂量。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893087099987075124",
+        "created_at": "2025-02-22T05:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893165786220704204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571484780050407424",
+              "start": 0,
+              "username": "kwi_cattt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893165786220704204",
+        "in_reply_to_user_id": "1571484780050407424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893087099987075124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwi_cattt 一方面可能是你对这药物敏感。另一方面焦虑一般是由儿茶酚胺回路中去甲和肾上腺素诱发，和GABA回路是强对冲关系，如果真的焦虑药效是有折扣的，这也是抗焦虑的药物剂量一般远大于单纯性失眠的剂量。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571484780050407424",
+        "conversation_id": "1893087099987075124",
+        "created_at": "2025-02-21T23:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T00:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893087099987075124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893087099987075124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑之\n1t 痛哭半宿 胡言乱语 疯狂emo 头晕三天 狂睡两天\n0.5t 狂睡一天半 头晕 好困 \n0.25t 睡一宿 醒了头好痛 宛如被人打了 白天困但睡不着 脸是麻的 像面瘫\n\n说明书上写一天三次 一次一t 抗焦虑的真不是乱写的吗 真有人能这么吃？ 我都醒不到吃第二次药的时候\n我真的很不适合唑仑类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 757
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "灵魂在光明中攀升 | 请叫我小林  | 非粉私信不读不回| 无门槛 也别问 | 血图放在@ivy_falling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "ivy_falling"
+              }
+            ]
+          }
+        },
+        "id": "1571484780050407424",
+        "location": "北欧",
+        "name": "薄荷加特林",
+        "pinned_tweet_id": "1886375089517817980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295551526027264/M__bIICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 115,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 3266
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

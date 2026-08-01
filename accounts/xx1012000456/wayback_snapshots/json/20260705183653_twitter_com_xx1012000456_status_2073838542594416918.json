@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073835359537102848",
+        "3_2073835389509668864",
+        "3_2073835744549056512",
+        "3_2073836311652466688"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073838542594416918",
+    "created_at": "2026-07-05T18:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073838542594416918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/82pZEF0KK5",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+          "media_key": "3_2073835359537102848",
+          "start": 115,
+          "url": "https://t.co/82pZEF0KK5"
+        },
+        {
+          "display_url": "pic.x.com/82pZEF0KK5",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+          "media_key": "3_2073835389509668864",
+          "start": 115,
+          "url": "https://t.co/82pZEF0KK5"
+        },
+        {
+          "display_url": "pic.x.com/82pZEF0KK5",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+          "media_key": "3_2073835744549056512",
+          "start": 115,
+          "url": "https://t.co/82pZEF0KK5"
+        },
+        {
+          "display_url": "pic.x.com/82pZEF0KK5",
+          "end": 138,
+          "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+          "media_key": "3_2073836311652466688",
+          "start": 115,
+          "url": "https://t.co/82pZEF0KK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073838542594416918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、2.以我浅薄的知识，利多卡因是表面麻醉剂，你是要你的气管和肺high起来吗？\n3.普瑞整体还是抑制剂，遇上重郁的那种厌世无力感可能会叠加。就像有人喝酒很high，有人愁更愁一样。\n4.只能说有小概率，漂染下可以进一步减小概率 https://t.co/82pZEF0KK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2073835359537102848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe-RZfagAAP5bz.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073835389509668864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe-TJJbkAAA9EL.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073835744549056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe-nzxasAAfUnN.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073836311652466688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe_I0ZaAAABRLM.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073835359537102848",
+            "3_2073835389509668864",
+            "3_2073835744549056512",
+            "3_2073836311652466688"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073838542594416918",
+        "created_at": "2026-07-05T18:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073838542594416918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/82pZEF0KK5",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+              "media_key": "3_2073835359537102848",
+              "start": 115,
+              "url": "https://t.co/82pZEF0KK5"
+            },
+            {
+              "display_url": "pic.x.com/82pZEF0KK5",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+              "media_key": "3_2073835389509668864",
+              "start": 115,
+              "url": "https://t.co/82pZEF0KK5"
+            },
+            {
+              "display_url": "pic.x.com/82pZEF0KK5",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+              "media_key": "3_2073835744549056512",
+              "start": 115,
+              "url": "https://t.co/82pZEF0KK5"
+            },
+            {
+              "display_url": "pic.x.com/82pZEF0KK5",
+              "end": 138,
+              "expanded_url": "https://x.com/xx1012000456/status/2073838542594416918/photo/1",
+              "media_key": "3_2073836311652466688",
+              "start": 115,
+              "url": "https://t.co/82pZEF0KK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073838542594416918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、2.以我浅薄的知识，利多卡因是表面麻醉剂，你是要你的气管和肺high起来吗？\n3.普瑞整体还是抑制剂，遇上重郁的那种厌世无力感可能会叠加。就像有人喝酒很high，有人愁更愁一样。\n4.只能说有小概率，漂染下可以进一步减小概率 https://t.co/82pZEF0KK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 660,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1890
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

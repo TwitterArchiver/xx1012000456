@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905840105979318310",
+    "created_at": "2025-03-29T09:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T10:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905910482114105554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905910482114105554",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905840105979318310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 可待因止痛效果不好，可以考虑试试奈福泮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905840105979318310",
+        "created_at": "2025-03-29T09:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905910482114105554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905910482114105554",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905840105979318310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 可待因止痛效果不好，可以考虑试试奈福泮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1905840105979318310",
+        "created_at": "2025-03-29T04:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905840105979318310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905840105979318310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有人能卖单方可待因或者洛芬待因，没有被抓紧去的嘛\n我现在很需要镇住痛去上学……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1221
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "有爱人|生命久如暗室，不妨碍我明写春诗",
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "Nicy.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 815,
+          "like_count": 123781,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 6557
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

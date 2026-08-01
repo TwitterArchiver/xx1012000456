@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1901690587121598504",
+    "created_at": "2025-03-17T17:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T18:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901692683510501663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710375641000935424",
+          "start": 0,
+          "username": "Y_74dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901692683510501663",
+    "in_reply_to_user_id": "1710375641000935424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901690587121598504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_74dead 因为破天荒的这是在淘宝上的卖家，相当于卖家与淘宝要为成分和合法性背书🤣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901690587121598504].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901690587121598504",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901690587121598504"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1901690587121598504",
+        "created_at": "2025-03-17T17:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T18:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901692683510501663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710375641000935424",
+              "start": 0,
+              "username": "Y_74dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901692683510501663",
+        "in_reply_to_user_id": "1710375641000935424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901690587121598504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_74dead 因为破天荒的这是在淘宝上的卖家，相当于卖家与淘宝要为成分和合法性背书🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 487,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 949
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:25:26.000Z",
+        "description": "",
+        "id": "1710375641000935424",
+        "name": "Y_74",
+        "pinned_tweet_id": "1865717988806050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766523256897519616/XtQNhHhh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 705,
+          "like_count": 30629,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14155
+        },
+        "username": "Y_74dead",
+        "verified": false
+      }
+    ]
+  }
+}

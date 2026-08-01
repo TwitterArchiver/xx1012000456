@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907453672172482944",
+    "created_at": "2025-04-02T17:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907487246527373803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897309588699168768",
+          "start": 0,
+          "username": "right_drugs_knl"
+        },
+        {
+          "end": 33,
+          "id": "1797727504540807168",
+          "start": 17,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907487246527373803",
+    "in_reply_to_user_id": "1897309588699168768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907484260900155420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@right_drugs_knl @od_angelkaii_od md我们什么时候也能这样起号🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907453672172482944",
+        "created_at": "2025-04-02T17:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907487246527373803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897309588699168768",
+              "start": 0,
+              "username": "right_drugs_knl"
+            },
+            {
+              "end": 33,
+              "id": "1797727504540807168",
+              "start": 17,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907487246527373803",
+        "in_reply_to_user_id": "1897309588699168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907484260900155420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right_drugs_knl @od_angelkaii_od md我们什么时候也能这样起号🤬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897309588699168768",
+        "conversation_id": "1907453672172482944",
+        "created_at": "2025-04-02T17:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907484260900155420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907484260900155420",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907453672172482944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 狠狠羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1318
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 57,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "最好的od百科，最专业的od专家.全民od，人类崛起. 欢迎投稿报告我们，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 4757,
+          "like_count": 3695,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068886250694770873",
+    "created_at": "2026-06-22T17:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069107499857551667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778719380639014913",
+          "start": 0,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069107499857551667",
+    "in_reply_to_user_id": "1778719380639014913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069082606868766931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ancde_1118 好像是这样没注意😅不过PDD上有最后的盐野义被我找到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068886250694770873",
+        "created_at": "2026-06-22T17:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069107499857551667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069107499857551667",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069082606868766931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 好像是这样没注意😅不过PDD上有最后的盐野义被我找到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068886250694770873",
+        "created_at": "2026-06-22T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069082606868766931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069082606868766931",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069019286283440209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 不是早下架了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 575,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1721
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 645,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

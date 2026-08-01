@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916103074248065267",
+    "created_at": "2025-04-26T16:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T17:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916165024886018335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916165024886018335",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916103074248065267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 摸摸扔子摸摸逼🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10733,
+        "height": 720,
+        "media_key": "13_1916102991201112064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916102991201112064/img/LbGzLzUpODBhKdDK.jpg",
+        "public_metrics": {
+          "view_count": 781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916102991201112064/vid/avc1/480x270/AR9xd4T-At3SixDv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916102991201112064/vid/avc1/640x360/lkGiMrNdwu_Nxj2w.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916102991201112064/vid/avc1/1280x720/qpBykymIV3Bp3OWl.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916102991201112064/pl/Yp6_g_DhtJF4i1Ya.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916103074248065267",
+        "created_at": "2025-04-26T16:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916165024886018335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916165024886018335",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916103074248065267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 摸摸扔子摸摸逼🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916102991201112064"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1916103074248065267",
+        "created_at": "2025-04-26T12:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916103074248065267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0R7HGaeW4",
+              "end": 39,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1916103074248065267/video/1",
+              "media_key": "13_1916102991201112064",
+              "start": 16,
+              "url": "https://t.co/Z0R7HGaeW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916103074248065267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2220,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "爱礼o4️⃣在地上了\n跳跳尸体 https://t.co/Z0R7HGaeW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 536,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1450
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我/是碎碎念和画画推/非常喜欢猫咪丨🚪52r基本只是闲聊，可以交友可以定制一些照片丨🦜嘤鹉：@SENDOH214丨 🪜自用梯子在网址↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "SENDOH214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 0,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1916103074248065267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41548,
+          "following_count": 1028,
+          "like_count": 22820,
+          "listed_count": 46,
+          "media_count": 2125,
+          "tweet_count": 26539
+        },
+        "url": "https://t.co/yyQ5wxPP3A",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

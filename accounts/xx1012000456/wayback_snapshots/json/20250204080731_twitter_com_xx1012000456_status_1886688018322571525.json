@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1886230105560633583",
+    "created_at": "2025-02-04T08:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T09:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886688018322571525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858710581622022144",
+          "start": 0,
+          "username": "liling0035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886688018322571525",
+    "in_reply_to_user_id": "1858710581622022144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886230105560633583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liling0035 说实话远不如常规的布洛芬，普瑞治疗的更多的是神经痛，这种伴随着出血和肿胀的炎症类反应还是传统非甾类好用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1886230105560633583",
+        "created_at": "2025-02-04T08:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T09:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886688018322571525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858710581622022144",
+              "start": 0,
+              "username": "liling0035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886688018322571525",
+        "in_reply_to_user_id": "1858710581622022144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886230105560633583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liling0035 说实话远不如常规的布洛芬，普瑞治疗的更多的是神经痛，这种伴随着出血和肿胀的炎症类反应还是传统非甾类好用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858710581622022144",
+        "conversation_id": "1886230105560633583",
+        "created_at": "2025-02-03T01:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T02:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886230105560633583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886230105560633583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛经吃pr也是可以的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 458,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 669
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T03:15:39.000Z",
+        "description": "幽 祝你幸福",
+        "id": "1858710581622022144",
+        "name": "幽靈哀歌",
+        "pinned_tweet_id": "1883269096260968731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878613903845842944/pILhxgR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 108
+        },
+        "username": "liling0035",
+        "verified": false
+      }
+    ]
+  }
+}

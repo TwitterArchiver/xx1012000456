@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903007197828694281",
+    "created_at": "2025-03-21T09:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T10:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903023469190623543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 24,
+          "id": "1731545119688728576",
+          "start": 11,
+          "username": "xx1063478906"
+        },
+        {
+          "end": 41,
+          "id": "1186651487155322880",
+          "start": 25,
+          "username": "RonaldSimmonsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903023469190623543",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903021877012095402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @xx1063478906 @RonaldSimmonsUS 直接MAOI+觉醒剂，突出一手儿茶酚胺爆炸🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903007197828694281",
+        "created_at": "2025-03-21T09:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T10:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903023469190623543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 24,
+              "id": "1731545119688728576",
+              "start": 11,
+              "username": "xx1063478906"
+            },
+            {
+              "end": 41,
+              "id": "1186651487155322880",
+              "start": 25,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903023469190623543",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903021877012095402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @xx1063478906 @RonaldSimmonsUS 直接MAOI+觉醒剂，突出一手儿茶酚胺爆炸🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1903007197828694281",
+        "created_at": "2025-03-21T09:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T10:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903021877012095402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731545119688728576",
+              "start": 0,
+              "username": "xx1063478906"
+            },
+            {
+              "end": 30,
+              "id": "1186651487155322880",
+              "start": 14,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903021877012095402",
+        "in_reply_to_user_id": "1731545119688728576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903016210108932535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1063478906 @RonaldSimmonsUS 25一颗我见过人吃8颗（\n但我不知道这个安不安全就是了，我反而会更建议人吃MAOI（反苯，雷沙吉兰\n或者长春西汀/alpha-gpc等促智药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 485,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1009
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 0,
+          "like_count": 15,
+          "listed_count": 28,
+          "media_count": 646,
+          "tweet_count": 15119
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T05:25:18.000Z",
+        "description": "搭乘洋流，下一站将会到达，在聪明的人类的视线之外。\ninfp/好像是人类/喜欢晴天/其他的我再问问",
+        "id": "1731545119688728576",
+        "name": "无定向克莱因瓶",
+        "pinned_tweet_id": "1744379392695181682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844690614270722050/Hb3y83wf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 129,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 485
+        },
+        "username": "xx1063478906",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57307,
+          "following_count": 46675,
+          "like_count": 157443,
+          "listed_count": 110,
+          "media_count": 25121,
+          "tweet_count": 157268
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

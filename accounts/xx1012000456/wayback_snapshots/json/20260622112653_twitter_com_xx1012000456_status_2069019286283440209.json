@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068886250694770873",
+    "created_at": "2026-06-22T11:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069019286283440209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778719380639014913",
+          "start": 0,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069019286283440209",
+    "in_reply_to_user_id": "1778719380639014913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068886250694770873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ancde_1118 不是京东还是拼多多不是一直有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068886250694770873",
+        "created_at": "2026-06-22T11:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069019286283440209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069019286283440209",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068886250694770873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 不是京东还是拼多多不是一直有吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068886250694770873",
+        "created_at": "2026-06-22T02:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068886250694770873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068886250694770873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说现在还有白兔的购买途径吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 571,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1717
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 645,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904028751421391216",
+    "created_at": "2025-03-24T10:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T11:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904123775949677049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904123775949677049",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904123216823787689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 现在回头看来混合了典型的解离效应，虽然不清楚这是致幻剂本身有解离效能还是自然混合物的其他物质协同作用，致幻剂的机理很有可能不能单单用2A受体解释。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904028751421391216",
+        "created_at": "2025-03-24T10:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904123775949677049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904123775949677049",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904123216823787689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 现在回头看来混合了典型的解离效应，虽然不清楚这是致幻剂本身有解离效能还是自然混合物的其他物质协同作用，致幻剂的机理很有可能不能单单用2A受体解释。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904028751421391216",
+        "created_at": "2025-03-24T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904123216823787689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904123216823787689",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904028751421391216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 很多年前我看过一篇来自荷兰的蘑菇的体验报告，以及我的一个同学可能是转述的蘑菇体验报告。共同提到了诡异的立体感、抑制不住的兴奋和快乐（颠笑）、时间流速异常、认知下降（看不懂手机app、对常见事物陌生）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 500,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1083
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1896156483093778815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 57,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 4706
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

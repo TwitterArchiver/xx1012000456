@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2080169303731524016",
+    "created_at": "2026-07-23T07:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080197281920557091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047425753227333632",
+          "start": 0,
+          "username": "YuganQwQ"
+        },
+        {
+          "end": 19,
+          "id": "2053121178437349379",
+          "start": 10,
+          "username": "mikuwppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080197281920557091",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080171466927018222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuganQwQ @mikuwppp 也不一定，可是是想艹批了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2080169303731524016",
+        "created_at": "2026-07-23T07:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080197281920557091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 19,
+              "id": "2053121178437349379",
+              "start": 10,
+              "username": "mikuwppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080197281920557091",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080171466927018222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ @mikuwppp 也不一定，可是是想艹批了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080169303731524016",
+        "created_at": "2026-07-23T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080171466927018222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053121178437349379",
+              "start": 0,
+              "username": "mikuwppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080171466927018222",
+        "in_reply_to_user_id": "2053121178437349379",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080170482196959286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikuwppp 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 707,
+          "like_count": 104,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 199,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:33:56.000Z",
+        "description": "09 地雷系 餐券",
+        "id": "2053121178437349379",
+        "name": "小樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080157392012976128/sEAfL-vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 69,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "mikuwppp",
+        "verified": false
+      }
+    ]
+  }
+}

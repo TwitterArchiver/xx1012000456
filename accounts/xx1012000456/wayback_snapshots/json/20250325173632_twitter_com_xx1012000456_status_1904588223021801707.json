@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904225629341700555",
+    "created_at": "2025-03-25T17:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T18:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904588223021801707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1556085451294908417",
+          "start": 0,
+          "username": "X_Y4033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904588223021801707",
+    "in_reply_to_user_id": "1556085451294908417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904584952253157588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_Y4033 简短总结版1本来就有精神人士滥用药物。2普瑞大概率是精神人士先玩的。3精神人士一看有药友也自称视觉系/地雷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904225629341700555",
+        "created_at": "2025-03-25T17:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T18:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904588223021801707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1556085451294908417",
+              "start": 0,
+              "username": "X_Y4033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904588223021801707",
+        "in_reply_to_user_id": "1556085451294908417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904584952253157588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_Y4033 简短总结版1本来就有精神人士滥用药物。2普瑞大概率是精神人士先玩的。3精神人士一看有药友也自称视觉系/地雷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556085451294908417",
+        "conversation_id": "1904225629341700555",
+        "created_at": "2025-03-25T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904584952253157588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904584952253157588",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904225629341700555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 叽里呱啦说啥呢，骂墙内露阴癖第一是他们把这个小群体暴露在阳光下了，本来就是圈地自萌一群精神病在一起滥用药物互相寻求心理安慰，但是因为他们的介入导致很多所谓的圈外人也知道了这个群体，那很多不真正了解这个群体的人盲目的嘲讽甚至效仿，挤压圈内人本就小得可怜的生存空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 502,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1125
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T01:11:44.000Z",
+        "description": "等我重回巅峰就退圈",
+        "id": "1556085451294908417",
+        "name": "给我钱别逼我求你7.0",
+        "pinned_tweet_id": "1902637592106975246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876324871699156993/ll3niPkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 45,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 230
+        },
+        "username": "X_Y4033",
+        "verified": false
+      }
+    ]
+  }
+}

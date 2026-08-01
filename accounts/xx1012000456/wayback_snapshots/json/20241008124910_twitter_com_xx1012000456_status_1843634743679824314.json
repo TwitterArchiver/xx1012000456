@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1843629584941756924",
+    "created_at": "2024-10-08T12:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T13:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843634743679824314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760680069415174144",
+          "start": 0,
+          "username": "KoitoSiamese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843634743679824314",
+    "in_reply_to_user_id": "1760680069415174144",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843629584941756924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoitoSiamese 还可以，甜丝丝的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1843629584941756924",
+        "created_at": "2024-10-08T12:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843634743679824314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760680069415174144",
+              "start": 0,
+              "username": "KoitoSiamese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843634743679824314",
+        "in_reply_to_user_id": "1760680069415174144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843629584941756924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoitoSiamese 还可以，甜丝丝的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760680069415174144",
+        "conversation_id": "1843629584941756924",
+        "created_at": "2024-10-08T12:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T13:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843629584941756924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843629584941756924",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甘梅味的鸡排究竟会是什么味道呢，我觉得不会好吃所以从来没有买过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 231,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T14:57:01.000Z",
+        "description": "纸壳做的猫 / 幸福寻觅中 / 监狱中使用小号 @Koitosiamese1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Koitosiamese1"
+              }
+            ]
+          }
+        },
+        "id": "1760680069415174144",
+        "location": "猫窝",
+        "name": "番茄暹罗猫",
+        "pinned_tweet_id": "1810874240075452822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760683093663580160/H-YLCSr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 85,
+          "like_count": 5837,
+          "listed_count": 9,
+          "tweet_count": 6718
+        },
+        "username": "KoitoSiamese",
+        "verified": false
+      }
+    ]
+  }
+}

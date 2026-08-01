@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073096038257446912",
+        "3_2073096067651190784",
+        "3_2073096103311114240"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073097414098215031",
+    "created_at": "2026-07-03T17:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073097414098215031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "1.pr",
+          "end": 23,
+          "expanded_url": "http://1.pr",
+          "start": 0,
+          "unwound_url": "http://1.pr",
+          "url": "https://t.co/5QJEI0Sljy"
+        },
+        {
+          "display_url": "pic.x.com/7kmPJyJnK3",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+          "media_key": "3_2073096038257446912",
+          "start": 151,
+          "url": "https://t.co/7kmPJyJnK3"
+        },
+        {
+          "display_url": "pic.x.com/7kmPJyJnK3",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+          "media_key": "3_2073096067651190784",
+          "start": 151,
+          "url": "https://t.co/7kmPJyJnK3"
+        },
+        {
+          "display_url": "pic.x.com/7kmPJyJnK3",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+          "media_key": "3_2073096103311114240",
+          "start": 151,
+          "url": "https://t.co/7kmPJyJnK3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073097414098215031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5QJEI0Sljy会导致水肿吗？在安全的情况下使用利尿剂型的降压药就行，注意监测血压，适当补盐\n2.BZD个体差异极大，基本是控制在类似于醉酒的状态下，新手不建议不建议不建议药物联用（说三遍）\n3.别想太多，不清楚不知道有人给我寄快递了吗我也没收到啊，真要办你怎么搞也没用 https://t.co/7kmPJyJnK3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2073096038257446912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUd3PGa0AAJFPL.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073096067651190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUd48mbwAAQcDT.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073096103311114240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUd7BcbAAA8uzc.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073096038257446912",
+            "3_2073096067651190784",
+            "3_2073096103311114240"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073097414098215031",
+        "created_at": "2026-07-03T17:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073097414098215031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1.pr",
+              "end": 23,
+              "expanded_url": "http://1.pr",
+              "start": 0,
+              "unwound_url": "http://1.pr",
+              "url": "https://t.co/5QJEI0Sljy"
+            },
+            {
+              "display_url": "pic.x.com/7kmPJyJnK3",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+              "media_key": "3_2073096038257446912",
+              "start": 151,
+              "url": "https://t.co/7kmPJyJnK3"
+            },
+            {
+              "display_url": "pic.x.com/7kmPJyJnK3",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+              "media_key": "3_2073096067651190784",
+              "start": 151,
+              "url": "https://t.co/7kmPJyJnK3"
+            },
+            {
+              "display_url": "pic.x.com/7kmPJyJnK3",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2073097414098215031/photo/1",
+              "media_key": "3_2073096103311114240",
+              "start": 151,
+              "url": "https://t.co/7kmPJyJnK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073097414098215031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5QJEI0Sljy会导致水肿吗？在安全的情况下使用利尿剂型的降压药就行，注意监测血压，适当补盐\n2.BZD个体差异极大，基本是控制在类似于醉酒的状态下，新手不建议不建议不建议药物联用（说三遍）\n3.别想太多，不清楚不知道有人给我寄快递了吗我也没收到啊，真要办你怎么搞也没用 https://t.co/7kmPJyJnK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 647,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

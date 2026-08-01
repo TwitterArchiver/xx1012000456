@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1931320051464122804",
+    "created_at": "2025-06-07T13:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T14:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931340890536292488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726413640008712192",
+          "start": 0,
+          "username": "Tabasco0420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931340890536292488",
+    "in_reply_to_user_id": "1726413640008712192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931320051464122804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tabasco0420_ 不止，敏是氯苯那敏，抗组胺药，同时有抗胆碱能，而抗胆碱最典型的用途之一就是止涎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1931320051464122804",
+        "created_at": "2025-06-07T13:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931340890536292488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726413640008712192",
+              "start": 0,
+              "username": "Tabasco0420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931340890536292488",
+        "in_reply_to_user_id": "1726413640008712192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931320051464122804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tabasco0420_ 不止，敏是氯苯那敏，抗组胺药，同时有抗胆碱能，而抗胆碱最典型的用途之一就是止涎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726413640008712192",
+        "conversation_id": "1931320051464122804",
+        "created_at": "2025-06-07T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931320051464122804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931320051464122804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好晕啊 其实很想知道为什么磕伪麻黄碱会口渴 真的很好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 571,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1641
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T01:34:34.000Z",
+        "description": "辣酱/辣椒酱｜双相 INTJ｜自伤od｜泛性恋｜🏳️‍🌈🏳️‍⚧️友好   直fo选回 🚪88 赞赏/口令",
+        "id": "1726413640008712192",
+        "name": "타코",
+        "pinned_tweet_id": "1930623707485180317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919989335060791296/6ideLqng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 76,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 98
+        },
+        "username": "Tabasco0420_",
+        "verified": false
+      }
+    ]
+  }
+}

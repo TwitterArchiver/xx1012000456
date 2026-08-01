@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854053276632944739",
+    "created_at": "2024-11-06T10:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T11:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854116512132653362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748717733569875968",
+          "start": 0,
+          "username": "GLaDOS8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854116512132653362",
+    "in_reply_to_user_id": "1748717733569875968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854053276632944739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLaDOS8964 简单虽然简单，但是你能想到这东西和氯胺酮和右美有一点点相似之处吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854053276632944739",
+        "created_at": "2024-11-06T10:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T11:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854116512132653362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748717733569875968",
+              "start": 0,
+              "username": "GLaDOS8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854116512132653362",
+        "in_reply_to_user_id": "1748717733569875968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854053276632944739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLaDOS8964 简单虽然简单，但是你能想到这东西和氯胺酮和右美有一点点相似之处吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854053235646181376"
+          ]
+        },
+        "author_id": "1748717733569875968",
+        "conversation_id": "1854053276632944739",
+        "created_at": "2024-11-06T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854053276632944739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rds9BJ0TmV",
+              "end": 35,
+              "expanded_url": "https://x.com/GLaDOS8964/status/1854053276632944739/photo/1",
+              "media_key": "3_1854053235646181376",
+              "start": 12,
+              "url": "https://t.co/Rds9BJ0TmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854053276632944739",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 213,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，就这么简单的结构 https://t.co/Rds9BJ0TmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 358,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 255
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "友跨，i am here   \n备：@zau743598828677  \nDOS向你问好\n这里是，格拉道斯\n沾负能鉴证经济学哲学思考，理性主义万岁，社会自由主义，右边偏左，反极端主义，反政治宗教化，图腾崇拜化\n\n家庭化学，CS，瓦，各种电脑游戏，经济学本科学习中，键政爱好，伪ADHD，od，一些伪心理疾病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zau743598828677"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "荷兰郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1838205367186333709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808141941017890816/gINiWXJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 873,
+          "like_count": 29075,
+          "listed_count": 2,
+          "tweet_count": 14823
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

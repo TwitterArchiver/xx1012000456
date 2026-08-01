@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865253782663159916",
+    "created_at": "2024-12-07T17:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T18:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865453283097420052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618800860",
+          "start": 0,
+          "username": "Artoria2e5"
+        },
+        {
+          "end": 27,
+          "id": "1845454917236031495",
+          "start": 12,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 43,
+          "id": "1680508885394927616",
+          "start": 28,
+          "username": "04177_realname"
+        },
+        {
+          "end": 58,
+          "id": "1657609409303048193",
+          "start": 44,
+          "username": "scandelousccp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865453283097420052",
+    "in_reply_to_user_id": "1618800860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865446464446746688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artoria2e5 @Dontbesadforit @04177_realname @scandelousccp 我去查查，我记得看到过S和NMDA受体结合率高，R和阿片K和一个什么结合率高，也有可能是单纯结合但药效不高？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865253782663159916",
+        "created_at": "2024-12-07T17:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865453283097420052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618800860",
+              "start": 0,
+              "username": "Artoria2e5"
+            },
+            {
+              "end": 27,
+              "id": "1845454917236031495",
+              "start": 12,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 43,
+              "id": "1680508885394927616",
+              "start": 28,
+              "username": "04177_realname"
+            },
+            {
+              "end": 58,
+              "id": "1657609409303048193",
+              "start": 44,
+              "username": "scandelousccp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865453283097420052",
+        "in_reply_to_user_id": "1618800860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865446464446746688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artoria2e5 @Dontbesadforit @04177_realname @scandelousccp 我去查查，我记得看到过S和NMDA受体结合率高，R和阿片K和一个什么结合率高，也有可能是单纯结合但药效不高？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618800860",
+        "conversation_id": "1865253782663159916",
+        "created_at": "2024-12-07T17:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865446464446746688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 29,
+              "id": "1845454917236031495",
+              "start": 14,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 45,
+              "id": "1680508885394927616",
+              "start": 30,
+              "username": "04177_realname"
+            },
+            {
+              "end": 60,
+              "id": "1657609409303048193",
+              "start": 46,
+              "username": "scandelousccp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Background. The authors examined the interaction of ketamine with recombinant mu, kappa, and delta opioid receptors and recombinant orphan opioid receptors expressed in Chinese hamster ovary cells (CHO-mu, CHO-kappa, CHO-delta, and CHO(ORL1), respectively).Methods. CHO-mu, CHO-kappa, and CHO-delta membranes were incubated with the opioid receptor radioligand [3H]diprenorphine at room temperature. Ketamine (racemic, R(-) and S(+)) was included at concentrations covering the clinical range. CHO(ORL1) membranes were incubated with [125I]Tyr(14)nociceptin and racemic ketamine at room temperature. The effects of racemic ketamine and selective opioid receptor agonists (mu: [D-Ala2, MePhe4, Gly(ol)5] enkephalin (DAMGO); kappa: spiradoline or delta: [D-pen2, D-pen5] enkephalin (DPDPE)) on forskolin-stimulated cyclic adenosine monophosphate formation also were examined. Data are mean +/- SEM.Results. Racemic ketamine increased the radioligand equilibrium dissociation constant for [3H]diprenorph",
+              "display_url": "pubs.asahq.org/anesthesiology…",
+              "end": 89,
+              "expanded_url": "https://pubs.asahq.org/anesthesiology/article/90/1/174/37846/",
+              "start": 66,
+              "status": 200,
+              "title": "Stereoselective Interaction of Ketamine with Recombinant [micro sign], [small kappa, Greek], and [small delta, Greek] Opioid Receptors Expressed in Chinese Hamster Ovary Cells",
+              "unwound_url": "https://pubs.asahq.org/anesthesiology/article/90/1/174/37846/",
+              "url": "https://t.co/S6x4qTZrrj"
+            },
+            {
+              "display_url": "bjanaesthesia.org/article/S0007-…",
+              "end": 208,
+              "expanded_url": "https://www.bjanaesthesia.org/article/S0007-0912(17)42125-8/pdf",
+              "start": 185,
+              "status": 200,
+              "unwound_url": "https://www.bjanaesthesia.org/article/S0007-0912(17)42125-8/pdf",
+              "url": "https://t.co/iO0idS65pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865446464446746688",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865438559752376641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Dontbesadforit @04177_realname @scandelousccp 你确定？\nhttps://t.co/S6x4qTZrrj S(+)-ketamine was two to three times more potent than R(-)-ketamine at mu and kappa receptors.\nhttps://t.co/iO0idS65pE It has been\nshown in vivo that S()ketamine is 2–3 times more\npotent than R() ketamine as an analgesic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 377,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 345
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T22:52:36.000Z",
+        "description": "💖 @Tsumikiiss | 小号 @Arthur2e5 | Fully-Stuck Cross-Platform User. she/her || im on https://t.co/jazkZAV5uj 🚪42 请给我钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Tsumikiiss"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Arthur2e5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "enwp.org",
+                "end": 105,
+                "expanded_url": "http://enwp.org",
+                "start": 82,
+                "url": "https://t.co/jazkZAV5uj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/Arthur2e5",
+                "end": 23,
+                "expanded_url": "http://about.me/Arthur2e5",
+                "start": 0,
+                "url": "https://t.co/qOu0ummcvE"
+              }
+            ]
+          }
+        },
+        "id": "1618800860",
+        "location": "Shanghai / Nanjing ",
+        "name": "Mingye Wang 4.0.1 🦕🌻🏳️‍⚧️",
+        "pinned_tweet_id": "1782256531150680464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643449141567488/GSCV91th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 2032,
+          "like_count": 63865,
+          "listed_count": 26,
+          "media_count": 461,
+          "tweet_count": 43139
+        },
+        "url": "https://t.co/qOu0ummcvE",
+        "username": "Artoria2e5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 目前直的 上学 这里匿了 和线下分开的瞎说号 不想吵架。如果学Bio可以和我讨论讨论 虽然我还很菜呜呜呜",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 115,
+          "like_count": 2405,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 722
+        },
+        "username": "Dontbesadforit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/逃生舱：@04177_truth/🦋：@04177realname.bsky.social/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/不爱了请双取，你的单取是我午夜梦回的惩罚😿/提问箱：https://t.co/pe56J9RdeY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "04177_truth"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 128,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 105,
+                "url": "https://t.co/pe56J9RdeY"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8226,
+          "following_count": 5791,
+          "like_count": 52400,
+          "listed_count": 26,
+          "media_count": 1474,
+          "tweet_count": 13789
+        },
+        "username": "04177_realname",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T04:51:08.000Z",
+        "description": "",
+        "id": "1657609409303048193",
+        "location": "北京",
+        "name": "转生为咖啡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718205240154148864/FkcLJEup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 134,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "scandelousccp",
+        "verified": false
+      }
+    ]
+  }
+}

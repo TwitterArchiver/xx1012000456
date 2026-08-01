@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1880640448148148670",
+    "created_at": "2025-01-19T10:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880930735735128371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880930735735128371",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880640448148148670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 反苯滞销，帮帮我们😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1880640448148148670",
+        "created_at": "2025-01-19T10:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880930735735128371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880930735735128371",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880640448148148670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 反苯滞销，帮帮我们😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1880640448148148670",
+        "created_at": "2025-01-18T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880640448148148670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880640448148148670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1. 引言：反苯环丙胺的优势\n\n反苯环丙胺（Tranylcypromine）作为一种强效的非选择性MAO抑制剂，不仅具有抗抑郁作用，还具备抗炎、抗癌和延寿等潜在效用。它相比司来吉兰功能更强，价格也更实惠。通过合理搭配抗耐受配方，其副作用可以被有效控制。\n\n2. 药理作用及优点\n 1. 抗抑郁\n • 抑制MAO-A/B，提高多巴胺、去甲肾上腺素和5-羟色胺水平，显著改善情绪。\n • 对炎症引起的抑郁症特别有效。\n 2. 表观遗传调节\n • 抑制LSD1（赖氨酸特异性脱甲基酶1），具备抗炎、抗癌潜力，相关衍生物如Bomedemstat已经开发成癌症药物。\n 3. 抗衰老\n • 抑制MAO有抗衰老效果，同时还能干预信号通路（如TLR4/ERK），延缓ΔFosB累计效应。\n • 在实验中（如果蝇试验）显示了延寿效果，配合表观调节剂效果更佳。\n 4. 代谢特点\n • 早上服用，晚上代谢完毕，不影响睡眠。\n\n3. 用药策略与副作用管理\n 1. 合理搭配以减少副作用\n • 降血压药物：应对因MAO抑制导致的高血压危象。\n • 补充剂：如黄芩素、姜黄素等辅助调节信号通路失衡。\n • 咖啡因：低血压时提升精神状态。\n 2. 耐受性控制\n • 反苯耐受性较低，通过合理配方（如抗炎、降血压药物）能持续有效地服用。\n • ΔFosB累计效应被减弱，但长期用药仍需监控。\n 3. 撤药反应的应对\n • 初次服用或长时间服用后，可能出现严重撤药反应，建议逐步减量。\n\n4. 实践经验与建议\n 1. 个人经验分享\n • 通过搭配表观调节剂（如CHIR99021和Repsox），显著改善情绪和身体状态。\n • 定期监测血压、情绪状态，优化配方。\n 2. 推荐代购印度版反苯\n • 作为高性价比的抗衰老药物，反苯是更优选择，不建议花费高额成本购买替代品如Bomedemstat。\n 3. 注意事项\n • 不建议与SSRIs联用，防止血清素综合征。\n • 从正规渠道获取药物，确保用药安全。\n\n5. 总\n\n反苯环丙胺是目前性价比最高的抗衰老药物之一，其多功能性包括抗抑郁、抗炎、抗癌和延寿效果。尽管有一定副作用和耐受性，通过合理的搭配和管理，这些问题可以被很好地控制。健康是第一位的，科学用药才能真正实现抗衰老与促智的双赢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1034,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1. 引言：反苯环丙胺的优势\n\n反苯环丙胺（Tranylcypromine）作为一种强效的非选择性MAO抑制剂，不仅具有抗抑郁作用，还具备抗炎、抗癌和延寿等潜在效用。它相比司来吉兰功能更强，价格也更实惠。通过合理搭配抗耐受配方，其副作用可以被有效控制。\n\n2. 药理作用及优点\n 1. 抗抑郁\n •…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 446,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 581
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "合法过检利他林｜您的抑郁症痊愈｜杀死失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi2加速回復｜ENG OK👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "Nootropic/向知性藥",
+        "name": "☯️🧬無極生物科技｜利他林 莫达非尼 专注达",
+        "pinned_tweet_id": "1880249297268273573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880246510853722112/ccqRc5aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8532,
+          "following_count": 359,
+          "like_count": 6191,
+          "listed_count": 25,
+          "media_count": 1333,
+          "tweet_count": 11052
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

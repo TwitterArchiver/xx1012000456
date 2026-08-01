@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070056320548667877",
+    "created_at": "2026-06-25T08:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070059260176990545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070059260176990545",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070056320548667877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 1所有BZD都可以做抗癫痫药物，Zdrug不太行。你这话跟布洛芬能退烧对乙酰氨基酚双氯芬酸不能退烧的暴论有什么区别\n2可以，大概在25年4月有人发布过这个报告，直肠给药会绕过2/3的首关效应所以务必控制剂量"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2070055732536647681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpQuJsboAEiidG.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2070055732146528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpQuIPa4AASFB9.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2070055732146515968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpQuIPasAAEKTh.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2070055732532346880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpQuJraAAAb71Z.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070056320548667877",
+        "created_at": "2026-06-25T08:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070059260176990545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070059260176990545",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070056320548667877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 1所有BZD都可以做抗癫痫药物，Zdrug不太行。你这话跟布洛芬能退烧对乙酰氨基酚双氯芬酸不能退烧的暴论有什么区别\n2可以，大概在25年4月有人发布过这个报告，直肠给药会绕过2/3的首关效应所以务必控制剂量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070055732536647681",
+            "3_2070055732146528256",
+            "3_2070055732146515968",
+            "3_2070055732532346880"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "conversation_id": "2070056320548667877",
+        "created_at": "2026-06-25T08:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070056320548667877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC6S0PoHG5",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2070056320548667877/photo/1",
+              "media_key": "3_2070055732536647681",
+              "start": 124,
+              "url": "https://t.co/kC6S0PoHG5"
+            },
+            {
+              "display_url": "pic.x.com/kC6S0PoHG5",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2070056320548667877/photo/1",
+              "media_key": "3_2070055732146528256",
+              "start": 124,
+              "url": "https://t.co/kC6S0PoHG5"
+            },
+            {
+              "display_url": "pic.x.com/kC6S0PoHG5",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2070056320548667877/photo/1",
+              "media_key": "3_2070055732146515968",
+              "start": 124,
+              "url": "https://t.co/kC6S0PoHG5"
+            },
+            {
+              "display_url": "pic.x.com/kC6S0PoHG5",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2070056320548667877/photo/1",
+              "media_key": "3_2070055732532346880",
+              "start": 124,
+              "url": "https://t.co/kC6S0PoHG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070056320548667877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.地西泮氯硝西泮劳拉都可以 其他常用bzd不行\n2.不建议，只建议单方的 玉米片太脏了\n3.阿普低剂量可以，效果不错，高剂量有风险\n4.专注达本来就是设计的缓释型 你嚼碎了它，血药浓度飙升，刺激d2就会引发肠道反应 就正常吃呗，效果反正挺不错的 https://t.co/kC6S0PoHG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 602,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069592669077295390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 425,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

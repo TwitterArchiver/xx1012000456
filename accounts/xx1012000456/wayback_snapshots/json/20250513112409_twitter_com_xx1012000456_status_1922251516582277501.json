@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1922036585379377592",
+    "created_at": "2025-05-13T11:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T12:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922251516582277501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922251516582277501",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922036585379377592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 正常，抗胆碱能的散瞳效应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1922036585379377592",
+        "created_at": "2025-05-13T11:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T12:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922251516582277501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922251516582277501",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922036585379377592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 正常，抗胆碱能的散瞳效应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "1922036585379377592",
+        "created_at": "2025-05-12T21:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T22:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922036585379377592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922036585379377592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下我之前第一次o完右美瞳孔失焦了第二次也这样正常现象吗？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 561,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1497
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪99无福利纯圈ovo这是我的小号关注她好吗@ayou080103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "ayou080103"
+              }
+            ]
+          }
+        },
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1915306915678290205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10751,
+          "following_count": 545,
+          "like_count": 10640,
+          "listed_count": 23,
+          "media_count": 256,
+          "tweet_count": 9453
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067678722220769538",
+    "created_at": "2026-06-18T22:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067744159445004656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067744159445004656",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067678722220769538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492 同刚出来😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067678722220769538",
+        "created_at": "2026-06-18T22:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067744159445004656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067744159445004656",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067678722220769538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 同刚出来😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2067678722220769538",
+        "created_at": "2026-06-18T18:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067678722220769538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067678722220769538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前阵日子消失只是5月初的时候去住院了，这个月刚出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 479,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1687
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 70,
+          "like_count": 4133,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

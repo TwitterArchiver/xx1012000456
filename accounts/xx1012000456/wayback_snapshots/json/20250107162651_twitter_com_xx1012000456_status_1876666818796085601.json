@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876660540594106720",
+    "created_at": "2025-01-07T16:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T17:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876666818796085601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876666818796085601",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876660540594106720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 会的，不管是右美的解离还是pr的拉高神经阈值都有止痛的效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876660540594106720",
+        "created_at": "2025-01-07T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876666818796085601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876666818796085601",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876660540594106720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 会的，不管是右美的解离还是pr的拉高神经阈值都有止痛的效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531971331902050304",
+        "conversation_id": "1876660540594106720",
+        "created_at": "2025-01-07T16:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876660540594106720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876660540594106720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o多了痛觉会下降？真的耶我现在掐自己都没啥感觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 421,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 480
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "接线下 取关请双取 会回关主页有内容的人 不互推互转 【港美指路】@painofuuuuuuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "painofuuuuuuuu"
+              }
+            ]
+          }
+        },
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 1195,
+          "like_count": 29033,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 6804
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

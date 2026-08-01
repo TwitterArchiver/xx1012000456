@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077093916994834432",
+        "3_2077093940524937216",
+        "3_2077093974247153664",
+        "3_2077093995541618688"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077095433919500701",
+    "created_at": "2026-07-14T18:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077095433919500701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZGzN8xsxMa",
+          "end": 162,
+          "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+          "media_key": "3_2077093916994834432",
+          "start": 139,
+          "url": "https://t.co/ZGzN8xsxMa"
+        },
+        {
+          "display_url": "pic.x.com/ZGzN8xsxMa",
+          "end": 162,
+          "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+          "media_key": "3_2077093940524937216",
+          "start": 139,
+          "url": "https://t.co/ZGzN8xsxMa"
+        },
+        {
+          "display_url": "pic.x.com/ZGzN8xsxMa",
+          "end": 162,
+          "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+          "media_key": "3_2077093974247153664",
+          "start": 139,
+          "url": "https://t.co/ZGzN8xsxMa"
+        },
+        {
+          "display_url": "pic.x.com/ZGzN8xsxMa",
+          "end": 162,
+          "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+          "media_key": "3_2077093995541618688",
+          "start": 139,
+          "url": "https://t.co/ZGzN8xsxMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077095433919500701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.BZD的娱乐作用反正就是那么回事，不太能o\n2.啊这😅晚安是纯粹的解离/抗胆碱，属于多种抑制，因此体感不像右美，老老实实的吃抗郁药或者来点兴奋剂吧🥰\n3.这个我真没有，各种药商和原料商可以过来竞争合作位和广告了🥰🥰😇😇\n4.这东西类似白兔是复方药物，没有任何可能的法律责任 https://t.co/ZGzN8xsxMa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2077093916994834432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNR6Z-aEAAO2Hd.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077093940524937216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNR7xoa8AABANU.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077093974247153664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNR9vQbIAA8yU4.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077093995541618688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNR--la4AAZdCO.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077093916994834432",
+            "3_2077093940524937216",
+            "3_2077093974247153664",
+            "3_2077093995541618688"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077095433919500701",
+        "created_at": "2026-07-14T18:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077095433919500701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGzN8xsxMa",
+              "end": 162,
+              "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+              "media_key": "3_2077093916994834432",
+              "start": 139,
+              "url": "https://t.co/ZGzN8xsxMa"
+            },
+            {
+              "display_url": "pic.x.com/ZGzN8xsxMa",
+              "end": 162,
+              "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+              "media_key": "3_2077093940524937216",
+              "start": 139,
+              "url": "https://t.co/ZGzN8xsxMa"
+            },
+            {
+              "display_url": "pic.x.com/ZGzN8xsxMa",
+              "end": 162,
+              "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+              "media_key": "3_2077093974247153664",
+              "start": 139,
+              "url": "https://t.co/ZGzN8xsxMa"
+            },
+            {
+              "display_url": "pic.x.com/ZGzN8xsxMa",
+              "end": 162,
+              "expanded_url": "https://x.com/xx1012000456/status/2077095433919500701/photo/1",
+              "media_key": "3_2077093995541618688",
+              "start": 139,
+              "url": "https://t.co/ZGzN8xsxMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077095433919500701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.BZD的娱乐作用反正就是那么回事，不太能o\n2.啊这😅晚安是纯粹的解离/抗胆碱，属于多种抑制，因此体感不像右美，老老实实的吃抗郁药或者来点兴奋剂吧🥰\n3.这个我真没有，各种药商和原料商可以过来竞争合作位和广告了🥰🥰😇😇\n4.这东西类似白兔是复方药物，没有任何可能的法律责任 https://t.co/ZGzN8xsxMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 682,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1978
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

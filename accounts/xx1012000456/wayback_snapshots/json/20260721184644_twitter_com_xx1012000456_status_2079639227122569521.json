@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079072400956960854",
+    "created_at": "2026-07-21T18:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079639227122569521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927025054203715584",
+          "start": 0,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079639227122569521",
+    "in_reply_to_user_id": "1927025054203715584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079072400956960854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80_NightHaven 如果说安全的话，奥沙应该比劳拉更安全吧，毕竟完全不走肝脏代谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2079071264640282624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpYTL-bMAA-Dv8.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079072400956960854",
+        "created_at": "2026-07-21T18:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079639227122569521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079639227122569521",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079072400956960854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven 如果说安全的话，奥沙应该比劳拉更安全吧，毕竟完全不走肝脏代谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079071264640282624"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2079072400956960854",
+        "created_at": "2026-07-20T05:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079072400956960854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Lg1HfHdsT",
+              "end": 141,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2079072400956960854/photo/1",
+              "media_key": "3_2079071264640282624",
+              "start": 118,
+              "url": "https://t.co/7Lg1HfHdsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079072400956960854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 782,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳拉西泮来了。劳拉西泮和阿普唑仑好比是奔驰E级vs宝马5系，阿普唑仑主打惊恐类的快速压制，而劳拉西泮则是广泛性焦虑全天安稳的神，还是老话不嫌讲，你不该在任何时候滥用苯二氮卓类药物，有效睡眠短、广泛性焦虑等患者靠劳拉西泮立大功平稳控制。 https://t.co/7Lg1HfHdsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 696,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2047
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "永夜安港 https://t.co/zmSYFnzBMP\n没有恶俗与吵架，只有温柔与减害。\nhttps://t.co/HsCioOgdzr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 28,
+                "expanded_url": "http://pr80.net",
+                "start": 5,
+                "url": "https://t.co/zmSYFnzBMP"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 69,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 46,
+                "url": "https://t.co/HsCioOgdzr"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 677,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

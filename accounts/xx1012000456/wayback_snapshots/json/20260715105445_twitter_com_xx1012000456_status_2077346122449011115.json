@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077341508915826918",
+    "created_at": "2026-07-15T10:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077346122449011115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077346122449011115",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077341508915826918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 羡慕了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077341479203483648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQzEbEbsAAgudt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077341508915826918",
+        "created_at": "2026-07-15T10:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077346122449011115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077346122449011115",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077341508915826918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 羡慕了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077341479203483648"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077341508915826918",
+        "created_at": "2026-07-15T10:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077341508915826918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/laSxFV9J9B",
+              "end": 42,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2077341508915826918/photo/1",
+              "media_key": "3_2077341479203483648",
+              "start": 19,
+              "url": "https://t.co/laSxFV9J9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077341508915826918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刀不锋利马太瘦 你拿什么和我斗/.？ https://t.co/laSxFV9J9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 684,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "🪦魂兮归来～同类互fo大欢迎！\n06女/双相/坐标北京/od自伤💕尼古丁💕典型NPD缺爱女🥺🩷本质寄生虫 后老公招募中💕\n没回复就是被吞评论了",
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 116,
+          "like_count": 3927,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

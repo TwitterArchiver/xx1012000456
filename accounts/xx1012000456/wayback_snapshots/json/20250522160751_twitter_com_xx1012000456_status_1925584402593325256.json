@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925304414287585696",
+    "created_at": "2025-05-22T16:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925584402593325256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4258489634",
+          "start": 0,
+          "username": "Nico1_Fn"
+        },
+        {
+          "end": 18,
+          "id": "1561334508212723713",
+          "start": 10,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925584402593325256",
+    "in_reply_to_user_id": "4258489634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925574924694888594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nico1_Fn @VVV8964 你确定？那种狂喜应该仅局限于右美吧？晚安和美金刚都是很麻木的解离感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925304414287585696",
+        "created_at": "2025-05-22T16:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925584402593325256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4258489634",
+              "start": 0,
+              "username": "Nico1_Fn"
+            },
+            {
+              "end": 18,
+              "id": "1561334508212723713",
+              "start": 10,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925584402593325256",
+        "in_reply_to_user_id": "4258489634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925574924694888594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nico1_Fn @VVV8964 你确定？那种狂喜应该仅局限于右美吧？晚安和美金刚都是很麻木的解离感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4258489634",
+        "conversation_id": "1925304414287585696",
+        "created_at": "2025-05-22T15:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925574924694888594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925574924694888594",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925572292345831725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 也许是剂量问题，我在大剂量使用解离剂后会有那种“掌控一切”的感觉，也可以说是狂喜的感觉，感觉和躁郁类似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 1559
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T16:38:11.000Z",
+        "description": "温和安那其主义者\n食髓知味*（判定成功）",
+        "id": "4258489634",
+        "location": "Chuo-ku, Tokyo",
+        "name": "FN 酚鍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517345190217805824/M1XW1zYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 360,
+          "like_count": 3977,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2017
+        },
+        "username": "Nico1_Fn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 226,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1460
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

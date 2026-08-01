@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905317070847594795",
+    "created_at": "2025-03-28T08:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T09:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905543981422801145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 27,
+          "id": "3022697779",
+          "start": 17,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905543981422801145",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905543120621907992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @RXdruglab 不在，要搞肯定是能搞的，有可能有点难度是真的，就跟利多卡因差不多，从美容院之类的地方肯定能拿到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905317070847594795",
+        "created_at": "2025-03-28T08:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905543981422801145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905543981422801145",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905543120621907992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @RXdruglab 不在，要搞肯定是能搞的，有可能有点难度是真的，就跟利多卡因差不多，从美容院之类的地方肯定能拿到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1905317070847594795",
+        "created_at": "2025-03-28T08:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905543120621907992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "3022697779",
+              "start": 14,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905543120621907992",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905540885649260739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @RXdruglab 右美托咪定呢\n既然这俩都不在，但是又买不到，真是神奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 504,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1202
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  Non-binary🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n没人要的雾岛🥺",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1903121425768337747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6201,
+          "following_count": 6507,
+          "like_count": 91761,
+          "listed_count": 11,
+          "media_count": 869,
+          "tweet_count": 58793
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14180,
+          "following_count": 16,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

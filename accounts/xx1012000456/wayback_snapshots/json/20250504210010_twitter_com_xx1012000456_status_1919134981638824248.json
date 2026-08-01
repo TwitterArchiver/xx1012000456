@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1918967277308846514",
+    "created_at": "2025-05-04T21:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T22:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919134981638824248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919134981638824248",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918967277308846514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1918967277308846514",
+        "created_at": "2025-05-04T21:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T22:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919134981638824248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919134981638824248",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918967277308846514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1918967277308846514",
+        "created_at": "2025-05-04T09:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918967277308846514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918967277308846514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6207,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想喊我妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 548,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1478
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "変わり果てて行く様を走らせる",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1895352661081497922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919131534310928384/j4Vymxxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41340,
+          "following_count": 377,
+          "like_count": 2149,
+          "listed_count": 78,
+          "media_count": 181,
+          "tweet_count": 1097
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

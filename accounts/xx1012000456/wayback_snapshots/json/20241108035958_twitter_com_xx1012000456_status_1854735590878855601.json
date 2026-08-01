@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854662445434028140",
+    "created_at": "2024-11-08T03:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T04:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854735590878855601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854735590878855601",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854662445434028140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki 司来本身作为MAOI是非常危险的，它可以倍化甚至数十倍化你的单胺类物质，其中包括了抗郁剂/觉醒剂/兴奋剂等，即肾上腺素/去甲/血清素/多巴胺类及类似物。忌口这件事不用太在意，知道风险就行。14天是理论上的代谢完全周期，半衰期是正常的6-8小时，但不排除其他药物影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854662445434028140",
+        "created_at": "2024-11-08T03:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T04:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854735590878855601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854735590878855601",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854662445434028140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki 司来本身作为MAOI是非常危险的，它可以倍化甚至数十倍化你的单胺类物质，其中包括了抗郁剂/觉醒剂/兴奋剂等，即肾上腺素/去甲/血清素/多巴胺类及类似物。忌口这件事不用太在意，知道风险就行。14天是理论上的代谢完全周期，半衰期是正常的6-8小时，但不排除其他药物影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471440753645793286",
+        "conversation_id": "1854662445434028140",
+        "created_at": "2024-11-07T23:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T00:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854662445434028140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854662445434028140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸突然把我吵醒，想换药o了，右美普瑞耐药的可以去死了，自司来吉兰怎么样？wiki上我看吃了后14天都要有好多忌口，但是舌下含服1/4就没有这个忌口，，，我买了一盒，打算下周拿到试一下，苯二氮卓类和降压药我也备好了，药效是咋样的啊有谁o过半衰期多久哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 360,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 264
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌",
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（入土）",
+        "pinned_tweet_id": "1821775383345172551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740197391121498113/MJm4woj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 616,
+          "like_count": 16823,
+          "listed_count": 26,
+          "tweet_count": 9667
+        },
+        "username": "MuyumeKiki",
+        "verified": false
+      }
+    ]
+  }
+}

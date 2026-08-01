@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905296316248515015",
+    "created_at": "2025-03-27T19:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T20:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905336752778477722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1896237492069871616",
+          "start": 0,
+          "username": "1nnococ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905336752778477722",
+    "in_reply_to_user_id": "1896237492069871616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905296316248515015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nnococ0 氟硝硬要论成瘾也就那样😅论投毒蓝精灵的名号就是因为以前做迷奸药太多所以加上了蓝色素😅苯二氮卓类娱乐效果不算好也不流行，就结论而言确实伤害不到圈外人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905296316248515015",
+        "created_at": "2025-03-27T19:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T20:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905336752778477722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1896237492069871616",
+              "start": 0,
+              "username": "1nnococ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905336752778477722",
+        "in_reply_to_user_id": "1896237492069871616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905296316248515015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nnococ0 氟硝硬要论成瘾也就那样😅论投毒蓝精灵的名号就是因为以前做迷奸药太多所以加上了蓝色素😅苯二氮卓类娱乐效果不算好也不流行，就结论而言确实伤害不到圈外人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896237492069871616",
+        "conversation_id": "1905296316248515015",
+        "created_at": "2025-03-27T16:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T17:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905296316248515015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905296316248515015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的吗我感觉贩毒就是不对啊 就算是被骗了 你从中牟利了完成一个贩毒行为就是不对啊 非要说这件事有什么惋惜就是谁叫你是中国人 不要自己因为别的非法途径牟利多了就觉得你朋友贩毒赚得好少被抓很可怜可以吗 你怎么知道毒品是完全作用在购买的瘾君子自己身上的 而不是用于给无辜的人投毒的 真的是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 503,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1194
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T16:33:51.000Z",
+        "description": "不关注就发私信的全部拉黑 只在评论聊天",
+        "id": "1896237492069871616",
+        "location": "Hong Kong",
+        "name": "Innococo",
+        "pinned_tweet_id": "1904612054952272205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898016269607354370/4ngfNiY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 6,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 100
+        },
+        "username": "1nnococ0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1884912102458188043",
+    "created_at": "2025-02-09T17:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T18:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888634819787325660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492729295445237765",
+          "start": 0,
+          "username": "qiandaojiang201"
+        },
+        {
+          "end": 28,
+          "id": "1774807840039088128",
+          "start": 17,
+          "username": "Rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888634819787325660",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888557666785542498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 @Rainyosora 啊这我也不懂生物分类学啊😅只能说这是牵牛花种子。更多的应该去问三琦毕竟她做过。不做提纯应该是水浸泡24h+搓去种皮+服用30-50t，你要做提纯的话也是去问三琦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1884912102458188043",
+        "created_at": "2025-02-09T17:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888634819787325660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492729295445237765",
+              "start": 0,
+              "username": "qiandaojiang201"
+            },
+            {
+              "end": 28,
+              "id": "1774807840039088128",
+              "start": 17,
+              "username": "Rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888634819787325660",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888557666785542498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 @Rainyosora 啊这我也不懂生物分类学啊😅只能说这是牵牛花种子。更多的应该去问三琦毕竟她做过。不做提纯应该是水浸泡24h+搓去种皮+服用30-50t，你要做提纯的话也是去问三琦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888557663916564481"
+          ]
+        },
+        "author_id": "1492729295445237765",
+        "conversation_id": "1884912102458188043",
+        "created_at": "2025-02-09T11:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888557666785542498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1774807840039088128",
+              "start": 14,
+              "username": "Rainyosora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTFh8ZVh9O",
+              "end": 81,
+              "expanded_url": "https://x.com/qiandaojiang201/status/1888557666785542498/photo/1",
+              "media_key": "3_1888557663916564481",
+              "start": 58,
+              "url": "https://t.co/vTFh8ZVh9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888557666785542498",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885224988611141979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Rainyosora 大神看看这个种子可以么，我想直接用最简单的研磨泡水加蒜瓣方法了 https://t.co/vTFh8ZVh9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 458,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 679
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "啊呜",
+        "id": "1492729295445237765",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823452054658203648/dsGKVXZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 48,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 735
+        },
+        "username": "qiandaojiang201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:35:59.000Z",
+        "description": "•互fo喵,锁推/没fo私我•鱼板很好吃就加上了，本人不吃糖糖•",
+        "id": "1774807840039088128",
+        "name": "༺🍥雨夜空🍥༻",
+        "pinned_tweet_id": "1884513840173572531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800951105632993282/mCXNRcPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 273,
+          "like_count": 1654,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1065
+        },
+        "username": "Rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

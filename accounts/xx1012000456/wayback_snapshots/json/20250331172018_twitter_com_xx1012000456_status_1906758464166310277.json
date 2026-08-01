@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906753782576456032",
+    "created_at": "2025-03-31T17:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906758464166310277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897309588699168768",
+          "start": 0,
+          "username": "right_drugs_knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906758464166310277",
+    "in_reply_to_user_id": "1897309588699168768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906757065797997040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@right_drugs_knl 我觉得是国内伪叙事的大环境下的分支，黄赌毒就是这样，事实上国人也并不信这三害，尤其是前两个。本质上是所谓的共产主义思想隐含的清教徒式行为准则，当然也可以看做是啥都想管的思想源泉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906753782576456032",
+        "created_at": "2025-03-31T17:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906758464166310277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897309588699168768",
+              "start": 0,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906758464166310277",
+        "in_reply_to_user_id": "1897309588699168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906757065797997040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right_drugs_knl 我觉得是国内伪叙事的大环境下的分支，黄赌毒就是这样，事实上国人也并不信这三害，尤其是前两个。本质上是所谓的共产主义思想隐含的清教徒式行为准则，当然也可以看做是啥都想管的思想源泉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897309588699168768",
+        "conversation_id": "1906753782576456032",
+        "created_at": "2025-03-31T17:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906757065797997040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906757065797997040",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906756222235431128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我觉得问题的核心就是管制，国内啥都想管，因为管是权力的体现，同时也有家长主义的思想。你可以把中国政府想象成极度扭曲的家长，她对你真的有别的政府没有的爱，但是一种变态的爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 509,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1270
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 54,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      }
+    ]
+  }
+}

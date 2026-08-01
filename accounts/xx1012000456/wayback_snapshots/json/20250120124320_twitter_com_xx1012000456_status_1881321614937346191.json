@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1881188470720479534",
+    "created_at": "2025-01-20T12:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T13:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881321614937346191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881321614937346191",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881188470720479534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 高考后不仅可以普普通通，甚至还可能抑郁🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1881188470720479534",
+        "created_at": "2025-01-20T12:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T13:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881321614937346191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881321614937346191",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881188470720479534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 高考后不仅可以普普通通，甚至还可能抑郁🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1881188470720479534",
+        "created_at": "2025-01-20T03:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T04:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881188470720479534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881188470720479534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上了大学之后，才发现，原来初中那些成绩好的学生也不过如此嘛，\n但是当时我读初中的时候，估计是老中思想洗脑太严重了，觉得成绩好前三的在我眼里都被神化了，\n高考后才发现他们也不过是普普通通。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 447,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 590
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀关注我加入爱礼教/腿照或日记本推/非常喜欢各种猫/水手服控/🚪77/小号@lanmeiweimaomai 只过眼熟的人/吐槽请勿对号入座/永远18岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "lanmeiweimaomai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 0,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "自用梯子🪜：",
+        "name": "爱礼",
+        "pinned_tweet_id": "1881207041106329986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37200,
+          "following_count": 915,
+          "like_count": 21660,
+          "listed_count": 45,
+          "media_count": 1704,
+          "tweet_count": 23748
+        },
+        "url": "https://t.co/DW6ufDaBlY",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

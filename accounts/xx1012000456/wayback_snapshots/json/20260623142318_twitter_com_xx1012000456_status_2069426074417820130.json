@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069406820746371555",
+    "created_at": "2026-06-23T14:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069426074417820130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069426074417820130",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069406820746371555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeFvn 半衰期不是药物持续时间的，美金刚在我这大概是8-12小时有消退趋势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069406820746371555",
+        "created_at": "2026-06-23T14:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069426074417820130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069426074417820130",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069406820746371555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 半衰期不是药物持续时间的，美金刚在我这大概是8-12小时有消退趋势"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2069406820746371555",
+        "created_at": "2026-06-23T13:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:06:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069406732535926825",
+          "2069406820746371555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069406820746371555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我后悔吃这么多 mjg 了我现在头晕 有点想吐但是一个吐不出来 好像太阳穴那里痛吧 可是这样的效果至少还有3天我好崩溃吧\n（仅个人经历分享，正常剂量医师指导）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 583,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK/US /尊守 X 及国家行为规范\nEN 学习中/國語 OK/不見證/药理 OK/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "pinned_tweet_id": "2067910349643210868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 738,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1615
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

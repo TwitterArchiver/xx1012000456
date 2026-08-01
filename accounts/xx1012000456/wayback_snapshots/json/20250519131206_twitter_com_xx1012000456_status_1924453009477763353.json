@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924365210615427359",
+    "created_at": "2025-05-19T13:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924453009477763353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1205503686912270336",
+          "start": 0,
+          "username": "yajunwwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924453009477763353",
+    "in_reply_to_user_id": "1205503686912270336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924365210615427359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yajunwwz 枪是不难，不过适配又好用的子弹是真没有，也难怪中国以霰弹枪和气枪为主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924365210615427359",
+        "created_at": "2025-05-19T13:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924453009477763353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1205503686912270336",
+              "start": 0,
+              "username": "yajunwwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924453009477763353",
+        "in_reply_to_user_id": "1205503686912270336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924365210615427359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yajunwwz 枪是不难，不过适配又好用的子弹是真没有，也难怪中国以霰弹枪和气枪为主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205503686912270336",
+        "conversation_id": "1924365210615427359",
+        "created_at": "2025-05-19T07:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924365210615427359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924365210615427359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12587,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "武汉枪击案发生后开始感叹中国管制这么严民间咋还会有枪？\n其实中国民间一直有枪，从南到北哪里都有购枪途径。\n西部的斯坦国，西南的金三角，朝鲜俄罗斯蒙古国都有很多办法搞到枪，一台机床手搓的双管霰弹枪和仿六四手枪也很容易搞到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 562,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1526
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T15:04:18.000Z",
+        "description": "店铺：https://t.co/D1435SA7XM 博客：https://t.co/bhwowVEzq0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "j.youzan.com/2ub0kB",
+                "end": 26,
+                "expanded_url": "http://j.youzan.com/2ub0kB",
+                "start": 3,
+                "url": "https://t.co/D1435SA7XM"
+              },
+              {
+                "display_url": "blogger.com/blog/posts/484…",
+                "end": 53,
+                "expanded_url": "https://www.blogger.com/blog/posts/4848814272470825663",
+                "start": 30,
+                "url": "https://t.co/bhwowVEzq0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.youzan.com/2ub0kB",
+                "end": 23,
+                "expanded_url": "https://j.youzan.com/2ub0kB",
+                "start": 0,
+                "url": "https://t.co/2Z925kUG6S"
+              }
+            ]
+          }
+        },
+        "id": "1205503686912270336",
+        "location": "厨房",
+        "name": "亚军&王歪嘴",
+        "pinned_tweet_id": "1924365402668405081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265146085070299136/3xSUb-Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233797,
+          "following_count": 2024,
+          "like_count": 785,
+          "listed_count": 604,
+          "media_count": 8482,
+          "tweet_count": 19212
+        },
+        "url": "https://t.co/2Z925kUG6S",
+        "username": "yajunwwz",
+        "verified": true
+      }
+    ]
+  }
+}

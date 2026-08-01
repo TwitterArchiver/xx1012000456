@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902146872422350861",
+    "created_at": "2025-03-19T07:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T08:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902256637634867376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902256637634867376",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902146872422350861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od 少吗？至少一年前就已经有很多实验了，下一代pr预定了😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1902146855414517760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmXIfKub0AAvKOX.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1902146855414460418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmXIfKua8AIW1yy.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902146872422350861",
+        "created_at": "2025-03-19T07:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T08:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902256637634867376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902256637634867376",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902146872422350861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 少吗？至少一年前就已经有很多实验了，下一代pr预定了😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902146855414517760",
+            "3_1902146855414460418"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1902146872422350861",
+        "created_at": "2025-03-18T23:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T00:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902146872422350861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxQdNh7xGV",
+              "end": 33,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1902146872422350861/photo/1",
+              "media_key": "3_1902146855414517760",
+              "start": 10,
+              "url": "https://t.co/mxQdNh7xGV"
+            },
+            {
+              "display_url": "pic.x.com/mxQdNh7xGV",
+              "end": 33,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1902146872422350861/photo/1",
+              "media_key": "3_1902146855414460418",
+              "start": 10,
+              "url": "https://t.co/mxQdNh7xGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902146872422350861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2079,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个药玩的人很少啊 https://t.co/mxQdNh7xGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 482,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 962
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神 本账号为多人账号 发广告和发几把照片的直接拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1901216591343391081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 4438,
+          "like_count": 2949,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      }
+    ]
+  }
+}

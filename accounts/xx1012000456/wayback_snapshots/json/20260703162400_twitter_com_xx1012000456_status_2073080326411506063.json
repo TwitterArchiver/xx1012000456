@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073030244626530384",
+    "created_at": "2026-07-03T16:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073080326411506063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073080326411506063",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073030244626530384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx 我个人观点美金刚=时间偏长的金刚烷胺😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073030244626530384",
+        "created_at": "2026-07-03T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073080326411506063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073080326411506063",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073030244626530384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我个人观点美金刚=时间偏长的金刚烷胺😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073030244626530384",
+        "created_at": "2026-07-03T13:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073030244626530384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073030244626530384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然世界上许多事物的效果并非简单的加减法，但是更接近美金刚 = 右美沙芬 + 金刚烷胺还是金刚烷胺=美金刚+谵妄剂（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 646,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 632,
+          "like_count": 14634,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 6070
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

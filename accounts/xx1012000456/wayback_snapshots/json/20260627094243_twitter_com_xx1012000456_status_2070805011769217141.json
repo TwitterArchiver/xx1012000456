@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070773344522346758",
+    "created_at": "2026-06-27T09:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070805011769217141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "linlin444444"
+        },
+        {
+          "end": 25,
+          "id": "1962425480612851712",
+          "start": 14,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070805011769217141",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070798747542643049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin444444 @yaowubaike 另一位是谁啊😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070773344522346758",
+        "created_at": "2026-06-27T09:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070805011769217141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            },
+            {
+              "end": 25,
+              "id": "1962425480612851712",
+              "start": 14,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070805011769217141",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070798747542643049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 @yaowubaike 另一位是谁啊😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2070773344522346758",
+        "created_at": "2026-06-27T09:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070798747542643049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070798747542643049",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070773344522346758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 你林在你圈谈过两位传奇能不能算个传奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 612,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 56,
+          "like_count": 398,
+          "listed_count": 12,
+          "media_count": 26,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4998,
+          "following_count": 55,
+          "like_count": 686,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893887414864666819",
+    "created_at": "2025-02-24T18:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T19:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894091675493929162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894091675493929162",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893887414864666819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 意义在于你至少能插上去，usb、SATA不也是分三六九等吗😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_1893887404768964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkhwj3XXMAA8t_1.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893887414864666819",
+        "created_at": "2025-02-24T18:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T19:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894091675493929162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894091675493929162",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893887414864666819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 意义在于你至少能插上去，usb、SATA不也是分三六九等吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893887404768964608"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1893887414864666819",
+        "created_at": "2025-02-24T04:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893887414864666819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTdMu2CZGw",
+              "end": 34,
+              "expanded_url": "https://x.com/JianLv117/status/1893887414864666819/photo/1",
+              "media_key": "3_1893887404768964608",
+              "start": 11,
+              "url": "https://t.co/lTdMu2CZGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893887414864666819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 31182,
+          "like_count": 270,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "统一接口的意义是啥? https://t.co/lTdMu2CZGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 468,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 790
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史 汴京❌\n 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵华北人\n可互关(需私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1893887414864666819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13602,
+          "following_count": 880,
+          "like_count": 49675,
+          "listed_count": 56,
+          "media_count": 2348,
+          "tweet_count": 6021
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

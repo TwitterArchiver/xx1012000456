@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071939124278530222",
+    "created_at": "2026-06-30T15:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071973500651532534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256757256214818818",
+          "start": 0,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071973500651532534",
+    "in_reply_to_user_id": "1256757256214818818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071939124278530222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuimuRena 依旧长期未见耐受和依赖hhhhh🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071939113960251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEBpYPWoAAdnac.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2071939113960284160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEBpYPXIAAG663.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071939124278530222",
+        "created_at": "2026-06-30T15:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071973500651532534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973500651532534",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071939124278530222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena 依旧长期未见耐受和依赖hhhhh🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071939113960251392",
+            "3_2071939113960284160"
+          ]
+        },
+        "author_id": "1256757256214818818",
+        "conversation_id": "2071939124278530222",
+        "created_at": "2026-06-30T12:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071939124278530222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CATjQJXpZy",
+              "end": 33,
+              "expanded_url": "https://x.com/GuimuRena/status/2071939124278530222/photo/1",
+              "media_key": "3_2071939113960251392",
+              "start": 10,
+              "url": "https://t.co/CATjQJXpZy"
+            },
+            {
+              "display_url": "pic.x.com/CATjQJXpZy",
+              "end": 33,
+              "expanded_url": "https://x.com/GuimuRena/status/2071939124278530222/photo/1",
+              "media_key": "3_2071939113960284160",
+              "start": 10,
+              "url": "https://t.co/CATjQJXpZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071939124278530222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肺炎开到ymsf了 https://t.co/CATjQJXpZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 633,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "氿木レナです💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "OD"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "リスカ"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "病み垢"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZHJN"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 404,
+          "like_count": 895,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/EZHEMbZHJN",
+        "username": "GuimuRena",
+        "verified": false
+      }
+    ]
+  }
+}

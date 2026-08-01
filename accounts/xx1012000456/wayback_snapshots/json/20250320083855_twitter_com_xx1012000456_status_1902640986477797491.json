@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902491239242747913",
+    "created_at": "2025-03-20T08:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T09:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902640986477797491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902640986477797491",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902631720236789768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 平常更容易抑郁是对的，类似于抗郁剂不能立刻停药，急停会反弹。脱敏可能性存在但我不敢确认，我自己一般也是SSRI1-2年内逐渐加量，加到上限后换药，我不知道是不是普遍现象，毕竟非双相的长抑郁其实很少见"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902631720236789768].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902631720236789768",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902631720236789768"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902491239242747913",
+        "created_at": "2025-03-20T08:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T09:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902640986477797491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902640986477797491",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902631720236789768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 平常更容易抑郁是对的，类似于抗郁剂不能立刻停药，急停会反弹。脱敏可能性存在但我不敢确认，我自己一般也是SSRI1-2年内逐渐加量，加到上限后换药，我不知道是不是普遍现象，毕竟非双相的长抑郁其实很少见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 989
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1896156483093778815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 55,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 4602
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

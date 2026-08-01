@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1841587145263480939",
+    "created_at": "2024-10-02T21:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T22:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841587145263480939"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "右美"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "抽奖福利"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "白云山"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741018940237615104",
+          "start": 3,
+          "username": "mtxyy01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841587145263480939",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841362297073377572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtxyy01: 现在右美沙芬预订开始，十月三号上班，五盒有九折优惠，按公司要求售完为止\n帮忙转发此推特我举办一个粉丝抽奖福利，在转发里抽三位送3盒右美\n#右美沙芬 #右美 #抽奖福利 #白云山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1841587145263480939",
+        "created_at": "2024-10-02T21:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T22:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841587145263480939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "右美"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "抽奖福利"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "白云山"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741018940237615104",
+              "start": 3,
+              "username": "mtxyy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841587145263480939",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841362297073377572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtxyy01: 现在右美沙芬预订开始，十月三号上班，五盒有九折优惠，按公司要求售完为止\n帮忙转发此推特我举办一个粉丝抽奖福利，在转发里抽三位送3盒右美\n#右美沙芬 #右美 #抽奖福利 #白云山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741018940237615104",
+        "conversation_id": "1841362297073377572",
+        "created_at": "2024-10-02T06:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841362297073377572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "右美"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "抽奖福利"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "白云山"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mtxyy01/status…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/mtxyy01/status/1841341743071105368",
+              "start": 89,
+              "url": "https://t.co/nO2dswLOiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841362297073377572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841341743071105368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在右美沙芬预订开始，十月三号上班，五盒有九折优惠，按公司要求售完为止\n帮忙转发此推特我举办一个粉丝抽奖福利，在转发里抽三位送3盒右美\n#右美沙芬 #右美 #抽奖福利 #白云山 https://t.co/nO2dswLOiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 214,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 50
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T08:50:43.000Z",
+        "description": "主营OTC 、处方药，日常经营品规一万多种，支持1件发货。普瑞、可待因、舍曲林、金刚烷胺… https://t.co/TB3Q3ut2pE (注意近期有套皮本人账号，满天星唯一账号请认准@mtxyy01)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mtxyy01"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTXYYGX",
+                "end": 69,
+                "expanded_url": "https://t.me/MTXYYGX",
+                "start": 46,
+                "url": "https://t.co/TB3Q3ut2pE"
+              }
+            ]
+          }
+        },
+        "id": "1741018940237615104",
+        "location": "华源医药公司",
+        "name": "满天星医药公司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827961718695460864/dvO1vwnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 420,
+          "like_count": 87,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "mtxyy01",
+        "verified": false
+      }
+    ]
+  }
+}

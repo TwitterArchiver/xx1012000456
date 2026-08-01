@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1918928496338121170",
+    "created_at": "2025-05-04T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919140044578881995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919140044578881995",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918929826452271581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 再摄取抑制原理和底物本身的相似性强相关吗？我个人表示怀疑。两个苯环+低极性确实强化了脂溶性这点肯定没错。本质上这东西其实和哌甲酯亲缘关系更近，心脏毒性存疑，不过确实滥用潜力不大是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1918928496338121170",
+        "created_at": "2025-05-04T21:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T22:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919140044578881995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919140044578881995",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918929826452271581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 再摄取抑制原理和底物本身的相似性强相关吗？我个人表示怀疑。两个苯环+低极性确实强化了脂溶性这点肯定没错。本质上这东西其实和哌甲酯亲缘关系更近，心脏毒性存疑，不过确实滥用潜力不大是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1918928496338121170",
+        "created_at": "2025-05-04T07:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918929826452271581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918929826452271581",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918928496338121170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其阿尔法位的羟基并不是一无是处🤣，这使他于去甲肾上腺素有了结构相似性…能解释其为何倾向于去甲肾上腺素再摄取🤣🤣🤣\n此外，d2pm会激活β1，β2，β3受体…………你滴小心心会爆炸捏🤣🤣🤣，总之千万别用！想想你猝死会不会有人救吧！🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 548,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1479
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 不推荐任何人使用我提到的药品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yiqunfeiwu",
+                "end": 23,
+                "expanded_url": "https://t.me/yiqunfeiwu",
+                "start": 0,
+                "url": "https://t.co/Nc6Ly3FTVF"
+              }
+            ]
+          }
+        },
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884396929767071746/vz8FuozQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 47,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/Nc6Ly3FTVF",
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

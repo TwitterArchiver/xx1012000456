@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1912330706711376141",
+    "created_at": "2025-04-16T10:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912447923432087911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850263631793160192",
+          "start": 0,
+          "username": "bad_blood357"
+        },
+        {
+          "end": 25,
+          "id": "1699445300950093824",
+          "start": 14,
+          "username": "kansj68531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912447923432087911",
+    "in_reply_to_user_id": "1850263631793160192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912445833875976387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bad_blood357 @kansj68531 她不是香港人或长期定居香港的吗😅国人还敢做这生意啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1912330706711376141",
+        "created_at": "2025-04-16T10:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912447923432087911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850263631793160192",
+              "start": 0,
+              "username": "bad_blood357"
+            },
+            {
+              "end": 25,
+              "id": "1699445300950093824",
+              "start": 14,
+              "username": "kansj68531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912447923432087911",
+        "in_reply_to_user_id": "1850263631793160192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912445833875976387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bad_blood357 @kansj68531 她不是香港人或长期定居香港的吗😅国人还敢做这生意啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850263631793160192",
+        "conversation_id": "1912330706711376141",
+        "created_at": "2025-04-16T09:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912445833875976387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 25,
+              "id": "1386670401422434304",
+              "start": 12,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912445833875976387",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912436175400562828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @xx1012000456 对，优格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 523,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1399
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T19:50:10.000Z",
+        "description": "这里是坏血。平面设计师、调酒师、酿酒师、咖啡师。喜欢玩电吉他、od、主机游戏。",
+        "id": "1850263631793160192",
+        "name": "坏血",
+        "pinned_tweet_id": "1906428475713732609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851326776133521408/A4XDJK4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 139,
+          "like_count": 2245,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1442
+        },
+        "username": "bad_blood357",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "会回复用药咨询，但不闲聊，想聊天请过🚪。",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1912053212850589786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 51,
+          "like_count": 606,
+          "listed_count": 10,
+          "media_count": 15,
+          "tweet_count": 42
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072870973016314344",
+    "created_at": "2026-07-03T05:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072910660485435717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1048554633029984256",
+          "start": 0,
+          "username": "nanakawaii_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072910660485435717",
+    "in_reply_to_user_id": "1048554633029984256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072870973016314344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakawaii_01 真没人管的，我带了一盒气弹都没人管😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072870973016314344",
+        "created_at": "2026-07-03T05:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072910660485435717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1048554633029984256",
+              "start": 0,
+              "username": "nanakawaii_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072910660485435717",
+        "in_reply_to_user_id": "1048554633029984256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072870973016314344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakawaii_01 真没人管的，我带了一盒气弹都没人管😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048554633029984256",
+        "conversation_id": "2072870973016314344",
+        "created_at": "2026-07-03T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072870973016314344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072870973016314344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带红普坐地铁会被安检员拦住盘问吗 就只带一盒然后拆开外包装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 638,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1852
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-06T12:44:40.000Z",
+        "description": "超典型拜金女｜私信只回🚪相关｜88🚪不闲聊｜里账号@nanakawaii_02｜漂亮女孩欢迎互fo！想认识更多朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "nanakawaii_02"
+              }
+            ]
+          }
+        },
+        "id": "1048554633029984256",
+        "location": "88/288/520/1314",
+        "name": "小挞堡",
+        "pinned_tweet_id": "2071280614997889136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069391510802677760/iQ5Z7KIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 50,
+          "like_count": 387,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "nanakawaii_01",
+        "verified": false
+      }
+    ]
+  }
+}

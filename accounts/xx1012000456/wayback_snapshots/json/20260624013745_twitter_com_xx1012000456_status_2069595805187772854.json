@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069592669077295390",
+    "created_at": "2026-06-24T01:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069595805187772854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069595805187772854",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069592669077295390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 这个叙述是不准确的嗷，我是那个一年的当事人之一，建议想问港美法律问题的私我😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_2069591859265990656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiq1LGW8AAD1r9.jpg",
+        "width": 551
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069592669077295390",
+        "created_at": "2026-06-24T01:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069595805187772854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069595805187772854",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069592669077295390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 这个叙述是不准确的嗷，我是那个一年的当事人之一，建议想问港美法律问题的私我😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069591859265990656"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "conversation_id": "2069592669077295390",
+        "created_at": "2026-06-24T01:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069592669077295390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vrQKWSKbL",
+              "end": 170,
+              "expanded_url": "https://x.com/zyj156383/status/2069592669077295390/photo/1",
+              "media_key": "3_2069591859265990656",
+              "start": 147,
+              "url": "https://t.co/5vrQKWSKbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069592669077295390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此贴作为港美专题 首先橙子疑似走私人亲自发货大肆宣传 买家构成间接走私  其次去年有个卖走私港美落网的 虽然卖家是下线不是走私人卖的 但是二三十个买家都被度假37天 有两个被批捕关了一年 而这个橙子大摇大摆卖走私抓也是时间问题 如果他被抓 买家在哪都跑不掉 所以为了大家安全 请勿购买走私港美 https://t.co/5vrQKWSKbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 589,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069364990478532748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 424,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

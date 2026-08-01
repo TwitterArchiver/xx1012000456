@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924409292653748697",
+    "created_at": "2025-05-19T19:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T20:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924542870842929554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1413528363084488706",
+          "start": 0,
+          "username": "fjekwlfhgueqrh"
+        },
+        {
+          "end": 23,
+          "id": "1602328096622800896",
+          "start": 16,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924542870842929554",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924541574220042306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjekwlfhgueqrh @dutyge 后者：极大资源输出换取货币，同时回流回国并大力发展生产力，匹配剩余部分资源生产产品满足消费需求。\n前者类似于纯赛博时代，需要政府大力投资科技发展且大量再分配弥补消费能力和意愿，大概是中国改开+美国科技+日本昭和全中产+准共产分配。\n后者类似如今中东石油国，同时建立类似如今中国的产业链"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924409292653748697",
+        "created_at": "2025-05-19T19:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T20:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924542870842929554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1413528363084488706",
+              "start": 0,
+              "username": "fjekwlfhgueqrh"
+            },
+            {
+              "end": 23,
+              "id": "1602328096622800896",
+              "start": 16,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924542870842929554",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924541574220042306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjekwlfhgueqrh @dutyge 后者：极大资源输出换取货币，同时回流回国并大力发展生产力，匹配剩余部分资源生产产品满足消费需求。\n前者类似于纯赛博时代，需要政府大力投资科技发展且大量再分配弥补消费能力和意愿，大概是中国改开+美国科技+日本昭和全中产+准共产分配。\n后者类似如今中东石油国，同时建立类似如今中国的产业链"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924409292653748697",
+        "created_at": "2025-05-19T19:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T20:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924541574220042306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1413528363084488706",
+              "start": 0,
+              "username": "fjekwlfhgueqrh"
+            },
+            {
+              "end": 23,
+              "id": "1602328096622800896",
+              "start": 16,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924541574220042306",
+        "in_reply_to_user_id": "1413528363084488706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924411815406006656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjekwlfhgueqrh @dutyge 并不需要，同时成为最大消费和最大生产理论上有两个模型，基于自循环、基于外贸的超级生产与超级消费。这里单纯评价生产力与资源两个部分的交互，可以货币仅起到交换作用故可省略。\n前者：极大生产力可满足所有人需求甚至有盈余，资源到商品远远不断或极大溢出。但生产意愿应极小甚至归零。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1547
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T16:00:15.000Z",
+        "description": "",
+        "id": "1413528363084488706",
+        "name": "Tweeter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672184272348651521/1X4-TvAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 216,
+          "like_count": 802,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 4047
+        },
+        "username": "fjekwlfhgueqrh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26381,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 103,
+          "media_count": 6542,
+          "tweet_count": 9917
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

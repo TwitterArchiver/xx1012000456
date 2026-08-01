@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1866091924563931420",
+    "created_at": "2024-12-09T13:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T14:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866116008622313735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866116008622313735",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866102025966244190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 神待啊😅等待神明的少女，是吧金主美化为神明的说法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1866091924563931420",
+        "created_at": "2024-12-09T13:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T14:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866116008622313735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866116008622313735",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866102025966244190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 神待啊😅等待神明的少女，是吧金主美化为神明的说法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1866091924563931420",
+        "created_at": "2024-12-09T12:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T13:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866102025966244190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866102025966244190",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866091924563931420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等等，到底是待还是侍啊？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 380,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 354
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "7k粉大号被封了｜ig： yanyan_kawal｜06｜INFP｜ 高中生｜だいこん｜萝卜哥｜裹垢@luobonoai｜⬇️Q&A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "luobonoai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kawa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanyan_kawa1",
+                "start": 0,
+                "url": "https://t.co/eCfNGuj7YJ"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "🚪188｜388｜520｜1314",
+        "name": "萝卜哥（上学版）",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865702435253329920/akBP238X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 92,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/eCfNGuj7YJ",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

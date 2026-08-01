@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-26T12:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T13:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872251682840789440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847909934203097088",
+          "start": 0,
+          "username": "momoisaiba15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872251682840789440",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872250912758194361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoisaiba15 我照着右美的分子看了半天也没找到谁能给这个配位杂化轨道，具体问他他支支吾吾连哪个原子配位都说不出。这可不是记忆模糊或参考错误的反应（我曾说过R氯胺酮更主管镇痛麻醉，因为我看到过R结合阿片受体能力强，实际仍是S镇痛效果好，有文献）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T12:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872251682840789440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872251682840789440",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872250912758194361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 我照着右美的分子看了半天也没找到谁能给这个配位杂化轨道，具体问他他支支吾吾连哪个原子配位都说不出。这可不是记忆模糊或参考错误的反应（我曾说过R氯胺酮更主管镇痛麻醉，因为我看到过R结合阿片受体能力强，实际仍是S镇痛效果好，有文献）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T11:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872250912758194361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872250912758194361",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872245809154347242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 不只是我啊，叶经理、xiaosong这几位可都说了学术上的错误，我这里要算个例，怎么他在这么多人面前都是这幅德行呢？此外有些学术的问题你可能不理解，比如“右美需要氢溴酸化才能被人体吸收”，这句话意思是“只有”氢溴酸（溴离子）有配位效应才能达到此效果。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 400,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 411
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:59:34.000Z",
+        "description": "",
+        "id": "1847909934203097088",
+        "name": "natsuki_natsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847910631954911232/vY6AuUM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 719,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "momoisaiba15",
+        "verified": false
+      }
+    ]
+  }
+}

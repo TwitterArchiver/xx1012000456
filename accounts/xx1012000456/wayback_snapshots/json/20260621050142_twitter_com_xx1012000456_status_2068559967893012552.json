@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068090379308835179",
+    "created_at": "2026-06-21T05:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068559967893012552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 25,
+          "id": "1962425480612851712",
+          "start": 14,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068559967893012552",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068556053818781955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @yaowubaike 欺负圈子里新人更迭互联网没有记忆？被造谣了不辟谣装死一年多回来就翻案？自己那些漏洞百出的wiki内容和理论合着不是你说的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068090379308835179",
+        "created_at": "2026-06-21T05:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068559967893012552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 25,
+              "id": "1962425480612851712",
+              "start": 14,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559967893012552",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068556053818781955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @yaowubaike 欺负圈子里新人更迭互联网没有记忆？被造谣了不辟谣装死一年多回来就翻案？自己那些漏洞百出的wiki内容和理论合着不是你说的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "2068090379308835179",
+        "created_at": "2026-06-21T04:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068556053818781955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1962425480612851712",
+              "start": 14,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068556053818781955",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068481021344170010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @yaowubaike 在那只知道哪来的谣言了，事都翻案了，你还在这乃不知有汉。鸡哥和个吃阿片吃癫说的疯话都信看你也没聪明到哪去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 549,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1708
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "",
+        "id": "1700948552078467072",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 73,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 744,
+          "tweet_count": 7299
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4903,
+          "following_count": 54,
+          "like_count": 672,
+          "listed_count": 6,
+          "media_count": 83,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

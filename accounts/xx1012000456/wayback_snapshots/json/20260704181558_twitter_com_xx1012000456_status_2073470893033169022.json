@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071620126039040465",
+    "created_at": "2026-07-04T18:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073470893033169022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498364258652164096",
+          "start": 0,
+          "username": "haohaomantax"
+        },
+        {
+          "end": 28,
+          "id": "1998751032650969088",
+          "start": 14,
+          "username": "Fox_Sakura233"
+        },
+        {
+          "end": 39,
+          "id": "3022697779",
+          "start": 29,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073470893033169022",
+    "in_reply_to_user_id": "1498364258652164096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073469566400008249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaomantax @Fox_Sakura233 @RXdruglab 是的，我这一系人物连判决都查不到，甚至可能还没判😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071620126039040465",
+        "created_at": "2026-07-04T18:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073470893033169022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498364258652164096",
+              "start": 0,
+              "username": "haohaomantax"
+            },
+            {
+              "end": 28,
+              "id": "1998751032650969088",
+              "start": 14,
+              "username": "Fox_Sakura233"
+            },
+            {
+              "end": 39,
+              "id": "3022697779",
+              "start": 29,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073470893033169022",
+        "in_reply_to_user_id": "1498364258652164096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073469566400008249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaomantax @Fox_Sakura233 @RXdruglab 是的，我这一系人物连判决都查不到，甚至可能还没判😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498364258652164096",
+        "conversation_id": "2071620126039040465",
+        "created_at": "2026-07-04T18:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073469566400008249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 28,
+              "id": "1998751032650969088",
+              "start": 14,
+              "username": "Fox_Sakura233"
+            },
+            {
+              "end": 39,
+              "id": "3022697779",
+              "start": 29,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073469566400008249",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072295514155151459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Fox_Sakura233 @RXdruglab 优格案到现在都没有公示啊，我只在网上查到关于浙江侦破的“部目标2025-59”号毒品案件，只能看到涉案人数，具体情况还真找不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 655,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1878
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T18:27:37.000Z",
+        "description": "个人简介：男 02 问事卜卦私信我，虽然不经常在线就是了，找不到我联系qq：2625146010",
+        "id": "1498364258652164096",
+        "location": "＜100km",
+        "name": "钗钏金",
+        "pinned_tweet_id": "1914128550070009920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055130194755919872/zm3T9zeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 6,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "haohaomantax",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 519,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19702,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1830
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

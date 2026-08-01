@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1872619499251515692",
+    "created_at": "2024-12-28T17:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T18:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873053945096224808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862544472590229504",
+          "start": 0,
+          "username": "DongJunyan84887"
+        },
+        {
+          "end": 27,
+          "id": "3022697779",
+          "start": 17,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873053945096224808",
+    "in_reply_to_user_id": "1862544472590229504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873043348682096764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongJunyan84887 @RXdruglab 100-150左右吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1872619499251515692",
+        "created_at": "2024-12-28T17:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T18:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873053945096224808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862544472590229504",
+              "start": 0,
+              "username": "DongJunyan84887"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873053945096224808",
+        "in_reply_to_user_id": "1862544472590229504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873043348682096764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongJunyan84887 @RXdruglab 100-150左右吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862544472590229504",
+        "conversation_id": "1872619499251515692",
+        "created_at": "2024-12-28T16:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873043348682096764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "3022697779",
+              "start": 14,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873043348682096764",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873040664281399382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @RXdruglab 你加水提取大概加了多少水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 402,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 426
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T17:09:57.000Z",
+        "description": "",
+        "id": "1862544472590229504",
+        "name": "KOCH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862544540848332806/zVBPShhZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "DongJunyan84887",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876558130504769949",
+    "created_at": "2025-01-07T11:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T12:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876595879848886705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876595879848886705",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876558130504769949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 又有好东西了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876558130504769949",
+        "created_at": "2025-01-07T11:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876595879848886705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876595879848886705",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876558130504769949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 又有好东西了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876558119863717888"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1876558130504769949",
+        "created_at": "2025-01-07T09:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876558130504769949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cK3I3OyZ6u",
+              "end": 45,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1876558130504769949/photo/1",
+              "media_key": "3_1876558119863717888",
+              "start": 22,
+              "url": "https://t.co/cK3I3OyZ6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876558130504769949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新产品7-Me-DMT（死藤）\n\n与🌵对比 https://t.co/cK3I3OyZ6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 422,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 476
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "有利他林合法替代品，有大量高性价比促智药、抗抑郁药（抗抑郁促智双效）、不销售任何非法产品想快速回复TG✈️：@paitangcuzhi2｜初级生物黑客｜低质量健康科学媒体｜低级科学工作者｜高级促智药供应服务商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️Ye經理不是利他林",
+        "pinned_tweet_id": "1876234475849547893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8465,
+          "following_count": 338,
+          "like_count": 5940,
+          "listed_count": 25,
+          "media_count": 1286,
+          "tweet_count": 10742
+        },
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

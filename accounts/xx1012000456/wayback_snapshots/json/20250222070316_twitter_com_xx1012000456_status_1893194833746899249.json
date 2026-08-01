@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893179100615069974",
+    "created_at": "2025-02-22T07:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T08:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893194833746899249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670452601891229697",
+          "start": 0,
+          "username": "miya_Az1uya"
+        },
+        {
+          "end": 29,
+          "id": "1649404613764988930",
+          "start": 13,
+          "username": "zhaizhaiwa56701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893194833746899249",
+    "in_reply_to_user_id": "1670452601891229697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893192703917138258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miya_Az1uya @zhaizhaiwa56701 不如白兔，咖啡因和双氢可待因都能止止痛😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893179100615069974",
+        "created_at": "2025-02-22T07:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T08:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893194833746899249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670452601891229697",
+              "start": 0,
+              "username": "miya_Az1uya"
+            },
+            {
+              "end": 29,
+              "id": "1649404613764988930",
+              "start": 13,
+              "username": "zhaizhaiwa56701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893194833746899249",
+        "in_reply_to_user_id": "1670452601891229697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893192703917138258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miya_Az1uya @zhaizhaiwa56701 不如白兔，咖啡因和双氢可待因都能止止痛😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670452601891229697",
+        "conversation_id": "1893179100615069974",
+        "created_at": "2025-02-22T06:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T07:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893192703917138258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649404613764988930",
+              "start": 0,
+              "username": "zhaizhaiwa56701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893192703917138258",
+        "in_reply_to_user_id": "1649404613764988930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893179100615069974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaizhaiwa56701 妹子你可以吃玉米片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 762
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T15:25:17.000Z",
+        "description": "把辛苦的事都忘掉 去睡觉吧",
+        "id": "1670452601891229697",
+        "location": "🚪98/188/288/520纯绿",
+        "name": "冰冷的玉子烧",
+        "pinned_tweet_id": "1847628435230986305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792054578755809281/l1OUuCZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 163,
+          "like_count": 4260,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1996
+        },
+        "username": "miya_Az1uya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T13:28:11.000Z",
+        "description": "阴暗死宅玻璃心👁️👁️",
+        "id": "1649404613764988930",
+        "location": "💤💤💤",
+        "name": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+        "pinned_tweet_id": "1888815004444741943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860022472307015681/CB1hZAuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 85,
+          "like_count": 9009,
+          "listed_count": 4,
+          "media_count": 661,
+          "tweet_count": 5261
+        },
+        "username": "zhaizhaiwa56701",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904795201790754962",
+    "created_at": "2025-03-26T09:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T10:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904822338723733841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904822338723733841",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904795201790754962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 可以是可以但一般氯硝到7真就不差左匹的1了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904795201790754962",
+        "created_at": "2025-03-26T09:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904822338723733841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904822338723733841",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904795201790754962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 可以是可以但一般氯硝到7真就不差左匹的1了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1904795201790754962",
+        "created_at": "2025-03-26T07:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904795201790754962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904795201790754962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 995,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氯硝西泮能不能和阿佐匹克隆一起吃，7+1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 501,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1137
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "只回复正常信息和门槛相关｜没回就是没看到",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1904614294962266115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904707861244239872/ASr4Muv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41007,
+          "following_count": 355,
+          "like_count": 2088,
+          "listed_count": 78,
+          "media_count": 165,
+          "tweet_count": 940
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1899689278558666907",
+    "created_at": "2025-03-12T09:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899747622832746756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733016836552437761",
+          "start": 0,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899747622832746756",
+    "in_reply_to_user_id": "733016836552437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899689278558666907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starlightcaesar 错误的，这大概率是双相，大部分双相会被初次诊断为抑郁，且抗郁药物有可能诱发躁狂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899689278558666907",
+        "created_at": "2025-03-12T09:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899747622832746756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733016836552437761",
+              "start": 0,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899747622832746756",
+        "in_reply_to_user_id": "733016836552437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899689278558666907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starlightcaesar 错误的，这大概率是双相，大部分双相会被初次诊断为抑郁，且抗郁药物有可能诱发躁狂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733016836552437761",
+        "conversation_id": "1899689278558666907",
+        "created_at": "2025-03-12T05:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T06:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899689278558666907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899689278558666907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 39657,
+          "like_count": 501,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我发现很多人对抑郁症真的是一点常识都没有。抑郁症不会让人变得易怒、狂躁、暴力。正相反，抑郁症会让人对一切提不起兴趣，变得沉默、迟钝、沮丧。如果一个抑郁症患者在面对羞辱和背叛时暴跳如雷，在受到威胁时抽刀自卫，那不是因为抑郁症，而是因为每个正常人都会这样。😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 880
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless.\n\nYouTube:安争鸣/小鸣说",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690345340229341184/ghEkUsA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18703,
+          "following_count": 216,
+          "like_count": 14636,
+          "listed_count": 74,
+          "media_count": 599,
+          "tweet_count": 1721
+        },
+        "username": "starlightcaesar",
+        "verified": false
+      }
+    ]
+  }
+}

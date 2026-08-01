@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871785363771199636",
+    "created_at": "2024-12-25T07:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T08:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871821819076046867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871821819076046867",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871785363771199636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 烧毁受体我知道的医学例子只有大戟毒素-疼痛感受器或神经，伊博格碱-阿片类受体。能破坏受体的都可以说是毒剂了，人先挂的可能性比较大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871785363771199636",
+        "created_at": "2024-12-25T07:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T08:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871821819076046867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871821819076046867",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871785363771199636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 烧毁受体我知道的医学例子只有大戟毒素-疼痛感受器或神经，伊博格碱-阿片类受体。能破坏受体的都可以说是毒剂了，人先挂的可能性比较大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456231777224347651",
+        "conversation_id": "1871785363771199636",
+        "created_at": "2024-12-25T05:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T06:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871785363771199636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871785363771199636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内最常见的说法就是没有adhd的人，吃专注达脑子就烧坏了。\n\n医学剂量下真的会烧坏吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 397,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 398
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1864929593679057128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 37,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1826
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895802664459649046",
+    "created_at": "2025-03-03T13:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896560875643031843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        },
+        {
+          "end": 22,
+          "id": "3022697779",
+          "start": 12,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896560875643031843",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896555267703386616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 @RXdruglab NBOMe本质上并不是一类物质而是一个基于胺类结构的N-苄基甲氧基的修饰分支，你可以理解为凡是有单胺尤其是未修饰的乙胺结构的物质都有对应的NBOMe产物，基于苯乙胺和卡西酮的NBOMe大多都是列管物，当然要仔细翻肯定有合法的结构"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895802664459649046",
+        "created_at": "2025-03-03T13:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896560875643031843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 22,
+              "id": "3022697779",
+              "start": 12,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896560875643031843",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896555267703386616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @RXdruglab NBOMe本质上并不是一类物质而是一个基于胺类结构的N-苄基甲氧基的修饰分支，你可以理解为凡是有单胺尤其是未修饰的乙胺结构的物质都有对应的NBOMe产物，基于苯乙胺和卡西酮的NBOMe大多都是列管物，当然要仔细翻肯定有合法的结构"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1895802664459649046",
+        "created_at": "2025-03-03T13:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896555267703386616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896555267703386616",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896554198520721526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab NBOMe属于合法物质吗，在国内网购平台能买到吗（在搜索隐秘关键词的前提）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 477,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 841
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893342666727047168/OX5StDTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 29,
+          "like_count": 604,
+          "listed_count": 9,
+          "media_count": 7,
+          "tweet_count": 52
+        },
+        "username": "kansj68531",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13557,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 13,
+          "media_count": 23,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

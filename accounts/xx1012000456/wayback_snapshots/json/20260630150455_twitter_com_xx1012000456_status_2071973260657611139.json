@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071900366812463378",
+    "created_at": "2026-06-30T15:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071973260657611139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813261726391148546",
+          "start": 0,
+          "username": "James483582762"
+        },
+        {
+          "end": 30,
+          "id": "1757301585305374720",
+          "start": 16,
+          "username": "gummybear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071973260657611139",
+    "in_reply_to_user_id": "1813261726391148546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071972802559918160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James483582762 @gummybear8964 兄弟我已经在里面待够一年了，还缓啥啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071900366812463378",
+        "created_at": "2026-06-30T15:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071973260657611139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813261726391148546",
+              "start": 0,
+              "username": "James483582762"
+            },
+            {
+              "end": 30,
+              "id": "1757301585305374720",
+              "start": 16,
+              "username": "gummybear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973260657611139",
+        "in_reply_to_user_id": "1813261726391148546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071972802559918160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James483582762 @gummybear8964 兄弟我已经在里面待够一年了，还缓啥啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813261726391148546",
+        "conversation_id": "2071900366812463378",
+        "created_at": "2026-06-30T15:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071972802559918160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 28,
+              "id": "1757301585305374720",
+              "start": 14,
+              "username": "gummybear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071972802559918160",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071920958907220363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @gummybear8964 能争取判一缓一吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 633,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2069426260850167864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 634,
+          "like_count": 11589,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "James483582762",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T07:12:15.000Z",
+        "description": "草草草草草草草草草草草\nHe/Him, They/Them\nA big gamer, noob developer, 420 friendly.\nA lamb from utopian",
+        "id": "1757301585305374720",
+        "location": "Costa Mesa, CA",
+        "name": "吃草草草草草草莓呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035192907125395456/w8-Gc6OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 61,
+          "like_count": 43,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "gummybear8964",
+        "verified": false
+      }
+    ]
+  }
+}

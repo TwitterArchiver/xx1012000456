@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925594474090307868",
+    "created_at": "2025-05-23T13:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T14:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925913248970203397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925913248970203397",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925594474090307868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem 不觉得怪锂剂，癫痫应该跟锂关系不大。专问题挺大的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925594463218642944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrkV9kmbMAAa8my.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925594463185059840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrkV9keawAAnf9T.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925594474090307868",
+        "created_at": "2025-05-23T13:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925913248970203397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925913248970203397",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925594474090307868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem 不觉得怪锂剂，癫痫应该跟锂关系不大。专问题挺大的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925594463218642944",
+            "3_1925594463185059840"
+          ]
+        },
+        "author_id": "1739908593254883328",
+        "conversation_id": "1925594474090307868",
+        "created_at": "2025-05-22T16:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925594474090307868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyEehlclC3",
+              "end": 182,
+              "expanded_url": "https://x.com/AngelSexyHem/status/1925594474090307868/photo/1",
+              "media_key": "3_1925594463218642944",
+              "start": 159,
+              "url": "https://t.co/eyEehlclC3"
+            },
+            {
+              "display_url": "pic.x.com/eyEehlclC3",
+              "end": 182,
+              "expanded_url": "https://x.com/AngelSexyHem/status/1925594474090307868/photo/1",
+              "media_key": "3_1925594463185059840",
+              "start": 159,
+              "url": "https://t.co/eyEehlclC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925594474090307868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1774,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回想起我经历的最糟糕的致幻剂trip，我真的很命大没有死掉…\n我吃了合成的比较强的致幻剂4-ho-met\n最致命的：我没有停碳酸锂，导致我口吐白沫昏迷癫痫发作。\n其次是我在服用1h前吃了专注达-强stimulant 导致了严重的bad trip，陷入了无法逃离的思维循环和我经历过最大的恐惧。\n此外当天还吃了强阿片。 https://t.co/eyEehlclC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 562,
+          "like_count": 23,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1562
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖我是鸭鸭^ ^⚠️od血图裸露注意⚠️来互fo～匿名提问箱：https://t.co/IcTMNBCS7a🚪52/100/200",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andrea94071",
+                "end": 90,
+                "expanded_url": "https://ngl.link/andrea94071",
+                "start": 67,
+                "url": "https://t.co/IcTMNBCS7a"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 220,
+          "like_count": 3094,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1370
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

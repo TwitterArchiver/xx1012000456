@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1919802505631813861",
+    "created_at": "2025-05-07T12:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920095956072358220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        },
+        {
+          "end": 26,
+          "id": "1499709348616241155",
+          "start": 10,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920095956072358220",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920016615615430945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy @caomeiweimaomao jk其实还好比较日常可以掩盖很多，另外两个特别华丽的非常吃颜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1919802505631813861",
+        "created_at": "2025-05-07T12:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920095956072358220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            },
+            {
+              "end": 26,
+              "id": "1499709348616241155",
+              "start": 10,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920095956072358220",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920016615615430945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy @caomeiweimaomao jk其实还好比较日常可以掩盖很多，另外两个特别华丽的非常吃颜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "1919802505631813861",
+        "created_at": "2025-05-07T07:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920016615615430945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920016615615430945",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919802505631813861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 顺女穿三坑也味大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 555,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1486
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "糖分摄入过多导致睡眠时间过长",
+        "id": "1452537509875834880",
+        "location": "秘密基地",
+        "name": "天女目之本樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918973778018848768/_IiO1I0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 177,
+          "like_count": 4480,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2797
+        },
+        "username": "kkggxxyy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我哇/是碎碎念推和画画推/非常喜欢猫咪的人丨🚪44r仅闲聊丨🦜嘤鹉：@SENDOH214丨 自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 82,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 59,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1915444559724896676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41751,
+          "following_count": 1051,
+          "like_count": 23028,
+          "listed_count": 46,
+          "media_count": 2208,
+          "tweet_count": 27131
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075994030526377984",
+        "3_2075994109647753216",
+        "3_2075994142157803520",
+        "3_2075994170054107136"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2075995617030238482",
+    "created_at": "2026-07-11T17:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075995617030238482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FV2GUwT9fl",
+          "end": 182,
+          "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+          "media_key": "3_2075994030526377984",
+          "start": 159,
+          "url": "https://t.co/FV2GUwT9fl"
+        },
+        {
+          "display_url": "pic.x.com/FV2GUwT9fl",
+          "end": 182,
+          "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+          "media_key": "3_2075994109647753216",
+          "start": 159,
+          "url": "https://t.co/FV2GUwT9fl"
+        },
+        {
+          "display_url": "pic.x.com/FV2GUwT9fl",
+          "end": 182,
+          "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+          "media_key": "3_2075994142157803520",
+          "start": 159,
+          "url": "https://t.co/FV2GUwT9fl"
+        },
+        {
+          "display_url": "pic.x.com/FV2GUwT9fl",
+          "end": 182,
+          "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+          "media_key": "3_2075994170054107136",
+          "start": 159,
+          "url": "https://t.co/FV2GUwT9fl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075995617030238482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.2A类的致幻吗？japandrugdealer的LSD衍生或者X上卖仙人掌的都行吧，不会有人坑你的\n2.有可能吧，gaba+NMDA\n3.风险不是在于过不了海关而是有可能买到真毒/掺有真毒，你要确定你合法合规去和海关刚正面怕啥\n4.确实有不利因素😅但我也算熟悉法律/化学/反侦察，不干这个总觉得屈才+白进去了🤣🤣 https://t.co/FV2GUwT9fl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2075994030526377984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9pkllbMAAt9Ta.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075994109647753216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9ppMVbkAAL5QA.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075994142157803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9prFcbkAA8dmc.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075994170054107136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9pstXbYAA5WUG.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075994030526377984",
+            "3_2075994109647753216",
+            "3_2075994142157803520",
+            "3_2075994170054107136"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075995617030238482",
+        "created_at": "2026-07-11T17:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075995617030238482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FV2GUwT9fl",
+              "end": 182,
+              "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+              "media_key": "3_2075994030526377984",
+              "start": 159,
+              "url": "https://t.co/FV2GUwT9fl"
+            },
+            {
+              "display_url": "pic.x.com/FV2GUwT9fl",
+              "end": 182,
+              "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+              "media_key": "3_2075994109647753216",
+              "start": 159,
+              "url": "https://t.co/FV2GUwT9fl"
+            },
+            {
+              "display_url": "pic.x.com/FV2GUwT9fl",
+              "end": 182,
+              "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+              "media_key": "3_2075994142157803520",
+              "start": 159,
+              "url": "https://t.co/FV2GUwT9fl"
+            },
+            {
+              "display_url": "pic.x.com/FV2GUwT9fl",
+              "end": 182,
+              "expanded_url": "https://x.com/xx1012000456/status/2075995617030238482/photo/1",
+              "media_key": "3_2075994170054107136",
+              "start": 159,
+              "url": "https://t.co/FV2GUwT9fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075995617030238482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.2A类的致幻吗？japandrugdealer的LSD衍生或者X上卖仙人掌的都行吧，不会有人坑你的\n2.有可能吧，gaba+NMDA\n3.风险不是在于过不了海关而是有可能买到真毒/掺有真毒，你要确定你合法合规去和海关刚正面怕啥\n4.确实有不利因素😅但我也算熟悉法律/化学/反侦察，不干这个总觉得屈才+白进去了🤣🤣 https://t.co/FV2GUwT9fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 679,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

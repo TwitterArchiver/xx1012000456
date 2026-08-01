@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865615349929963794",
+    "created_at": "2024-12-08T18:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T19:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865822288584884283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759729546520309760",
+          "start": 0,
+          "username": "shasha666183267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865822288584884283",
+    "in_reply_to_user_id": "1759729546520309760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865615349929963794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shasha666183267 不可能，说白了这和我高考后要怎么样、我毕业后要怎么样、我工作后要怎么样本质上是一致的。获得自由的前提是你真的放过自己而不是靠某种变故、仪式或节点来假装一切都会变好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865615349929963794",
+        "created_at": "2024-12-08T18:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T19:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865822288584884283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759729546520309760",
+              "start": 0,
+              "username": "shasha666183267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865822288584884283",
+        "in_reply_to_user_id": "1759729546520309760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865615349929963794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shasha666183267 不可能，说白了这和我高考后要怎么样、我毕业后要怎么样、我工作后要怎么样本质上是一致的。获得自由的前提是你真的放过自己而不是靠某种变故、仪式或节点来假装一切都会变好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759729546520309760",
+        "conversation_id": "1865615349929963794",
+        "created_at": "2024-12-08T04:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T05:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865615349929963794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865615349929963794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8096,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "等到做完了手术，MTF，真的就能获得自由了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 378,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 350
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T00:00:05.000Z",
+        "description": "06年mtf，无证含糖ing，55kg160cm苦修中，hrt2023.4.18，现居吉林长春，已炸柜，家长分庭抗礼党，祈祷自己有天变成修女直播，目前热衷打CS2，喜欢听音乐，培养老番素养中，欢迎同类互fo",
+        "id": "1759729546520309760",
+        "name": "🍥坐忘道柠檬鲨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857729583266586624/QGtM5beH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 502,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 837
+        },
+        "username": "shasha666183267",
+        "verified": false
+      }
+    ]
+  }
+}

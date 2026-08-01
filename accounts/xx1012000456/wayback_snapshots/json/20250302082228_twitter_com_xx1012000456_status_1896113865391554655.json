@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1896050099773718947",
+    "created_at": "2025-03-02T08:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T09:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896113865391554655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588890037474971649",
+          "start": 0,
+          "username": "Spartakist_"
+        },
+        {
+          "end": 26,
+          "id": "1658222935717580800",
+          "start": 13,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896113865391554655",
+    "in_reply_to_user_id": "1588890037474971649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896109193243083195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spartakist_ @xiaosong23_3 看你怎么想吧，我是视跨性别为严重的认知障碍，那消除认知偏差必是有效手段，我认为跨和单纯的性取向选择不同。性取向更接近异食异装类的心理问题，跨是典型的精神病症状"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1896050099773718947",
+        "created_at": "2025-03-02T08:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896113865391554655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588890037474971649",
+              "start": 0,
+              "username": "Spartakist_"
+            },
+            {
+              "end": 26,
+              "id": "1658222935717580800",
+              "start": 13,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896113865391554655",
+        "in_reply_to_user_id": "1588890037474971649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896109193243083195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spartakist_ @xiaosong23_3 看你怎么想吧，我是视跨性别为严重的认知障碍，那消除认知偏差必是有效手段，我认为跨和单纯的性取向选择不同。性取向更接近异食异装类的心理问题，跨是典型的精神病症状"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588890037474971649",
+        "conversation_id": "1896050099773718947",
+        "created_at": "2025-03-02T08:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896109193243083195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "1658222935717580800",
+              "start": 14,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896109193243083195",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896074634925314324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @xiaosong23_3 重量级胡说八道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 470,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 826
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:44:48.000Z",
+        "description": "理想随风而逝，徒留你和我在废墟上苟活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/dekabris…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/dekabristqaq",
+                "start": 0,
+                "url": "https://t.co/8OQKM9gRt9"
+              }
+            ]
+          }
+        },
+        "id": "1588890037474971649",
+        "location": "Commune of Revachol",
+        "name": "Hibiki🏳‍⚧🍥💊清水版",
+        "pinned_tweet_id": "1848309895340413313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589948716022046723/T9Y0R1ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5900,
+          "following_count": 3623,
+          "like_count": 72058,
+          "listed_count": 17,
+          "media_count": 1798,
+          "tweet_count": 25939
+        },
+        "url": "https://t.co/8OQKM9gRt9",
+        "username": "Spartakist_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "也许是xiaosong。 \n钢丝｜战争后霆｜充军 喜欢日术 \n接精神障碍咨询，详见置顶 \n有事找我的话 https://t.co/Astgqj3Uap \n水论坛https://t.co/xv2wq7KSUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 75,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 52,
+                "url": "https://t.co/Astgqj3Uap"
+              },
+              {
+                "display_url": "mizuame.chat",
+                "end": 103,
+                "expanded_url": "http://mizuame.chat",
+                "start": 80,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "http://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "pinned_tweet_id": "1887700680628183240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 327,
+          "like_count": 18648,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2798
+        },
+        "url": "https://t.co/xv2wq7KSUy",
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

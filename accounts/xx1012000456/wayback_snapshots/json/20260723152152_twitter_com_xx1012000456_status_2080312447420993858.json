@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079924645613162603",
+    "created_at": "2026-07-23T15:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080312447420993858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614190825180643329",
+          "start": 0,
+          "username": "SatanRising"
+        },
+        {
+          "end": 23,
+          "id": "3022697779",
+          "start": 13,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080312447420993858",
+    "in_reply_to_user_id": "1614190825180643329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079924645613162603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SatanRising @RXdruglab 哈哈哈哈是这样的没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079924645613162603",
+        "created_at": "2026-07-23T15:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080312447420993858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614190825180643329",
+              "start": 0,
+              "username": "SatanRising"
+            },
+            {
+              "end": 23,
+              "id": "3022697779",
+              "start": 13,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080312447420993858",
+        "in_reply_to_user_id": "1614190825180643329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924645613162603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SatanRising @RXdruglab 哈哈哈哈是这样的没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614190825180643329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2079924645613162603",
+        "created_at": "2026-07-22T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079924645613162603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "3022697779",
+              "start": 43,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079924645613162603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我在思考，如果我高一开始就是个oder，说不定化学分数考的能更高一点。而不是选政治@RXdruglab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 715,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T09:21:17.000Z",
+        "description": "我小时候很可爱，成绩也很好。很多人喜欢我",
+        "id": "1614190825180643329",
+        "location": "尼伯龙根",
+        "name": "我現在過的不是我想要的生活",
+        "pinned_tweet_id": "2029901433265434904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932703810717122560/chnjLkWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 373,
+          "like_count": 7958,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 1492
+        },
+        "url": "",
+        "username": "SatanRising",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19854,
+          "following_count": 19,
+          "like_count": 26,
+          "listed_count": 23,
+          "media_count": 60,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

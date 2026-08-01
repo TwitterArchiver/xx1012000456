@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1914008483298709506",
+    "created_at": "2025-04-20T17:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T18:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914010566194331770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914010566194331770",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914008483298709506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 一方面因为最好的光学或电子仪器都无法比拟人眼的分辨率，会带有不同程度失真。另一方面人脑在照镜子时会优化弥合一部分信息，使之看上去更完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1914008483298709506",
+        "created_at": "2025-04-20T17:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914010566194331770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914010566194331770",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914008483298709506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 一方面因为最好的光学或电子仪器都无法比拟人眼的分辨率，会带有不同程度失真。另一方面人脑在照镜子时会优化弥合一部分信息，使之看上去更完美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1914008483298709506",
+        "created_at": "2025-04-20T17:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914008483298709506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914008483298709506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候照镜子觉得自己属于中等水平了，一用相机我就像哥布林，这根本不是容貌焦虑不焦虑的问题，为什么有的人上镜有的人不上镜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 527,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1428
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "内涉嫌自杀倾向 酗酒 慎入｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912781745281462273/HyZSDNF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 287,
+          "like_count": 3204,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 8306
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

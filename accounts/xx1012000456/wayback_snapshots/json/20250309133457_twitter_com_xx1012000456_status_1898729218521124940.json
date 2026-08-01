@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1898607174622003320",
+    "created_at": "2025-03-09T13:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898729218521124940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1689481501531066369",
+          "start": 0,
+          "username": "fnghungcih5963"
+        },
+        {
+          "end": 26,
+          "id": "1597257668313260033",
+          "start": 16,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898729218521124940",
+    "in_reply_to_user_id": "1689481501531066369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898620542003114328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnghungcih5963 @Minokakay 不懂装懂\n1中国色谱龙只允许异常性欲（性瘾）、前列腺癌、女性雄性化，即药物量程内有明确的指征，或生命周期不长。\n2按剂量服用仍有可能有代价和后果，最常见的药物肝损伤来自一代抗结核药物，这可都是严格按剂量的规范治疗。\n3MTF是超长期服用药物且联合用药。\n说明书不仔细看不如不看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1898607174622003320",
+        "created_at": "2025-03-09T13:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898729218521124940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1689481501531066369",
+              "start": 0,
+              "username": "fnghungcih5963"
+            },
+            {
+              "end": 26,
+              "id": "1597257668313260033",
+              "start": 16,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898729218521124940",
+        "in_reply_to_user_id": "1689481501531066369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898620542003114328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnghungcih5963 @Minokakay 不懂装懂\n1中国色谱龙只允许异常性欲（性瘾）、前列腺癌、女性雄性化，即药物量程内有明确的指征，或生命周期不长。\n2按剂量服用仍有可能有代价和后果，最常见的药物肝损伤来自一代抗结核药物，这可都是严格按剂量的规范治疗。\n3MTF是超长期服用药物且联合用药。\n说明书不仔细看不如不看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689481501531066369",
+        "conversation_id": "1898607174622003320",
+        "created_at": "2025-03-09T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898620542003114328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898620542003114328",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898607174622003320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 楼主牛逼。用辱骂国产色普龙说明书用量，说那样致死的手段，黑彩虹糖，真的太厉害了，我们药娘就要找你买药，楼主加油。有必要可以单挑公安，我们相信你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 483,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 864
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T03:39:21.000Z",
+        "description": "",
+        "id": "1689481501531066369",
+        "location": "Taiwan",
+        "name": "药娘的自我修养",
+        "pinned_tweet_id": "1813671242890883238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898612742820667392/TOkOUlaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 205,
+          "like_count": 22,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 604
+        },
+        "username": "fnghungcih5963",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1898368888385274191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 831,
+          "like_count": 37612,
+          "listed_count": 28,
+          "media_count": 566,
+          "tweet_count": 14685
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

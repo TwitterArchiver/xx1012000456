@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1923740197596106910",
+    "created_at": "2025-05-17T14:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T15:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923744015662690391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923744015662690391",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923740478861984043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 力大砖飞的美？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1923740197596106910",
+        "created_at": "2025-05-17T14:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923744015662690391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923744015662690391",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923740478861984043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 力大砖飞的美？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1923740197596106910",
+        "created_at": "2025-05-17T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923740478861984043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923740478861984043",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923740197596106910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苏系药物有别于欧美药物，抛弃迭代的复杂，只有极简美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1501
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 45,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 633
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

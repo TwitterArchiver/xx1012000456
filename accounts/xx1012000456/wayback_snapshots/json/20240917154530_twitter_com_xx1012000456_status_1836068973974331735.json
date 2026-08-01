@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1835988187161981236",
+    "created_at": "2024-09-17T15:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T16:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836068973974331735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746420420226797568",
+          "start": 0,
+          "username": "rain__amechan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836068973974331735",
+    "in_reply_to_user_id": "1746420420226797568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835988187161981236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain__amechan 明明下面的比较好看吧。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1835988187161981236",
+        "created_at": "2024-09-17T15:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T16:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836068973974331735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746420420226797568",
+              "start": 0,
+              "username": "rain__amechan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836068973974331735",
+        "in_reply_to_user_id": "1746420420226797568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835988187161981236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain__amechan 明明下面的比较好看吧。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835988184892887040"
+          ]
+        },
+        "author_id": "1746420420226797568",
+        "conversation_id": "1835988187161981236",
+        "created_at": "2024-09-17T10:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T11:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835988187161981236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/so5lgaiplb",
+              "end": 23,
+              "expanded_url": "https://twitter.com/rain__amechan/status/1835988187161981236/photo/1",
+              "media_key": "3_1835988184892887040",
+              "start": 0,
+              "url": "https://t.co/SO5LGaIPlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835988187161981236",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11468,
+          "like_count": 301,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SO5LGaIPlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 184,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T06:34:19.000Z",
+        "description": "永遠7歲 | 防走丟小帳@amechan2_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "amechan2_"
+              }
+            ]
+          }
+        },
+        "id": "1746420420226797568",
+        "location": "阿咩醬",
+        "name": "雨醬",
+        "pinned_tweet_id": "1835220924418924563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766856159829643264/nO34pANR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 320,
+          "like_count": 11958,
+          "listed_count": 2,
+          "tweet_count": 5061
+        },
+        "username": "rain__amechan",
+        "verified": false
+      }
+    ]
+  }
+}

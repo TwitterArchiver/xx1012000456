@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1878786568695247049",
+    "created_at": "2025-01-13T17:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T18:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878863025660404131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566430838434430977",
+          "start": 0,
+          "username": "FlowersRainFall"
+        },
+        {
+          "end": 30,
+          "id": "1618324076992548865",
+          "start": 17,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878863025660404131",
+    "in_reply_to_user_id": "1566430838434430977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878860104294113603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlowersRainFall @Rosmontis233 做公益者【不可】从【被救助者】与【捐献者】这两端人群中获得对自身的利益，否则就是违背公益的初衷和本质。你所举得例子都是外在环境得利，与公益不冲突。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1878786568695247049",
+        "created_at": "2025-01-13T17:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T18:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878863025660404131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566430838434430977",
+              "start": 0,
+              "username": "FlowersRainFall"
+            },
+            {
+              "end": 30,
+              "id": "1618324076992548865",
+              "start": 17,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878863025660404131",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878860104294113603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlowersRainFall @Rosmontis233 做公益者【不可】从【被救助者】与【捐献者】这两端人群中获得对自身的利益，否则就是违背公益的初衷和本质。你所举得例子都是外在环境得利，与公益不冲突。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566430838434430977",
+        "conversation_id": "1878786568695247049",
+        "created_at": "2025-01-13T17:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T18:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878860104294113603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "1618324076992548865",
+              "start": 14,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878860104294113603",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878853595984208140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Rosmontis233 呃，我觉得现在的导向不是公益事业不能取得利益，而是公益事业不能取得性利益。做公益的人靠公益拿丰厚工资、获得荣誉、获得朋友、获得感激、获得社会地位都行，但不能靠公益满足性欲。\n个人认为1）性利益在当前社会中可以估价；2）把性「底线」看的有多重要，取决于对性的估价有多高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 443,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 538
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "雨打梨花深闭门｜专偶恋爱中 @shuiyebush1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "shuiyebush1"
+              }
+            ]
+          }
+        },
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "🌧️淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858860873160552448/3Dfpc66I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 531,
+          "like_count": 32499,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2436
+        },
+        "username": "FlowersRainFall",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774469833595441152/f17Mh5DY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 473,
+          "like_count": 7176,
+          "listed_count": 4,
+          "media_count": 593,
+          "tweet_count": 5992
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

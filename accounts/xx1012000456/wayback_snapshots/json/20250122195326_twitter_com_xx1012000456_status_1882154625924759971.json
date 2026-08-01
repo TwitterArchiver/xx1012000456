@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1882089596785426717",
+    "created_at": "2025-01-22T19:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T20:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882154625924759971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882154625924759971",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882089596785426717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 别，我们京爷不是这样的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1882089596785426717",
+        "created_at": "2025-01-22T19:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T20:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882154625924759971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882154625924759971",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882089596785426717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 别，我们京爷不是这样的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1882089596785426717",
+        "created_at": "2025-01-22T15:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882089596785426717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882089596785426717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了，拿习猪当神的北京人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 447,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 610
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低智商低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt  我是DizzyRichter可以叫我毒枭 ｜爱蛇TV｜𝑊𝑜𝑛'𝑡 𝑌𝑜𝑢 𝑃𝑙𝑒𝑎𝑠𝑒 𝑇𝑎𝑘𝑒 𝑀𝑒 𝐻𝑜𝑚𝑒?",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882137260415475712/e0tTeXCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 90,
+          "like_count": 10439,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 4612
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

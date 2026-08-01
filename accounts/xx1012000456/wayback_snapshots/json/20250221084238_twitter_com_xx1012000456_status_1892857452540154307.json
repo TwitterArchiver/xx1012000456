@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1892616695484649602",
+    "created_at": "2025-02-21T08:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T09:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892857452540154307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "XanaZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892857452540154307",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892745723701346330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XanaZhang 又查了下这东西应该是有精神活性的，2-苄基哌啶是哌甲酯的骨架，那这东西至少应该是一个兴奋剂类的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1892616695484649602",
+        "created_at": "2025-02-21T08:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892857452540154307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "XanaZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892857452540154307",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892745723701346330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XanaZhang 又查了下这东西应该是有精神活性的，2-苄基哌啶是哌甲酯的骨架，那这东西至少应该是一个兴奋剂类的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1892616695484649602",
+        "created_at": "2025-02-21T01:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T02:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892745723701346330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892745723701346330",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892616695484649602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 你说的化学物质有没有娱乐价值不知道，反正nben娱乐价值不用多说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 753
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07isfp,depression/anxiety/bpd, eating disorder, plannjng 26fall US, straight woman & trans friendly, Intimate relationship anxiety, 中文&EN ok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/upsetallday",
+                "end": 23,
+                "expanded_url": "https://t.me/upsetallday",
+                "start": 0,
+                "url": "https://t.co/DrDwjEvGaG"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "name": "Yoselin💊🔪🩸",
+        "pinned_tweet_id": "1859296461709586614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 146,
+          "like_count": 3447,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/DrDwjEvGaG",
+        "username": "XanaZhang",
+        "verified": false
+      }
+    ]
+  }
+}

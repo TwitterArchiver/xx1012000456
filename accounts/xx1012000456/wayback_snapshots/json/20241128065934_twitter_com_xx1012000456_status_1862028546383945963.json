@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1861091929397829914",
+    "created_at": "2024-11-28T06:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T07:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862028546383945963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774807840039088128",
+          "start": 0,
+          "username": "Rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862028546383945963",
+    "in_reply_to_user_id": "1774807840039088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861991018599715325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyosora 那一定是劣势，苯环上甲基有甲苯-苯甲酸的代谢路径，在这个路径下精神活性维持是未知的，对比苯乙胺N甲基至少有氨基保护和脂溶性且苯丙胺到N甲基苯丙胺的修饰高度有效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1861091929397829914",
+        "created_at": "2024-11-28T06:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T07:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862028546383945963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774807840039088128",
+              "start": 0,
+              "username": "Rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862028546383945963",
+        "in_reply_to_user_id": "1774807840039088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861991018599715325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyosora 那一定是劣势，苯环上甲基有甲苯-苯甲酸的代谢路径，在这个路径下精神活性维持是未知的，对比苯乙胺N甲基至少有氨基保护和脂溶性且苯丙胺到N甲基苯丙胺的修饰高度有效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774807840039088128",
+        "conversation_id": "1861091929397829914",
+        "created_at": "2024-11-28T04:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T05:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861991018599715325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861991018599715325",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861097313986568478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 对比戳了啦，如果对比甲基苯丙胺或者苯丙胺自然没戏\n如果对比苯乙胺呢？减缓代谢速度就是赢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 369,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 297
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:35:59.000Z",
+        "description": "『活人回fo,锁推/没回私我』\n『淡推中,未来复活』\n『可能会突然玩抽象』",
+        "id": "1774807840039088128",
+        "name": "༺雨夜空༻",
+        "pinned_tweet_id": "1845099213094519058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800951105632993282/mCXNRcPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 240,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 948
+        },
+        "username": "Rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

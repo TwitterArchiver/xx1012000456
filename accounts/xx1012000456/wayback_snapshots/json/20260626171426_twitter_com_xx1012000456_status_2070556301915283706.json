@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070553926911553969",
+    "created_at": "2026-06-26T17:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070556301915283706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070556301915283706",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070553926911553969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 这张真没见过，不过同文案的图肯定是多到飞起🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2070553917256351744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwV0UZbwAAMk_Q.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070553926911553969",
+        "created_at": "2026-06-26T17:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070556301915283706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070556301915283706",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070553926911553969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 这张真没见过，不过同文案的图肯定是多到飞起🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070553917256351744"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2070553926911553969",
+        "created_at": "2026-06-26T17:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070553926911553969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAerOhW0IV",
+              "end": 44,
+              "expanded_url": "https://x.com/0xo_snow/status/2070553926911553969/photo/1",
+              "media_key": "3_2070553917256351744",
+              "start": 21,
+              "url": "https://t.co/xAerOhW0IV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070553926911553969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早几年爱在QQ群吹水的有人没见过这张图吗 https://t.co/xAerOhW0IV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 609,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 IP北京\n可爱是唯一追求 ！\n爱好是唱歌与美少女。我想被在意\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2069020558562664463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18120,
+          "following_count": 421,
+          "like_count": 17035,
+          "listed_count": 33,
+          "media_count": 1379,
+          "tweet_count": 14521
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

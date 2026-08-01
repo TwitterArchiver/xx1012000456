@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903286184689930510",
+    "created_at": "2025-03-22T03:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T04:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903286184689930510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1682474617208709122",
+          "start": 13,
+          "username": "jpdrugdealer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903286184689930510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "既然点我了，那我就回应一下@jpdrugdealer\n1在此之前，我不止一次在不同的群以及推上推荐过你的邮票，你的生意据我所知有5单以上是我推荐的，我不存在其他利益勾连和抹黑你的必要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903286184689930510",
+        "created_at": "2025-03-22T03:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T04:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903286184689930510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1682474617208709122",
+              "start": 13,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903286184689930510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然点我了，那我就回应一下@jpdrugdealer\n1在此之前，我不止一次在不同的群以及推上推荐过你的邮票，你的生意据我所知有5单以上是我推荐的，我不存在其他利益勾连和抹黑你的必要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 484,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1013
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 118,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 62
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      }
+    ]
+  }
+}

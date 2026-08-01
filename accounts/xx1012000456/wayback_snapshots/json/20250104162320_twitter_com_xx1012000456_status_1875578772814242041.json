@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875434672173543724",
+    "created_at": "2025-01-04T16:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875578772814242041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875578772814242041",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875434672173543724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 毒品就是指精、麻、增补录这三个名录之下的东西啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875434672173543724",
+        "created_at": "2025-01-04T16:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875578772814242041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875578772814242041",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875434672173543724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 毒品就是指精、麻、增补录这三个名录之下的东西啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1875434672173543724",
+        "created_at": "2025-01-04T06:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T07:41:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875432399632502933",
+          "1875434672173543724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875434672173543724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在右美居然已经是毒品了？之前还是精二，如果因为o右美进吸毒所那有点亏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 414,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 456
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你好，如果不知道怎么称呼我的话，你可以叫我小惨。欢迎来到我的精神世界倾听我的内心独白｜@wmyzzzzt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "wmyzzzzt"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874732712726315008/E3MXYXG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 136,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2302
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

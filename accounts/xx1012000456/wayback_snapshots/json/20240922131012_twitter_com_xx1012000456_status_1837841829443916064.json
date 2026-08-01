@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1837647673639555179",
+    "created_at": "2024-09-22T13:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T14:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837841829443916064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837841829443916064",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837647673639555179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 试过感觉不好用，我觉得如果能耐受不如阿达帕林（本人是脂溢性皮炎伴马拉色菌）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1837647673639555179",
+        "created_at": "2024-09-22T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837841829443916064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837841829443916064",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837647673639555179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 试过感觉不好用，我觉得如果能耐受不如阿达帕林（本人是脂溢性皮炎伴马拉色菌）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837647663174766594"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1837647673639555179",
+        "created_at": "2024-09-22T00:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T01:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837647673639555179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfre0aa6ml",
+              "end": 54,
+              "expanded_url": "https://twitter.com/caomeiweimaomao/status/1837647673639555179/photo/1",
+              "media_key": "3_1837647663174766594",
+              "start": 31,
+              "url": "https://t.co/pFre0Aa6Ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837647673639555179",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近感觉玫瑰痤疮复发了\n把异维a酸吃回来\n有在吃这个的推友吗 https://t.co/pFre0Aa6Ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 191,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "平平无奇的人/🌈/FF14重度玩家/性别武装直升飞机/🖼️美术类专业/毛茸茸控/喜欢碎碎念/🪜稳定自用梯子：https://t.co/DW6ufDaBlY /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 77,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 54,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "独角兽🦄",
+        "name": "“爱礼”",
+        "pinned_tweet_id": "1836978148702875776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36663,
+          "following_count": 889,
+          "like_count": 20830,
+          "listed_count": 45,
+          "tweet_count": 22002
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

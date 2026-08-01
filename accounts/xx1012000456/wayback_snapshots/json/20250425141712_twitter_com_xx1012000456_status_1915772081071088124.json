@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1915768571369582895",
+    "created_at": "2025-04-25T14:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915772081071088124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915772081071088124",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915768571369582895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 我天这张好萌😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1915768557813600256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYtWmhXkAAv-gv.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1915768571369582895",
+        "created_at": "2025-04-25T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915772081071088124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915772081071088124",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915768571369582895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 我天这张好萌😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915768557813600256"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1915768571369582895",
+        "created_at": "2025-04-25T14:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915768571369582895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1YuPnEsQD",
+              "end": 33,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1915768571369582895/photo/1",
+              "media_key": "3_1915768557813600256",
+              "start": 10,
+              "url": "https://t.co/Z1YuPnEsQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915768571369582895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绿毛赛高\n眼镜赛高 https://t.co/Z1YuPnEsQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 536,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1443
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🪆我是爱礼请关注我/是碎碎念和画画推/非常喜欢猫咪丨🚪30r基本只是闲聊，可以交友可以定制一些照片丨🦜嘤鹉：@SENDOH214丨 🪜自用梯子在网址↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "SENDOH214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 0,
+                "url": "https://t.co/yyQ5wxPhe2"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1915444559724896676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41530,
+          "following_count": 1015,
+          "like_count": 22774,
+          "listed_count": 47,
+          "media_count": 2109,
+          "tweet_count": 26419
+        },
+        "url": "https://t.co/yyQ5wxPhe2",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

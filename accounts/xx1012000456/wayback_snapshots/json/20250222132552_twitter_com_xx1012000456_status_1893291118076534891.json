@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893222447526170656",
+    "created_at": "2025-02-22T13:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893291118076534891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        },
+        {
+          "end": 28,
+          "id": "1448187795571286017",
+          "start": 16,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893291118076534891",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893259734788010421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human @shuiyebush1 报但是还是很贵，一般医生会从度洛西丁、文拉法辛之类的开始试，米那普仑我这反正他是看我是特需号才给我开的，那会是一盒200多，同剂量SNRI一般30-60就能搞定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893222447526170656",
+        "created_at": "2025-02-22T13:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893291118076534891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            },
+            {
+              "end": 28,
+              "id": "1448187795571286017",
+              "start": 16,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893291118076534891",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893259734788010421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human @shuiyebush1 报但是还是很贵，一般医生会从度洛西丁、文拉法辛之类的开始试，米那普仑我这反正他是看我是特需号才给我开的，那会是一盒200多，同剂量SNRI一般30-60就能搞定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547097745797685249",
+        "conversation_id": "1893222447526170656",
+        "created_at": "2025-02-22T11:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T12:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893259734788010421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893259734788010421",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893222447526170656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 没有医保吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 768
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547097904061419520/qYUwbyMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 4051,
+          "like_count": 157323,
+          "listed_count": 6,
+          "media_count": 1503,
+          "tweet_count": 33232
+        },
+        "username": "sth_like_human",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892429794119471107/TX6teJ4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 581,
+          "like_count": 40973,
+          "listed_count": 16,
+          "media_count": 2087,
+          "tweet_count": 15684
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865773144968986895",
+    "created_at": "2024-12-09T11:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T12:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866088419937669438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1630559830426656770",
+          "start": 0,
+          "username": "MPlanck3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866088419937669438",
+    "in_reply_to_user_id": "1630559830426656770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865773144968986895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MPlanck3 你太看得起国人的思想水平了，中国根本没有什么虔诚和信仰一说，更多的是既得利益的膜拜。所谓共产和红色的神性完全来源于动乱贫困的底色和改革开放的经济发展的红利。就和《让子弹飞》中说的，谁赢他们帮谁。只需要一点利益切割神性就会飞灰湮灭，不过自由和民主也不会跟踪来罢了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865773144968986895",
+        "created_at": "2024-12-09T11:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T12:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866088419937669438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1630559830426656770",
+              "start": 0,
+              "username": "MPlanck3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866088419937669438",
+        "in_reply_to_user_id": "1630559830426656770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865773144968986895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPlanck3 你太看得起国人的思想水平了，中国根本没有什么虔诚和信仰一说，更多的是既得利益的膜拜。所谓共产和红色的神性完全来源于动乱贫困的底色和改革开放的经济发展的红利。就和《让子弹飞》中说的，谁赢他们帮谁。只需要一点利益切割神性就会飞灰湮灭，不过自由和民主也不会跟踪来罢了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630559830426656770",
+        "conversation_id": "1865773144968986895",
+        "created_at": "2024-12-08T14:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865773144968986895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jerry00107966/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/jerry00107966/status/1865626004913631466",
+              "start": 81,
+              "url": "https://t.co/xgpkZpa1dA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865773144968986895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 26857,
+          "like_count": 206,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865626004913631466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国不会，也不可能走向砸烂毛像。\n  无论左派，建制派还是民族派都不会放弃毛泽东神像代表的合法性。而是从毛的两个象征，即民族独立的英雄和共产主义革命者中做选择。 https://t.co/xgpkZpa1dA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 380,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 352
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T13:25:48.000Z",
+        "description": "ENFJ-T//深夜emo人//双鱼星人",
+        "id": "1630559830426656770",
+        "location": "冥王星",
+        "name": "M . Planck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674457901245820928/o9vMib2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 313,
+          "like_count": 49780,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 6072
+        },
+        "username": "MPlanck3",
+        "verified": false
+      }
+    ]
+  }
+}

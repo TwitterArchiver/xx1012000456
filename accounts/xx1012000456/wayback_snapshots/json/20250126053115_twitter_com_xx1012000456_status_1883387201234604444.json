@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1883381416492490785",
+    "created_at": "2025-01-26T05:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T06:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883387201234604444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883387201234604444",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883381416492490785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 这tm诡异的桥环，有晚安那味道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1883381416492490785",
+        "created_at": "2025-01-26T05:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883387201234604444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883387201234604444",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883381416492490785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 这tm诡异的桥环，有晚安那味道了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883381414315569152"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1883381416492490785",
+        "created_at": "2025-01-26T05:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883381416492490785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Crisugaba…",
+              "end": 74,
+              "expanded_url": "https://en.wikipedia.org/wiki/Crisugabalin",
+              "start": 51,
+              "status": 200,
+              "title": "Crisugabalin - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Crisugabalin",
+              "url": "https://t.co/zx3wekikBD"
+            },
+            {
+              "display_url": "pic.x.com/DqwviQCr0d",
+              "end": 98,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1883381416492490785/photo/1",
+              "media_key": "3_1883381414315569152",
+              "start": 75,
+              "url": "https://t.co/DqwviQCr0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883381416492490785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 118,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "克利加巴林和普瑞巴林都是选择性GABA类似物，但是对α2δ亚基的亲和力比普瑞巴林更强，使其镇痛能力更强https://t.co/zx3wekikBD https://t.co/DqwviQCr0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 455,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 630
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 507,
+          "like_count": 8316,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

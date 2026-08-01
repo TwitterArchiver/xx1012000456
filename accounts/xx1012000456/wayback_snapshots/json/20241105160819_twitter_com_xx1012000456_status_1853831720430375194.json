@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1853830503079850384",
+    "created_at": "2024-11-05T16:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T17:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853831720430375194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skra_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853831720430375194",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853830503079850384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skra_ku 吸溜😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1853830503079850384",
+        "created_at": "2024-11-05T16:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T17:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853831720430375194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skra_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853831720430375194",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853830503079850384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skra_ku 吸溜😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853830498579353601"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "1853830503079850384",
+        "created_at": "2024-11-05T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853830503079850384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyyeyenkYy",
+              "end": 23,
+              "expanded_url": "https://x.com/skra_ku/status/1853830503079850384/photo/1",
+              "media_key": "3_1853830498579353601",
+              "start": 0,
+              "url": "https://t.co/wyyeyenkYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853830503079850384",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wyyeyenkYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 354,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 253
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "⁺๑⃙⃘₊꒰ঌ♡˙°ʚᕱ⑅ᕱɞ°˙♡ @nu4xue ໒꒱ྀི๑⃙⃘₊⁺ 进食障碍の電脳少女 不擅长聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "nu4xue"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "Malaysia",
+        "name": "アヤナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853343727986843648/iBiFffEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12267,
+          "following_count": 309,
+          "like_count": 9044,
+          "listed_count": 40,
+          "tweet_count": 3252
+        },
+        "username": "skra_ku",
+        "verified": false
+      }
+    ]
+  }
+}

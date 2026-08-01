@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905650517868740718",
+    "created_at": "2025-03-28T15:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905650517868740718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847153221900685312",
+          "start": 3,
+          "username": "MelissaLoptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905650517868740718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905639138298396784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MelissaLoptr: 还是解释一下好了，yuki不是自杀，算是过量服药意外死亡。\n在连续多天奥施康定+其他不知多少种药物联合使用的基础上。\n当天使用了[至少]8t奥施康定+不知剂量劳拉西泮+不知剂量pr。\n服用多种导致呼吸抑制的药物后，以整个面部埋在枕头里的姿势睡…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905650517868740718",
+        "created_at": "2025-03-28T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905650517868740718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847153221900685312",
+              "start": 3,
+              "username": "MelissaLoptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905650517868740718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905639138298396784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MelissaLoptr: 还是解释一下好了，yuki不是自杀，算是过量服药意外死亡。\n在连续多天奥施康定+其他不知多少种药物联合使用的基础上。\n当天使用了[至少]8t奥施康定+不知剂量劳拉西泮+不知剂量pr。\n服用多种导致呼吸抑制的药物后，以整个面部埋在枕头里的姿势睡…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1905639138298396784",
+        "created_at": "2025-03-28T15:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905639138298396784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905639138298396784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 778,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "还是解释一下好了，yuki不是自杀，算是过量服药意外死亡。\n在连续多天奥施康定+其他不知多少种药物联合使用的基础上。\n当天使用了[至少]8t奥施康定+不知剂量劳拉西泮+不知剂量pr。\n服用多种导致呼吸抑制的药物后，以整个面部埋在枕头里的姿势睡着，不知多久后停止呼吸离世。\nakira被牵连是因为当天两人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1210
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ▪️我谁也不是▪️東京在住、接线下，过门槛后开放▪️没有福利没有非绿只有纯绿和聊天。",
+        "id": "1847153221900685312",
+        "location": "🚪门槛188/288/520▪️",
+        "name": "匿名",
+        "pinned_tweet_id": "1886404944393314796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901238328063913984/OM-i3Acj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 188,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 578
+        },
+        "username": "MelissaLoptr",
+        "verified": false
+      }
+    ]
+  }
+}

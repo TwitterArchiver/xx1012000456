@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1931665459017039973",
+    "created_at": "2025-06-08T17:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931758519709225116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931758519709225116",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931665459017039973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 分离性镇静，很神奇吧😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1931665459017039973",
+        "created_at": "2025-06-08T17:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931758519709225116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931758519709225116",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931665459017039973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 分离性镇静，很神奇吧😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1931665459017039973",
+        "created_at": "2025-06-08T10:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931665459017039973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/like_rosemi/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/like_rosemi/status/1931535338306232769",
+              "start": 65,
+              "url": "https://t.co/gQQ0jk27S4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931665459017039973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931535338306232769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前o愈美ss综合征了我都没感觉到痛苦 迷迷糊糊的像做梦一样发生了好多事 洗胃有印象但是就几秒 像做梦突然被人弄醒又马上睡过去了 https://t.co/gQQ0jk27S4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 568,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1645
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "我来自天堂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/qFkb2xwIVC"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品",
+        "name": "I love You",
+        "pinned_tweet_id": "1931117926675030349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931271395851554816/YaPlBkSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 346,
+          "like_count": 13471,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 5265
+        },
+        "url": "https://t.co/qFkb2xwIVC",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

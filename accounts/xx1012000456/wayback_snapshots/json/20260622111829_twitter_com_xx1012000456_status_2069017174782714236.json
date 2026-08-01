@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068285889185521723",
+    "created_at": "2026-06-22T11:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069017174782714236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        },
+        {
+          "end": 17,
+          "id": "3022697779",
+          "start": 7,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069017174782714236",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068424449549127690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy @RXdruglab 其实白兔会让你冰+吗啡一起阳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068285889185521723",
+        "created_at": "2026-06-22T11:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069017174782714236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            },
+            {
+              "end": 17,
+              "id": "3022697779",
+              "start": 7,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069017174782714236",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068424449549127690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy @RXdruglab 其实白兔会让你冰+吗啡一起阳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906605092612227072",
+        "conversation_id": "2068285889185521723",
+        "created_at": "2026-06-20T20:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068424449549127690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068424449549127690",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1186,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068285889185521723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 其实吃哮喘片也能冰毒假阳..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 570,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "name": "明前",
+        "pinned_tweet_id": "1910581033193660670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 1878,
+          "like_count": 5984,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19560,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

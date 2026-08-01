@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903059963498598893",
+    "created_at": "2025-03-29T19:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T20:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906068733145342313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850374632307830784",
+          "start": 0,
+          "username": "066chery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906068733145342313",
+    "in_reply_to_user_id": "1850374632307830784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903059963498598893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@066chery 应该是不方便吧，港美是利用通行证直接人肉入关，对发货地点拆分二次分装。你台湾怎么过关，而且货币不统一应该不好算吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903059963498598893",
+        "created_at": "2025-03-29T19:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T20:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906068733145342313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850374632307830784",
+              "start": 0,
+              "username": "066chery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906068733145342313",
+        "in_reply_to_user_id": "1850374632307830784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903059963498598893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@066chery 应该是不方便吧，港美是利用通行证直接人肉入关，对发货地点拆分二次分装。你台湾怎么过关，而且货币不统一应该不好算吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850374632307830784",
+        "conversation_id": "1903059963498598893",
+        "created_at": "2025-03-21T12:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903059963498598893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903059963498598893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為啥沒人做台灣右美的藥代啊\n便宜一顆又有60mg感覺比那些中國香港的都好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 506,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1247
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:11:23.000Z",
+        "description": "台灣/高中",
+        "id": "1850374632307830784",
+        "name": "我想永眠死在床上",
+        "pinned_tweet_id": "1871207363304366482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873703453480067072/uaVklCZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 99,
+          "like_count": 1223,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 446
+        },
+        "username": "066chery",
+        "verified": false
+      }
+    ]
+  }
+}

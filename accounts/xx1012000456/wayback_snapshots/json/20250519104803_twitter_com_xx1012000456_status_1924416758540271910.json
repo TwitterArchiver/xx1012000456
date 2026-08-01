@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924414655679898101",
+    "created_at": "2025-05-19T10:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T11:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924416758540271910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812505673508229120",
+          "start": 0,
+          "username": "Sakura95162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924416758540271910",
+    "in_reply_to_user_id": "1812505673508229120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924415679769501707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura95162 我不太懂啊但我初中有个同学胸骨异常做了矫正，里面是放了块钢板，不知道是利用钢板硬掰还是打断了利用钢板重塑性？周期非常长且痛苦。两个术式本质可能没有太多差异，也可能也没有你期待的效果😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924414655679898101",
+        "created_at": "2025-05-19T10:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924416758540271910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812505673508229120",
+              "start": 0,
+              "username": "Sakura95162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924416758540271910",
+        "in_reply_to_user_id": "1812505673508229120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924415679769501707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura95162 我不太懂啊但我初中有个同学胸骨异常做了矫正，里面是放了块钢板，不知道是利用钢板硬掰还是打断了利用钢板重塑性？周期非常长且痛苦。两个术式本质可能没有太多差异，也可能也没有你期待的效果😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812505673508229120",
+        "conversation_id": "1924414655679898101",
+        "created_at": "2025-05-19T10:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924415679769501707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924415679769501707",
+        "in_reply_to_user_id": "1812505673508229120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924414655679898101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在是小胖我要做，谁给我科普一下😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 562,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1517
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T15:13:37.000Z",
+        "description": "先天姆犬圣体，身高168/98    🚪：388只买图包,  咨询：520,888,1314,真爱富哥专属5200/8888，只玩dy，X，同名, 坐标30r一次，zfb口令带姓，可线下女友一日陪，喜欢拍照分享的小女孩喵\n盗图挡灾",
+        "id": "1812505673508229120",
+        "name": "我要逃避现实世界",
+        "pinned_tweet_id": "1889588289260474683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913813617528700928/tWj5z-DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35693,
+          "following_count": 275,
+          "like_count": 103,
+          "listed_count": 120,
+          "media_count": 53,
+          "tweet_count": 77
+        },
+        "username": "Sakura95162",
+        "verified": false
+      }
+    ]
+  }
+}

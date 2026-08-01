@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069034640447619156",
+    "created_at": "2026-06-22T13:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069043511861928404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 31,
+          "id": "1922574083348414464",
+          "start": 17,
+          "username": "7q46843886669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069043511861928404",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069034640447619156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian @7q46843886669 能不能直接画个线条版，我拿去当头像🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2064,
+        "media_key": "3_2069034631077466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLawCOVakAAoHuj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069034640447619156",
+        "created_at": "2026-06-22T13:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069043511861928404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 31,
+              "id": "1922574083348414464",
+              "start": 17,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069043511861928404",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069034640447619156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian @7q46843886669 能不能直接画个线条版，我拿去当头像🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069034631077466112"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2069034640447619156",
+        "created_at": "2026-06-22T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069034640447619156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1922574083348414464",
+              "start": 43,
+              "username": "7q46843886669"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRLNLACH7C",
+              "end": 81,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2069034640447619156/photo/1",
+              "media_key": "3_2069034631077466112",
+              "start": 58,
+              "url": "https://t.co/dRLNLACH7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069034640447619156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好無聊 有沒有互關想我根據對你的印象 給泥的主頁畫這種小塗鴉呀？！！🤤🤤🤤🤤\n這個是 @7q46843886669 https://t.co/dRLNLACH7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 572,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669\n\n好姐姐@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "OoOooo0518"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 111,
+          "like_count": 4852,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 3393,
+          "like_count": 20073,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 5305
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

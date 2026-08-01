@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924095974412345696",
+    "created_at": "2025-05-18T15:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T16:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924118698018865506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597116471733211136",
+          "start": 0,
+          "username": "hnbngzhg1"
+        },
+        {
+          "end": 26,
+          "id": "1643877236473208833",
+          "start": 11,
+          "username": "dutyofadvocate"
+        },
+        {
+          "end": 37,
+          "id": "1597257668313260033",
+          "start": 27,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924118698018865506",
+    "in_reply_to_user_id": "1597116471733211136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924114595423408505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnbngzhg1 @dutyofadvocate @Minokakay 211其实都不太行，法学本质上就是考证进体制是最优解，极少数思维敏捷口才好交流能力强的人可以做律师挣大钱，考不进体制但考了证可以挂靠法律援助或搞仲裁这种混口饭饿不死。不过学法的考证都费劲的废物是怎么都没出路的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924095974412345696",
+        "created_at": "2025-05-18T15:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924118698018865506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597116471733211136",
+              "start": 0,
+              "username": "hnbngzhg1"
+            },
+            {
+              "end": 26,
+              "id": "1643877236473208833",
+              "start": 11,
+              "username": "dutyofadvocate"
+            },
+            {
+              "end": 37,
+              "id": "1597257668313260033",
+              "start": 27,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924118698018865506",
+        "in_reply_to_user_id": "1597116471733211136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924114595423408505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnbngzhg1 @dutyofadvocate @Minokakay 211其实都不太行，法学本质上就是考证进体制是最优解，极少数思维敏捷口才好交流能力强的人可以做律师挣大钱，考不进体制但考了证可以挂靠法律援助或搞仲裁这种混口饭饿不死。不过学法的考证都费劲的废物是怎么都没出路的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597116471733211136",
+        "conversation_id": "1924095974412345696",
+        "created_at": "2025-05-18T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924114595423408505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643877236473208833",
+              "start": 0,
+              "username": "dutyofadvocate"
+            },
+            {
+              "end": 26,
+              "id": "1597257668313260033",
+              "start": 16,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924114595423408505",
+        "in_reply_to_user_id": "1643877236473208833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924110741893964167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyofadvocate @Minokakay 五院四系或者说211以下的法学人人平等都是考公是最佳出路，工作会累死挣不着几个子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1507
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:33:50.000Z",
+        "description": "ㅋㅋㅋㅋㅋㅋ.\n커피를 좋아해요.",
+        "id": "1597116471733211136",
+        "location": "Los Angeles, CA",
+        "name": "한병지구",
+        "pinned_tweet_id": "1889350334390456335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684618374612217856/FL11qBR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 7501,
+          "like_count": 59866,
+          "listed_count": 9,
+          "media_count": 446,
+          "tweet_count": 14289
+        },
+        "username": "hnbngzhg1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T07:25:40.000Z",
+        "description": "（守望先锋白金坦奶找游戏伙伴）没有门槛，可加微信\n丨反极端主义┃社会民主主义┃新凯恩斯学派┃改良派，偏民国派┃遇到傻逼会直接骂┃做有脊梁、有社会责任的中国知识分子┃\n希望能和许多有意思的人互fo~（三无账号除外。查成分，不希望时间线上看到一些奇奇怪怪的东西。没有回fo，就是没看到，小可爱们记得私信滴滴我）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dutyofadvocate.bsky.social",
+                "end": 23,
+                "expanded_url": "http://dutyofadvocate.bsky.social",
+                "start": 0,
+                "url": "https://t.co/klufFfr7Xt"
+              }
+            ]
+          }
+        },
+        "id": "1643877236473208833",
+        "location": "东北雨姐的大炕",
+        "name": "枫糖呐喊（恩师@konekoutena）",
+        "pinned_tweet_id": "1898688969979957507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909447759008313344/ASqWJJqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 223,
+          "like_count": 718,
+          "listed_count": 9,
+          "media_count": 165,
+          "tweet_count": 7827
+        },
+        "url": "https://t.co/klufFfr7Xt",
+        "username": "dutyofadvocate",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6937,
+          "following_count": 882,
+          "like_count": 42488,
+          "listed_count": 30,
+          "media_count": 979,
+          "tweet_count": 17650
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

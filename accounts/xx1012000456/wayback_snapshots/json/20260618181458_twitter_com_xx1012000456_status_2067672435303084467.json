@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067506122169405536",
+    "created_at": "2026-06-18T18:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067672435303084467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067672435303084467",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067506122169405536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 奎只能打停D2的幻觉啊，4-ho-met应该没影响的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2067505385515442176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFBMara4AAH-Lg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2067505385540644864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFBMaxbcAA8XBo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067506122169405536",
+        "created_at": "2026-06-18T18:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067672435303084467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067672435303084467",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067506122169405536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 奎只能打停D2的幻觉啊，4-ho-met应该没影响的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067505385515442176",
+            "3_2067505385540644864"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "conversation_id": "2067506122169405536",
+        "created_at": "2026-06-18T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067506122169405536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fO2MUpdId3",
+              "end": 154,
+              "expanded_url": "https://x.com/zyj156383/status/2067506122169405536/photo/1",
+              "media_key": "3_2067505385515442176",
+              "start": 131,
+              "url": "https://t.co/fO2MUpdId3"
+            },
+            {
+              "display_url": "pic.x.com/fO2MUpdId3",
+              "end": 154,
+              "expanded_url": "https://x.com/zyj156383/status/2067506122169405536/photo/1",
+              "media_key": "3_2067505385540644864",
+              "start": 131,
+              "url": "https://t.co/fO2MUpdId3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067506122169405536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 778,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.看来你的2a受体上调的反应很厉害 恐怕血清素能致幻剂想要有效得停很久的喹硫平和其他血清素能药物了 唑吡坦试试 而且不要为了娱乐就停止治疗，这样只会得不偿失\n2.现在反诈追回太依赖开盒了 你看看你支付宝钱走到谁的实名去了 跟着他的绑定的手机号开出户籍来就能追 https://t.co/fO2MUpdId3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 468,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 404,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

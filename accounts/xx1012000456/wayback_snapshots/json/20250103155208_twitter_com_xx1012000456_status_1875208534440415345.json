@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875206408880439674",
+    "created_at": "2025-01-03T15:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T16:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875208534440415345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875208534440415345",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875206408880439674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 等下我去哪里了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875206408880439674",
+        "created_at": "2025-01-03T15:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875208534440415345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875208534440415345",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875206408880439674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 等下我去哪里了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875206406607147008"
+          ]
+        },
+        "author_id": "1531971331902050304",
+        "conversation_id": "1875206408880439674",
+        "created_at": "2025-01-03T15:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T16:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875206408880439674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1QDoVltkA",
+              "end": 81,
+              "expanded_url": "https://x.com/Liangbuxiangchi/status/1875206408880439674/photo/1",
+              "media_key": "3_1875206406607147008",
+              "start": 58,
+              "url": "https://t.co/M1QDoVltkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875206408880439674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日售出港美数量，明天发货，广深一天到。需要的抓紧咯，下次就是二月尾，担心被骗钱可以等后面几天收到货的人发帖反馈~ https://t.co/M1QDoVltkA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 413,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 448
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "出售港美  药物中介 接线下 取关请双取 会回关主页有内容的人 不互推互转",
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1875077265610154194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 1127,
+          "like_count": 28641,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 6646
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

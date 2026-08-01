@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1850531821681058183",
+    "created_at": "2024-10-27T15:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850560493813223876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        },
+        {
+          "end": 23,
+          "id": "1560129932524544000",
+          "start": 16,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850560493813223876",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850540335388377188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 @xijiu_ 还好吧，15t不算很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1850531821681058183",
+        "created_at": "2024-10-27T15:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850560493813223876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 23,
+              "id": "1560129932524544000",
+              "start": 16,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850560493813223876",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850540335388377188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 @xijiu_ 还好吧，15t不算很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573863666000224256",
+        "conversation_id": "1850531821681058183",
+        "created_at": "2024-10-27T14:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850540335388377188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850540335388377188",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850531821681058183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 15t晚安？？？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 314,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 187
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "07/高二/一只不太会用正常语气说话的fw/希望能变可爱(๑＞ڡ＜)☆/只要是能相互尊重的友友们都可以和我交朋友啦❤️❤️我爱大家❤️❤️",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1813069847242416183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 463,
+          "like_count": 100393,
+          "listed_count": 1,
+          "tweet_count": 18438
+        },
+        "username": "Futuristic2007",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "⚧一只在校的高三笨猫|a transgirl| I am who I am,would never be defined🍥|姐姐@han_zi53015|女高杀手，全球可飞，保证把委托人杀死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 745,
+          "like_count": 81607,
+          "listed_count": 1,
+          "tweet_count": 4351
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

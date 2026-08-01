@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1861857579686850823",
+    "created_at": "2024-11-28T07:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T08:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862033151046123592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666044826671026177",
+          "start": 0,
+          "username": "nihiloverdose"
+        },
+        {
+          "end": 28,
+          "id": "1300828282061877249",
+          "start": 15,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862033151046123592",
+    "in_reply_to_user_id": "1666044826671026177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861869220784746643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nihiloverdose @HANLIANYI331 你肯定是看错了，折算表对于劳拉这种强力的毫克级别的药物是向上折算的，这个比例也绝对不对。按你这个比例0.5mg劳拉就5g海洛因了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1861857579686850823",
+        "created_at": "2024-11-28T07:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T08:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862033151046123592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666044826671026177",
+              "start": 0,
+              "username": "nihiloverdose"
+            },
+            {
+              "end": 28,
+              "id": "1300828282061877249",
+              "start": 15,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862033151046123592",
+        "in_reply_to_user_id": "1666044826671026177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861869220784746643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nihiloverdose @HANLIANYI331 你肯定是看错了，折算表对于劳拉这种强力的毫克级别的药物是向上折算的，这个比例也绝对不对。按你这个比例0.5mg劳拉就5g海洛因了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666044826671026177",
+        "conversation_id": "1861857579686850823",
+        "created_at": "2024-11-27T20:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T21:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861869220784746643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861869220784746643",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861857579686850823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 刚查了一下劳拉西泮的海洛因换算比例是0.0001，就算他卖了一公斤劳拉西泮也就是一两年的事，不用太紧张，找人争取缓刑是最重要的。\n这个情况除非能曝大光才可以争取无罪辩护。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 369,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 299
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T11:34:03.000Z",
+        "description": "ego nihil timeo, quia nihil habeo",
+        "id": "1666044826671026177",
+        "name": "『緣』LaPLoD",
+        "pinned_tweet_id": "1830241435083534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815145324320862208/WpoC6bHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 582,
+          "like_count": 2021,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 4316
+        },
+        "username": "nihiloverdose",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33725,
+          "following_count": 3426,
+          "like_count": 291,
+          "listed_count": 58,
+          "media_count": 259,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

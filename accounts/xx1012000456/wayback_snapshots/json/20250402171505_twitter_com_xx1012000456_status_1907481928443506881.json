@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905964635439988749",
+    "created_at": "2025-04-02T17:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907481928443506881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847229736508125185",
+          "start": 0,
+          "username": "liu41043"
+        },
+        {
+          "end": 26,
+          "id": "1203523096235278336",
+          "start": 10,
+          "username": "Yukikaz40772195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907481928443506881",
+    "in_reply_to_user_id": "1847229736508125185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906380671813353477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu41043 @Yukikaz40772195 明知是吸毒人员或药品用于非医疗途径提供精、麻药物视为贩毒罪。精麻药物除非另有规定，否则指单方制剂、盐、酯及可能的异构体。愈美根本不是精二，你引用的判例就是错误的。但容留他人吸毒大概率是不包括药物类使用的，因为你是无法推断他的药物来源合法/非法，这里应该考虑一般人无法也没有义务辨别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905964635439988749",
+        "created_at": "2025-04-02T17:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907481928443506881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847229736508125185",
+              "start": 0,
+              "username": "liu41043"
+            },
+            {
+              "end": 26,
+              "id": "1203523096235278336",
+              "start": 10,
+              "username": "Yukikaz40772195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907481928443506881",
+        "in_reply_to_user_id": "1847229736508125185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906380671813353477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu41043 @Yukikaz40772195 明知是吸毒人员或药品用于非医疗途径提供精、麻药物视为贩毒罪。精麻药物除非另有规定，否则指单方制剂、盐、酯及可能的异构体。愈美根本不是精二，你引用的判例就是错误的。但容留他人吸毒大概率是不包括药物类使用的，因为你是无法推断他的药物来源合法/非法，这里应该考虑一般人无法也没有义务辨别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847229736508125185",
+        "conversation_id": "1905964635439988749",
+        "created_at": "2025-03-30T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906380671813353477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1203523096235278336",
+              "start": 0,
+              "username": "Yukikaz40772195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906380671813353477",
+        "in_reply_to_user_id": "1203523096235278336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906298703154938197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukikaz40772195 至于第二点，其实我也不太清楚。我不清楚你说的那个药品。当时我那个朋友吃的是愈美片，所以我只了解过愈美相关的案件。我个人感觉在这方面还没有形成一个明确的标准，个案之间的差别比较大，不同药、不同地区、不同法院认定的标准也不太一样。所以第二个问题还是留待时间去替我们回答吧。共勉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1316
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T10:54:32.000Z",
+        "description": "ENG ok  汉语 ok  русский язык ok\n略懂一点法学\n曾经梦想成为作家，后来又想当大律师，现在希望成为一个值得被依赖的人。",
+        "id": "1847229736508125185",
+        "location": "🏠",
+        "name": "阿列阿列克克克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847230583812030464/Bo0R39cA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 263,
+          "like_count": 2448,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1103
+        },
+        "username": "liu41043",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T03:54:17.000Z",
+        "description": "愛されたい。 東京勢、20⬆️ザコカメラマン、(量産ロリータ)、猫の奴隷、ドール、DBD、FF14、法律、音ゲ。政治無関心なので、討論しないように。妹@jkdghalf411、母@houreisan0tyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "houreisan0tyou"
+              }
+            ]
+          }
+        },
+        "id": "1203523096235278336",
+        "location": "ホームレス支援センター",
+        "name": "Yukikaze",
+        "pinned_tweet_id": "1886031247115424229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553440723756011520/nK3NA5M4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1044,
+          "like_count": 12257,
+          "listed_count": 6,
+          "media_count": 495,
+          "tweet_count": 4747
+        },
+        "username": "Yukikaz40772195",
+        "verified": true
+      }
+    ]
+  }
+}

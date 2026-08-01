@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876167204988928136",
+    "created_at": "2025-01-06T10:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T11:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876219317995622504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964LL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876219317995622504",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876167204988928136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964LL 不是这陈年旧事怎么还能被翻出来的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876167204988928136",
+        "created_at": "2025-01-06T10:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T11:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876219317995622504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964LL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876219317995622504",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876167204988928136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964LL 不是这陈年旧事怎么还能被翻出来的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1876167204988928136",
+        "created_at": "2025-01-06T07:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T08:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876167204988928136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876167204988928136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3918,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "某人的黑料被我发现咯～趁自己好朋友住院把人家男朋友睡了，当时自己还有男朋友呢！然后你的男朋友还和你的那个好朋友好上了是吗🌚🤞想知道是谁吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 417,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 467
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "はい私はとてもかわいいと知っています  ｜これも私ですか。、? ：@yamikawayihime ｜私信只回门槛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "yamikawayihime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876122324866605056/q3DUgFLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 508,
+          "like_count": 4293,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "8964LL",
+        "verified": false
+      }
+    ]
+  }
+}

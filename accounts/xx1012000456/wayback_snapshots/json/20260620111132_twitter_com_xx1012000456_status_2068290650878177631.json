@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068212251455037699",
+    "created_at": "2026-06-20T11:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068290650878177631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068290650878177631",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068212251455037699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan 题干说的不算太清楚，不过我反而倾向D，这个我感觉是间接故意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2067964281031925760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLijpsaoAAMDyu.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068212251455037699",
+        "created_at": "2026-06-20T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068290650878177631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068290650878177631",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068212251455037699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 题干说的不算太清楚，不过我反而倾向D，这个我感觉是间接故意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067964281031925760"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2068212251455037699",
+        "created_at": "2026-06-20T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068212251455037699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQLe7IUUDR",
+              "end": 38,
+              "expanded_url": "https://x.com/YongQuan/status/2068212251455037699/photo/1",
+              "media_key": "3_2067964281031925760",
+              "start": 15,
+              "url": "https://t.co/UQLe7IUUDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068212251455037699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1689,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以答案是啥 在线等挺急的（ https://t.co/UQLe7IUUDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 534,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1703
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10700,
+          "following_count": 4609,
+          "like_count": 51247,
+          "listed_count": 35,
+          "media_count": 4445,
+          "tweet_count": 14767
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1877404513956487299",
+    "created_at": "2025-01-09T17:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T18:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877406900658037245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964Y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877406900658037245",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877404513956487299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Y_ 你真的是躁了而不是精分了吗🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1877404513956487299",
+        "created_at": "2025-01-09T17:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T18:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877406900658037245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964Y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877406900658037245",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877404513956487299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Y_ 你真的是躁了而不是精分了吗🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1877404513956487299",
+        "created_at": "2025-01-09T17:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T18:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877404513956487299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877404513956487299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚看到一个白色的票过去😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 432,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 511
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "藤本树孝子｜藤本树本人小号：@9464LL ｜Eng ok 日本語OK 中文OK｜大爱momo酱｜想和我互fo的女孩直接私信我好吗好的｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "9464LL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "小桃厄卡伦你们快点结婚啊我真的等不及出生了我要当你们的小孩晚上我会自己睡一个房间的记得给我生个妹妹",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877227742422511616/-muQPNdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 703,
+          "like_count": 5547,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "8964Y_",
+        "verified": false
+      }
+    ]
+  }
+}

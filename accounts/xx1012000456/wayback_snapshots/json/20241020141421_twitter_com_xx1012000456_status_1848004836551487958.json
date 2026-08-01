@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1847979301154746821",
+    "created_at": "2024-10-20T14:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T15:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848004836551487958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848004836551487958",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848001274962395518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 化学名音译的药物很多啊，什么阿普挫仑、奥沙西泮、西酞普兰不都是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1847979301154746821",
+        "created_at": "2024-10-20T14:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848004836551487958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848004836551487958",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848001274962395518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 化学名音译的药物很多啊，什么阿普挫仑、奥沙西泮、西酞普兰不都是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1847979301154746821",
+        "created_at": "2024-10-20T14:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848001274962395518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848001274962395518",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847995059171635436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 俗称也该叫左美沙芬吧，毕竟有美沙芬和右美沙芬了\n另外其实对化学名音译的药物似乎挺少，色普龙倒是一个（“环丙孕酮”音译）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 282,
+          "like_count": 8,
+          "listed_count": 1,
+          "tweet_count": 131
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "据说长大了的傻孩子x｜持证20.11.11含糖MtF/持“证”ADHD&ASD/已约手术｜｜❤️麻麻@toukorina🥰｜｜女儿@SoutawashuuYuki @charge_rif｜｜老婆@诶我老婆呢x｜｜\n每个人都有幸与不幸，愿每个人被善待、善待自己｜｜里推@xue_zhi_2nd 存术前遗照，禁止涩涩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "toukorina"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "SoutawashuuYuki"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "charge_rif"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "xue_zhi_2nd"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "⚠️距离您已不足1pm",
+        "name": "🏳️‍⚧️织不唧不是乳交酯是乳胶织🍄",
+        "pinned_tweet_id": "1836959560357269807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 513,
+          "like_count": 4975,
+          "listed_count": 2,
+          "tweet_count": 1851
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

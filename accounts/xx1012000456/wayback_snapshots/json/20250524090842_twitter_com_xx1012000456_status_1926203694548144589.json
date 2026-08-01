@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1926159313166381352",
+    "created_at": "2025-05-24T09:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T10:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926203694548144589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775557501016297472",
+          "start": 0,
+          "username": "Ayanami090130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926203694548144589",
+    "in_reply_to_user_id": "1775557501016297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926159313166381352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami090130 右美本来就是吗啡烷骨架的产物，归到阿片类没有问题😅只不过激活不了μ受体，所以不配而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1926159313166381352",
+        "created_at": "2025-05-24T09:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T10:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926203694548144589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775557501016297472",
+              "start": 0,
+              "username": "Ayanami090130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926203694548144589",
+        "in_reply_to_user_id": "1775557501016297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926159313166381352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami090130 右美本来就是吗啡烷骨架的产物，归到阿片类没有问题😅只不过激活不了μ受体，所以不配而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775557501016297472",
+        "conversation_id": "1926159313166381352",
+        "created_at": "2025-05-24T06:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T07:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926159313166381352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926159313166381352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我进过一个space有人告诉我右美属于阿片类 我自己满脑问号（）据我所知这个东西只有和二氢可待因相似的代谢机制（我自己看wiki上写的）但是我看wiki并没有把这个东西归类到阿片类所以我本人还是持怀疑态度（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1566
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 戒除阿片类药物中 把推当日记发 偶尔出cos🚪60求溺爱（私信找我要收款码） 雙生姐妹，最好的姐姐@Lyre28i 唯一墙内抖音账号：29279972457（其他都是盗图哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "Lyre28i"
+              }
+            ]
+          }
+        },
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc｜烟代🚬",
+        "pinned_tweet_id": "1914302529887936550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 59,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 283
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1853438297231790382",
+    "created_at": "2024-11-04T16:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T17:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853467963179098266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853467963179098266",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853438297231790382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki 不能，可待因不走3A4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1853438297231790382",
+        "created_at": "2024-11-04T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853467963179098266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853467963179098266",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853438297231790382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki 不能，可待因不走3A4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471440753645793286",
+        "conversation_id": "1853438297231790382",
+        "created_at": "2024-11-04T14:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T15:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853438297231790382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853438297231790382",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁也能增强二氢可待因药效吗，我看说可以但是怕因为抑制导致解离来的过慢甚至完全没有解离，因为我上次反而让右美药效更不明显了喝了西柚汁，有且只喝过一次完全没有药效后面就放弃了感觉浪费西柚浪费右美，我这次不会浪费五十片白兔吧（目移）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 345,
+          "like_count": 8,
+          "listed_count": 1,
+          "tweet_count": 246
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌",
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（入土）",
+        "pinned_tweet_id": "1821775383345172551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740197391121498113/MJm4woj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 609,
+          "like_count": 16689,
+          "listed_count": 26,
+          "tweet_count": 9479
+        },
+        "username": "MuyumeKiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077089685885923328",
+        "3_2077089710355480576",
+        "3_2077089744266379264",
+        "3_2077089789883678720"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077093191745191963",
+    "created_at": "2026-07-14T18:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077093191745191963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RvI83voJZh",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+          "media_key": "3_2077089685885923328",
+          "start": 154,
+          "url": "https://t.co/RvI83voJZh"
+        },
+        {
+          "display_url": "pic.x.com/RvI83voJZh",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+          "media_key": "3_2077089710355480576",
+          "start": 154,
+          "url": "https://t.co/RvI83voJZh"
+        },
+        {
+          "display_url": "pic.x.com/RvI83voJZh",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+          "media_key": "3_2077089744266379264",
+          "start": 154,
+          "url": "https://t.co/RvI83voJZh"
+        },
+        {
+          "display_url": "pic.x.com/RvI83voJZh",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+          "media_key": "3_2077089789883678720",
+          "start": 154,
+          "url": "https://t.co/RvI83voJZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077093191745191963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.我23年见证过一个BZD+亚硝酸钠安眠的，单纯堆量我觉得比较困难。BZD、晚安、喹硫平致死量都在100t以上，连用方案不能保证你安详入眠，再坚持坚持吧🫠\n2.我自己的体感不是😅美金刚在我这里就是长效一点的晚安，没感觉这两种药物有明显区别\n3.佐匹克隆通过3A4和2E1代谢，请自行寻找抑制剂\n4.见上条 https://t.co/RvI83voJZh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2077089685885923328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOEH3bsAApo0f.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077089710355480576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOFjBbgAAKliQ.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077089744266379264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOHhWawAArEhB.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077089789883678720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOKLSbgAANGSG.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077089685885923328",
+            "3_2077089710355480576",
+            "3_2077089744266379264",
+            "3_2077089789883678720"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077093191745191963",
+        "created_at": "2026-07-14T18:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077093191745191963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvI83voJZh",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+              "media_key": "3_2077089685885923328",
+              "start": 154,
+              "url": "https://t.co/RvI83voJZh"
+            },
+            {
+              "display_url": "pic.x.com/RvI83voJZh",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+              "media_key": "3_2077089710355480576",
+              "start": 154,
+              "url": "https://t.co/RvI83voJZh"
+            },
+            {
+              "display_url": "pic.x.com/RvI83voJZh",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+              "media_key": "3_2077089744266379264",
+              "start": 154,
+              "url": "https://t.co/RvI83voJZh"
+            },
+            {
+              "display_url": "pic.x.com/RvI83voJZh",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2077093191745191963/photo/1",
+              "media_key": "3_2077089789883678720",
+              "start": 154,
+              "url": "https://t.co/RvI83voJZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077093191745191963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.我23年见证过一个BZD+亚硝酸钠安眠的，单纯堆量我觉得比较困难。BZD、晚安、喹硫平致死量都在100t以上，连用方案不能保证你安详入眠，再坚持坚持吧🫠\n2.我自己的体感不是😅美金刚在我这里就是长效一点的晚安，没感觉这两种药物有明显区别\n3.佐匹克隆通过3A4和2E1代谢，请自行寻找抑制剂\n4.见上条 https://t.co/RvI83voJZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 682,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1977
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

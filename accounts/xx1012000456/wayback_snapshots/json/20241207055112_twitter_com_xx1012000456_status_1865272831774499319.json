@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865206781426962516",
+    "created_at": "2024-12-07T05:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T06:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865272831774499319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 33,
+          "id": "1780610230235312128",
+          "start": 17,
+          "username": "storMTXsnow8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865272831774499319",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865210031869956290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @storMTXsnow8964 虽然但是，RS和左右旋没有关系，RS是手型原子排列顺序的区别，左右旋是溶液旋光仪测量的物理结果，没有任何关系😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865206781426962516",
+        "created_at": "2024-12-07T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865272831774499319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 33,
+              "id": "1780610230235312128",
+              "start": 17,
+              "username": "storMTXsnow8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865272831774499319",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865210031869956290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @storMTXsnow8964 虽然但是，RS和左右旋没有关系，RS是手型原子排列顺序的区别，左右旋是溶液旋光仪测量的物理结果，没有任何关系😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1865206781426962516",
+        "created_at": "2024-12-07T01:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T02:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865210031869956290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780610230235312128",
+              "start": 0,
+              "username": "storMTXsnow8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865210031869956290",
+        "in_reply_to_user_id": "1780610230235312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 218,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865206781426962516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@storMTXsnow8964 需要麻醉科+精神科MDT 门槛高 不可能o\n而且这是医疗产品 不是小作坊杂质k粉\n氯胺酮是左旋和右旋两个异构体组成的消旋混合物\n艾司氯胺酮为右旋氯胺酮\n1971年Hudyma等用D-酒石酸将氯胺酮拆分成左旋和右旋两种光学异构体 两个在人体中效果是不一样的\n是右旋的氯胺酮 副作用减少 效果增强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 374,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 338
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  MTX🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610                                              \n最温暖的归宿和恋人 : @quanai_qwq ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "quanai_qwq"
+              }
+            ]
+          }
+        },
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1855898022443721028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 6307,
+          "like_count": 86558,
+          "listed_count": 9,
+          "media_count": 814,
+          "tweet_count": 53020
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T14:52:48.000Z",
+        "description": "特别特别特别好朋友😘@catr54 /咱永远做@hatsuki_mumu的猫猫 /另一个号@storMTXsnow/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "catr54"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "hatsuki_mumu"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "storMTXsnow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/njzpF5Mznd"
+              }
+            ]
+          }
+        },
+        "id": "1780610230235312128",
+        "name": "风雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801128048601030656/TS78gR6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1126,
+          "like_count": 11406,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/njzpF5Mznd",
+        "username": "storMTXsnow8964",
+        "verified": false
+      }
+    ]
+  }
+}

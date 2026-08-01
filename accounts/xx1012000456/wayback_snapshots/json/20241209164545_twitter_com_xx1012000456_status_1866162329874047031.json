@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1866140928077119914",
+    "created_at": "2024-12-09T16:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T17:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866162329874047031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866162329874047031",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866140928077119914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 但倒过来讲，按中国乃至东亚的审美趋势，色情行业对年龄的包容度很低，只有足够年轻才能获得足够的价值和利益，所以越不该入场的年龄反而越能赚钱。这个悖论感觉才是核心的矛盾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1866140928077119914",
+        "created_at": "2024-12-09T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866162329874047031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866162329874047031",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866140928077119914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 但倒过来讲，按中国乃至东亚的审美趋势，色情行业对年龄的包容度很低，只有足够年轻才能获得足够的价值和利益，所以越不该入场的年龄反而越能赚钱。这个悖论感觉才是核心的矛盾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1866140928077119914",
+        "created_at": "2024-12-09T15:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866140928077119914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866140928077119914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先我个人不支持一切未成年做黄推的行为\n\n关于未成年黄推这件事，逻辑是“未成年没形成价值观所以做黄推是不好的”，那么反过来推论的话就是“成年人做黄推是自己的选择所以理解”这么想一想也怪不了未成年人…更应该在乎的是这个社会环境。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 382,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 355
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 此账号皮下是小动物，小动物会难过，还会把你啊呜啊呜的吃掉。里账号@damatte0526  ｜ACG/マヌルネコ/ゴスロリ/ボカロ/スプラトゥーン3大好き｜接转推｜买情趣用品找她➡️@Koko_mia_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "damatte0526"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Koko_mia_"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊➕朋友圈（请不要骂我）",
+        "name": "小咪之家（希望收到友善可爱的私信版）",
+        "pinned_tweet_id": "1865172917237043393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859932510580252672/jB4eCxiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10890,
+          "following_count": 569,
+          "like_count": 2699,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 1090
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

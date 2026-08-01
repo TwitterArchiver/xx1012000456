@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925524077030383978",
+    "created_at": "2025-05-22T16:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925583907371745457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925583907371745457",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925524077030383978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 东窗事发？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925524077030383978",
+        "created_at": "2025-05-22T16:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925583907371745457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925583907371745457",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925524077030383978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 东窗事发？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1925524077030383978",
+        "created_at": "2025-05-22T12:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T13:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925524077030383978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925524077030383978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了烦死了我最讨厌我家里人问我关于药物，或者问我有没有翻墙的问题了，刚刚我妈来我房间看到我房间地上有一板克拉霉素，然后就问我又买什么药，我他妈烦死了操你妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 1558
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 ｜此号只过好朋友@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520没区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1921503481895981188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912895993894617088/HM7PP1xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 924,
+          "like_count": 13119,
+          "listed_count": 8,
+          "media_count": 684,
+          "tweet_count": 10143
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

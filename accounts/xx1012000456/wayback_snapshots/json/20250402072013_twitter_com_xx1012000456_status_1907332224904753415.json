@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907271249555845362",
+    "created_at": "2025-04-02T07:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T08:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907332224904753415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782080401575702528",
+          "start": 0,
+          "username": "__shilapi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907332224904753415",
+    "in_reply_to_user_id": "1782080401575702528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907271249555845362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__shilapi__ 7%2D6弱人群吧，血药浓度能到十几倍😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907271249555845362",
+        "created_at": "2025-04-02T07:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907332224904753415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782080401575702528",
+              "start": 0,
+              "username": "__shilapi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907332224904753415",
+        "in_reply_to_user_id": "1782080401575702528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907271249555845362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__shilapi__ 7%2D6弱人群吧，血药浓度能到十几倍😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782080401575702528",
+        "conversation_id": "1907271249555845362",
+        "created_at": "2025-04-02T03:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T04:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907271249555845362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907271249555845362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人因持续干咳，于昨夜23时摄入了20ml右美沙芬愈创甘油醚糖浆，折合右美沙芬30mg。现在被after effect折磨的不成人型。\n我就想请问了，我只吃了30mg，正常剂量，按照psychonaut wiki的说法我连75mg的od门槛都没到，但还是会感受到和12t几乎一样强的after effect。这是我太敏感了还是正常人也这样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1294
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T16:14:18.000Z",
+        "description": "🏳️‍⚧️ Pride for myself / ❤️ @SDRAM_DIMTH / Guess who I am ( ´▽｀)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "SDRAM_DIMTH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapiw.icu",
+                "end": 23,
+                "expanded_url": "http://lapiw.icu",
+                "start": 0,
+                "url": "https://t.co/sovFzVUuc1"
+              }
+            ]
+          }
+        },
+        "id": "1782080401575702528",
+        "location": "London, England",
+        "name": "Shilapi Nya~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867011803735273472/PSw9n9L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 176,
+          "like_count": 2776,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/sovFzVUuc1",
+        "username": "__shilapi__",
+        "verified": false
+      }
+    ]
+  }
+}

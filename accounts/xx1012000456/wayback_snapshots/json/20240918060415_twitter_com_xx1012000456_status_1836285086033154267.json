@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1836137747213660229",
+    "created_at": "2024-09-18T06:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T07:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836285086033154267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464586716010921985",
+          "start": 0,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836285086033154267",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836283645092597832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RDrugLab 3.N2O的损伤也不完全来自缺氧，对于神经系统的影响可观察到的有干扰B12维生素的生理参与导致"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1836137747213660229",
+        "created_at": "2024-09-18T06:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T07:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836285086033154267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836285086033154267",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836283645092597832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 3.N2O的损伤也不完全来自缺氧，对于神经系统的影响可观察到的有干扰B12维生素的生理参与导致"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1836137747213660229",
+        "created_at": "2024-09-18T05:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T06:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836283645092597832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836283645092597832",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836282884833055224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 2.N2O的作用机制绝不是单纯的缺氧，不然完全可以用N2气瓶代替。N20的机制尚不明确，但可以确定的是最重要的N2O可以结合NMDA，也就是它是人类最早应用的分离性镇静/麻醉剂，可以达到类似氯胺酮和右美的效果，同时还会激活阿片、GABA、多巴胺等受体，是非常复杂的混合型麻醉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 184,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "id": "1464586716010921985",
+        "location": "距您7945km 𝕏",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1834909423854403793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820173045639651328/jasu6zB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 23,
+          "like_count": 6,
+          "listed_count": 10,
+          "tweet_count": 557
+        },
+        "username": "RDrugLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075653325543157760",
+        "3_2075653349446459392",
+        "3_2075653365560942592"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075654712289054722",
+    "created_at": "2026-07-10T18:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075654712289054722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1124790071314587648",
+          "start": 2,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oi2F0cARPi",
+          "end": 179,
+          "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+          "media_key": "3_2075653325543157760",
+          "start": 156,
+          "url": "https://t.co/Oi2F0cARPi"
+        },
+        {
+          "display_url": "pic.x.com/Oi2F0cARPi",
+          "end": 179,
+          "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+          "media_key": "3_2075653349446459392",
+          "start": 156,
+          "url": "https://t.co/Oi2F0cARPi"
+        },
+        {
+          "display_url": "pic.x.com/Oi2F0cARPi",
+          "end": 179,
+          "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+          "media_key": "3_2075653365560942592",
+          "start": 156,
+          "url": "https://t.co/Oi2F0cARPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075654712289054722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.@LanwujiDrink 你的客户来了\n2.我自己的结果是一周肯定不会查出来，一般3天就clean了。发检一般6个月？剂量问题不需要你操心，不同2D6活性人群右美血药浓度能差十几倍，大概率没有定量的标准\n3.你说的共济失调+嗜睡有没有可能就是解离🤣你可能是没有爽感，我自己o晚安或美金刚就比较接近你的描述 https://t.co/Oi2F0cARPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2075653325543157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4zs8nbsAAZqr5.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075653349446459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4zuVqbIAAV9_S.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075653365560942592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4zvRsaoAApbRL.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075653325543157760",
+            "3_2075653349446459392",
+            "3_2075653365560942592"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075654712289054722",
+        "created_at": "2026-07-10T18:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075654712289054722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1124790071314587648",
+              "start": 2,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oi2F0cARPi",
+              "end": 179,
+              "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+              "media_key": "3_2075653325543157760",
+              "start": 156,
+              "url": "https://t.co/Oi2F0cARPi"
+            },
+            {
+              "display_url": "pic.x.com/Oi2F0cARPi",
+              "end": 179,
+              "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+              "media_key": "3_2075653349446459392",
+              "start": 156,
+              "url": "https://t.co/Oi2F0cARPi"
+            },
+            {
+              "display_url": "pic.x.com/Oi2F0cARPi",
+              "end": 179,
+              "expanded_url": "https://x.com/xx1012000456/status/2075654712289054722/photo/1",
+              "media_key": "3_2075653365560942592",
+              "start": 156,
+              "url": "https://t.co/Oi2F0cARPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075654712289054722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.@LanwujiDrink 你的客户来了\n2.我自己的结果是一周肯定不会查出来，一般3天就clean了。发检一般6个月？剂量问题不需要你操心，不同2D6活性人群右美血药浓度能差十几倍，大概率没有定量的标准\n3.你说的共济失调+嗜睡有没有可能就是解离🤣你可能是没有爽感，我自己o晚安或美金刚就比较接近你的描述 https://t.co/Oi2F0cARPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 673,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2072994019437949284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 106,
+          "like_count": 2878,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

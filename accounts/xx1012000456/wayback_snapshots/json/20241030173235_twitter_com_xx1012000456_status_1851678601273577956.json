@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1851582621354270973",
+    "created_at": "2024-10-30T17:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T18:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851678601273577956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        },
+        {
+          "end": 23,
+          "id": "1798524995301429248",
+          "start": 12,
+          "username": "MomO_Osam3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851678601273577956",
+    "in_reply_to_user_id": "1836782122037874688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851584382630527420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 @MomO_Osam3 是这样的，我是大学抑郁的，后来是彻底摆烂（要么翘课要么上课签到睡觉下课换教室重复），现在我对大学的名字和地界都还有些惧怕和燃烧感，我不建议你硬扛，即使正常人经历倒计时都会出现抑郁和焦虑状态，这种冲击下即使在学校也没有意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1851582621354270973",
+        "created_at": "2024-10-30T17:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T18:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851678601273577956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            },
+            {
+              "end": 23,
+              "id": "1798524995301429248",
+              "start": 12,
+              "username": "MomO_Osam3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851678601273577956",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851584382630527420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 @MomO_Osam3 是这样的，我是大学抑郁的，后来是彻底摆烂（要么翘课要么上课签到睡觉下课换教室重复），现在我对大学的名字和地界都还有些惧怕和燃烧感，我不建议你硬扛，即使正常人经历倒计时都会出现抑郁和焦虑状态，这种冲击下即使在学校也没有意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "conversation_id": "1851582621354270973",
+        "created_at": "2024-10-30T11:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T12:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851584382630527420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798524995301429248",
+              "start": 0,
+              "username": "MomO_Osam3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851584382630527420",
+        "in_reply_to_user_id": "1798524995301429248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851583223371108630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomO_Osam3 阿里嘎多谢谢你，，，，但我的状态其实就是抑郁焦虑一想到学习有关上学有关我就破防"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 319,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 201
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/entp/抽象妹/🚪20纯绿陪聊/粥批/我想要带给你幸福 @WeiShen60223 /小号：@jy3152509243",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "WeiShen60223"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1850400229272814004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 456,
+          "like_count": 4079,
+          "listed_count": 1,
+          "tweet_count": 2916
+        },
+        "username": "mio1738468",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T01:19:24.000Z",
+        "description": "一个没什么前途的大二化学生/音游玩家/上推时间不多（如果想加我Q/V的小可爱宝宝们可以私信踢我！）/互fo欢迎/私信看到了就会回❤️",
+        "id": "1798524995301429248",
+        "location": "🌅幻想着爱情的小孩静静地坐在海边的沙滩上",
+        "name": "Cardiac.UmO",
+        "pinned_tweet_id": "1850164451204563309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846395957086507012/tnHH8L0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 258,
+          "like_count": 602,
+          "listed_count": 0,
+          "tweet_count": 312
+        },
+        "username": "MomO_Osam3",
+        "verified": false
+      }
+    ]
+  }
+}

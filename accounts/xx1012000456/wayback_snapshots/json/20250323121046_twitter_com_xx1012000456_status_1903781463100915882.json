@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903774766344867850",
+    "created_at": "2025-03-23T12:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903781463100915882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658222935717580800",
+          "start": 0,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903781463100915882",
+    "in_reply_to_user_id": "1658222935717580800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903774766344867850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong23_3 永远不要对医生隐瞒或撒谎，当然医生也有义务对此保密🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903774766344867850",
+        "created_at": "2025-03-23T12:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903781463100915882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903781463100915882",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903774766344867850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 永远不要对医生隐瞒或撒谎，当然医生也有义务对此保密🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1903774766344867850",
+        "created_at": "2025-03-23T11:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903774766344867850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosong23_3/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/xiaosong23_3/status/1902633656725692581",
+              "start": 145,
+              "url": "https://t.co/XkY57lsxii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903774766344867850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902633656725692581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是od的话就直接和我讲清楚，没必要藏着掖着，药物相互作用和病因我都得搞清楚。\n\n另外有些人觉得od对自己情绪没影响，就没必要和我说，这是错误的。\n\n中枢活性的药都吃进肚子里了，还能抱有什么侥幸心理？想要缓解焦虑和压力，有常规处方药可以在医院开到，没必要整那些有的没的，等进局子就老实了。 https://t.co/XkY57lsxii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 494,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1060
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "也许是xiaosong。 钢丝｜战争后霆｜充军 ｜日术｜前odw编辑，曾负责精神病学栏目｜接精神障碍咨询，详见置顶，有事找我的话   https://t.co/Astgqj3Uap",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 90,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 67,
+                "url": "https://t.co/Astgqj3Uap"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "http://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/xv2wq7KSUy"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "pinned_tweet_id": "1902633656725692581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 347,
+          "like_count": 19339,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/xv2wq7KSUy",
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

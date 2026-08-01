@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913217671455486016",
+    "created_at": "2025-04-18T18:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T19:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913298279825301651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830362663861325825",
+          "start": 0,
+          "username": "cOcO_MILL_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913298279825301651",
+    "in_reply_to_user_id": "1830362663861325825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913217671455486016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cOcO_MILL_ 死不了可以放心，大概率会很难受但是死不了的剂量"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913217660256706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0dU0ma4AAILoQ.jpg",
+        "width": 402
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1913217661863092224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0dU6laYAAP3-D.jpg",
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913217660290260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0dU0ua4AADgxb.jpg",
+        "width": 402
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913217661141749761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0dU35bkAEAa39.jpg",
+        "width": 402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913217671455486016",
+        "created_at": "2025-04-18T18:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T19:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913298279825301651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830362663861325825",
+              "start": 0,
+              "username": "cOcO_MILL_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913298279825301651",
+        "in_reply_to_user_id": "1830362663861325825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913217671455486016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOcO_MILL_ 死不了可以放心，大概率会很难受但是死不了的剂量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913217660256706560",
+            "3_1913217661863092224",
+            "3_1913217660290260992",
+            "3_1913217661141749761"
+          ]
+        },
+        "author_id": "1830362663861325825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913217671455486016",
+        "created_at": "2025-04-18T13:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T14:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913217671455486016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Du0PeVtj1m",
+              "end": 169,
+              "expanded_url": "https://x.com/cOcO_MILL_/status/1913217671455486016/photo/1",
+              "media_key": "3_1913217660256706560",
+              "start": 146,
+              "url": "https://t.co/Du0PeVtj1m"
+            },
+            {
+              "display_url": "pic.x.com/Du0PeVtj1m",
+              "end": 169,
+              "expanded_url": "https://x.com/cOcO_MILL_/status/1913217671455486016/photo/1",
+              "media_key": "3_1913217661863092224",
+              "start": 146,
+              "url": "https://t.co/Du0PeVtj1m"
+            },
+            {
+              "display_url": "pic.x.com/Du0PeVtj1m",
+              "end": 169,
+              "expanded_url": "https://x.com/cOcO_MILL_/status/1913217671455486016/photo/1",
+              "media_key": "3_1913217660290260992",
+              "start": 146,
+              "url": "https://t.co/Du0PeVtj1m"
+            },
+            {
+              "display_url": "pic.x.com/Du0PeVtj1m",
+              "end": 169,
+              "expanded_url": "https://x.com/cOcO_MILL_/status/1913217671455486016/photo/1",
+              "media_key": "3_1913217661141749761",
+              "start": 146,
+              "url": "https://t.co/Du0PeVtj1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913217671455486016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3980,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是御坂，现接管该账号，求助各位推友，有知道号主具体信息的，请帮我报警，非常感谢 她服用了28粒帕罗西汀+8粒舍曲林+19伏硫西汀要自杀，而且没有第一时间告诉我\n我没有具体信息无能为力，碰见这个事，大脑很空，不知道要做什么\n模糊信息：住安徽合肥，家在安徽合肥，学校巢湖学院，前段时间搬离宿舍 https://t.co/Du0PeVtj1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 526,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1416
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T21:50:47.000Z",
+        "description": "爱你们呐❤️\n愿你们天天开心 •͈ ₃ •͈",
+        "id": "1830362663861325825",
+        "name": "CoCo_mill",
+        "pinned_tweet_id": "1913239301397364774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912145653385293824/E6clTnxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 779,
+          "like_count": 5842,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2114
+        },
+        "username": "cOcO_MILL_",
+        "verified": false
+      }
+    ]
+  }
+}

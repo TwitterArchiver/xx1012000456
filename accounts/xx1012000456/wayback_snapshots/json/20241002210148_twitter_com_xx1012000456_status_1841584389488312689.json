@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1797231767373701521",
+    "created_at": "2024-10-02T21:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T22:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841584389488312689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1542894947698757632",
+          "start": 0,
+          "username": "sss91666"
+        },
+        {
+          "end": 23,
+          "id": "1682474617208709122",
+          "start": 10,
+          "username": "jpdrugdealer"
+        },
+        {
+          "end": 38,
+          "id": "1737847490672791552",
+          "start": 24,
+          "username": "JPDrugDealer0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841584389488312689",
+    "in_reply_to_user_id": "1542894947698757632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841583050943259012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sss91666 @jpdrugdealer @JPDrugDealer0 飞鸟，乙基氯胺酮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1797231767373701521",
+        "created_at": "2024-10-02T21:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T22:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841584389488312689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1542894947698757632",
+              "start": 0,
+              "username": "sss91666"
+            },
+            {
+              "end": 23,
+              "id": "1682474617208709122",
+              "start": 10,
+              "username": "jpdrugdealer"
+            },
+            {
+              "end": 38,
+              "id": "1737847490672791552",
+              "start": 24,
+              "username": "JPDrugDealer0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841584389488312689",
+        "in_reply_to_user_id": "1542894947698757632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841583050943259012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sss91666 @jpdrugdealer @JPDrugDealer0 飞鸟，乙基氯胺酮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542894947698757632",
+        "conversation_id": "1797231767373701521",
+        "created_at": "2024-10-02T20:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T21:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841583050943259012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "1682474617208709122",
+              "start": 14,
+              "username": "jpdrugdealer"
+            },
+            {
+              "end": 42,
+              "id": "1737847490672791552",
+              "start": 28,
+              "username": "JPDrugDealer0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841583050943259012",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797965739019972665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @jpdrugdealer @JPDrugDealer0 请问有什么不列管物质，融合烟油类似依托效果的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 214,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 49
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T15:36:43.000Z",
+        "description": "保持热情，永不止步",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/maabbcd",
+                "end": 23,
+                "expanded_url": "http://t.me/maabbcd",
+                "start": 0,
+                "url": "https://t.co/3ovYCVhhpW"
+              }
+            ]
+          }
+        },
+        "id": "1542894947698757632",
+        "name": "奔驰人生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543631708343267328/T9KyH3Uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 904,
+          "like_count": 17,
+          "listed_count": 1,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/3ovYCVhhpW",
+        "username": "sss91666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 132,
+          "like_count": 44,
+          "listed_count": 1,
+          "tweet_count": 49
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T14:48:26.000Z",
+        "description": "Japan Drug Dealer备胎\nTG群：https://t.co/hUO0G2yGZi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jdd_customer",
+                "end": 47,
+                "expanded_url": "https://t.me/jdd_customer",
+                "start": 24,
+                "url": "https://t.co/hUO0G2yGZi"
+              }
+            ]
+          }
+        },
+        "id": "1737847490672791552",
+        "location": "Japan",
+        "name": "Japan Drug Dealer",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "tweet_count": 0
+        },
+        "username": "JPDrugDealer0",
+        "verified": false
+      }
+    ]
+  }
+}

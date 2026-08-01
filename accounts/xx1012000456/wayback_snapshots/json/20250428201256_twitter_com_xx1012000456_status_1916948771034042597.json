@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916750624093540763",
+    "created_at": "2025-04-28T20:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T21:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916948771034042597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1566283496187760641",
+          "start": 0,
+          "username": "KkMiliet_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916948771034042597",
+    "in_reply_to_user_id": "1566283496187760641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916750624093540763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KkMiliet_t 理论：半衰期4h，药效期3-8h（止咳数据）。个人体感，高峰期2h左右，整体药效4h左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916750624093540763",
+        "created_at": "2025-04-28T20:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T21:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916948771034042597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1566283496187760641",
+              "start": 0,
+              "username": "KkMiliet_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916948771034042597",
+        "in_reply_to_user_id": "1566283496187760641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916750624093540763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KkMiliet_t 理论：半衰期4h，药效期3-8h（止咳数据）。个人体感，高峰期2h左右，整体药效4h左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566283496187760641",
+        "conversation_id": "1916750624093540763",
+        "created_at": "2025-04-28T07:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T08:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916750624093540763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916750624093540763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助一下。玉米半衰期是多久呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 535,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1461
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T04:34:27.000Z",
+        "description": "你好(^^)这里只是我的废话地",
+        "id": "1566283496187760641",
+        "name": "38kgPls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856848929012551683/AtuQv5AK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 186,
+          "like_count": 3255,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "username": "KkMiliet_t",
+        "verified": false
+      }
+    ]
+  }
+}

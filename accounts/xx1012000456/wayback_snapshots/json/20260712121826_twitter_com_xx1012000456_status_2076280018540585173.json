@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2076185515494367446",
+    "created_at": "2026-07-12T12:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076280018540585173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076280018540585173",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076185515494367446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE 可是你要知道药店药厂的毛利都在500-1000%🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2076185515494367446",
+        "created_at": "2026-07-12T12:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076280018540585173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076280018540585173",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076185515494367446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 可是你要知道药店药厂的毛利都在500-1000%🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2076185513850245120"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076185515494367446",
+        "created_at": "2026-07-12T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076185515494367446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076185515494367446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1012,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "作为一个oder，如果你要购买网络禁售药物/策划药/rc，你最多能够接受药商赚取网禁药/策划药/rc的多少毛利率？（毛利为扣除生产成本后的利润）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 680,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1954
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 129,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

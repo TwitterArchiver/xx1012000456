@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-26T12:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T13:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872256523327656252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847909934203097088",
+          "start": 0,
+          "username": "momoisaiba15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872256523327656252",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872255894991655319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoisaiba15 即上来我跟你说“普瑞巴林需要首过效应才能发挥作用”（只是例子，这句话是胡说八道）但事实pr根本不经过肝脏代谢一样荒谬。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T12:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872256523327656252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872256523327656252",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872255894991655319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 即上来我跟你说“普瑞巴林需要首过效应才能发挥作用”（只是例子，这句话是胡说八道）但事实pr根本不经过肝脏代谢一样荒谬。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T12:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872255894991655319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872255894991655319",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872253308548898974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 你没懂，学术的问题我试着简单的讲一遍，理解不了就算了。他斩钉截铁的说“只有氢溴酸化后右美才能被人体吸收”，氢溴酸排他性--只有氢溴酸右美特殊--溴离子配位效应。除非他能编出其他影响方式否则“只有氢溴酸化后右美才能被人体吸收”与“氢溴酸的配位效应”这两句话是等价的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 400,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 414
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:59:34.000Z",
+        "description": "",
+        "id": "1847909934203097088",
+        "name": "natsuki_natsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847910631954911232/vY6AuUM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 719,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 138
+        },
+        "username": "momoisaiba15",
+        "verified": false
+      }
+    ]
+  }
+}

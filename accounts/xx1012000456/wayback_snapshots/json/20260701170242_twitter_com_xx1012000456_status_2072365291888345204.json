@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072364219480330240",
+        "3_2072364249993957377",
+        "3_2072364276506050561",
+        "3_2072364323977256960"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072365291888345204",
+    "created_at": "2026-07-01T17:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072365291888345204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJtHJKKi3a",
+          "end": 168,
+          "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+          "media_key": "3_2072364219480330240",
+          "start": 145,
+          "url": "https://t.co/dJtHJKKi3a"
+        },
+        {
+          "display_url": "pic.x.com/dJtHJKKi3a",
+          "end": 168,
+          "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+          "media_key": "3_2072364249993957377",
+          "start": 145,
+          "url": "https://t.co/dJtHJKKi3a"
+        },
+        {
+          "display_url": "pic.x.com/dJtHJKKi3a",
+          "end": 168,
+          "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+          "media_key": "3_2072364276506050561",
+          "start": 145,
+          "url": "https://t.co/dJtHJKKi3a"
+        },
+        {
+          "display_url": "pic.x.com/dJtHJKKi3a",
+          "end": 168,
+          "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+          "media_key": "3_2072364323977256960",
+          "start": 145,
+          "url": "https://t.co/dJtHJKKi3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072365291888345204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.从法律上肯定可以，我几天前也讲过相关规定，但不保证没有风险，自行考虑\n2.使用愈美是完全合法的，购买pdd日美也是合法的，正确的方法是我买了，所以呢？\n3.不大，右美前一天o第二天化验抽血指标都是正常的，pr基本原型代谢\n4.寄药一直很安全没人查，不行就去掉包装，除非你想贩卖hhhh https://t.co/dJtHJKKi3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2072364219480330240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKERxta0AAnrDe.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072364249993957377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKETjYb0AEFE7k.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072364276506050561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKEVGJaQAETkF1.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072364323977256960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKEX2_bYAAVyhq.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072364219480330240",
+            "3_2072364249993957377",
+            "3_2072364276506050561",
+            "3_2072364323977256960"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072365291888345204",
+        "created_at": "2026-07-01T17:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072365291888345204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJtHJKKi3a",
+              "end": 168,
+              "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+              "media_key": "3_2072364219480330240",
+              "start": 145,
+              "url": "https://t.co/dJtHJKKi3a"
+            },
+            {
+              "display_url": "pic.x.com/dJtHJKKi3a",
+              "end": 168,
+              "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+              "media_key": "3_2072364249993957377",
+              "start": 145,
+              "url": "https://t.co/dJtHJKKi3a"
+            },
+            {
+              "display_url": "pic.x.com/dJtHJKKi3a",
+              "end": 168,
+              "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+              "media_key": "3_2072364276506050561",
+              "start": 145,
+              "url": "https://t.co/dJtHJKKi3a"
+            },
+            {
+              "display_url": "pic.x.com/dJtHJKKi3a",
+              "end": 168,
+              "expanded_url": "https://x.com/xx1012000456/status/2072365291888345204/photo/1",
+              "media_key": "3_2072364323977256960",
+              "start": 145,
+              "url": "https://t.co/dJtHJKKi3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072365291888345204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.从法律上肯定可以，我几天前也讲过相关规定，但不保证没有风险，自行考虑\n2.使用愈美是完全合法的，购买pdd日美也是合法的，正确的方法是我买了，所以呢？\n3.不大，右美前一天o第二天化验抽血指标都是正常的，pr基本原型代谢\n4.寄药一直很安全没人查，不行就去掉包装，除非你想贩卖hhhh https://t.co/dJtHJKKi3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 637,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1846
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1920286481815622053",
+    "created_at": "2025-05-08T01:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T02:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920286481815622053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SadN1ss0227/st…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/SadN1ss0227/status/1901252457860362748",
+          "start": 68,
+          "url": "https://t.co/5N1L7lgMNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920286481815622053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901252457860362748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真商，交易已完成，到货，120t，有需求的同志们可以冲起来了。建议用口令红包支付，我用usdt买入手续费+矿工费+对方报价也是10%😅 https://t.co/5N1L7lgMNk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1920286481815622053",
+        "created_at": "2025-05-08T01:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920286481815622053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SadN1ss0227/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/SadN1ss0227/status/1901252457860362748",
+              "start": 68,
+              "url": "https://t.co/5N1L7lgMNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920286481815622053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901252457860362748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真商，交易已完成，到货，120t，有需求的同志们可以冲起来了。建议用口令红包支付，我用usdt买入手续费+矿工费+对方报价也是10%😅 https://t.co/5N1L7lgMNk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895076009030098944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1901252457860362748",
+        "created_at": "2025-03-16T12:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901252457860362748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 165,
+              "start": 156,
+              "tag": "overdose"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "od"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "普瑞"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "右美"
+            },
+            {
+              "end": 183,
+              "start": 178,
+              "tag": "右美沙芬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SadN1ss0227/st…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/SadN1ss0227/status/1895340917290344695",
+              "start": 184,
+              "url": "https://t.co/pljete4mmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901252457860362748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1676,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895340917290344695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出售港美 每t含dxm 30mg (12t=一盒白云山/宛横 24t)\n并且小星球家的港美有糖衣，再也不怕吞咽时嘴巴里面又苦又涩了\n价格调整💰 邮费15 顺丰次日达额外加5\n30t起售 7r/t\n90t以上 包邮\n120t以上 6r/t\nPS:推荐使用加密货币USDT付款\n口令红包加收总额10%\n小星球爱你们\n#overdose #od #普瑞 #右美 #右美沙芬 https://t.co/pljete4mmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 556,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1489
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-27T11:38:45.000Z",
+        "description": "",
+        "id": "1895076009030098944",
+        "location": "神秘小角落",
+        "name": "孤獨旋轉的藍色星球",
+        "pinned_tweet_id": "1901252457860362748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895076285644447744/TEfVIlnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 44,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "SadN1ss0227",
+        "verified": false
+      }
+    ]
+  }
+}

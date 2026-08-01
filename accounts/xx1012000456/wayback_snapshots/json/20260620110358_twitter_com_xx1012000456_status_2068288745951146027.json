@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068280242431819780",
+    "created_at": "2026-06-20T11:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068288745951146027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068288745951146027",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068280242431819780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab 优格不是家长报警而是警方钓鱼，是从一个可疑包裹中发现白色药片，这个是4.15专案。优格之前有在新一等一批港美代购，优格是做的最大的而已。我这边的数据是3500片港美，另外星球这种也算在这些人中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 197,
+        "media_key": "3_2068280190661435393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQB4AxaIAEq6cD.png",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068280242431819780",
+        "created_at": "2026-06-20T11:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068288745951146027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068288745951146027",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068280242431819780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 优格不是家长报警而是警方钓鱼，是从一个可疑包裹中发现白色药片，这个是4.15专案。优格之前有在新一等一批港美代购，优格是做的最大的而已。我这边的数据是3500片港美，另外星球这种也算在这些人中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068280190661435393"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2068280242431819780",
+        "created_at": "2026-06-20T10:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068280242431819780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOwbMwGqcV",
+              "end": 164,
+              "expanded_url": "https://x.com/RXdruglab/status/2068280242431819780/photo/1",
+              "media_key": "3_2068280190661435393",
+              "start": 141,
+              "url": "https://t.co/jOwbMwGqcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068280242431819780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 212,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬就是之前的“港美”事件，我个人无证据猜测是某个买家的家长报警的，然后顺藤摸瓜抓了一大堆人，不都是一个团伙的，我知道的就有两组人。2.5公斤不折算的话大概就是一万多片，数字还算差不多。\n噻吩丙胺应该就是可达鸭的，我看过公安人员说“噻吩丙胺也叫小鸭丸”，这个可能是内部通报过。 https://t.co/jOwbMwGqcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 533,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1700
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19481,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

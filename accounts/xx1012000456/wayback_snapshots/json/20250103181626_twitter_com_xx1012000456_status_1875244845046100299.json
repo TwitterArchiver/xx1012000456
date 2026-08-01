@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875130596852437283",
+    "created_at": "2025-01-03T18:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T19:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875244845046100299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875244845046100299",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875136233908867315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 我个人持保留态度，我使用右美药效期间确实有类觉醒剂的效果，但很难保持专注与理智，回想药效期间记忆也属于较为困难。同时我自己个体是远超平均水平的记忆大师，右美对我也几乎没有持续副作用。我倾向于右美解除了部分抑郁或ADHD症状？感觉应该没有普遍性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875130596852437283",
+        "created_at": "2025-01-03T18:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T19:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875244845046100299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875244845046100299",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875136233908867315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我个人持保留态度，我使用右美药效期间确实有类觉醒剂的效果，但很难保持专注与理智，回想药效期间记忆也属于较为困难。同时我自己个体是远超平均水平的记忆大师，右美对我也几乎没有持续副作用。我倾向于右美解除了部分抑郁或ADHD症状？感觉应该没有普遍性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1875130596852437283",
+        "created_at": "2025-01-03T11:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875136233908867315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875136233908867315",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875135625130901808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 但我實操幾次右美都實現了類似的效果，我每次都在藥效來時背單詞/整理記憶梳理問題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 414,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 451
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药/用药咨询/代购药物找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌380！接藥物諮詢",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 739,
+          "like_count": 31582,
+          "listed_count": 9,
+          "media_count": 768,
+          "tweet_count": 14102
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

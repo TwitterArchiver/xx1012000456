@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1929205014473646399",
+    "created_at": "2025-06-01T19:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929261254893535620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451394204563755008",
+          "start": 0,
+          "username": "wildwall1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929261254893535620",
+    "in_reply_to_user_id": "1451394204563755008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929205014473646399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wildwall1984 您说的可能有一定道理，但是隔壁将军的例子已经告诉我们，学习理解西方仍然能产出完全的暴君和奇行种。前往欧美的人本质上是既得利益者，对于自由追求与传承的利益冲突相信大部分人是不假思索的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1929205014473646399",
+        "created_at": "2025-06-01T19:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929261254893535620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451394204563755008",
+              "start": 0,
+              "username": "wildwall1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929261254893535620",
+        "in_reply_to_user_id": "1451394204563755008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929205014473646399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wildwall1984 您说的可能有一定道理，但是隔壁将军的例子已经告诉我们，学习理解西方仍然能产出完全的暴君和奇行种。前往欧美的人本质上是既得利益者，对于自由追求与传承的利益冲突相信大部分人是不假思索的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451394204563755008",
+        "conversation_id": "1929205014473646399",
+        "created_at": "2025-06-01T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:51:12.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929204091181527244",
+          "1929204386884116815",
+          "1929205014473646399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wildwall1984/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/wildwall1984/status/1929070942237376971",
+              "start": 78,
+              "url": "https://t.co/imQfO3S7Iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929205014473646399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人不认可这个观点，似乎觉得美国为中国培训官员，好像美国没有成功——没有成功，跟完全没有用，是两回事。\n这种非黑即白的判断，其实是对复杂现实的一种误读。\n\n很多人把目光死死盯在中南海，以为只有高层动摇才算改变，却忽略了一个更真实、更深远的层面——在习近平上台之前，中国有相当数量的中基层官员，是曾在欧美、新加坡等地接受过培训和观摩的。他们虽然不可能高调鼓吹什么民主选举，但在社会治理、城市管理、公共服务这些方面，的确推崇西方模式。\n\n上海、深圳这样的城市，治理方式上跟内地是有不小区别的，大家不会以为这些是官员自我进化完成的吧？——其实主要就是靠外部学习得来的经验。\n\n毕竟，体制改革是政治红线，有几个人敢公开触碰？可只要能推动中国在行政效率、法治意识、公共政策方面吸收一点西方经验，对普通老百姓来说，就是实实在在的好事。\n\n更何况，很多官员其实是内心向往西方制度的。我就遇到过这样的人——一位副省级城市的宣传部副部长，有一次在酒桌上，可能是酒精催化，也可能是对前途早已不抱希望，居然失声痛哭，说：“中国如果不进行体制改革，以后真的没路走。”\n\n所以，美国等西方国家推动交流、培训干部，是否会产生亲西方、亲美派？答案显而易见：一定会有。只不过，在没有“关键时刻”之前，他们绝不会轻易表露。\n\n换句话说，如果中国的干部只去俄罗斯、朝鲜取经，最终会形成什么样的官僚群体，大家可以想象；相反，如果去的是美国、欧洲、新加坡，难道这些观念就毫无渗透作用？\n\n不少人否认这点，归根结底，是因为太心急了，总想一步到位、速战速决。这种焦虑常常来自对中共的“误判”——一方面恨之入骨，一方面又低估它的韧性与复杂度。\n\n但历史从来都不是一夜之间写就的。制度之变，是漫长拉锯中的隐秘细流，需要时间浸润、积累，也需要一点冷静与耐心。短期看似无效，长期未必没有改变——这，才是真正理解现实政治的人该有的判断力。\n\n大家想想，你希望习近平之后（人命终有尽头），执掌中国的那个人，是在欧美受过培训的呢，还是在朝鲜或者俄罗斯受过培训的呢？——普通人怎么选择或许并不重要，但美国政界会怎么选择呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9406,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929070942237376971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人不认可这个观点，似乎觉得美国为中国培训官员，好像美国没有成功——没有成功，跟完全没有用，是两回事。\n这种非黑即白的判断，其实是对复杂现实的一种误读。 https://t.co/imQfO3S7Iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 565,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1590
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T03:45:39.000Z",
+        "description": "在这里读懂中国，在不自由的时代，做自由的人——Youtube频道《 曹操说》https://t.co/PhXvIrxOAj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEHll…",
+                "end": 61,
+                "expanded_url": "https://www.youtube.com/channel/UCEHllJN5YYp6R-jB-6rbnQw",
+                "start": 38,
+                "url": "https://t.co/PhXvIrxOAj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEHll…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEHllJN5YYp6R-jB-6rbnQw",
+                "start": 0,
+                "url": "https://t.co/PhXvIrxOAj"
+              }
+            ]
+          }
+        },
+        "id": "1451394204563755008",
+        "name": "曹操说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917531982042660864/yaBl9ebU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45785,
+          "following_count": 312,
+          "like_count": 1055,
+          "listed_count": 192,
+          "media_count": 163,
+          "tweet_count": 8659
+        },
+        "url": "https://t.co/PhXvIrxOAj",
+        "username": "wildwall1984",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079278609290973470",
+    "created_at": "2026-07-20T18:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079278609290973470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aiaiaiai_9/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/aiaiaiai_9/status/2078892660635619639",
+          "start": 8,
+          "url": "https://t.co/y5n98gRiYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079278609290973470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078892660635619639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想玩这个😇 https://t.co/y5n98gRiYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2078892649596268544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm12bFbMAAKHbb.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079278609290973470",
+        "created_at": "2026-07-20T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079278609290973470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiaiaiai_9/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/aiaiaiai_9/status/2078892660635619639",
+              "start": 8,
+              "url": "https://t.co/y5n98gRiYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079278609290973470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078892660635619639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩这个😇 https://t.co/y5n98gRiYy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078892649596268544"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "conversation_id": "2078892660635619639",
+        "created_at": "2026-07-19T17:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078892660635619639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSHKXah6bV",
+              "end": 33,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2078892660635619639/photo/1",
+              "media_key": "3_2078892649596268544",
+              "start": 10,
+              "url": "https://t.co/gSHKXah6bV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078892660635619639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀我也要玩这个🥺 https://t.co/gSHKXah6bV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 690,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "爱无能乐子人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 56,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 33,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 132,
+          "like_count": 4271,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

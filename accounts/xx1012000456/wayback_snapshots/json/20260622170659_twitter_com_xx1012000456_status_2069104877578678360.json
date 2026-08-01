@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069104798688071680"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069104877578678360",
+    "created_at": "2026-06-22T17:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069104877578678360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVpL6XAgHI",
+          "end": 46,
+          "expanded_url": "https://x.com/xx1012000456/status/2069104877578678360/photo/1",
+          "media_key": "3_2069104798688071680",
+          "start": 23,
+          "url": "https://t.co/vVpL6XAgHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069104877578678360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位PDD还有最后的日美，有需要可以冲起来了 https://t.co/vVpL6XAgHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2069104798688071680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbv2hDb0AAFA4y.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069104798688071680"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069104877578678360",
+        "created_at": "2026-06-22T17:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069104877578678360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVpL6XAgHI",
+              "end": 46,
+              "expanded_url": "https://x.com/xx1012000456/status/2069104877578678360/photo/1",
+              "media_key": "3_2069104798688071680",
+              "start": 23,
+              "url": "https://t.co/vVpL6XAgHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069104877578678360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位PDD还有最后的日美，有需要可以冲起来了 https://t.co/vVpL6XAgHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 575,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930906781313827149",
+    "created_at": "2025-06-06T20:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T21:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931087831989882930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355178308460187653",
+          "start": 0,
+          "username": "CoilofFaraday"
+        },
+        {
+          "end": 31,
+          "id": "1917988927409143812",
+          "start": 15,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931087831989882930",
+    "in_reply_to_user_id": "1355178308460187653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931032258175226083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoilofFaraday @OverSpeed_Wiki2 稳定的中间体会一并被刻录进头发中，比如使用可待因会同时刻录可待因、去甲可待因（即吗啡）、去甲吗啡。实验室测定有严格的检出标准与比例标准，所以新策划药其实是没法测定的，因为没有相关标准。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930906781313827149",
+        "created_at": "2025-06-06T20:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T21:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931087831989882930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355178308460187653",
+              "start": 0,
+              "username": "CoilofFaraday"
+            },
+            {
+              "end": 31,
+              "id": "1917988927409143812",
+              "start": 15,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931087831989882930",
+        "in_reply_to_user_id": "1355178308460187653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931032258175226083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoilofFaraday @OverSpeed_Wiki2 稳定的中间体会一并被刻录进头发中，比如使用可待因会同时刻录可待因、去甲可待因（即吗啡）、去甲吗啡。实验室测定有严格的检出标准与比例标准，所以新策划药其实是没法测定的，因为没有相关标准。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355178308460187653",
+        "conversation_id": "1930906781313827149",
+        "created_at": "2025-06-06T16:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T17:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931032258175226083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931032258175226083",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930906781313827149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 可是实验室怎么检测药代中间体 说明书上的药代动力学不也是患者抽血化验出来的么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 571,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1637
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU6pkE"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1760653504128131155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701293293311762432/aTu-krXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 440,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/dtOyzU6pkE",
+        "username": "CoilofFaraday",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1921225026600149428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 130,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 629
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

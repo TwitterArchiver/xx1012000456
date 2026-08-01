@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067653443154845745",
+    "created_at": "2026-06-19T10:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067919277844545841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067919277844545841",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067876956797063396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 并不是偶，我和另一位北京的同类都是纯买家，我是照着无罪和事后追责在打诉讼🤡很离谱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067653443154845745",
+        "created_at": "2026-06-19T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067919277844545841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067919277844545841",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067876956797063396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 并不是偶，我和另一位北京的同类都是纯买家，我是照着无罪和事后追责在打诉讼🤡很离谱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643934829514493952",
+        "conversation_id": "2067653443154845745",
+        "created_at": "2026-06-19T07:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067876956797063396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067876956797063396",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067653443154845745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 哈哈，不就是你们找香港壬代购走私了四位数dose的港版右美沙芬，然后让某个叫义肢的地雷视觉系代卖，不知道她是不是打麻将的时候被浙江警察广东警察一起摁了，去年四月就在抓了，现在怎么还没搞完这个案子，这是我好兄弟observer把你们举报去换钱的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 491,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做个俗人，贪财好色",
+        "id": "1643934829514493952",
+        "name": "Yeshua（我有抑郁症",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066174205591515136/rWWKmDCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 23,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "nmudm1",
+        "verified": false
+      }
+    ]
+  }
+}

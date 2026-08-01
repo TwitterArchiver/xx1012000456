@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1842516573342589248",
+    "created_at": "2024-10-05T11:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T12:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842526600807796938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842526600807796938",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842516573342589248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 不要这么想，在摆脱郁期后你很难想起当时的苦痛与折磨。我现在也不明白辞职前为什么要割手，摆脱当时的环境后看以往的决定是愚蠢的说明不了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1842516573342589248",
+        "created_at": "2024-10-05T11:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842526600807796938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842526600807796938",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842516573342589248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 不要这么想，在摆脱郁期后你很难想起当时的苦痛与折磨。我现在也不明白辞职前为什么要割手，摆脱当时的环境后看以往的决定是愚蠢的说明不了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1842516573342589248",
+        "created_at": "2024-10-05T10:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T11:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842516573342589248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842516573342589248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话好后悔休学，\n我真想现在是正常上课放国庆假的人，\n每天无聊透了，\n而且也没什么事可以做，\n重点是：\n到时候得去新的班级，我们专业会有需要组队的任务，又得适应一个完全，完全陌生的班级，陌生的人，陌生的老师，\n\n我以前的同学都很不错，为什么要休学呢？…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 222,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "平平无奇的人/🚪88/🌈/FF14重度玩家/🖼️美术类专业/喜欢碎碎念/🪜稳定自用梯子：https://t.co/DW6ufDaBlY /我的猫@xsarnayyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xsarnayyy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 44,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "name": "“爱礼”",
+        "pinned_tweet_id": "1841040773611208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36714,
+          "following_count": 888,
+          "like_count": 21022,
+          "listed_count": 45,
+          "tweet_count": 22349
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070348184191390062",
+    "created_at": "2026-06-26T17:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070558573734887473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070558573734887473",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070348184191390062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan_ 2023入圈\n2024开始以药师身份活跃发言\n2025.6-2026.6进去\n如今继续高强度发言😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070348184191390062",
+        "created_at": "2026-06-26T17:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070558573734887473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070558573734887473",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348184191390062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 2023入圈\n2024开始以药师身份活跃发言\n2025.6-2026.6进去\n如今继续高强度发言😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2070348184191390062",
+        "created_at": "2026-06-26T03:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070348184191390062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070348184191390062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 696,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還有人是2023/24 活躍到現在的嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 609,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "我嫉妒金阁永恒的美，唯有将它焚毁，才能把它拉到与我同等悲惨的境地。\n欢迎私信找我骚扰🫪\n杯子@yeshsbxhjs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yeshsbxhjs"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "yuki",
+        "pinned_tweet_id": "2064528743532798055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 547,
+          "like_count": 815,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

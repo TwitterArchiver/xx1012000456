@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1928249937151639655",
+    "created_at": "2025-05-30T10:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928398623022141523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928398623022141523",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928249937151639655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 盐酸如果有点关系的话其实还挺好搞的，甲苯这东西是怎么搞到的🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2218,
+        "media_key": "3_1928249895464620032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsKFEElaUAAFO2r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1928249937151639655",
+        "created_at": "2025-05-30T10:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928398623022141523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928398623022141523",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928249937151639655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 盐酸如果有点关系的话其实还挺好搞的，甲苯这东西是怎么搞到的🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928249895464620032"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1928249937151639655",
+        "created_at": "2025-05-30T00:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T01:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928249937151639655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ffLcuWXwy",
+              "end": 59,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1928249937151639655/photo/1",
+              "media_key": "3_1928249895464620032",
+              "start": 36,
+              "url": "https://t.co/7ffLcuWXwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928249937151639655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 746,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这都不起诉，知法犯法，不愧是家庭绝命毒师，等等200余公斤，太有实力了 https://t.co/7ffLcuWXwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 562,
+          "like_count": 27,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1581
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/TI6gzKswdQ @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/TI6gzKswdQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev",
+                "start": 0,
+                "url": "https://t.co/yrj4arophi"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 517,
+          "like_count": 8224,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/yrj4arophi",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

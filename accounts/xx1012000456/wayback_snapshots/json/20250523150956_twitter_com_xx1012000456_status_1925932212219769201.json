@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925837521591673199",
+    "created_at": "2025-05-23T15:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T16:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925932212219769201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796959726967889920",
+          "start": 0,
+          "username": "hami0721"
+        },
+        {
+          "end": 23,
+          "id": "1867639848569372672",
+          "start": 10,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925932212219769201",
+    "in_reply_to_user_id": "1796959726967889920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925858047399711000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hami0721 @overdose_day 非持要到一个界限，目前按娱乐剂量使用是远远不到线的。\n麦司卡林一系都是偏门，阳性真不见得会出。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925837521591673199",
+        "created_at": "2025-05-23T15:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T16:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925932212219769201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796959726967889920",
+              "start": 0,
+              "username": "hami0721"
+            },
+            {
+              "end": 23,
+              "id": "1867639848569372672",
+              "start": 10,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925932212219769201",
+        "in_reply_to_user_id": "1796959726967889920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925858047399711000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hami0721 @overdose_day 非持要到一个界限，目前按娱乐剂量使用是远远不到线的。\n麦司卡林一系都是偏门，阳性真不见得会出。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796959726967889920",
+        "conversation_id": "1925837521591673199",
+        "created_at": "2025-05-23T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925858047399711000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925858047399711000",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925837521591673199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 不要乱讲\n不能买，持有毒品起步都是拘留+社区戒毒\n特别是乱吃东西导致尿检阳性的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1564
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 292,
+          "like_count": 2558,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\n个人galgame站:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 85,
+                "expanded_url": "https://lsd.kim/",
+                "start": 62,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 1200,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

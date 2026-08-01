@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1879067032328835311",
+    "created_at": "2025-01-14T08:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T09:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879081030415769920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621943298473758720",
+          "start": 0,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879081030415769920",
+    "in_reply_to_user_id": "1621943298473758720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879067032328835311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_3405 剂量等效2t，但体感很猛烈，初次使用建议按3-4t等效服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1879067032328835311",
+        "created_at": "2025-01-14T08:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T09:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879081030415769920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621943298473758720",
+              "start": 0,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879081030415769920",
+        "in_reply_to_user_id": "1621943298473758720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879067032328835311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_3405 剂量等效2t，但体感很猛烈，初次使用建议按3-4t等效服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621943298473758720",
+        "conversation_id": "1879067032328835311",
+        "created_at": "2025-01-14T07:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T08:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879067032328835311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879067032328835311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30mg港美是多少t啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 443,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 542
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜/Farias🍬。18↑大学生  非二元性别  ENTP-T｜非单💕墙内有女朋友｜被限制自残od所以人平时有点疯‼️｜双相/中焦/情感缺失｜小女孩互fo互转可以私信(婉拒黄推/纯键政)。与我相处请随意，希望能尽我所能为你排忧解难🔆。",
+        "id": "1621943298473758720",
+        "location": "在转钟指向■的夜半时分，抬头会看见天使哦໒꒱˚.*",
+        "name": "霜糖薄荷☁︎☾.‎˖٭",
+        "pinned_tweet_id": "1837500909292794174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877063351018336257/FGGwQTx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 906,
+          "like_count": 19339,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 8172
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

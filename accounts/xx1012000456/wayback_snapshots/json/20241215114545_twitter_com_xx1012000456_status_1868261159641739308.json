@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1868254010047938611",
+    "created_at": "2024-12-15T11:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868261159641739308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868261159641739308",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868259620466397401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 我觉得你要可以的话去开点西畔或挫仑会更加有效，躯体化持续多久我也不清楚，这周我也在躯体化😅，挺折磨的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1868254010047938611",
+        "created_at": "2024-12-15T11:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868261159641739308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868261159641739308",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868259620466397401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 我觉得你要可以的话去开点西畔或挫仑会更加有效，躯体化持续多久我也不清楚，这周我也在躯体化😅，挺折磨的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1868254010047938611",
+        "created_at": "2024-12-15T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868259620466397401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868259620466397401",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868258442504528145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 是空调外机的那种我也不太清楚，sns是有效的，白兔几个月前就买不到了而且这个我看是日语是我一直以为列为不合法了，谢谢你🥲🥲这个躯体化会一直发作吗还是我再硬抗几天就不会发作了，谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 390,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 368
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "不安拉黑",
+        "id": "1000763746430500865",
+        "name": "妹控",
+        "pinned_tweet_id": "1868257987493773608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867921160664711168/u_DrdPA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28192,
+          "following_count": 214,
+          "like_count": 1106,
+          "listed_count": 58,
+          "media_count": 204,
+          "tweet_count": 1122
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

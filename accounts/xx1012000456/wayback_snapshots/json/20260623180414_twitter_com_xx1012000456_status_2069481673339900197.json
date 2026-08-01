@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069429455748210905",
+    "created_at": "2026-06-23T18:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069481673339900197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1764217687851548672",
+          "start": 0,
+          "username": "leishuii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069481673339900197",
+    "in_reply_to_user_id": "1764217687851548672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069429455748210905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leishuii 问我问我，前医院院长+前检察官现大学教授双重认证的准律师和准医生前来报到😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069429455748210905",
+        "created_at": "2026-06-23T18:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069481673339900197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764217687851548672",
+              "start": 0,
+              "username": "leishuii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069481673339900197",
+        "in_reply_to_user_id": "1764217687851548672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069429455748210905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leishuii 问我问我，前医院院长+前检察官现大学教授双重认证的准律师和准医生前来报到😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764217687851548672",
+        "conversation_id": "2069429455748210905",
+        "created_at": "2026-06-23T14:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069429455748210905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069429455748210905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我現在有一些法律問題和身體問題需要諮詢我要崩潰了誰能告訴我一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 585,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T09:14:19.000Z",
+        "description": "サブ@xiaoleisnbb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "xiaoleisnbb"
+              }
+            ]
+          }
+        },
+        "id": "1764217687851548672",
+        "location": "🇯🇵 喜欢钱",
+        "name": "累",
+        "pinned_tweet_id": "1884999120596906004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974339488907472900/CMtUW8ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6279,
+          "following_count": 147,
+          "like_count": 1883,
+          "listed_count": 17,
+          "media_count": 47,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "leishuii",
+        "verified": false
+      }
+    ]
+  }
+}

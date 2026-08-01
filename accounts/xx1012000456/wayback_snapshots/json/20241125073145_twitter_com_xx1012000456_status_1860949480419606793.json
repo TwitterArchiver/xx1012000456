@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1860773561021157593",
+    "created_at": "2024-11-25T07:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T08:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860949480419606793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Asiya_Tukimi"
+        },
+        {
+          "end": 29,
+          "id": "1804587925805596672",
+          "start": 14,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860949480419606793",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860948620696269053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asiya_Tukimi @OverSpeed_Wiki 赛庚定本质上是抗组胺药物治过敏的，只是有拮抗部分血清素受体的作用，算是没有办法的办法，和纳洛酮对阿片，氟马西尼对BZD这种特效解毒根本不是一个概念的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1860773561021157593",
+        "created_at": "2024-11-25T07:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T08:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860949480419606793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Asiya_Tukimi"
+            },
+            {
+              "end": 29,
+              "id": "1804587925805596672",
+              "start": 14,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860949480419606793",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860948620696269053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asiya_Tukimi @OverSpeed_Wiki 赛庚定本质上是抗组胺药物治过敏的，只是有拮抗部分血清素受体的作用，算是没有办法的办法，和纳洛酮对阿片，氟马西尼对BZD这种特效解毒根本不是一个概念的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "1860773561021157593",
+        "created_at": "2024-11-25T07:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T08:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860948620696269053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 29,
+              "id": "1804587925805596672",
+              "start": 14,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860948620696269053",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860948396175167938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @OverSpeed_Wiki 有抗血清素的，例如赛庚定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 369,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 292
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "无证含糖MtF🏳‍⚧｜百合厨🏳‍🌈｜哲学爱好者｜非存在比存在更好｜千金@YukiYukiAmeAme｜妹妹@suwanzi2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "YukiYukiAmeAme"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "suwanzi2333"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703524877133570048/4UeH0ISr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 241,
+          "like_count": 31847,
+          "listed_count": 1,
+          "tweet_count": 7281
+        },
+        "username": "Asiya_Tukimi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为OvsSuki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OvackSpeed Suki",
+        "pinned_tweet_id": "1853034703034716562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 490,
+          "like_count": 7875,
+          "listed_count": 3,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

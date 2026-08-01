@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1927223820441547070",
+    "created_at": "2025-05-27T12:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T13:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927336301956649214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927336301956649214",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927223820441547070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 差不多是这个意思，不过有2D6和3A4的微弱区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1927223820441547070",
+        "created_at": "2025-05-27T12:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T13:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927336301956649214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927336301956649214",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927223820441547070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 差不多是这个意思，不过有2D6和3A4的微弱区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1927223820441547070",
+        "created_at": "2025-05-27T04:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927223820441547070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927223820441547070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我药效上来查资料看不懂字，然后有人跟我说安非他酮就是西柚汁加强版我就大彻大悟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 560,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1572
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低智商低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt 我是DizzyRichter可以叫我毒枭｜he/them｜𝑳𝒐𝒗𝒆 𝑳𝒊𝒌𝒆 𝑹𝒐𝒄𝒌 𝑹𝒐𝒍𝒍｜爱之女巫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGTC50"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝔻𝕚𝕫𝕫𝕪ℙ𝕚𝕟𝕜𝔾𝕚𝕟",
+        "pinned_tweet_id": "1917923917450367350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927086840823037952/W-usACqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 113,
+          "like_count": 20986,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 10752
+        },
+        "url": "https://t.co/sFJNxGTC50",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

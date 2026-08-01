@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871367161408901487",
+    "created_at": "2024-12-24T19:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T20:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871639549514056044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "960928844893978624",
+          "start": 0,
+          "username": "zswiam"
+        },
+        {
+          "end": 16,
+          "id": "11765952",
+          "start": 8,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871639549514056044",
+    "in_reply_to_user_id": "960928844893978624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871532125859791026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zswiam @interjc 是中药，复方含有阿片浸出物而已，即鸦片。是少数被研究明白成分和作用的中药，不过比起西药的镇咳比如福尔可定、可待因之类的也没有什么显著优势就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871367161408901487",
+        "created_at": "2024-12-24T19:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T20:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871639549514056044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "960928844893978624",
+              "start": 0,
+              "username": "zswiam"
+            },
+            {
+              "end": 16,
+              "id": "11765952",
+              "start": 8,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871639549514056044",
+        "in_reply_to_user_id": "960928844893978624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871532125859791026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zswiam @interjc 是中药，复方含有阿片浸出物而已，即鸦片。是少数被研究明白成分和作用的中药，不过比起西药的镇咳比如福尔可定、可待因之类的也没有什么显著优势就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "960928844893978624",
+        "conversation_id": "1871367161408901487",
+        "created_at": "2024-12-24T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871532125859791026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871532125859791026",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871367161408901487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 甘草片不知道算不算中药。我本人咳嗽厉害的话，吃几片就好了，其他药都试了，效果都不行.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 397,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 395
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-06T17:31:04.000Z",
+        "description": "做一个自由的人。",
+        "id": "960928844893978624",
+        "name": "zsw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848435698808066049/SWlxGgPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 83,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 200
+        },
+        "username": "zswiam",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜全栈｜AIGC｜E/acc\n🚀 日本初创公司 @yokogaisha 社长\n📚 课程：https://t.co/IdaM55wD8k\n✈️ 赴日：https://t.co/UskB0NjJok\n💬 TG群：https://t.co/zEzCv8ek6F\n📱 微信：justinchencn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 76,
+                "expanded_url": "https://justincourse.com",
+                "start": 53,
+                "url": "https://t.co/IdaM55wD8k"
+              },
+              {
+                "display_url": "s.zhaikr.com/vj",
+                "end": 106,
+                "expanded_url": "https://s.zhaikr.com/vj",
+                "start": 83,
+                "url": "https://t.co/UskB0NjJok"
+              },
+              {
+                "display_url": "s.zhaikr.com/g",
+                "end": 136,
+                "expanded_url": "https://s.zhaikr.com/g",
+                "start": 113,
+                "url": "https://t.co/zEzCv8ek6F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/interjc",
+                "end": 23,
+                "expanded_url": "https://bento.me/interjc",
+                "start": 0,
+                "url": "https://t.co/r8bECyn1g4"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "1871060376533754351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18416,
+          "following_count": 1268,
+          "like_count": 33714,
+          "listed_count": 131,
+          "media_count": 1876,
+          "tweet_count": 18739
+        },
+        "url": "https://t.co/r8bECyn1g4",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

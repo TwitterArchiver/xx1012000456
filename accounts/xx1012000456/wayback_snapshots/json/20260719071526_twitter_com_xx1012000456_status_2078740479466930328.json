@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2078740479466930328",
+    "created_at": "2026-07-19T07:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078740479466930328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Greenfish_111/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Greenfish_111/status/2078720449710821697",
+          "start": 35,
+          "url": "https://t.co/XS9VxINrwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078740479466930328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078720449710821697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讲道理老师还是心善，这个直接报警别的不好说37天看守所肯定是待定了🤬 https://t.co/XS9VxINrwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078720437455052801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkZOW3aYAEUsL9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078720437497057280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkZOXBbUAA8uuu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2078740479466930328",
+        "created_at": "2026-07-19T07:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078740479466930328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Greenfish_111/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Greenfish_111/status/2078720449710821697",
+              "start": 35,
+              "url": "https://t.co/XS9VxINrwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078740479466930328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078720449710821697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲道理老师还是心善，这个直接报警别的不好说37天看守所肯定是待定了🤬 https://t.co/XS9VxINrwx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078720437455052801",
+            "3_2078720437497057280"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078720449710821697",
+        "created_at": "2026-07-19T05:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078720449710821697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980319114720841728",
+              "start": 0,
+              "username": "Melv1nZ2_2004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtDa6gv8aR",
+              "end": 166,
+              "expanded_url": "https://x.com/Greenfish_111/status/2078720449710821697/photo/1",
+              "media_key": "3_2078720437455052801",
+              "start": 143,
+              "url": "https://t.co/QtDa6gv8aR"
+            },
+            {
+              "display_url": "pic.x.com/QtDa6gv8aR",
+              "end": 166,
+              "expanded_url": "https://x.com/Greenfish_111/status/2078720449710821697/photo/1",
+              "media_key": "3_2078720437497057280",
+              "start": 143,
+              "url": "https://t.co/QtDa6gv8aR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078720449710821697",
+        "in_reply_to_user_id": "1980319114720841728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "1980319114720841728",
+                "start": 0,
+                "username": "Melv1nZ2_2004"
+              }
+            ]
+          },
+          "text": "@Melv1nZ2_2004 操你全家我不知道你什么意思。不回我消息你是死了吗\n你邀请去你家玩和o 邀请了几次了，所以我昨天去了，这还是我第一次跟推友面基，o了普瑞sns喝了酒抽了烟我确实挺开心的\no着o着 你把我的初夜法走了 \n虽然记不清具体了反正当时我知情且同意所以我也就不说了。\n但是你居然操着我还跟别人发消息 问你在跟谁发消息 然后给我发了这些截图。我操你全家你干嘛要跟别人发消息分享说我怎么怎么样 去死\n而且你为什么不回我消息？\n第二天现在不回消息，你什么意思？\n我不知道你是来骗炮的还是干什么的，为什么不回我消息。你是骗炮的吗，额还有别的女推也是以这样方式被你私信的吗👁️👁️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2363,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "@Melv1nZ2_2004 操你全家我不知道你什么意思。不回我消息你是死了吗\n你邀请去你家玩和o 邀请了几次了，所以我昨天去了，这还是我第一次跟推友面基，o了普瑞sns喝了酒抽了烟我确实挺开心的\no着o着 你把我的初夜法走了 \n虽然记不清具体了反正当时我知情且同意所以我也就不说了。 https://t.co/QtDa6gv8aR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：gongzisama1 \n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 681,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 569,
+          "like_count": 13580,
+          "listed_count": 8,
+          "media_count": 1097,
+          "tweet_count": 14713
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

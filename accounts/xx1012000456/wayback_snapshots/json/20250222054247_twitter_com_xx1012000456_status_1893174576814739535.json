@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893134074270892298",
+    "created_at": "2025-02-22T05:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T06:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893174576814739535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893174576814739535",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893172259021316563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 Dextromethorphan does not have a significant affinity for the mu-opioid receptor activity typical of morphinan compounds and exerts its therapeutic effects through several other receptors，不是哥，右美只是几乎没有μ受体效应，别的还是沾点的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893134074270892298",
+        "created_at": "2025-02-22T05:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893174576814739535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893174576814739535",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893172259021316563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 Dextromethorphan does not have a significant affinity for the mu-opioid receptor activity typical of morphinan compounds and exerts its therapeutic effects through several other receptors，不是哥，右美只是几乎没有μ受体效应，别的还是沾点的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1893134074270892298",
+        "created_at": "2025-02-22T05:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893172259021316563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893172259021316563",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893171768950694393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 不是活爹，这玩意和阿片没关系，你学过药理没有，一个右旋体能有阿片活性?拜托，不要妄自悱恻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 759
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化研究者 物种：蛆 可以叫我蛆老师 反超人主义 提供用药及药理咨询（不包括任何已列管毒品！） 不推荐任何人使用我提到的药品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yiqunfeiwu",
+                "end": 23,
+                "expanded_url": "https://t.me/yiqunfeiwu",
+                "start": 0,
+                "url": "https://t.co/Nc6Ly3FTVF"
+              }
+            ]
+          }
+        },
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884396929767071746/vz8FuozQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 35,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/Nc6Ly3FTVF",
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

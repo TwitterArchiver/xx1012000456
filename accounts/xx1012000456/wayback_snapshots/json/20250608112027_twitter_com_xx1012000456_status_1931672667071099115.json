@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1931655951846981873",
+    "created_at": "2025-06-08T11:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T12:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931672667071099115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931672667071099115",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931655951846981873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 所谓的异构体指的是给出cas下可再次拆分的存在的旋光异构体。这补充基本上就扩展到盐，剩下的东西就是摆设"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "3_1931653442185146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6ckkKbMAAyo3-.png",
+        "width": 276
+      },
+      {
+        "height": 144,
+        "media_key": "3_1931653592198574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6ctTAacAAWWwY.png",
+        "width": 251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1931655951846981873",
+        "created_at": "2025-06-08T11:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T12:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931672667071099115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931672667071099115",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931655951846981873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 所谓的异构体指的是给出cas下可再次拆分的存在的旋光异构体。这补充基本上就扩展到盐，剩下的东西就是摆设"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931653442185146368",
+            "3_1931653592198574080"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1931655951846981873",
+        "created_at": "2025-06-08T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931655951846981873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DXpYcUXw0",
+              "end": 155,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1931655951846981873/photo/1",
+              "media_key": "3_1931653442185146368",
+              "start": 132,
+              "url": "https://t.co/1DXpYcUXw0"
+            },
+            {
+              "display_url": "pic.x.com/1DXpYcUXw0",
+              "end": 155,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1931655951846981873/photo/1",
+              "media_key": "3_1931653592198574080",
+              "start": 132,
+              "url": "https://t.co/1DXpYcUXw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931655951846981873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下面两种物质分别是丙基麦斯卡林（图1）和异丙基麦斯卡林（图2），前者在去年七月被列入非药用目录，后者则没有，不知道你有没有看过管制目录的这个规定，“注：上述品种包括其可能存在的异构体、酯及醚（除非另有规定）”，那么这两个化合物属于位置异构的话是不是也被管制了呢？ https://t.co/1DXpYcUXw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 571,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1643
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/TI6gzKswdQ @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/TI6gzKswdQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev",
+                "start": 0,
+                "url": "https://t.co/yrj4arophi"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 525,
+          "like_count": 8235,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/yrj4arophi",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

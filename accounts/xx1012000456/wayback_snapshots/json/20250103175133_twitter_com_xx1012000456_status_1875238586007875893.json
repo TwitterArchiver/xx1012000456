@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1875233382302626087",
+    "created_at": "2025-01-03T17:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T18:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875238586007875893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862544472590229504",
+          "start": 0,
+          "username": "DongJunyan84887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875238586007875893",
+    "in_reply_to_user_id": "1862544472590229504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875233382302626087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongJunyan84887 不是，这对对对对对吗？肾上腺受体激动剂+单胺氧化酶抑制剂是怎么做到抗焦虑的？这不是儿茶酚胺焦虑诱发大礼包吗😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1875233382302626087",
+        "created_at": "2025-01-03T17:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T18:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875238586007875893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862544472590229504",
+              "start": 0,
+              "username": "DongJunyan84887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875238586007875893",
+        "in_reply_to_user_id": "1862544472590229504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875233382302626087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongJunyan84887 不是，这对对对对对吗？肾上腺受体激动剂+单胺氧化酶抑制剂是怎么做到抗焦虑的？这不是儿茶酚胺焦虑诱发大礼包吗😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875233374463520768"
+          ]
+        },
+        "author_id": "1862544472590229504",
+        "conversation_id": "1875233382302626087",
+        "created_at": "2025-01-03T17:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T18:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875233382302626087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUFDer3CdJ",
+              "end": 61,
+              "expanded_url": "https://x.com/DongJunyan84887/status/1875233382302626087/photo/1",
+              "media_key": "3_1875233374463520768",
+              "start": 38,
+              "url": "https://t.co/CUFDer3CdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875233382302626087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对个人很有用的抗焦虑药，解决了70%的社恐问题。不上瘾，无戒断，无娱乐性质 https://t.co/CUFDer3CdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 414,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 451
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T17:09:57.000Z",
+        "description": "",
+        "id": "1862544472590229504",
+        "name": "KOCH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862544540848332806/zVBPShhZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 43,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "DongJunyan84887",
+        "verified": false
+      }
+    ]
+  }
+}

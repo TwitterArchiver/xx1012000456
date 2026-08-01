@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072618221132529823",
+    "created_at": "2026-07-02T14:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072686476811506107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072686476811506107",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072618221132529823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow ？我怎么记得你是25年高三的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072618213821865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNrSMXbYAAS8Is.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072618221132529823",
+        "created_at": "2026-07-02T14:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072686476811506107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072686476811506107",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618221132529823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow ？我怎么记得你是25年高三的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618213821865984"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2072618221132529823",
+        "created_at": "2026-07-02T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072618221132529823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exUZvgJsxa",
+              "end": 95,
+              "expanded_url": "https://x.com/0xo_snow/status/2072618221132529823/photo/1",
+              "media_key": "3_2072618213821865984",
+              "start": 72,
+              "url": "https://t.co/exUZvgJsxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072618221132529823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2217,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去领毕业证了，没好意思跟任何人道别，看到以前很照顾我的老师在忙都没敢上前说一句话，明明很可能是最后一次见了。。。好讨厌这么胆小怯生生的自己 https://t.co/exUZvgJsxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 637,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 IP北京\n可爱是唯一追求 ！\n爱好是唱歌与美少女。我想被在意\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2072033535909851233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18141,
+          "following_count": 425,
+          "like_count": 17183,
+          "listed_count": 33,
+          "media_count": 1399,
+          "tweet_count": 14657
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

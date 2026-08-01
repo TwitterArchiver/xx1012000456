@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079875288088134115",
+    "created_at": "2026-07-22T19:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080013599754649744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080013599754649744",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079875288088134115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 你理想型怎么一天一个样🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079875288088134115",
+        "created_at": "2026-07-22T19:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080013599754649744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080013599754649744",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079875288088134115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 你理想型怎么一天一个样🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2079875288088134115",
+        "created_at": "2026-07-22T10:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079875288088134115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nnnullptr/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nnnullptr/status/2062598599742308708",
+              "start": 5,
+              "url": "https://t.co/3ByTYJ7Qc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079875288088134115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062598599742308708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我理想型 https://t.co/3ByTYJ7Qc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 705,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 123,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

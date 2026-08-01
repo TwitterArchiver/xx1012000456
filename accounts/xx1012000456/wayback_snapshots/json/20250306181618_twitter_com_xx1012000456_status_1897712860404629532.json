@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1897360692262658149",
+    "created_at": "2025-03-06T18:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T19:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897712860404629532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600339167594311680",
+          "start": 0,
+          "username": "sayonara149"
+        },
+        {
+          "end": 22,
+          "id": "1611797144809398273",
+          "start": 13,
+          "username": "Shyuusui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897712860404629532",
+    "in_reply_to_user_id": "1600339167594311680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897662613720547756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayonara149 @Shyuusui 算是随机有概率可o的东西，安非他酮毕竟是卡西酮的正经衍生物，机理也不是很清晰。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1897360692262658149",
+        "created_at": "2025-03-06T18:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T19:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897712860404629532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600339167594311680",
+              "start": 0,
+              "username": "sayonara149"
+            },
+            {
+              "end": 22,
+              "id": "1611797144809398273",
+              "start": 13,
+              "username": "Shyuusui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897712860404629532",
+        "in_reply_to_user_id": "1600339167594311680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897662613720547756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayonara149 @Shyuusui 算是随机有概率可o的东西，安非他酮毕竟是卡西酮的正经衍生物，机理也不是很清晰。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600339167594311680",
+        "conversation_id": "1897360692262658149",
+        "created_at": "2025-03-06T14:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897662613720547756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611797144809398273",
+              "start": 0,
+              "username": "Shyuusui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897662613720547756",
+        "in_reply_to_user_id": "1611797144809398273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897630133663453267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shyuusui 这玩意能直接o吗……我是拿它提神+抗抑郁的，如果抑郁很严重的话就1t安非他酮+3t右美，会晕半天然后情绪改善持续3天左右。\n据说可以和司来吉兰一起吃但是我姑且还没试过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 482,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 856
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T03:59:39.000Z",
+        "description": "中国語/日本語。FtXtF GNC. 友顺。精神疾患NEET. pronouns:它/彼/it。雑多垢。病み発言、腐と夢の発言がある。中史圈过街老鼠，网敌最恨的秦桧梦女/梦enby。梦角哥时代史重度依存症。偶尔是精神女真人。退学2021.9.3。サブ垢@meimei1091 nym @Pissenlit_AH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "meimei1091"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "Pissenlit_AH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayonarasayo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayonarasayo",
+                "start": 0,
+                "url": "https://t.co/VMoZt8e5IH"
+              }
+            ]
+          }
+        },
+        "id": "1600339167594311680",
+        "location": "海王星",
+        "name": "在大理寺当老鼠",
+        "pinned_tweet_id": "1867711359540244946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896318347522060288/BcNGRlPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 876,
+          "like_count": 18393,
+          "listed_count": 0,
+          "media_count": 2053,
+          "tweet_count": 15728
+        },
+        "url": "https://t.co/VMoZt8e5IH",
+        "username": "sayonara149",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T18:49:26.000Z",
+        "description": "難しく考えず千切ればいいの丨PJS字幕组听译",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ShyuusuiWonder…",
+                "end": 23,
+                "expanded_url": "http://t.me/ShyuusuiWonderhoy",
+                "start": 0,
+                "url": "https://t.co/f7aE9MciQw"
+              }
+            ]
+          }
+        },
+        "id": "1611797144809398273",
+        "location": "御茶水女子大学",
+        "name": "秋水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888897442139217920/Bpi_Y7x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 188,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/f7aE9MciQw",
+        "username": "Shyuusui",
+        "verified": false
+      }
+    ]
+  }
+}

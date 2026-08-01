@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1890507142320247273",
+    "created_at": "2025-02-15T16:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890801491440521311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890801491440521311",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890507142320247273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose 话是对的，只能说给自己留了个口子，试图证明自己还在控制之下的幻觉说服自己随时能停下来，但要知道即使是生理依赖很低的酒精与生理依赖不完全明确的尼古丁，无法摆脱的人也大有人在。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1890507142320247273",
+        "created_at": "2025-02-15T16:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890801491440521311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890801491440521311",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890507142320247273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 话是对的，只能说给自己留了个口子，试图证明自己还在控制之下的幻觉说服自己随时能停下来，但要知道即使是生理依赖很低的酒精与生理依赖不完全明确的尼古丁，无法摆脱的人也大有人在。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1890507142320247273",
+        "created_at": "2025-02-14T21:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T22:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890507142320247273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890507142320247273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3153,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我发现很多oder都喜欢拿“没有生理依赖”“只有心理依赖”来说事\n但问题在于，你若是想淡化甚至忽视其带来的心理精神问题的重要程度，那你就也得认为心理精神疾病也不配跟生理疾病平起平坐\n你不能只在想博同情的时候才说精神疾病和生理疾病地位相同\n我认为，心瘾和体瘾同等，淡化心瘾的只是正名其行为罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 461,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 716
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），医学🐶，战地一睾手，友跨，阳痿，不定时上推回消息。另外药物相关会转到@Nijika_Dark\n请不要将内容搬至墙内，谢谢\noverdose wiki 已死，但感谢所有曾经的来过，期待并相信后人的智慧\n主包建小群辣！！！群号883781732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Nijika_Dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/Dl8WczpH27"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 150,
+          "like_count": 2417,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/Dl8WczpH27",
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

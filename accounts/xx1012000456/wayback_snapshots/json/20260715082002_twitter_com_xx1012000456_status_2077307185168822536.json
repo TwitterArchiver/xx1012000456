@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077082024712757759",
+    "created_at": "2026-07-15T08:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077307185168822536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075769596565757953",
+          "start": 0,
+          "username": "babenhua"
+        },
+        {
+          "end": 19,
+          "id": "1809233055196073984",
+          "start": 10,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077307185168822536",
+    "in_reply_to_user_id": "2075769596565757953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077295066255618349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babenhua @Jy666992 前者是直接点对点的境外-境内邮寄，标准走私要件。\n后者是有明显贩卖动作被查获，再按此倒推来源和目的订走私，并列之下即使打掉走私罪名也没有意义。以上和我引用的法条没有冲突"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077082024712757759",
+        "created_at": "2026-07-15T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077307185168822536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075769596565757953",
+              "start": 0,
+              "username": "babenhua"
+            },
+            {
+              "end": 19,
+              "id": "1809233055196073984",
+              "start": 10,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077307185168822536",
+        "in_reply_to_user_id": "2075769596565757953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077295066255618349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babenhua @Jy666992 前者是直接点对点的境外-境内邮寄，标准走私要件。\n后者是有明显贩卖动作被查获，再按此倒推来源和目的订走私，并列之下即使打掉走私罪名也没有意义。以上和我引用的法条没有冲突"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075769596565757953",
+        "conversation_id": "2077082024712757759",
+        "created_at": "2026-07-15T07:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077295066255618349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 23,
+              "id": "1809233055196073984",
+              "start": 14,
+              "username": "Jy666992"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gat.guizhou.gov.cn/ztzl/yzdzhjw_5…",
+              "end": 62,
+              "expanded_url": "https://gat.guizhou.gov.cn/ztzl/yzdzhjw_5950772/jdfw/zxk_5949761/202402/t20240221_83830682.html",
+              "start": 39,
+              "unwound_url": "https://gat.guizhou.gov.cn/ztzl/yzdzhjw_5950772/jdfw/zxk_5949761/202402/t20240221_83830682.html",
+              "url": "https://t.co/UAaC8IHweG"
+            },
+            {
+              "description": "广东省深圳市南山区人民法院 深圳市南山区人民法院 南山区人民法院",
+              "display_url": "gw.nscourt.gov.cn/nscourt/wzsy/s…",
+              "end": 110,
+              "expanded_url": "https://gw.nscourt.gov.cn/nscourt/wzsy/spyj/yftx/content/post_1942346.html",
+              "start": 87,
+              "status": 200,
+              "title": "与法同行•刑事篇｜托人从境外代购几盒药，为啥被判刑了？",
+              "unwound_url": "https://gw.nscourt.gov.cn/nscourt/wzsy/spyj/yftx/content/post_1942346.html",
+              "url": "https://t.co/8X3EhL2dhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077295066255618349",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077107195339231408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Jy666992 解释一下莫达非尼无处方海淘邮寄https://t.co/UAaC8IHweG被判六个月走私毒品罪 解释一下人肉带曲蚂多过关被刑https://t.co/8X3EhL2dhA\n这个暴论还是让它消失吧，不要再误导人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 684,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T02:32:47.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/f88gJzZEuM 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/f88gJzZEuM"
+              }
+            ]
+          }
+        },
+        "id": "2075769596565757953",
+        "name": "八本 华",
+        "pinned_tweet_id": "2075937881122848905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075774419558146048/4VuEr9kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "babenhua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 346,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

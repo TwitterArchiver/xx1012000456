@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905964635439988749",
+    "created_at": "2025-04-03T07:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T08:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907703164465520658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847229736508125185",
+          "start": 0,
+          "username": "liu41043"
+        },
+        {
+          "end": 26,
+          "id": "1203523096235278336",
+          "start": 10,
+          "username": "Yukikaz40772195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907703164465520658",
+    "in_reply_to_user_id": "1847229736508125185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907698372250841220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu41043 @Yukikaz40772195 1，这里的依托明显没有药物特征，不属于我们广义上的药品。\n2他蠢，只要咬死不知道他烟弹里是什么就行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905964635439988749",
+        "created_at": "2025-04-03T07:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907703164465520658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847229736508125185",
+              "start": 0,
+              "username": "liu41043"
+            },
+            {
+              "end": 26,
+              "id": "1203523096235278336",
+              "start": 10,
+              "username": "Yukikaz40772195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907703164465520658",
+        "in_reply_to_user_id": "1847229736508125185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907698372250841220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu41043 @Yukikaz40772195 1，这里的依托明显没有药物特征，不属于我们广义上的药品。\n2他蠢，只要咬死不知道他烟弹里是什么就行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847229736508125185",
+        "conversation_id": "1905964635439988749",
+        "created_at": "2025-04-03T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907698372250841220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 30,
+              "id": "1203523096235278336",
+              "start": 14,
+              "username": "Yukikaz40772195"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "m.pkulaw.com/pages/details/…",
+              "end": 122,
+              "expanded_url": "https://m.pkulaw.com/pages/details/index?topicId=1469238631653838848&columnId=1469238638159204352&gid=08df102e7c10f20631db845328d3854786d50c3f23e66aecbdfb&purviewColumnId=null",
+              "start": 99,
+              "status": 200,
+              "title": "北大法宝_让法律更智能",
+              "unwound_url": "https://m.pkulaw.com/pages/details/index?topicId=1469238631653838848&columnId=1469238638159204352&gid=08df102e7c10f20631db845328d3854786d50c3f23e66aecbdfb&purviewColumnId=null",
+              "url": "https://t.co/g0Cc7Csg8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907698372250841220",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907481928443506881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Yukikaz40772195 我以为愈美是二类精神药物了，那看来确实是我的问题。不过，如果只是含有精二的成分的话，应该不至于被认定为精二，也不足以被认定为毒品，对吗。https://t.co/g0Cc7Csg8X\n您好，请看这个案例。在本案中容留他人吸食二类精神药物被认定为了容留吸毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1324
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T10:54:32.000Z",
+        "description": "ENG ok  汉语 ok  русский язык ok\n略懂一点法学\n曾经梦想成为作家，后来又想当大律师，现在希望成为一个值得被依赖的人。",
+        "id": "1847229736508125185",
+        "location": "🏠",
+        "name": "阿列阿列克克克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847230583812030464/Bo0R39cA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 263,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1111
+        },
+        "username": "liu41043",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-08T03:54:17.000Z",
+        "description": "愛されたい。 東京勢、20⬆️ザコカメラマン、(量産ロリータ)、猫の奴隷、ドール、DBD、FF14、法律、音ゲ。政治無関心なので、討論しないように。妹@jkdghalf411、母@houreisan0tyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "houreisan0tyou"
+              }
+            ]
+          }
+        },
+        "id": "1203523096235278336",
+        "location": "ホームレス支援センター",
+        "name": "Yukikaze",
+        "pinned_tweet_id": "1886031247115424229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553440723756011520/nK3NA5M4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 1049,
+          "like_count": 12309,
+          "listed_count": 6,
+          "media_count": 495,
+          "tweet_count": 4747
+        },
+        "username": "Yukikaz40772195",
+        "verified": true
+      }
+    ]
+  }
+}

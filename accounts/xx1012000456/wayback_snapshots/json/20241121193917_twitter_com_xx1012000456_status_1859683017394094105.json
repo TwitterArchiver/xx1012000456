@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1859677035737776536",
+    "created_at": "2024-11-21T19:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T20:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859683017394094105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583317300152651776",
+          "start": 0,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859683017394094105",
+    "in_reply_to_user_id": "1583317300152651776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859677035737776536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki_NekoY 为什么不是佐匹克隆🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1859677035737776536",
+        "created_at": "2024-11-21T19:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T20:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859683017394094105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583317300152651776",
+              "start": 0,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859683017394094105",
+        "in_reply_to_user_id": "1583317300152651776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859677035737776536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki_NekoY 为什么不是佐匹克隆🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "1859677035737776536",
+        "created_at": "2024-11-21T19:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T20:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859677035737776536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859677035737776536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人就是一坨包着糖衣的阿普唑仑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 366,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 285
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/陰キャ/⚓️/精神障害/無性別/Sakuraの猫猫/日本語/裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪88/150/520   私信只回口令红包",
+        "name": "Rikanaちゃん",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856000292158062592/JQ-hbA8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 56,
+          "like_count": 952,
+          "listed_count": 2,
+          "tweet_count": 1517
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

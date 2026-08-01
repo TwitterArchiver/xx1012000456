@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1934843389398405552",
+    "created_at": "2025-06-18T19:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T20:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935416158406246505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 24,
+          "id": "1479730386431545346",
+          "start": 13,
+          "username": "YuKi520521"
+        },
+        {
+          "end": 36,
+          "id": "1836782122037874688",
+          "start": 25,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935416158406246505",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935415385949397201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @YuKi520521 @mio1738468 所以表外物质容易上岸，没有折算公式的前提下普遍较轻，相反思诺思、专这类老东西会很麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-18T19:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935416158406246505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 24,
+              "id": "1479730386431545346",
+              "start": 13,
+              "username": "YuKi520521"
+            },
+            {
+              "end": 36,
+              "id": "1836782122037874688",
+              "start": 25,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935416158406246505",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935415385949397201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @YuKi520521 @mio1738468 所以表外物质容易上岸，没有折算公式的前提下普遍较轻，相反思诺思、专这类老东西会很麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1934843389398405552",
+        "created_at": "2025-06-18T19:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935415385949397201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1479730386431545346",
+              "start": 14,
+              "username": "YuKi520521"
+            },
+            {
+              "end": 37,
+              "id": "1836782122037874688",
+              "start": 26,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935415385949397201",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935414984147878163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @YuKi520521 @mio1738468 原来如此！学到了ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 579,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1674
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10667,
+          "following_count": 1174,
+          "like_count": 113205,
+          "listed_count": 21,
+          "media_count": 3861,
+          "tweet_count": 54416
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "上海",
+        "name": "櫻井チユキ🏳️‍⚧️",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922055189940314112/wqkX5XT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8731,
+          "following_count": 1024,
+          "like_count": 14979,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1777
+        },
+        "username": "YuKi520521",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是三崎，@misakixyg这个也是我哦谢谢你和我一起玩，我会记得你😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "misakixyg"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被拉莫三崎噎死",
+        "pinned_tweet_id": "1887720941645615580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887983199336476672/YFxSqeQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 477,
+          "like_count": 10566,
+          "listed_count": 5,
+          "media_count": 955,
+          "tweet_count": 8862
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

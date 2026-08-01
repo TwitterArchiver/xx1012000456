@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905161947458498759",
+    "created_at": "2025-03-27T13:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905243445343744367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        },
+        {
+          "end": 18,
+          "id": "1481172876589821952",
+          "start": 9,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905243445343744367",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905202947992289323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ @pyke2076 用来遏制躁狂和焦虑还行，有种死一般的沉眠感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905161947458498759",
+        "created_at": "2025-03-27T13:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905243445343744367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            },
+            {
+              "end": 18,
+              "id": "1481172876589821952",
+              "start": 9,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905243445343744367",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905202947992289323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ @pyke2076 用来遏制躁狂和焦虑还行，有种死一般的沉眠感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "1905161947458498759",
+        "created_at": "2025-03-27T10:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905202947992289323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905202947992289323",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905161947458498759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 这个有用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 504,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1166
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "打錢",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1894416543616045079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899330579277164544/7tNlrU4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10349,
+          "following_count": 527,
+          "like_count": 7675,
+          "listed_count": 16,
+          "media_count": 129,
+          "tweet_count": 377
+        },
+        "username": "CJing3_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3926,
+          "following_count": 1006,
+          "like_count": 49208,
+          "listed_count": 5,
+          "media_count": 2287,
+          "tweet_count": 12746
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

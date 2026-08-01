@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073416508466737289",
+    "created_at": "2026-07-04T14:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073418206648414522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073418206648414522",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073416508466737289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 没事别担心，能过关有包装的东西很容易不知情抗辩的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073416508466737289",
+        "created_at": "2026-07-04T14:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073418206648414522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073418206648414522",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073416508466737289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 没事别担心，能过关有包装的东西很容易不知情抗辩的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2073416508466737289",
+        "created_at": "2026-07-04T14:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073416508466737289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx1012000456/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/xx1012000456/status/2073354429366219055",
+              "start": 84,
+              "url": "https://t.co/t9fEZloump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073416508466737289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073354429366219055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是在咸鱼上搞得，差不多相当于是在amazon下单再让咸鱼搞回国内😇😇😇amazon和清关都和我没有关系，但是最后寄到我手上是走的咸鱼😇我已经预感到我和商家都要暴死了 https://t.co/t9fEZloump"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 653,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "pinned_tweet_id": "2066567996567339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 352,
+          "like_count": 47280,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903072733413490968",
+    "created_at": "2025-03-22T04:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T05:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903301945525408066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597451285720338433",
+          "start": 0,
+          "username": "lainken717"
+        },
+        {
+          "end": 25,
+          "id": "1682474617208709122",
+          "start": 12,
+          "username": "jpdrugdealer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903301945525408066",
+    "in_reply_to_user_id": "1597451285720338433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903072733413490968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lainken717 @jpdrugdealer 1严格来说他还是我从od圈向策划药圈的引路人，我推特最早的帖子就是他的转发抽奖，我没有任何必要和他争吵\n2NBOMe是极其恶劣的劣质品，LSD至今没有击杀记录而NBOMe从嬉皮士时期就杀人无数，更不要提可能的神经、心脏毒性。退一步讲即使不是，购买策划药就是为了规避风险，这份检验报告是他必须要解释的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_1903072726123954176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkSj75aQAAaFSa.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2222,
+        "media_key": "3_1903072729437442056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkSkIPaEAg-q2m.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903072733413490968",
+        "created_at": "2025-03-22T04:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T05:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903301945525408066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597451285720338433",
+              "start": 0,
+              "username": "lainken717"
+            },
+            {
+              "end": 25,
+              "id": "1682474617208709122",
+              "start": 12,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903301945525408066",
+        "in_reply_to_user_id": "1597451285720338433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903072733413490968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lainken717 @jpdrugdealer 1严格来说他还是我从od圈向策划药圈的引路人，我推特最早的帖子就是他的转发抽奖，我没有任何必要和他争吵\n2NBOMe是极其恶劣的劣质品，LSD至今没有击杀记录而NBOMe从嬉皮士时期就杀人无数，更不要提可能的神经、心脏毒性。退一步讲即使不是，购买策划药就是为了规避风险，这份检验报告是他必须要解释的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903072726123954176",
+            "3_1903072729437442056"
+          ]
+        },
+        "author_id": "1597451285720338433",
+        "conversation_id": "1903072733413490968",
+        "created_at": "2025-03-21T13:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903072733413490968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682474617208709122",
+              "start": 0,
+              "username": "jpdrugdealer"
+            },
+            {
+              "end": 27,
+              "id": "1386670401422434304",
+              "start": 14,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHw9eoDIgP",
+              "end": 177,
+              "expanded_url": "https://x.com/lainken717/status/1903072733413490968/photo/1",
+              "media_key": "3_1903072726123954176",
+              "start": 154,
+              "url": "https://t.co/SHw9eoDIgP"
+            },
+            {
+              "display_url": "pic.x.com/SHw9eoDIgP",
+              "end": 177,
+              "expanded_url": "https://x.com/lainken717/status/1903072733413490968/photo/1",
+              "media_key": "3_1903072729437442056",
+              "start": 154,
+              "url": "https://t.co/SHw9eoDIgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903072733413490968",
+        "in_reply_to_user_id": "1682474617208709122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@jpdrugdealer @xx1012000456 这个社区已经很乱了，真的不希望再乱下去。作为消费者，我只想安安静静购买我想要的东西。真心希望二位能好好交流，我们都需要获取各自的利益，都有着各自的立场对吧？OD本质上难道不是大家对于国内社会问题愈发严重而感到压抑的体现吗？争吵或许不该出现在二位之间。 https://t.co/SHw9eoDIgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 485,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1017
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T04:44:05.000Z",
+        "description": "最后的空裔，去成为引导世界的光吧！\nLi_Jieju717 / Lil_Eri /小七 | 能力：帮忙跑腿、啃脑子、抓娃娃、搬家、种树、顺打火机 兴趣爱好是网络迷踪 姬小满爱好者 员神/艾维玩家 dps恋 粥畜 俊虐达人 | 社会自由主义/古典自由主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@lainken717",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@lainken717",
+                "start": 0,
+                "url": "https://t.co/V6NdvtPeux"
+              }
+            ]
+          }
+        },
+        "id": "1597451285720338433",
+        "location": "アティスマータ新王国",
+        "name": "小七",
+        "pinned_tweet_id": "1861120641614729321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901264559215894528/Zk3NjdEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1073,
+          "like_count": 13301,
+          "listed_count": 1,
+          "media_count": 863,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/V6NdvtPeux",
+        "username": "lainken717",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 118,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 62
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      }
+    ]
+  }
+}

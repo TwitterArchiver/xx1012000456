@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072683296882917461",
+    "created_at": "2026-07-02T18:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072742909607281107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072742909607281107",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072683296882917461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 这个公子已经是28岁的爷爷了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072683296882917461",
+        "created_at": "2026-07-02T18:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072742909607281107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072742909607281107",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072683296882917461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 这个公子已经是28岁的爷爷了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838620535804317696",
+        "conversation_id": "2072683296882917461",
+        "created_at": "2026-07-02T14:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072683296882917461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072683296882917461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这个蛞蝓看起来像高中生但已经是23岁的叔叔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 636,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓谢谢喵♪( ´▽｀)",
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2072357345967952051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 641,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2648
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895129862576455895",
+    "created_at": "2025-02-27T15:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T16:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895133961132876014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798099581982683136",
+          "start": 0,
+          "username": "rousong625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895133961132876014",
+    "in_reply_to_user_id": "1798099581982683136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895129862576455895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rousong625 港美不止是30mg，药效也比白云山来的猛烈，压一半剂量感觉都不为过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_1895129855811059712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzakCLbAAAFAS2.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895129862576455895",
+        "created_at": "2025-02-27T15:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895133961132876014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798099581982683136",
+              "start": 0,
+              "username": "rousong625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895133961132876014",
+        "in_reply_to_user_id": "1798099581982683136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895129862576455895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rousong625 港美不止是30mg，药效也比白云山来的猛烈，压一半剂量感觉都不为过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895129855811059712"
+          ]
+        },
+        "author_id": "1798099581982683136",
+        "conversation_id": "1895129862576455895",
+        "created_at": "2025-02-27T15:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T16:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895129862576455895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nh2qjLQnFX",
+              "end": 42,
+              "expanded_url": "https://x.com/rousong625/status/1895129862576455895/photo/1",
+              "media_key": "3_1895129855811059712",
+              "start": 19,
+              "url": "https://t.co/nh2qjLQnFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895129862576455895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来港美是30mg，难怪我上次成那样 https://t.co/nh2qjLQnFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 471,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 803
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T21:09:21.000Z",
+        "description": "嗯……🚪88",
+        "id": "1798099581982683136",
+        "location": "天国",
+        "name": "ʚnekoɞ",
+        "pinned_tweet_id": "1884361395325567343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845008037649711104/MnRWcEFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 236,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1181
+        },
+        "username": "rousong625",
+        "verified": false
+      }
+    ]
+  }
+}

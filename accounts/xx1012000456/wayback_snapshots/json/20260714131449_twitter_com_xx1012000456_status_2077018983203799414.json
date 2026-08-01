@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2076358246215110887",
+    "created_at": "2026-07-14T13:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077018983203799414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731952736902737920",
+          "start": 0,
+          "username": "Estela971031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077018983203799414",
+    "in_reply_to_user_id": "1731952736902737920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076931518312976587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estela971031 不会，卡西酮或苯丙胺衍生物不会阳痿，反而高度性兴奋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2076358246215110887",
+        "created_at": "2026-07-14T13:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077018983203799414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731952736902737920",
+              "start": 0,
+              "username": "Estela971031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077018983203799414",
+        "in_reply_to_user_id": "1731952736902737920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076931518312976587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estela971031 不会，卡西酮或苯丙胺衍生物不会阳痿，反而高度性兴奋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731952736902737920",
+        "conversation_id": "2076358246215110887",
+        "created_at": "2026-07-14T07:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076931518312976587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076931518312976587",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076358246215110887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 第四个不就是市面上卖的很多的苯丙胺类似物吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 682,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1975
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T08:24:57.000Z",
+        "description": "北京，0m，xp很多（奇怪药品，药物成瘾，早泄，阳痿，包茎，短小鸡鸡，失禁，导尿管，pa环，lo裙，白色连裤袜，项圈，ABDL，郊狼，NTR，性功能摧毁，男性尊严践踏，人格侮辱，已将自己改造成药物成瘾的骚贱母猫，其他性癖开发中，qq：11164991（只过小动物）",
+        "id": "1731952736902737920",
+        "name": "海星Estela",
+        "pinned_tweet_id": "2019267311572779024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074356411694526464/wF0Mf0U9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 801,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "Estela971031",
+        "verified": false
+      }
+    ]
+  }
+}

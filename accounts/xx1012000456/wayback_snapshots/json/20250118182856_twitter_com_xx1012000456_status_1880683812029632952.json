@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1880400699890233697",
+    "created_at": "2025-01-18T18:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T19:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880683812029632952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964Y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880683812029632952",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880400699890233697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Y_ 可别再说你聪明了🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1880400699890233697",
+        "created_at": "2025-01-18T18:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T19:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880683812029632952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964Y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880683812029632952",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880400699890233697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Y_ 可别再说你聪明了🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880400683939315712"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1880400699890233697",
+        "created_at": "2025-01-17T23:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T00:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880400699890233697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVY9pav9CB",
+              "end": 123,
+              "expanded_url": "https://x.com/8964Y_/status/1880400699890233697/video/1",
+              "media_key": "13_1880400683939315712",
+              "start": 100,
+              "url": "https://t.co/IVY9pav9CB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880400699890233697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13163,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "救命，那个小高，原来是，皮下男，我之前，还给，他打了，一百多，因为看他，那么，可怜，他还，给我，发语音，但是，那时，候我，在学，校听，的不，太清楚，现在，重新听，真的好像，男的夹女的的声音啊啊啊…… https://t.co/IVY9pav9CB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 448,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 576
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "藤本树孝子｜藤本树本人小号：@9464LL ｜Eng ok 日本語OK 中文OK｜大爱momo酱｜想和我互fo的女孩直接私信我好吗好的｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "9464LL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878356720931758081/7VHKkBFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3961,
+          "following_count": 763,
+          "like_count": 7157,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 5429
+        },
+        "username": "8964Y_",
+        "verified": false
+      }
+    ]
+  }
+}

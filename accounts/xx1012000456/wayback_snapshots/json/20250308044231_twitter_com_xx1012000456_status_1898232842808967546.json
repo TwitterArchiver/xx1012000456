@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1898216986829869390",
+    "created_at": "2025-03-08T04:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T05:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898232842808967546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898232842808967546",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898216986829869390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od bron作为止痛和兴奋还好，做镇静和阿片类确实不太行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1898216986829869390",
+        "created_at": "2025-03-08T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898232842808967546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898232842808967546",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898216986829869390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od bron作为止痛和兴奋还好，做镇静和阿片类确实不太行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1898216986829869390",
+        "created_at": "2025-03-08T03:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T04:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898216986829869390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898216986829869390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔bron太无聊了 \n低剂量只有头晕和困也不快乐 高剂量又容易进医院 真的不如普瑞巴林 低剂量和吸尼古丁一样无聊 \n还100一瓶卖那么贵 里面是有地雷女的口水吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 483,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 860
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神\n本账号为多人账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1896155142145380579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 4281,
+          "like_count": 2613,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      }
+    ]
+  }
+}

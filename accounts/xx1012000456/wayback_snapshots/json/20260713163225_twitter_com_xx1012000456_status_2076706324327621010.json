@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076705078522847232",
+        "3_2076705123410288640",
+        "3_2076705142762819584"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2076706324327621010",
+    "created_at": "2026-07-13T16:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076706324327621010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHI6uhVPjg",
+          "end": 147,
+          "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+          "media_key": "3_2076705078522847232",
+          "start": 124,
+          "url": "https://t.co/CHI6uhVPjg"
+        },
+        {
+          "display_url": "pic.x.com/CHI6uhVPjg",
+          "end": 147,
+          "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+          "media_key": "3_2076705123410288640",
+          "start": 124,
+          "url": "https://t.co/CHI6uhVPjg"
+        },
+        {
+          "display_url": "pic.x.com/CHI6uhVPjg",
+          "end": 147,
+          "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+          "media_key": "3_2076705142762819584",
+          "start": 124,
+          "url": "https://t.co/CHI6uhVPjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076706324327621010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.可以助眠但...😅还是很不推荐，晚安解离和抗胆碱都是抑制性，但有点像用喹硫平助眠一样\n2.理论上没有限制，《精麻药物管理条例》不限制精二药物入境，但也别太夸张hhhhh\n3.金老师是啥我不知道的代称吗？越境风险属于几率低但是暴雷事大，自己斟酌 https://t.co/CHI6uhVPjg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2076705078522847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHwRByaoAAXvcb.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2076705123410288640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHwTpAaoAAohmi.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2076705142762819584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHwUxGa0AArl-m.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076705078522847232",
+            "3_2076705123410288640",
+            "3_2076705142762819584"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2076706324327621010",
+        "created_at": "2026-07-13T16:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076706324327621010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHI6uhVPjg",
+              "end": 147,
+              "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+              "media_key": "3_2076705078522847232",
+              "start": 124,
+              "url": "https://t.co/CHI6uhVPjg"
+            },
+            {
+              "display_url": "pic.x.com/CHI6uhVPjg",
+              "end": 147,
+              "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+              "media_key": "3_2076705123410288640",
+              "start": 124,
+              "url": "https://t.co/CHI6uhVPjg"
+            },
+            {
+              "display_url": "pic.x.com/CHI6uhVPjg",
+              "end": 147,
+              "expanded_url": "https://x.com/xx1012000456/status/2076706324327621010/photo/1",
+              "media_key": "3_2076705142762819584",
+              "start": 124,
+              "url": "https://t.co/CHI6uhVPjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076706324327621010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.可以助眠但...😅还是很不推荐，晚安解离和抗胆碱都是抑制性，但有点像用喹硫平助眠一样\n2.理论上没有限制，《精麻药物管理条例》不限制精二药物入境，但也别太夸张hhhhh\n3.金老师是啥我不知道的代称吗？越境风险属于几率低但是暴雷事大，自己斟酌 https://t.co/CHI6uhVPjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 679,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

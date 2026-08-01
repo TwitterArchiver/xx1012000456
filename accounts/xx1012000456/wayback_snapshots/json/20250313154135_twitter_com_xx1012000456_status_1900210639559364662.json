@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1900090181753164124",
+    "created_at": "2025-03-13T15:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T16:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900210639559364662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870442976377503744",
+          "start": 0,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900210639559364662",
+    "in_reply_to_user_id": "1870442976377503744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900090181753164124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg 解离剂是啥，已经迫不及待的了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1900090181753164124",
+        "created_at": "2025-03-13T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900210639559364662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870442976377503744",
+              "start": 0,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900210639559364662",
+        "in_reply_to_user_id": "1870442976377503744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900090181753164124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg 解离剂是啥，已经迫不及待的了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1900090181753164124",
+        "created_at": "2025-03-13T07:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T08:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900090181753164124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900090181753164124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2911,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我现在已经在重新进货了，再过几天我的店就要重新开门了，还有新品的致幻剂和解离剂上线，已经一款新的日本进口美白药，这些东西我全都自己测试过完全没问题，到时候欢迎大家来购买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 905
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活 可爱的主人@hjs_2403_0 喜欢的人@Yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "hjs_2403_0"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1900090181753164124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 708,
+          "like_count": 5694,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 1713
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

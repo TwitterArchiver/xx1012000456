@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071051023180013568",
+        "3_2071051067450900480",
+        "3_2071051104146907136",
+        "3_2071051133586690048"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071052856870998177",
+    "created_at": "2026-06-28T02:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071052856870998177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zYAE6tTJm4",
+          "end": 164,
+          "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+          "media_key": "3_2071051023180013568",
+          "start": 141,
+          "url": "https://t.co/zYAE6tTJm4"
+        },
+        {
+          "display_url": "pic.x.com/zYAE6tTJm4",
+          "end": 164,
+          "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+          "media_key": "3_2071051067450900480",
+          "start": 141,
+          "url": "https://t.co/zYAE6tTJm4"
+        },
+        {
+          "display_url": "pic.x.com/zYAE6tTJm4",
+          "end": 164,
+          "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+          "media_key": "3_2071051104146907136",
+          "start": 141,
+          "url": "https://t.co/zYAE6tTJm4"
+        },
+        {
+          "display_url": "pic.x.com/zYAE6tTJm4",
+          "end": 164,
+          "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+          "media_key": "3_2071051133586690048",
+          "start": 141,
+          "url": "https://t.co/zYAE6tTJm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071052856870998177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1肯定是有的，比如加巴喷丁以及一些没有广泛达成共识的药物。\n2肯定是会有隐患的，参照优格案大部分被晶小部分37天极小部分8个月到1年（对就是我和于小姐）\n3很烂，我半年瘦了30斤\n4可以倒是可以，不过色胺类大多会极苦+有强烈刺激。有条件建议还是用辅料稀释一下包个胶囊或者鼻吸什么的 https://t.co/zYAE6tTJm4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2071051023180013568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3Z7sRaoAAv2q0.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2071051067450900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3Z-RMawAAD0fN.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2071051104146907136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3aAZ5bYAAF3FW.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2071051133586690048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3aCHka0AADV5V.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071051023180013568",
+            "3_2071051067450900480",
+            "3_2071051104146907136",
+            "3_2071051133586690048"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071052856870998177",
+        "created_at": "2026-06-28T02:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071052856870998177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYAE6tTJm4",
+              "end": 164,
+              "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+              "media_key": "3_2071051023180013568",
+              "start": 141,
+              "url": "https://t.co/zYAE6tTJm4"
+            },
+            {
+              "display_url": "pic.x.com/zYAE6tTJm4",
+              "end": 164,
+              "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+              "media_key": "3_2071051067450900480",
+              "start": 141,
+              "url": "https://t.co/zYAE6tTJm4"
+            },
+            {
+              "display_url": "pic.x.com/zYAE6tTJm4",
+              "end": 164,
+              "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+              "media_key": "3_2071051104146907136",
+              "start": 141,
+              "url": "https://t.co/zYAE6tTJm4"
+            },
+            {
+              "display_url": "pic.x.com/zYAE6tTJm4",
+              "end": 164,
+              "expanded_url": "https://x.com/xx1012000456/status/2071052856870998177/photo/1",
+              "media_key": "3_2071051133586690048",
+              "start": 141,
+              "url": "https://t.co/zYAE6tTJm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071052856870998177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1肯定是有的，比如加巴喷丁以及一些没有广泛达成共识的药物。\n2肯定是会有隐患的，参照优格案大部分被晶小部分37天极小部分8个月到1年（对就是我和于小姐）\n3很烂，我半年瘦了30斤\n4可以倒是可以，不过色胺类大多会极苦+有强烈刺激。有条件建议还是用辅料稀释一下包个胶囊或者鼻吸什么的 https://t.co/zYAE6tTJm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 616,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

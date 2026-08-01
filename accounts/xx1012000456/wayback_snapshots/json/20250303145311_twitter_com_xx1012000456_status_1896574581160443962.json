@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1619176180749570050",
+    "created_at": "2025-03-03T14:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T15:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896574581160443962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514091856765849603",
+          "start": 0,
+          "username": "karana7931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896574581160443962",
+    "in_reply_to_user_id": "1514091856765849603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1619176180749570050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karana7931 哪有2A拮抗剂，就一个赛庚啶广谱拮抗。抗精分类下机不如BZD，能拿到BZD更好。喹硫平网上能买，不需要特意要处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1619176180749570050",
+        "created_at": "2025-03-03T14:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T15:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896574581160443962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514091856765849603",
+              "start": 0,
+              "username": "karana7931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896574581160443962",
+        "in_reply_to_user_id": "1514091856765849603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619176180749570050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karana7931 哪有2A拮抗剂，就一个赛庚啶广谱拮抗。抗精分类下机不如BZD，能拿到BZD更好。喹硫平网上能买，不需要特意要处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514091856765849603",
+        "conversation_id": "1619176180749570050",
+        "created_at": "2023-01-28T03:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-28T04:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1619176180749570050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngW1nd/sta…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Spr1ngW1nd/status/1612059448746602496",
+              "start": 155,
+              "url": "https://t.co/FEWpbRvKUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1619176180749570050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2363,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上香……希望你平安\n\n提醒想尝试5-HT类致幻剂(包括但不限于麦角/邮票、蘑菇、dmt等)的，请务必尽量在实验前备好大量5-HT2A、5-HT2C受体拮抗剂，以备不时之需\n赛庚啶是最好选择，若买不到赛庚啶，可以找精神科诊所说自己失眠+有精神分裂症状要喹硫平，备量不建议低于500mg\n\n药物有风险，实验须谨慎 https://t.co/FEWpbRvKUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 479,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 846
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T04:05:09.000Z",
+        "description": "✦病み垢✦お水勉強✦サブカル✦ボルテ魔騎士\\4k十段✦天鳳四二✦She\\Them✦メンヘラ✦ASDHD✦BPD✦DD✦向精神薬✦夢日記✦自傷✦占い✦挨拶自由✦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/karana…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/karana7931.bsky.social",
+                "start": 0,
+                "url": "https://t.co/UpFtfYY5Q2"
+              }
+            ]
+          }
+        },
+        "id": "1514091856765849603",
+        "location": "空名知未",
+        "name": "✦空名つぐみ✦",
+        "pinned_tweet_id": "1558531008202526723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558666470359547905/xCsk5xTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 320,
+          "like_count": 40732,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/UpFtfYY5Q2",
+        "username": "karana7931",
+        "verified": false
+      }
+    ]
+  }
+}

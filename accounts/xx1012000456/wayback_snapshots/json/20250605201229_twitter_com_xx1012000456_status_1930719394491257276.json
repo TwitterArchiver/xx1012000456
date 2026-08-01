@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930711900213678448",
+    "created_at": "2025-06-05T20:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T21:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930719394491257276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930719394491257276",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930718786598084826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 K可以说替来或别的苯基环己酮衍生物，但这东西实验室检测是很成熟可以验证的，也就能拖拖时间。大麻真不懂😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930711900213678448",
+        "created_at": "2025-06-05T20:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T21:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930719394491257276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930719394491257276",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930718786598084826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 K可以说替来或别的苯基环己酮衍生物，但这东西实验室检测是很成熟可以验证的，也就能拖拖时间。大麻真不懂😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930711900213678448",
+        "created_at": "2025-06-05T20:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T21:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930718786598084826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930718786598084826",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930711900213678448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 k和大麻阳了怎么狡辩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 571,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1616
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 244,
+          "like_count": 780,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1718
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

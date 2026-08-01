@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079583582901952816",
+    "created_at": "2026-07-22T16:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079973533774729379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        },
+        {
+          "end": 24,
+          "id": "2013209398395752448",
+          "start": 9,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079973533774729379",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079955417124491357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 @DesireLovet1qi 未管制就不能把你怎么样，连处方都没必要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079583582901952816",
+        "created_at": "2026-07-22T16:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079973533774729379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 24,
+              "id": "2013209398395752448",
+              "start": 9,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079973533774729379",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079955417124491357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 @DesireLovet1qi 未管制就不能把你怎么样，连处方都没必要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079583582901952816",
+        "created_at": "2026-07-22T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079955417124491357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079955417124491357",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079931064265679246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 坏了已经送到了 但普瑞巴林未管制我神经痛有处方应该不会咋样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 703,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2071
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 108,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 452,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

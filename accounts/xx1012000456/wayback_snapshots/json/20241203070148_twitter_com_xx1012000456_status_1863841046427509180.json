@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1863639497554248173",
+    "created_at": "2024-12-03T07:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T08:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863841046427509180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863841046427509180",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863639497554248173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 不可能，你这个思路就是错的。一方面来说，结合我自己心境的波动状态，你要提供的是类似于计件或者小时类的低门槛的工作而不是长期稳定的工作作为最基础的保底和自我救济选项，想做产业链这种有周期和工期压力的项目不现实。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1863639497554248173",
+        "created_at": "2024-12-03T07:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T08:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863841046427509180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863841046427509180",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863639497554248173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 不可能，你这个思路就是错的。一方面来说，结合我自己心境的波动状态，你要提供的是类似于计件或者小时类的低门槛的工作而不是长期稳定的工作作为最基础的保底和自我救济选项，想做产业链这种有周期和工期压力的项目不现实。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1863639497554248173",
+        "created_at": "2024-12-02T17:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:25:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863635693517541648",
+          "1863639497554248173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863639497554248173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所目前其中一个主要的运行成本承担者（同时也是我的亲密关系之一），是一个自2016年开始就在做淘宝服装网店的MTF，年营业额最高峰时期做到过上千万。受众主要是年轻的顺性别女性（如小红书）。\n\n但是，因为她的店铺的主要消费者群体有一部分消费者对跨性别并不友善，我并不能暴露她的店铺的运营者是跨性别的身份。因此长期以来我从未在跨性别社群宣传过她的店铺。\n\n但是如果后续要继续扩大庇护所规模，甚至质变成“数百人组成的跨性别线下社区”她带来了一个可能项：\n\n在湖北省天门市的服装产业园或广州市的郊区租下一个的厂房，建立一个巨大的服装生产的产业链，开设更多的服装和包包相关的网络店铺，并为员工提供员工宿舍。通过公司的形式尽可能解决就业问题。以此实现进一步扩大庇护所规模和缓解严重入不敷出的问题。\n\n但是这存在一些新的问题：\n\n以庇护所目前的平均精神状态，如果人数规模扩大至数百人，“几乎每天都会有人尝试自杀”是一个大概率事件，这意味着庇护所至少得有一位精神科医生和心理治疗师全职坐诊，并拥有可以随时紧急住院以及和当地社区和提前建立联系的前提。\n\n从公司效益来说，大部分mtf都属于“不良劳动力”。有时5个mtf给公司带来的生产效益可能比不上一个从市场正常招聘的顺性别者，且存在更多的风险和问题。\n\n强行容纳“不良劳动力”的后果，可能是长期亏损和破产。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14926,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "庇护所目前其中一个主要的运行成本承担者（同时也是我的亲密关系之一），是一个自2016年开始就在做淘宝服装网店的MTF，年营业额最高峰时期做到过上千万。受众主要是年轻的顺性别女性（如小红书）。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 317
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33844,
+          "following_count": 3423,
+          "like_count": 294,
+          "listed_count": 58,
+          "media_count": 264,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

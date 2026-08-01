@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1860645274840125893",
+    "created_at": "2024-11-24T17:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T18:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860738054975287480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "KaliroOwo8964"
+        },
+        {
+          "end": 26,
+          "id": "1448206950903255040",
+          "start": 15,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860738054975287480",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860665360435003852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaliroOwo8964 @_Shikieiki NMDA和谵妄没关系，你也没听说过氯胺酮谵妄的案例吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-11-24T17:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T18:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860738054975287480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "KaliroOwo8964"
+            },
+            {
+              "end": 26,
+              "id": "1448206950903255040",
+              "start": 15,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860738054975287480",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860665360435003852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaliroOwo8964 @_Shikieiki NMDA和谵妄没关系，你也没听说过氯胺酮谵妄的案例吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1860645274840125893",
+        "created_at": "2024-11-24T12:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860665360435003852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860665360435003852",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860645274840125893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 这个效果太强了 会谵妄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 368,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 288
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "尊重每一个灵魂。想让所有人开心。\n『神秘学家』|致爱，自由，民主，平等| 政治中立 除了傻逼什么都友~ !前世潜伏中....",
+        "id": "1826984800390889472",
+        "location": "格里芬安全承包商",
+        "name": "Kaliro | 利山制药",
+        "pinned_tweet_id": "1854126000897982784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826986178077192193/qkRFanXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 12,
+          "like_count": 120,
+          "listed_count": 0,
+          "tweet_count": 123
+        },
+        "username": "KaliroOwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "1842867034050441268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 275,
+          "like_count": 5167,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

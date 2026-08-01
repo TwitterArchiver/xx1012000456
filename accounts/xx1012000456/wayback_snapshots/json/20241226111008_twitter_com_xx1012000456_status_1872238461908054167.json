@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-26T11:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872238461908054167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847909934203097088",
+          "start": 0,
+          "username": "momoisaiba15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872238461908054167",
+    "in_reply_to_user_id": "1847909934203097088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872166997079011369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoisaiba15 1.对于未知要保持敬畏而不是大放厥词胡说八道，如果不是我有一定的知识储备很有可能就被“大佬”扼杀在摇篮里。\n2.od圈几乎没有学术水平，但这并不意味着是个人就能占领“药师”这个头衔。wiki的东西我看过真假参半，一般的oder根本无法分辨，只会加深他水平高的错觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T11:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872238461908054167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872238461908054167",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872166997079011369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 1.对于未知要保持敬畏而不是大放厥词胡说八道，如果不是我有一定的知识储备很有可能就被“大佬”扼杀在摇篮里。\n2.od圈几乎没有学术水平，但这并不意味着是个人就能占领“药师”这个头衔。wiki的东西我看过真假参半，一般的oder根本无法分辨，只会加深他水平高的错觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847909934203097088",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T06:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872166997079011369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872166997079011369",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871970048585367975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 问题太多了喵…\n1.从部分事实中无法总结一般性规律，同理，几点错误的知识无法论证整体水平高低。\n2.只要后藤的药理水平比od圈平均水平高，他做出的贡献就是有利的。从他在od维基写的条目来看，他的药理水平是远远超过了这一点的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 398,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 407
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:59:34.000Z",
+        "description": "",
+        "id": "1847909934203097088",
+        "name": "natsuki_natsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847910631954911232/vY6AuUM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 719,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "momoisaiba15",
+        "verified": false
+      }
+    ]
+  }
+}

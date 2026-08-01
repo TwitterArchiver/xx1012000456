@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1908490392447897884",
+    "created_at": "2025-04-05T12:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T13:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908491705005093165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "realeco_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908491705005093165",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908490392447897884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realeco_77 是我想的那样吗😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908490381320478722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnxR4-PbYAIVccl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1908490392447897884",
+        "created_at": "2025-04-05T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908491705005093165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "realeco_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908491705005093165",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908490392447897884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realeco_77 是我想的那样吗😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908490381320478722"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "conversation_id": "1908490392447897884",
+        "created_at": "2025-04-05T12:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908490392447897884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNrzwicD8p",
+              "end": 32,
+              "expanded_url": "https://x.com/realeco_77/status/1908490392447897884/photo/1",
+              "media_key": "3_1908490381320478722",
+              "start": 9,
+              "url": "https://t.co/gNrzwicD8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908490392447897884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道我在做什么 https://t.co/gNrzwicD8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 521,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1362
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288",
+        "name": "苦桃",
+        "pinned_tweet_id": "1907447266241290338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904098488276885504/-Zz1utRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3223,
+          "following_count": 277,
+          "like_count": 15217,
+          "listed_count": 5,
+          "media_count": 803,
+          "tweet_count": 9645
+        },
+        "username": "realeco_77",
+        "verified": false
+      }
+    ]
+  }
+}

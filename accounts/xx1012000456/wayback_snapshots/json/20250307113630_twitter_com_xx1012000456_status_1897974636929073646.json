@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1897952789227086203",
+    "created_at": "2025-03-07T11:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T12:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897974636929073646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Luo_yiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897974636929073646",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897952789227086203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luo_yiyu 抗精分药物又不是只能抗精分，另一个广泛的用途是用于躁狂，以及一些奇奇怪怪的躯体化和精神障碍也会用到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1897952789227086203",
+        "created_at": "2025-03-07T11:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897974636929073646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Luo_yiyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897974636929073646",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897952789227086203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luo_yiyu 抗精分药物又不是只能抗精分，另一个广泛的用途是用于躁狂，以及一些奇奇怪怪的躯体化和精神障碍也会用到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "1897952789227086203",
+        "created_at": "2025-03-07T10:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897952789227086203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897952789227086203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生给开了精神分裂的药 ，一开始没有当回事，觉得我不太像精分\n然后突然想到了自己那种被迫害妄想症的感觉\n可以说我主观上不应该害怕以及想要和和气气\n但是却在一种明显不对的类似的于本能反应的情况下害怕\n真的很恐怕这种和自己主观意识想悖的感慨\n一点点的在走向深渊呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 857
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "叫我小洛就好，矛盾迷茫之人，正在努力交友让自己不那么孤单，双相患者，正在努力活着，有证含🍥2024.6.10，经常犯蠢，一会社恐一会话痨的baka，infp，🥰🥰🥰@misaka__networ 学习打ctf，会玩一点业余无线电，呼号BD8ELV，大一土木跑路电科\n晚安🕯🕯@Tianqichen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "misaka__networ"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "Tianqichen666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo6xwn"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛忆雨Yiur",
+        "pinned_tweet_id": "1894682535612825991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896187995557883904/LPmY2iat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 327,
+          "like_count": 4196,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 3894
+        },
+        "url": "https://t.co/A4NOlo6xwn",
+        "username": "Luo_yiyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876901600247398851",
+    "created_at": "2025-01-08T13:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T14:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876981719263264984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1225762999488503809",
+          "start": 0,
+          "username": "StelleAymond"
+        },
+        {
+          "end": 29,
+          "id": "1799360815751200768",
+          "start": 14,
+          "username": "youmeishafen99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876981719263264984",
+    "in_reply_to_user_id": "1225762999488503809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876979925627867576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StelleAymond @youmeishafen99 你说的好像有特异的血清素拮抗剂一样😅赛庚啶都是兼职的拮抗剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876901600247398851",
+        "created_at": "2025-01-08T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876981719263264984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1225762999488503809",
+              "start": 0,
+              "username": "StelleAymond"
+            },
+            {
+              "end": 29,
+              "id": "1799360815751200768",
+              "start": 14,
+              "username": "youmeishafen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876981719263264984",
+        "in_reply_to_user_id": "1225762999488503809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876979925627867576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StelleAymond @youmeishafen99 你说的好像有特异的血清素拮抗剂一样😅赛庚啶都是兼职的拮抗剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225762999488503809",
+        "conversation_id": "1876901600247398851",
+        "created_at": "2025-01-08T13:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876979925627867576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 29,
+              "id": "1799360815751200768",
+              "start": 14,
+              "username": "youmeishafen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876979925627867576",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876924925987958925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @youmeishafen99 用5ht2a拮抗剂下机更好吧（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 426,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 499
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T12:47:36.000Z",
+        "description": "rain_meow砂糖｜画画｜化学｜药理｜毒理｜精分｜神经兮兮｜静脉放血｜自残狂热｜精神病院在逃人员｜屯钱留日｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 23,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 0,
+                "url": "https://t.co/jCH2zcFk5e"
+              }
+            ]
+          }
+        },
+        "id": "1225762999488503809",
+        "location": "Hell",
+        "name": "StelleAymond",
+        "pinned_tweet_id": "1863460537222447356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821011122113404929/OgK6xPtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 184,
+          "like_count": 2108,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/jCH2zcFk5e",
+        "username": "StelleAymond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T08:40:32.000Z",
+        "description": "群聊—https://t.co/Izv1A9Dzwk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 26,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 3,
+                "url": "https://t.co/Izv1A9Dzwk"
+              }
+            ]
+          }
+        },
+        "id": "1799360815751200768",
+        "location": "广州",
+        "name": "可达鸭滴化学乐园",
+        "pinned_tweet_id": "1802298141473181986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799360973683449856/yF3Vd0US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 325,
+          "like_count": 265,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 852
+        },
+        "username": "youmeishafen99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1935025972946059712",
+    "created_at": "2025-06-18T08:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T09:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935248679985975420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935248679985975420",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935025972946059712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 这东西确实😅我之前以为这东西只是苯环修饰的吡拉西坦，加强了穿透性的plus。事实上这东西是广义上的苯乙胺衍生物+DRI，和吡拉西坦完全不是一个东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1935025972946059712",
+        "created_at": "2025-06-18T08:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935248679985975420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935248679985975420",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935025972946059712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这东西确实😅我之前以为这东西只是苯环修饰的吡拉西坦，加强了穿透性的plus。事实上这东西是广义上的苯乙胺衍生物+DRI，和吡拉西坦完全不是一个东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935025972946059712",
+        "created_at": "2025-06-17T17:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935025972946059712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935025972946059712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于苯基吡拉西坦这个药物我还有很多要说的，即请勿滥用此药物（这里的滥用指连续使用超过三天，或一个月内使用天数超过12天）你可以理解为这个药物是应急的，而不是用于长期连续服用改善的，包括哌甲酯，我其实都不推荐长期连续服用。一方面我自己在多巴胺系统脱敏这个问题上吃了很多亏，一方面耐受真太快了，当你连续使用苯基吡拉西坦半个月后，想回到耐受基线也许需要长达60天，你要做的是仅在需要高强度专注时使用，可持续性地使用。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3433,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于苯基吡拉西坦这个药物我还有很多要说的，即请勿滥用此药物（这里的滥用指连续使用超过三天，或一个月内使用天数超过12天）你可以理解为这个药物是应急的，而不是用于长期连续服用改善的，包括哌甲酯，我其实都不推荐长期连续服用。一方面我自己在多巴胺系统脱敏这个问题上吃了很多亏，一方面耐受真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 580,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1668
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko Alipay微信/FPS/USDT支付均可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7730,
+          "following_count": 885,
+          "like_count": 43621,
+          "listed_count": 30,
+          "media_count": 1188,
+          "tweet_count": 18879
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902033063313641502",
+    "created_at": "2025-03-18T16:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902034799797383376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902034799797383376",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902033063313641502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 氟西汀倒还好，代谢物至少能缓个3-7天不等，一下子倒是不会太糟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902033056808173568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVg_N4aAAAt8eW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902033063313641502",
+        "created_at": "2025-03-18T16:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902034799797383376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902034799797383376",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902033063313641502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 氟西汀倒还好，代谢物至少能缓个3-7天不等，一下子倒是不会太糟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902033056808173568"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1902033063313641502",
+        "created_at": "2025-03-18T16:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902033063313641502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inOQcMdGSI",
+              "end": 141,
+              "expanded_url": "https://x.com/manoj901858808/status/1902033063313641502/photo/1",
+              "media_key": "3_1902033056808173568",
+              "start": 118,
+              "url": "https://t.co/inOQcMdGSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902033063313641502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈又几把给我擅自停药了，因为我不吃饭她上百度查到氟西汀治神经性贪食症就给我停了，但我不吃饭纯粹因为她控制欲太强我反抗的一种方式而已，刚才又逼我喝给我灌掺了符灰水的中药，你们知道我妈到底有多疯吗这是一年前她请道士来做法给屋子里贴的符文 https://t.co/inOQcMdGSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 484,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 954
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "一般路过普通小孩",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1890257065874227523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902010469453615104/vj-p1SD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41021,
+          "following_count": 346,
+          "like_count": 1987,
+          "listed_count": 77,
+          "media_count": 149,
+          "tweet_count": 835
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902436161924252074",
+    "created_at": "2025-03-20T12:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T13:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902705472639300083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752833082325938176",
+          "start": 0,
+          "username": "GwynethNet68856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902705472639300083",
+    "in_reply_to_user_id": "1752833082325938176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902704555252699168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GwynethNet68856 别信，留好录音记录+问他警号，常用手法之一，一般在灰色地带的事情他们是不敢提供警号的，问这个一般就代表了你不好惹，我是这样销了两笔冻结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902436161924252074",
+        "created_at": "2025-03-20T12:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902705472639300083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752833082325938176",
+              "start": 0,
+              "username": "GwynethNet68856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902705472639300083",
+        "in_reply_to_user_id": "1752833082325938176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902704555252699168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GwynethNet68856 别信，留好录音记录+问他警号，常用手法之一，一般在灰色地带的事情他们是不敢提供警号的，问这个一般就代表了你不好惹，我是这样销了两笔冻结"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752833082325938176",
+        "conversation_id": "1902436161924252074",
+        "created_at": "2025-03-20T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902704555252699168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902704555252699168",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902436161924252074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 图三是我的 我打电话给晶哥说让晶哥重新鉴定晶哥说这点影响不到你 你也不会有什么事的 的理由不让我重新鉴定 我打过3次电话让晶哥重新鉴定都是这样说的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 995
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T23:16:00.000Z",
+        "description": "号主换人这里是Yuki大号@Healer_Gu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Healer_Gu"
+              }
+            ]
+          }
+        },
+        "id": "1752833082325938176",
+        "name": "YuKiiiii",
+        "pinned_tweet_id": "1882877710315450808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880369359161552896/SzJfPRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 53,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 61
+        },
+        "username": "GwynethNet68856",
+        "verified": false
+      }
+    ]
+  }
+}

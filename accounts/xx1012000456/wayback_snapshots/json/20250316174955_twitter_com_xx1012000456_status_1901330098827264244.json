@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1901320329366261879",
+    "created_at": "2025-03-16T17:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T18:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901330098827264244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901330098827264244",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901320329366261879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 完全不对，你说的更接近解毒剂的概念，如纳洛酮对阿片及酒精，氟马西尼对BZD，毒扁豆碱对阿托品。下机这个概念更接近对症治疗或者对抗，使用镇静剂终止血清素幻觉，使用司琼止吐，使用美托洛尔或可乐定稳定血压"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1901320329366261879",
+        "created_at": "2025-03-16T17:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T18:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901330098827264244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901330098827264244",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901320329366261879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 完全不对，你说的更接近解毒剂的概念，如纳洛酮对阿片及酒精，氟马西尼对BZD，毒扁豆碱对阿托品。下机这个概念更接近对症治疗或者对抗，使用镇静剂终止血清素幻觉，使用司琼止吐，使用美托洛尔或可乐定稳定血压"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1901320329366261879",
+        "created_at": "2025-03-16T17:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T18:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901320329366261879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901320329366261879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“下机药”概念的正确理解应该是：\n药物所激动受体的拮抗剂（抑或反过来）、药物靶向作用的干扰剂/结合剂，而不是吃喹硫平或者思诺思睡着了就是“下机”，此时药物依旧会在你身体里作用反应，更有在你睡眠中扼杀你的可能性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 487,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 943
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899304337999810560/sEeF268-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 36,
+          "like_count": 262,
+          "listed_count": 9,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

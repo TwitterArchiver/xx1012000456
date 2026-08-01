@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1929688820750209307",
+    "created_at": "2025-06-03T08:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929821996822691842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        },
+        {
+          "end": 21,
+          "id": "756406740",
+          "start": 9,
+          "username": "asya_abdoel"
+        },
+        {
+          "end": 38,
+          "id": "1890780517735473152",
+          "start": 22,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929821996822691842",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929789383810396269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 @asya_abdoel @wtswaishiteruyo mao几乎干不动dpt，丙基下不去的，可能整体回路别的被抑制了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1929688820750209307",
+        "created_at": "2025-06-03T08:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929821996822691842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 21,
+              "id": "756406740",
+              "start": 9,
+              "username": "asya_abdoel"
+            },
+            {
+              "end": 38,
+              "id": "1890780517735473152",
+              "start": 22,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929821996822691842",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929789383810396269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @asya_abdoel @wtswaishiteruyo mao几乎干不动dpt，丙基下不去的，可能整体回路别的被抑制了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929688820750209307",
+        "created_at": "2025-06-03T06:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T07:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929789383810396269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "756406740",
+              "start": 0,
+              "username": "asya_abdoel"
+            },
+            {
+              "end": 29,
+              "id": "1890780517735473152",
+              "start": 13,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929789383810396269",
+        "in_reply_to_user_id": "756406740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929788705675661502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asya_abdoel @wtswaishiteruyo 你是不是吃的maoi的药然后口服DPT，我听说maoi的药和dmt类联用都有高血压风险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 565,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1593
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 243,
+          "like_count": 738,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1669
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-14T03:51:38.000Z",
+        "description": "",
+        "id": "756406740",
+        "name": "tears in rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680793925894938625/BViUh8vU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 207,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "asya_abdoel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy  i dont wanna be",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/qFkb2xwIVC"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品吗",
+        "name": "I love You",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 334,
+          "like_count": 12162,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/qFkb2xwIVC",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

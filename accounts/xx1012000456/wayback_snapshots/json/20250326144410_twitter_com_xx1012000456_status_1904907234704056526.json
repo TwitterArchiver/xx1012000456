@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904845714116809177",
+    "created_at": "2025-03-26T14:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T15:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904907234704056526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1895769230676729856",
+          "start": 0,
+          "username": "liuyun304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904907234704056526",
+    "in_reply_to_user_id": "1895769230676729856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904845714116809177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyun304 ？大概可以理解为未确定、高度怀疑的意思，一般来自患者主诉、急诊随行人员提供基础疾病等。比如你报警有人吃盐急诊诊断大概是\n药物中毒\n亚硝酸钠中毒？\n如果化验确定就直接写亚硝酸钠中毒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1904845711008817154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9fFPSbYAI9f1g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904845714116809177",
+        "created_at": "2025-03-26T14:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T15:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904907234704056526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1895769230676729856",
+              "start": 0,
+              "username": "liuyun304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904907234704056526",
+        "in_reply_to_user_id": "1895769230676729856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904845714116809177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyun304 ？大概可以理解为未确定、高度怀疑的意思，一般来自患者主诉、急诊随行人员提供基础疾病等。比如你报警有人吃盐急诊诊断大概是\n药物中毒\n亚硝酸钠中毒？\n如果化验确定就直接写亚硝酸钠中毒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904845711008817154"
+          ]
+        },
+        "author_id": "1895769230676729856",
+        "conversation_id": "1904845714116809177",
+        "created_at": "2025-03-26T10:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904845714116809177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4ozRAWS9v",
+              "end": 38,
+              "expanded_url": "https://x.com/liuyun304/status/1904845714116809177/photo/1",
+              "media_key": "3_1904845711008817154",
+              "start": 15,
+              "url": "https://t.co/g4ozRAWS9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904845714116809177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1956,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？号是啥鬼\n这还能开处方吗🧐 https://t.co/g4ozRAWS9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 503,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1143
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:33:12.000Z",
+        "description": "07mtf 🚪88 超级耐🌿 接圆角 全国可✈️\n互fo有fo必回 已炸柜 srs费用0%",
+        "id": "1895769230676729856",
+        "name": "琉芸🍥🏳️‍⚧️🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902973068227780608/6cyQ4qNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 88,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "username": "liuyun304",
+        "verified": false
+      }
+    ]
+  }
+}

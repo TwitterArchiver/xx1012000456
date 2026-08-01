@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907843738090795367",
+    "created_at": "2025-04-03T17:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T18:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907855225308025080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799360815751200768",
+          "start": 0,
+          "username": "youmeishafen99"
+        },
+        {
+          "end": 25,
+          "id": "1733852461390348288",
+          "start": 16,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907855225308025080",
+    "in_reply_to_user_id": "1799360815751200768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907854632594084255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmeishafen99 @a4451020 我鸭哥最近怎么这么低调啊🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907843738090795367",
+        "created_at": "2025-04-03T17:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907855225308025080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799360815751200768",
+              "start": 0,
+              "username": "youmeishafen99"
+            },
+            {
+              "end": 25,
+              "id": "1733852461390348288",
+              "start": 16,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907855225308025080",
+        "in_reply_to_user_id": "1799360815751200768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907854632594084255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmeishafen99 @a4451020 我鸭哥最近怎么这么低调啊🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799360815751200768",
+        "conversation_id": "1907843738090795367",
+        "created_at": "2025-04-03T17:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907854632594084255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907854632594084255",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907843738090795367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 爱看艺术照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 518,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1337
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T08:40:32.000Z",
+        "description": "群聊—https://t.co/Izv1A9Dzwk批发过检产品 。https://t.co/4zvoC5AtsI备用群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 26,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 3,
+                "url": "https://t.co/Izv1A9Dzwk"
+              },
+              {
+                "display_url": "t.me/kedayahuaxuele…",
+                "end": 57,
+                "expanded_url": "https://t.me/kedayahuaxuele99",
+                "start": 34,
+                "url": "https://t.co/4zvoC5AtsI"
+              }
+            ]
+          }
+        },
+        "id": "1799360815751200768",
+        "location": "广州",
+        "name": "可达鸭滴化学乐园",
+        "pinned_tweet_id": "1802298141473181986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799360973683449856/yF3Vd0US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4725,
+          "following_count": 330,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 921
+        },
+        "username": "youmeishafen99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜网哲爱好者 同人爱好者 人体照片拍摄爱好者｜前世8000fo大号@djalxjhshytf1｜🚪198/298/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "djalxjhshytf1"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "1902799797813383595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887934200176852999/TlrbMpiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 28,
+          "like_count": 4954,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 2840
+        },
+        "username": "a4451020",
+        "verified": false
+      }
+    ]
+  }
+}

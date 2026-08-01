@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902650640310145024",
+    "created_at": "2025-03-20T10:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T11:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902667357623116128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902667357623116128",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902650640310145024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 仿制药要求相似于原研的70-130%，退一步即使完全合规，波动大小也远远高于原研。再加上亚洲人的肝药酶差异，瞬时浓度大于110或小于90就会有1-3%左右的人出现药力不足/副作用显著。推到70-130保守也得有10%-25%异常，这还不考虑杂质的影响，合并下来确实是一团屎😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902650640310145024",
+        "created_at": "2025-03-20T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902667357623116128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902667357623116128",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902650640310145024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 仿制药要求相似于原研的70-130%，退一步即使完全合规，波动大小也远远高于原研。再加上亚洲人的肝药酶差异，瞬时浓度大于110或小于90就会有1-3%左右的人出现药力不足/副作用显著。推到70-130保守也得有10%-25%异常，这还不考虑杂质的影响，合并下来确实是一团屎😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1902650640310145024",
+        "created_at": "2025-03-20T09:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T10:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902650640310145024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902650640310145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内医保采购的仿制药就是💩，我奶奶之前在医院开的药，吃的血压只要一天不吃就很离谱，最近换成进口原研药了，血压早上起来测是60/110，相比之前的85/160，天差地别。。。\n关键是两个药在网上购买，原来的30块，原研药40，贵10块，这差距也太大吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 994
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 987,
+          "like_count": 47908,
+          "listed_count": 0,
+          "media_count": 2249,
+          "tweet_count": 12441
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1935222151650623953",
+    "created_at": "2025-06-18T08:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T09:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935249278131388442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935249278131388442",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935222151650623953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 坏了，本来还以为她准备发大财了，这下尴尬了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1935222151650623953",
+        "created_at": "2025-06-18T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935249278131388442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935249278131388442",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935222151650623953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 坏了，本来还以为她准备发大财了，这下尴尬了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1935222151650623953",
+        "created_at": "2025-06-18T06:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935222151650623953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuKi520521/sta…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/YuKi520521/status/1934843389398405552",
+              "start": 85,
+              "url": "https://t.co/WdLqeorgey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935222151650623953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934843389398405552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单澄清一下，三崎并不只是「卖合法策划药被当kpi冲了」，确实有涉及到管制药品的可能，但是即使碰了管制药品，情节轻微，获利较少，也是有酌情不起诉的先例的，我们正在争取。 https://t.co/WdLqeorgey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 580,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1669
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1921226097288458568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 553,
+          "like_count": 9622,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 2763
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

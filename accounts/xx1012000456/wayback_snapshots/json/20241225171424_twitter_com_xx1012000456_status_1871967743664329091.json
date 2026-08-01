@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-25T17:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T18:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871967743664329091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1871967743664329091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "既然这么多人谈后藤，那我也来说一说（踹一脚😂）。老朋友可能知道我是从去年11月左右入圈并加入药商可莉的群，也同时应该是全网最早提出愈美分离可能构想并实验的人。和后藤认识是和圈中朋友探讨可能性时候朋友分享了我的观点给后藤，然后他就评论我啥也不懂在胡扯。我当时的知识和水平远没有现在高超"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-25T17:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871967743664329091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871967743664329091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然这么多人谈后藤，那我也来说一说（踹一脚😂）。老朋友可能知道我是从去年11月左右入圈并加入药商可莉的群，也同时应该是全网最早提出愈美分离可能构想并实验的人。和后藤认识是和圈中朋友探讨可能性时候朋友分享了我的观点给后藤，然后他就评论我啥也不懂在胡扯。我当时的知识和水平远没有现在高超"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 397,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 399
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

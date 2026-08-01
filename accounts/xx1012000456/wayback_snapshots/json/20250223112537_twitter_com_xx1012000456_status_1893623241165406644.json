@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893379976319184981",
+    "created_at": "2025-02-23T11:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893623241165406644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893623241165406644",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893379976319184981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem 并不会，pr是完全合法药物，没有愈美这种可以诈唬和诱供的空间。一般水表联动都是右美相关或自杀相关的，pr别和愈美大量买是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893379976319184981",
+        "created_at": "2025-02-23T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893623241165406644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893623241165406644",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893379976319184981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem 并不会，pr是完全合法药物，没有愈美这种可以诈唬和诱供的空间。一般水表联动都是右美相关或自杀相关的，pr别和愈美大量买是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739908593254883328",
+        "conversation_id": "1893379976319184981",
+        "created_at": "2025-02-22T19:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T20:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893379976319184981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelsexyhem/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/angelsexyhem/status/1893321132998033692",
+              "start": 14,
+              "url": "https://t.co/WdTYGLY5QX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893379976319184981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893321132998033692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提问 一下买10盒会被查吗 https://t.co/WdTYGLY5QX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 774
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖我是鸭鸭^ ^⚠️od血图裸露注意⚠️来互fo～匿名提问箱：https://t.co/IcTMNBCS7a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andrea94071",
+                "end": 90,
+                "expanded_url": "https://ngl.link/andrea94071",
+                "start": 67,
+                "url": "https://t.co/IcTMNBCS7a"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1892900255642812441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 158,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1043
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

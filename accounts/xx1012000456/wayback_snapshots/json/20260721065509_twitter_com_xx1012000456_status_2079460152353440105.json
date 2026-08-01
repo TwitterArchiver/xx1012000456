@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079376127420932550",
+    "created_at": "2026-07-21T06:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079460152353440105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079460152353440105",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079376127420932550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 你的现实朋友只是希望你活着，再要求高一点希望你幸福，90/00/10年代其实有道德洁癖的人已经很少了，对黄赌毒三大毒瘤其实接受度很高的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079376127420932550",
+        "created_at": "2026-07-21T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079460152353440105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079460152353440105",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079376127420932550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 你的现实朋友只是希望你活着，再要求高一点希望你幸福，90/00/10年代其实有道德洁癖的人已经很少了，对黄赌毒三大毒瘤其实接受度很高的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2079376127420932550",
+        "created_at": "2026-07-21T01:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079376127420932550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079376127420932550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直觉得很神奇，为什么在我营造健全人设下认识的朋友，在发现其实我是个精神状态极差od酗酒自残的人后居然都能完全接受，甚至觉得我适度嗑药是好事🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 688,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2030
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸，互fo大欢迎\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发\n戒割半年，此账号极少发od相关，或许有概率可以发现我的二重身…",
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "pinned_tweet_id": "2079387191143489757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 72,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1847714916901495281",
+    "created_at": "2024-10-19T19:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T20:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847719240926974463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774807840039088128",
+          "start": 0,
+          "username": "withRainyNight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847719240926974463",
+    "in_reply_to_user_id": "1774807840039088128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847714916901495281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@withRainyNight 血清素综合征风险在没有药物可以逆转，只能对症支持治疗。同时右美人与人差距很大，7%的人血药浓度是正常人的20倍，两者合起来才是风险点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1847714916901495281",
+        "created_at": "2024-10-19T19:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T20:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847719240926974463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774807840039088128",
+              "start": 0,
+              "username": "withRainyNight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847719240926974463",
+        "in_reply_to_user_id": "1774807840039088128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847714916901495281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@withRainyNight 血清素综合征风险在没有药物可以逆转，只能对症支持治疗。同时右美人与人差距很大，7%的人血药浓度是正常人的20倍，两者合起来才是风险点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847714895590277121"
+          ]
+        },
+        "author_id": "1774807840039088128",
+        "conversation_id": "1847714916901495281",
+        "created_at": "2024-10-19T19:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T20:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847714916901495281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GJfQIINf6",
+              "end": 160,
+              "expanded_url": "https://x.com/withRainyNight/status/1847714916901495281/photo/1",
+              "media_key": "3_1847714895590277121",
+              "start": 137,
+              "url": "https://t.co/4GJfQIINf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847714916901495281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬比我想象的要安全不少\n血清素综合征没那么容易在短短的药效中杀死一个人(不然怎么解释我没死\n我今早误食了1.2g右美，误食之后全程都在断片\n从7点断片到19点醒来\n周围多出了我放包里的耳机\n\n最逆天的是我断给别人打了一通电话,结果她打回来的时候我好像就说‘’忘记了* https://t.co/4GJfQIINf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 274,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 119
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:35:59.000Z",
+        "description": "『活人回fo,锁推/没回私我』\n『淡推中,未来复活』\n『可能会突然玩抽象』",
+        "id": "1774807840039088128",
+        "name": "༺雨夜空༻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800951105632993282/mCXNRcPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 231,
+          "like_count": 1537,
+          "listed_count": 0,
+          "tweet_count": 1041
+        },
+        "username": "withRainyNight",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1892258045628997752",
+    "created_at": "2025-02-19T17:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T18:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892271959070953819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784402348447813633",
+          "start": 0,
+          "username": "mimiymym1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892271959070953819",
+    "in_reply_to_user_id": "1784402348447813633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892258045628997752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimiymym1 和右美一样的，1t=1t，康泰克的愈美不太容易吐，体感会好一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1892258045628997752",
+        "created_at": "2025-02-19T17:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T18:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892271959070953819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784402348447813633",
+              "start": 0,
+              "username": "mimiymym1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892271959070953819",
+        "in_reply_to_user_id": "1784402348447813633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892258045628997752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimiymym1 和右美一样的，1t=1t，康泰克的愈美不太容易吐，体感会好一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784402348447813633",
+        "conversation_id": "1892258045628997752",
+        "created_at": "2025-02-19T17:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T18:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892258045628997752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimiymym1/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mimiymym1/status/1891796468245168223",
+              "start": 17,
+              "url": "https://t.co/CpC1kxNbjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892258045628997752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891796468245168223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我买了这个。多少t起o啊我要试试 https://t.co/CpC1kxNbjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 467,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 740
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T02:00:54.000Z",
+        "description": "邪恶黑猫在推特）@MmizzSora99 如果给我钱我将全部吃掉ʚ(◜𖥦◝ )ɞ 提问箱↓🫂取关请双取因为我会伤心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "MmizzSora99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arceloides",
+                "end": 23,
+                "expanded_url": "https://ngl.link/arceloides",
+                "start": 0,
+                "url": "https://t.co/Blxw0LVltu"
+              }
+            ]
+          }
+        },
+        "id": "1784402348447813633",
+        "location": "问坐标20r",
+        "name": "妹様",
+        "pinned_tweet_id": "1886832285728825697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878473605513973760/pURMBXw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4838,
+          "following_count": 113,
+          "like_count": 1144,
+          "listed_count": 14,
+          "media_count": 250,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/Blxw0LVltu",
+        "username": "mimiymym1",
+        "verified": false
+      }
+    ]
+  }
+}

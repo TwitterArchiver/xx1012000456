@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071800136901316911",
+    "created_at": "2026-06-30T14:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071961565465825788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071961565465825788",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071800136901316911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 比较纯净的解离感（有点类似四大皆空）不是很推荐的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071800136901316911",
+        "created_at": "2026-06-30T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071961565465825788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071961565465825788",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071800136901316911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 比较纯净的解离感（有点类似四大皆空）不是很推荐的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879125730581450753",
+        "conversation_id": "2071800136901316911",
+        "created_at": "2026-06-30T03:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071800136901316911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "shitpost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071800136901316911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问下有人吃过美金刚吗感觉怎么样跟右美比起来(我知道没右美好 #shitpost"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 633,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1828
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈/English/中文\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 84,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "dxmpopper2006",
+        "verified": false
+      }
+    ]
+  }
+}

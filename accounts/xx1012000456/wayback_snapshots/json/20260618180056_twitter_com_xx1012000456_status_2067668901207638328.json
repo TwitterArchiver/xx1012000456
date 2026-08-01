@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067462573830951238",
+    "created_at": "2026-06-18T18:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067668901207638328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "222316578",
+          "start": 0,
+          "username": "iam678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067668901207638328",
+    "in_reply_to_user_id": "222316578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067462573830951238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iam678 巧了我也想认识😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067462573830951238",
+        "created_at": "2026-06-18T18:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067668901207638328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "222316578",
+              "start": 0,
+              "username": "iam678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067668901207638328",
+        "in_reply_to_user_id": "222316578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067462573830951238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam678 巧了我也想认识😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "222316578",
+        "conversation_id": "2067462573830951238",
+        "created_at": "2026-06-18T04:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067462573830951238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067462573830951238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 120628,
+          "like_count": 383,
+          "quote_count": 1,
+          "reply_count": 116,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "日本好多地雷妹让我给她们介绍中国的同类型女孩子认识…\n我说她们日语都不好，\n然后她们说磕起来就好了…🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 468,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1683
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-03T02:06:39.000Z",
+        "description": "夜遊びチャネル運営🇯🇵🇨🇳成人系SNS企画| 培训 | 备用号：@skus678 |日本艺人资料在会员TG频道，X私信仅回复入会咨询|TG咨询专用频道：https://t.co/ipBJVY7okM |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "skus678"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/injp777",
+                "end": 99,
+                "expanded_url": "https://t.me/injp777",
+                "start": 76,
+                "url": "https://t.co/ipBJVY7okM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/taoo777",
+                "end": 23,
+                "expanded_url": "https://lit.link/taoo777",
+                "start": 0,
+                "url": "https://t.co/8Cr5NcQa7o"
+              }
+            ]
+          }
+        },
+        "id": "222316578",
+        "location": "入会咨询及两个平台区别参考置顶推链接",
+        "name": "梁",
+        "pinned_tweet_id": "1927190568909598844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772826334999502848/ZdX2uBog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201037,
+          "following_count": 171,
+          "like_count": 1359,
+          "listed_count": 515,
+          "media_count": 1292,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/8Cr5NcQa7o",
+        "username": "iam678",
+        "verified": true
+      }
+    ]
+  }
+}

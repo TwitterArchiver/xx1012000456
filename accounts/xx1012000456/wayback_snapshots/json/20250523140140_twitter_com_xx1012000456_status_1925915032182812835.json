@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925551571188031572",
+    "created_at": "2025-05-23T14:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T15:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925915032182812835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        },
+        {
+          "end": 25,
+          "id": "1816371642211393537",
+          "start": 12,
+          "username": "huoqinge8963"
+        },
+        {
+          "end": 36,
+          "id": "1784402348447813633",
+          "start": 26,
+          "username": "mimiymym1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925915032182812835",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925905566955679807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 @huoqinge8963 @mimiymym1 比起陪酒和半緑挣得太少，比起正经工作被揩油的太多😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925551571188031572",
+        "created_at": "2025-05-23T14:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T15:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925915032182812835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            },
+            {
+              "end": 25,
+              "id": "1816371642211393537",
+              "start": 12,
+              "username": "huoqinge8963"
+            },
+            {
+              "end": 36,
+              "id": "1784402348447813633",
+              "start": 26,
+              "username": "mimiymym1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925915032182812835",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925905566955679807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 @huoqinge8963 @mimiymym1 比起陪酒和半緑挣得太少，比起正经工作被揩油的太多😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1925551571188031572",
+        "created_at": "2025-05-23T13:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925905566955679807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816371642211393537",
+              "start": 0,
+              "username": "huoqinge8963"
+            },
+            {
+              "end": 24,
+              "id": "1784402348447813633",
+              "start": 14,
+              "username": "mimiymym1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925905566955679807",
+        "in_reply_to_user_id": "1816371642211393537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925742953969877301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoqinge8963 @mimiymym1 那样子痛苦的是精神和占不占便宜没关系，真正干过的都会知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 562,
+          "like_count": 23,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1563
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4968,
+          "following_count": 62,
+          "like_count": 528,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 47
+        },
+        "username": "kansj68531",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T07:15:52.000Z",
+        "description": "查成分互fo极端仇富🚪1145148963入门条件是你全家四万了 疯子/尸体/穷蛆/反人类  里推@huoqinge_nn    狗奴隶妈妈爱人玩具@silverbird18841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "huoqinge_nn"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "silverbird18841"
+              }
+            ]
+          }
+        },
+        "id": "1816371642211393537",
+        "name": "霍青娥（🐱←重度依赖）",
+        "pinned_tweet_id": "1920693075325657241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816372320845586434/2hGEv4gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 155,
+          "like_count": 16587,
+          "listed_count": 6,
+          "media_count": 463,
+          "tweet_count": 8956
+        },
+        "username": "huoqinge8963",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T02:00:54.000Z",
+        "description": "ただのお金好きな幽霊⤴︎小野@Jack830529 想你～🚪88/188/520「已读不回的孤儿狗杂碎出门就被日的一声打成糊糊永世不超生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Jack830529"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arceloides",
+                "end": 23,
+                "expanded_url": "https://ngl.link/arceloides",
+                "start": 0,
+                "url": "https://t.co/Blxw0LVltu"
+              }
+            ]
+          }
+        },
+        "id": "1784402348447813633",
+        "location": "🔗是提问箱 瞎提问的贱畜生下辈子也会死全家哦～",
+        "name": "妹様",
+        "pinned_tweet_id": "1920420536414322877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915009565609058304/DT0DugvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6327,
+          "following_count": 181,
+          "like_count": 1579,
+          "listed_count": 20,
+          "media_count": 128,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/Blxw0LVltu",
+        "username": "mimiymym1",
+        "verified": false
+      }
+    ]
+  }
+}

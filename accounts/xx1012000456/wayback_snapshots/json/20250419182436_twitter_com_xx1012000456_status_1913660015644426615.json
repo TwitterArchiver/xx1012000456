@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913581983147672030",
+    "created_at": "2025-04-19T18:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T19:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913660015644426615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913660015644426615",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913581983147672030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanako8964 坏了原来你这么可爱的吗😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5938,
+        "height": 1920,
+        "media_key": "13_1913581924016406528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913581924016406528/img/RYJwasBQxD7rRfPA.jpg",
+        "public_metrics": {
+          "view_count": 463
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913581924016406528/vid/avc1/320x568/-AMlxyC1NNkZtLsh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913581924016406528/vid/avc1/480x852/m6NA7Ho4L0m9qbkO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913581924016406528/vid/avc1/720x1280/H5zz0yq7YRddZDLA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913581924016406528/pl/pcp48ezipzXOOZDH.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913581983147672030",
+        "created_at": "2025-04-19T18:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T19:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913660015644426615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913660015644426615",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913581983147672030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanako8964 坏了原来你这么可爱的吗😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913581924016406528"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "1913581983147672030",
+        "created_at": "2025-04-19T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913581983147672030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4ILmS9tJX",
+              "end": 23,
+              "expanded_url": "https://x.com/kanako8964/status/1913581983147672030/video/1",
+              "media_key": "13_1913581924016406528",
+              "start": 0,
+              "url": "https://t.co/U4ILmS9tJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913581983147672030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1598,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U4ILmS9tJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 527,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1423
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "IG：kanako_0223ff ❗️kanako的六代目 🚪88 188 288 520 688。唯一小号：@kanako0223ff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "kanako0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904090146271907840/0ecNEQmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13748,
+          "following_count": 95,
+          "like_count": 6257,
+          "listed_count": 17,
+          "media_count": 567,
+          "tweet_count": 3809
+        },
+        "username": "kanako8964",
+        "verified": false
+      }
+    ]
+  }
+}

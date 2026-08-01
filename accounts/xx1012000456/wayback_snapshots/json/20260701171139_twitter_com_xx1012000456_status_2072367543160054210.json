@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072365381570936832",
+        "3_2072365432099713024",
+        "3_2072365469903073280",
+        "3_2072365525251072000"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072367543160054210",
+    "created_at": "2026-07-01T17:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072367543160054210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gmD3R11i1t",
+          "end": 165,
+          "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+          "media_key": "3_2072365381570936832",
+          "start": 142,
+          "url": "https://t.co/gmD3R11i1t"
+        },
+        {
+          "display_url": "pic.x.com/gmD3R11i1t",
+          "end": 165,
+          "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+          "media_key": "3_2072365432099713024",
+          "start": 142,
+          "url": "https://t.co/gmD3R11i1t"
+        },
+        {
+          "display_url": "pic.x.com/gmD3R11i1t",
+          "end": 165,
+          "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+          "media_key": "3_2072365469903073280",
+          "start": 142,
+          "url": "https://t.co/gmD3R11i1t"
+        },
+        {
+          "display_url": "pic.x.com/gmD3R11i1t",
+          "end": 165,
+          "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+          "media_key": "3_2072365525251072000",
+          "start": 142,
+          "url": "https://t.co/gmD3R11i1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072367543160054210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1、2删聊天记录是没用的，提供手机和密码后可以很轻松的恢复数据。愈美是合法的，尿检阳也无所谓，不过20天怎么样尿检也没事，策划药大概率无法检出，放心\n3.BZD和Zdrug就是有人有恶心的不良反应，可能你是😅可以试试佐匹克隆\n4.区别估计是有的，我没用过不知道，含量自己看说明书去😡 https://t.co/gmD3R11i1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2072365381570936832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKFVa1aQAAaSOB.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072365432099713024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKFYXEaMAAvXVK.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072365469903073280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKFaj5bsAACyA6.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072365525251072000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKFdyFbIAAh9Z3.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072365381570936832",
+            "3_2072365432099713024",
+            "3_2072365469903073280",
+            "3_2072365525251072000"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072367543160054210",
+        "created_at": "2026-07-01T17:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072367543160054210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmD3R11i1t",
+              "end": 165,
+              "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+              "media_key": "3_2072365381570936832",
+              "start": 142,
+              "url": "https://t.co/gmD3R11i1t"
+            },
+            {
+              "display_url": "pic.x.com/gmD3R11i1t",
+              "end": 165,
+              "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+              "media_key": "3_2072365432099713024",
+              "start": 142,
+              "url": "https://t.co/gmD3R11i1t"
+            },
+            {
+              "display_url": "pic.x.com/gmD3R11i1t",
+              "end": 165,
+              "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+              "media_key": "3_2072365469903073280",
+              "start": 142,
+              "url": "https://t.co/gmD3R11i1t"
+            },
+            {
+              "display_url": "pic.x.com/gmD3R11i1t",
+              "end": 165,
+              "expanded_url": "https://x.com/xx1012000456/status/2072367543160054210/photo/1",
+              "media_key": "3_2072365525251072000",
+              "start": 142,
+              "url": "https://t.co/gmD3R11i1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072367543160054210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1、2删聊天记录是没用的，提供手机和密码后可以很轻松的恢复数据。愈美是合法的，尿检阳也无所谓，不过20天怎么样尿检也没事，策划药大概率无法检出，放心\n3.BZD和Zdrug就是有人有恶心的不良反应，可能你是😅可以试试佐匹克隆\n4.区别估计是有的，我没用过不知道，含量自己看说明书去😡 https://t.co/gmD3R11i1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 637,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

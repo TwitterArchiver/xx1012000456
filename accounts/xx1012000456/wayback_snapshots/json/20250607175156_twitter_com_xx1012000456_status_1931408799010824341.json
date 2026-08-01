@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930886562688188531",
+    "created_at": "2025-06-07T17:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T18:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931408799010824341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913087280279072768",
+          "start": 0,
+          "username": "420puuib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931408799010824341",
+    "in_reply_to_user_id": "1913087280279072768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930889115878518936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420puuib 你没点在点子上，喜提14天说明客户自己真的觉得自己有问题，估计是认了。日本的邮票大概率是合法衍生物，不认p事没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930886562688188531",
+        "created_at": "2025-06-07T17:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931408799010824341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913087280279072768",
+              "start": 0,
+              "username": "420puuib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931408799010824341",
+        "in_reply_to_user_id": "1913087280279072768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930889115878518936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420puuib 你没点在点子上，喜提14天说明客户自己真的觉得自己有问题，估计是认了。日本的邮票大概率是合法衍生物，不认p事没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913087280279072768",
+        "conversation_id": "1930886562688188531",
+        "created_at": "2025-06-06T07:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930889115878518936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930889115878518936",
+        "in_reply_to_user_id": "1913087280279072768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930888950949744839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "举个例子\n有个日本贩子 卖lsd邮票（日本直邮 直邮本身就有一定风险的）\nTa有个客户 在他那里下单了lsd 到货后在推特到处分享炫耀自己买了lsd 这还不算直接导致他被上门的问题（只能算增加风险） 结果这个客户还在用账户上发了有关个人信息的推文\n导致最后被上门 东西送检 喜提14天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 570,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1642
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:28:53.000Z",
+        "description": "心平能愈三千疾 心静可通万事理\n\n                                认准puuib\n自营地区：上海 杭州 长沙 武汉 成都",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asiadrug",
+                "end": 23,
+                "expanded_url": "https://t.me/asiadrug",
+                "start": 0,
+                "url": "https://t.co/dIgNVyMaXd"
+              }
+            ]
+          }
+        },
+        "id": "1913087280279072768",
+        "location": "Peace and love",
+        "name": "马赛克（420Dealer）",
+        "pinned_tweet_id": "1930693931748209133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930592838808645633/M5qMZLbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 103,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/dIgNVyMaXd",
+        "username": "420puuib",
+        "verified": false
+      }
+    ]
+  }
+}

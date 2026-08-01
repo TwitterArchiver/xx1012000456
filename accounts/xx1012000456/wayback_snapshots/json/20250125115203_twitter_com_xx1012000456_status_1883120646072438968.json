@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1882765684645699965",
+    "created_at": "2025-01-25T11:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883120646072438968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748688710307115008",
+          "start": 0,
+          "username": "nine_and_9"
+        },
+        {
+          "end": 24,
+          "id": "1726969617850286080",
+          "start": 12,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883120646072438968",
+    "in_reply_to_user_id": "1748688710307115008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883091510532727147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine_and_9 @NashiMoe233 内分泌本来就是一锅粥，激活或拮抗某受体一定会导致整体递质像波浪一样涌动。说抗胆碱能至少得强到明显特征出现，如抑制唾液分泌、散瞳、解痉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1882765684645699965",
+        "created_at": "2025-01-25T11:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883120646072438968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            },
+            {
+              "end": 24,
+              "id": "1726969617850286080",
+              "start": 12,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883120646072438968",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883091510532727147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 @NashiMoe233 内分泌本来就是一锅粥，激活或拮抗某受体一定会导致整体递质像波浪一样涌动。说抗胆碱能至少得强到明显特征出现，如抑制唾液分泌、散瞳、解痉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748688710307115008",
+        "conversation_id": "1882765684645699965",
+        "created_at": "2025-01-25T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883091510532727147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 26,
+              "id": "1386670401422434304",
+              "start": 13,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883091510532727147",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883091078137696763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @xx1012000456 这个不清楚，但胆碱的水平肯定是相对降低了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 452,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 625
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 176,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 214
+        },
+        "username": "nine_and_9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子and小菊丨削いで、",
+        "id": "1726969617850286080",
+        "location": "我很失衡",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1869126075059667434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869408717520986112/6lUi9s8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 178,
+          "like_count": 15138,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 7766
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

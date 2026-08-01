@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893299410634711128",
+    "created_at": "2025-02-22T14:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893310485216276933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893310485216276933",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893299410634711128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 你也学碳酸锂🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893299410634711128",
+        "created_at": "2025-02-22T14:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893310485216276933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893310485216276933",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893299410634711128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 你也学碳酸锂🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1893299410634711128",
+        "created_at": "2025-02-22T13:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893299410634711128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893299410634711128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们可以锐评一下我和我发的推文吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 772
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【专业占卜🔮六年经验】【外烟代购】离心力3.0版，我认输了请别再举报我，非常感谢您‖ English OK ‖한국 유학 예비생🇰🇷 ‖私信互fo大欢迎（可能会有延迟）｜有个很爱我的男朋友😋｜我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "http://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/1gSttyWahm"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "距离你的位置152¥",
+        "name": "ʚ离心力ɞSAMAʕ̯•͡ˑ͓•̯᷅ʔ",
+        "pinned_tweet_id": "1809128240948335105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749366316371443712/5byefFmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 234,
+          "like_count": 977,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/1gSttyWahm",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

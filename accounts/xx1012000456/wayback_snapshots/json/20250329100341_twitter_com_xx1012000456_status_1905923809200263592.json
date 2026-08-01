@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905918197469237439",
+    "created_at": "2025-03-29T10:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T11:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905923809200263592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585204501149110274",
+          "start": 0,
+          "username": "jiajia1216ovo"
+        },
+        {
+          "end": 26,
+          "id": "1599125227786608655",
+          "start": 15,
+          "username": "realeco_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905923809200263592",
+    "in_reply_to_user_id": "1585204501149110274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905921509777944616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia1216ovo @realeco_77 兽药也没问题，策划药无非是兽用/化工产品/订制化学品，但是怀疑PCP衍生你真敢用吗😅依托是正经的人用药物，兽药是美托和替来😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905918197469237439",
+        "created_at": "2025-03-29T10:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T11:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905923809200263592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            },
+            {
+              "end": 26,
+              "id": "1599125227786608655",
+              "start": 15,
+              "username": "realeco_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905923809200263592",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905921509777944616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo @realeco_77 兽药也没问题，策划药无非是兽用/化工产品/订制化学品，但是怀疑PCP衍生你真敢用吗😅依托是正经的人用药物，兽药是美托和替来😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1905918197469237439",
+        "created_at": "2025-03-29T09:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905921509777944616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "realeco_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905921509777944616",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905921047419048201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realeco_77 但其实所有策划药都是兽药做的 可以合法买到的麻醉剂都是兽用 依托咪酯也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1226
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "推特被限流 关注我的ins：sophiaqwq00因为本人穷困潦倒 走投无路 从今天正式开始收门槛 。。88元好友位 188陪聊和举牌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "转帖一条52（24h",
+        "name": "Sophia",
+        "pinned_tweet_id": "1897035813340504176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905920982109634560/NN0fvUhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14253,
+          "following_count": 393,
+          "like_count": 9833,
+          "listed_count": 12,
+          "media_count": 556,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288",
+        "name": "苦桃",
+        "pinned_tweet_id": "1903775681064108163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904098488276885504/-Zz1utRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 264,
+          "like_count": 14716,
+          "listed_count": 5,
+          "media_count": 775,
+          "tweet_count": 9275
+        },
+        "username": "realeco_77",
+        "verified": false
+      }
+    ]
+  }
+}

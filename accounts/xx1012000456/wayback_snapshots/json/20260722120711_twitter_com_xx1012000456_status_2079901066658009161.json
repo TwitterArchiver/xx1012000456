@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2074700150166167980",
+    "created_at": "2026-07-22T12:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079901066658009161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079623281263706112",
+          "start": 0,
+          "username": "huaxiangdiea"
+        },
+        {
+          "end": 28,
+          "id": "2068179877334016000",
+          "start": 14,
+          "username": "kenrobbcrazyy"
+        },
+        {
+          "end": 40,
+          "id": "1886054681635704832",
+          "start": 29,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079901066658009161",
+    "in_reply_to_user_id": "2079623281263706112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079827647480406301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxiangdiea @kenrobbcrazyy @Manglesuki 如果你愿意听听呢，我就废话两句。od圈人数的快速增长和od在抖音上广泛传播本质上是一回事。在国内一共大概有3批不同的人嗑药。有精神疾病的oder，药物娱乐的精神小伙小妹，使用大麻、上头电子烟的毒虫。后两个圈子已经基本完成了融合和下沉，并在融合oder的圈子和亚文化。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-22T12:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079901066658009161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079623281263706112",
+              "start": 0,
+              "username": "huaxiangdiea"
+            },
+            {
+              "end": 28,
+              "id": "2068179877334016000",
+              "start": 14,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 40,
+              "id": "1886054681635704832",
+              "start": 29,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079901066658009161",
+        "in_reply_to_user_id": "2079623281263706112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079827647480406301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxiangdiea @kenrobbcrazyy @Manglesuki 如果你愿意听听呢，我就废话两句。od圈人数的快速增长和od在抖音上广泛传播本质上是一回事。在国内一共大概有3批不同的人嗑药。有精神疾病的oder，药物娱乐的精神小伙小妹，使用大麻、上头电子烟的毒虫。后两个圈子已经基本完成了融合和下沉，并在融合oder的圈子和亚文化。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-22T07:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079827647480406301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 28,
+              "id": "2068179877334016000",
+              "start": 14,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 40,
+              "id": "1886054681635704832",
+              "start": 29,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079827647480406301",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079815771191128559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @kenrobbcrazyy @Manglesuki 我六个粉丝起什么号🤣对我有什么好处？我在诉说事实罢了 有一个看到远离wiki我就达到目的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 699,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2062
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T03:52:49.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 wiki主玄鸮:@Manglesuki｜提供免费药物咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/yN1sBv8r0G"
+              }
+            ]
+          }
+        },
+        "id": "2068179877334016000",
+        "location": "Leave me alone",
+        "name": "药物百科流亡政府",
+        "pinned_tweet_id": "2074700150166167980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 32,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/yN1sBv8r0G",
+        "username": "kenrobbcrazyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主原@yaowubaike现@kenrobbcrazyy｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yaowubaike"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "kenrobbcrazyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 117,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

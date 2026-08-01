@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1912157750668259616",
+    "created_at": "2025-04-16T10:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912447543180685558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912447543180685558",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912157750668259616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 工地一天380是很正常的，我同学暑假工还体验过，纯没技术都能到这个价。房地产不比制造业，当然现在这形势下有没有那么多我不清楚了，但2020年前能到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1912157750668259616",
+        "created_at": "2025-04-16T10:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912447543180685558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912447543180685558",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912157750668259616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 工地一天380是很正常的，我同学暑假工还体验过，纯没技术都能到这个价。房地产不比制造业，当然现在这形势下有没有那么多我不清楚了，但2020年前能到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1912157750668259616",
+        "created_at": "2025-04-15T14:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T15:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912157750668259616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhang_jia57877…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/zhang_jia57877/status/1912115911017852966",
+              "start": 130,
+              "url": "https://t.co/IhYGFrJoct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912157750668259616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8887,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912115911017852966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你听工头吹嘘。。。。这种感觉跟那些做流水线的厂，厂长说“现在工人真是太挑剔了。我月薪六千包吃住都招不到人”。\n\n一看它那个月薪六千的具体细则。。。必须每天都干十多个小时，每月几乎没有任何休息时间。。。只要你做不到像机器一样，最终算下来，累死累活，还没多少钱。 https://t.co/IhYGFrJoct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 523,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1398
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27909,
+          "following_count": 3481,
+          "like_count": 142554,
+          "listed_count": 95,
+          "media_count": 3263,
+          "tweet_count": 52254
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

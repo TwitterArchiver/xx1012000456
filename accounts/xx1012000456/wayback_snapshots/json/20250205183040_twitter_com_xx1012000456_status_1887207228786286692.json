@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1886845464898887729",
+    "created_at": "2025-02-05T18:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T19:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887207228786286692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "Lgasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887207228786286692",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886845464898887729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lgasuiyuno 其实她不露脸时还行，照片出来你真的宝宝抱抱的下去吗🤣短暂的关注过一小段，取关是废话实在太多了。还有诸如休学回去就谈了年级第一，不od但极度崇拜后藤等发言，虽然我能理解你是个双相但这也有点太🤣被攻击也正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1886845464898887729",
+        "created_at": "2025-02-05T18:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T19:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887207228786286692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "Lgasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887207228786286692",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886845464898887729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lgasuiyuno 其实她不露脸时还行，照片出来你真的宝宝抱抱的下去吗🤣短暂的关注过一小段，取关是废话实在太多了。还有诸如休学回去就谈了年级第一，不od但极度崇拜后藤等发言，虽然我能理解你是个双相但这也有点太🤣被攻击也正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1886845464898887729",
+        "created_at": "2025-02-04T18:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T19:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886845464898887729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886845464898887729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3529,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我眼里的推特还是当初所谓od圈自残圈 大家互相叫宝宝互相抱抱像流浪动物避难所 然后自从右美进去了我感觉什么都没了 更多紫参od妹退推 然后乱七八糟的现充精神小妹小太妹占领生存空间然后就变这逼样了 一个未成年小孩说点不是很逆天的言论被骂成这样真的有点抽象了 大家的包容度不同吧。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 457,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 676
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|05-_-||这是我的日记|互关欢迎|od会发疯|👁️女友@suyan_dog\n里森堡卢伦贝格精神病保护协会已死 驻马德里分会基金组织将永远纪念它✟✟✟✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "suyan_dog"
+              }
+            ]
+          }
+        },
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟罂粟花与堡协会✟",
+        "pinned_tweet_id": "1864955476062146837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863050008976637952/OaGJENLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 758,
+          "like_count": 8233,
+          "listed_count": 2,
+          "media_count": 1226,
+          "tweet_count": 9898
+        },
+        "username": "Lgasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070746448866824212",
+    "created_at": "2026-06-27T08:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070779707742924904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070779707742924904",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070746448866824212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 1 无法聚焦是因为拮抗胆碱M受体，苯海拉明是最相关的药物，晚安、右美也均有抗胆碱能（类阿托品效应）。pr应用会导致视线出现类似空气受热的波动感，因此每个药物都会导致无法聚焦\n2designer drug的翻译，一般指列管表外物质出售商，即合法毒品\n4我推荐死不承认，一个购买行为的认定很复杂，不认没坏处"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070740211873751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy_QF7aIAAmbnk.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070740215795466241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy_QUiawAEXS6t.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070740221801680896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy_Qq6aUAAcJAD.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070740226981715968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy_Q-NbYAAeG-r.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070746448866824212",
+        "created_at": "2026-06-27T08:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070779707742924904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070779707742924904",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070746448866824212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 1 无法聚焦是因为拮抗胆碱M受体，苯海拉明是最相关的药物，晚安、右美也均有抗胆碱能（类阿托品效应）。pr应用会导致视线出现类似空气受热的波动感，因此每个药物都会导致无法聚焦\n2designer drug的翻译，一般指列管表外物质出售商，即合法毒品\n4我推荐死不承认，一个购买行为的认定很复杂，不认没坏处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070740211873751040",
+            "3_2070740215795466241",
+            "3_2070740221801680896",
+            "3_2070740226981715968"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070746448866824212",
+        "created_at": "2026-06-27T05:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070746448866824212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CP2BBT5BOX",
+              "end": 183,
+              "expanded_url": "https://x.com/zyj156383/status/2070746448866824212/photo/1",
+              "media_key": "3_2070740211873751040",
+              "start": 160,
+              "url": "https://t.co/CP2BBT5BOX"
+            },
+            {
+              "display_url": "pic.x.com/CP2BBT5BOX",
+              "end": 183,
+              "expanded_url": "https://x.com/zyj156383/status/2070746448866824212/photo/1",
+              "media_key": "3_2070740215795466241",
+              "start": 160,
+              "url": "https://t.co/CP2BBT5BOX"
+            },
+            {
+              "display_url": "pic.x.com/CP2BBT5BOX",
+              "end": 183,
+              "expanded_url": "https://x.com/zyj156383/status/2070746448866824212/photo/1",
+              "media_key": "3_2070740221801680896",
+              "start": 160,
+              "url": "https://t.co/CP2BBT5BOX"
+            },
+            {
+              "display_url": "pic.x.com/CP2BBT5BOX",
+              "end": 183,
+              "expanded_url": "https://x.com/zyj156383/status/2070746448866824212/photo/1",
+              "media_key": "3_2070740226981715968",
+              "start": 160,
+              "url": "https://t.co/CP2BBT5BOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070746448866824212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.中高剂量dxm复视很常见 大剂量抑制nmda导致模式识别抑制 pr也有中枢性复视的副作用 同时还会瞳孔扩大\n2.卖合法nps\n3.太严格 既要专人专柜 追责又严厉 精神药品利润低 吃力不讨好 药店不愿意碰 第32条意为药店严禁卖wcn不影响医院开药\n4.能上门说明已掌握证据 坚持不知情和合理自用抗辩 不承认无意义 https://t.co/CP2BBT5BOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 611,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/CBPpOJZ1Xd 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 0,
+                "url": "https://t.co/CBPpOJZ1Xd"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2069592669077295390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 428,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/CBPpOJZ1Xd",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

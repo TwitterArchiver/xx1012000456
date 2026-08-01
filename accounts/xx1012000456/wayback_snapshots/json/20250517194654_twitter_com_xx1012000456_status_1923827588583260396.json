@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1923695898753905066",
+    "created_at": "2025-05-17T19:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T20:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923827588583260396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1297559953633288201",
+          "start": 0,
+          "username": "CN52098338"
+        },
+        {
+          "end": 25,
+          "id": "1879109246501199872",
+          "start": 12,
+          "username": "kakisama0721"
+        },
+        {
+          "end": 36,
+          "id": "1800922596051226624",
+          "start": 26,
+          "username": "SurongNy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923827588583260396",
+    "in_reply_to_user_id": "1297559953633288201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923704649883975940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CN52098338 @kakisama0721 @SurongNy1 不止，你给大拇指下肌肉贴个胶布，不响。你给无名指接触位置贴上也不响，应该是协同的作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1923695898753905066",
+        "created_at": "2025-05-17T19:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T20:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923827588583260396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1297559953633288201",
+              "start": 0,
+              "username": "CN52098338"
+            },
+            {
+              "end": 25,
+              "id": "1879109246501199872",
+              "start": 12,
+              "username": "kakisama0721"
+            },
+            {
+              "end": 36,
+              "id": "1800922596051226624",
+              "start": 26,
+              "username": "SurongNy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923827588583260396",
+        "in_reply_to_user_id": "1297559953633288201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923704649883975940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CN52098338 @kakisama0721 @SurongNy1 不止，你给大拇指下肌肉贴个胶布，不响。你给无名指接触位置贴上也不响，应该是协同的作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297559953633288201",
+        "conversation_id": "1923695898753905066",
+        "created_at": "2025-05-17T11:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923704649883975940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879109246501199872",
+              "start": 0,
+              "username": "kakisama0721"
+            },
+            {
+              "end": 24,
+              "id": "1800922596051226624",
+              "start": 14,
+              "username": "SurongNy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923704649883975940",
+        "in_reply_to_user_id": "1879109246501199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923697302188982674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakisama0721 @SurongNy1 顺便说一下，响指靠的是中指快速击打无名指产生的响声（应该是手掌和无名指中间的空腔内空气的震动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1502
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T15:43:18.000Z",
+        "description": "看黄男",
+        "id": "1297559953633288201",
+        "name": "淹没",
+        "pinned_tweet_id": "1299201247300345857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763889139517440001/_xmnU4co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 189,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 326
+        },
+        "username": "CN52098338",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T10:12:22.000Z",
+        "description": "🇦🇺",
+        "id": "1879109246501199872",
+        "name": "Kaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879109358270697472/lUBJccQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 164,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "kakisama0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T16:06:37.000Z",
+        "description": "我会幸福的",
+        "id": "1800922596051226624",
+        "location": "🚪88｜纯绿陪聊不线下不搞黄不接推广",
+        "name": "速溶奶油",
+        "pinned_tweet_id": "1897289328897982597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801839398008590338/MEG0LYUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33095,
+          "following_count": 150,
+          "like_count": 11601,
+          "listed_count": 72,
+          "media_count": 267,
+          "tweet_count": 1608
+        },
+        "username": "SurongNy1",
+        "verified": false
+      }
+    ]
+  }
+}

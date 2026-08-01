@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1896551329331613872",
+    "created_at": "2025-03-03T14:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T15:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896562651419070586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1500534281969745921",
+          "start": 0,
+          "username": "aguang233"
+        },
+        {
+          "end": 25,
+          "id": "1087358831946915840",
+          "start": 11,
+          "username": "Lectrochemist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896562651419070586",
+    "in_reply_to_user_id": "1500534281969745921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896556166274236531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aguang233 @Lectrochemist 能吃但是风险很大，这东西是色胺类的衍生物，抗抑郁药大多都是血清素（5-羟基色胺）再摄取抑制剂，血清素爆表概率很高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1896551329331613872",
+        "created_at": "2025-03-03T14:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T15:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896562651419070586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1500534281969745921",
+              "start": 0,
+              "username": "aguang233"
+            },
+            {
+              "end": 25,
+              "id": "1087358831946915840",
+              "start": 11,
+              "username": "Lectrochemist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896562651419070586",
+        "in_reply_to_user_id": "1500534281969745921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896556166274236531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aguang233 @Lectrochemist 能吃但是风险很大，这东西是色胺类的衍生物，抗抑郁药大多都是血清素（5-羟基色胺）再摄取抑制剂，血清素爆表概率很高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500534281969745921",
+        "conversation_id": "1896551329331613872",
+        "created_at": "2025-03-03T13:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896556166274236531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1087358831946915840",
+              "start": 0,
+              "username": "Lectrochemist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896556166274236531",
+        "in_reply_to_user_id": "1087358831946915840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896551329331613872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lectrochemist 抑郁症吃不了是吧😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 477,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 842
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T18:10:44.000Z",
+        "description": "看热闹滴",
+        "id": "1500534281969745921",
+        "name": "阿光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554419121537765377/6sBA0VS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 226,
+          "like_count": 746,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 1134
+        },
+        "username": "aguang233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T14:38:42.000Z",
+        "description": "21世纪后现代疯子/mtx/enby/我喜欢猫/推里会倒垃圾/互fo直fo会回/尼古丁/药物爱好者@gimanother是我爱人\n🚭国标 YYS通配蛋 悦刻六代海外30r/颗~55r/颗 song扑克牌85r 悦刻泰产小黑条85r 各类精工正版悦刻杆118r~398r！\n药物有特制pr胶囊/暂未命名欣快剂/模拟冰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "gimanother"
+              }
+            ]
+          }
+        },
+        "id": "1087358831946915840",
+        "location": "砂糖少女以愛為食",
+        "name": "梦见凪见梦（电子烟代/娱乐药物",
+        "pinned_tweet_id": "1896551329331613872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826834191583248387/0zMW5eUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 535,
+          "like_count": 5376,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 1877
+        },
+        "username": "Lectrochemist",
+        "verified": false
+      }
+    ]
+  }
+}

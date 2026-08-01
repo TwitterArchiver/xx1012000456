@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903286184689930510",
+    "created_at": "2025-03-22T03:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T04:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903288741801890042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682474617208709122",
+          "start": 0,
+          "username": "jpdrugdealer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903288741801890042",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903286906382696712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jpdrugdealer 3中国不是法治国家，衍生物被检测为本体及假阳性是正常的，因此我不会对鉴定报告的LSD成分发表评论。你需要解释的是为什么会有甲基苯丙胺的阳性。包括但不限于使用者是溜冰者存放时沾染、你的上游供应商原料污染等，否则最有可能的解释就是NBOMe，1D-AL-LAD结构上没有任何类似苯丙胺的部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903286184689930510",
+        "created_at": "2025-03-22T03:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T04:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903288741801890042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682474617208709122",
+              "start": 0,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903288741801890042",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903286906382696712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpdrugdealer 3中国不是法治国家，衍生物被检测为本体及假阳性是正常的，因此我不会对鉴定报告的LSD成分发表评论。你需要解释的是为什么会有甲基苯丙胺的阳性。包括但不限于使用者是溜冰者存放时沾染、你的上游供应商原料污染等，否则最有可能的解释就是NBOMe，1D-AL-LAD结构上没有任何类似苯丙胺的部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903286184689930510",
+        "created_at": "2025-03-22T03:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T04:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903286906382696712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682474617208709122",
+              "start": 0,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903286906382696712",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903286184689930510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpdrugdealer 2你的网站有一篇公告是某买家被警后的警方检测报告，该物品不含LSD，为1D-LSD，大概是23年9月左右，我可以视为你对产品的保证，然后你现在删掉了这篇公告并说不保证过检，且时间为24年6月，恰好是你产品换代的时点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 484,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1015
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 118,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 62
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      }
+    ]
+  }
+}

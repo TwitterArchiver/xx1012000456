@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1860685808896037253",
+    "created_at": "2024-11-25T07:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T08:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860951055816859673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        },
+        {
+          "end": 24,
+          "id": "1652757998995927043",
+          "start": 8,
+          "username": "Strv_122_B_PLSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860951055816859673",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860881970823372834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 @Strv_122_B_PLSS 记错了，c略高应该是病毒性的东西，c高到一定程度是细菌类感染，那应该优先考虑病毒性脑炎或脑膜炎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1860685808896037253",
+        "created_at": "2024-11-25T07:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T08:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860951055816859673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            },
+            {
+              "end": 24,
+              "id": "1652757998995927043",
+              "start": 8,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860951055816859673",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860881970823372834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 @Strv_122_B_PLSS 记错了，c略高应该是病毒性的东西，c高到一定程度是细菌类感染，那应该优先考虑病毒性脑炎或脑膜炎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1860685808896037253",
+        "created_at": "2024-11-25T03:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T04:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860881970823372834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 30,
+              "id": "1652757998995927043",
+              "start": 14,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860881970823372834",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860741109355561314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Strv_122_B_PLSS csf常规在p2最后一段，蛋白中度增高，糖氯正常，不太像细菌性的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 369,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 293
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "是大头菜喵喵(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 变成女孩子ing | 还有最爱的人😽",
+        "id": "961552358906802176",
+        "name": "dfdtc🏳️‍⚧️",
+        "pinned_tweet_id": "1858212309417726365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705631137647808512/zTffC5Qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 1686,
+          "like_count": 49658,
+          "listed_count": 7,
+          "tweet_count": 15345
+        },
+        "username": "dfdtc7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": "［战区控制］瑞典 D 点",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824048793278705664/gjVV_jOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 4974,
+          "like_count": 132724,
+          "listed_count": 2,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

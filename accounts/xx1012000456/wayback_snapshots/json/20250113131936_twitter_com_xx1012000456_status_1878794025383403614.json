@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1878790821497147533",
+    "created_at": "2025-01-13T13:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T14:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878794025383403614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878794025383403614",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878790821497147533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 早就是硝酸钠了，扔了就行没影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1878790821497147533",
+        "created_at": "2025-01-13T13:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T14:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878794025383403614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878794025383403614",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878790821497147533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 早就是硝酸钠了，扔了就行没影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1878790821497147533",
+        "created_at": "2025-01-13T13:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T14:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878790821497147533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878790821497147533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话我家里有一袋三年前的过期了很久的亚硝酸钠，所以有什么处理方法吗，直接扔掉的好还是用水冲掉。\n放在家里占柜子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 444,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 529
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "/关注我加入爱礼教/腿照或日记本推/非常喜欢各种猫/水手服控/坐标南方/🚪77/小号@lanmeiweimaomai 只过眼熟的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "lanmeiweimaomai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 0,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "自用梯子🪜：",
+        "name": "爱礼",
+        "pinned_tweet_id": "1870340780147315013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37183,
+          "following_count": 911,
+          "like_count": 21548,
+          "listed_count": 45,
+          "media_count": 1674,
+          "tweet_count": 23498
+        },
+        "url": "https://t.co/DW6ufDaBlY",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

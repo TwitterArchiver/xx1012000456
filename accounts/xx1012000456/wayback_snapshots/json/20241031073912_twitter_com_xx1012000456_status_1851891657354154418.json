@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1851875570382164154",
+    "created_at": "2024-10-31T07:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T08:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851891657354154418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "kamiyamanemuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851891657354154418",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851875570382164154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamiyamanemuri 日本货是这样的，普遍报告认为约一半的剂量就可以达到国内的效果。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1851875570382164154",
+        "created_at": "2024-10-31T07:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T08:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851891657354154418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "kamiyamanemuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851891657354154418",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851875570382164154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamiyamanemuri 日本货是这样的，普遍报告认为约一半的剂量就可以达到国内的效果。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1851875570382164154",
+        "created_at": "2024-10-31T06:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T07:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851875570382164154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851875570382164154",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "，16太頂了我有點受不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 318,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 211
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "神山眠り🪦",
+        "pinned_tweet_id": "1813993940288438691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823308623491330048/nVophlpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5553,
+          "following_count": 32,
+          "like_count": 1559,
+          "listed_count": 7,
+          "tweet_count": 778
+        },
+        "username": "kamiyamanemuri",
+        "verified": false
+      }
+    ]
+  }
+}

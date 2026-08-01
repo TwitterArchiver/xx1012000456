@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916008953898848263",
+    "created_at": "2025-04-26T13:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916129902488916266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916129902488916266",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916008953898848263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 我是觉得一点用没有，翻译软件足够弥合出需要的结论了。如果一个人看不出翻译软件的漏洞和破绽，就算学习了这门语言也没用。一个人能够看出问题，来自更多的是常识/场景，也不需要特殊的语言类学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916008953898848263",
+        "created_at": "2025-04-26T13:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916129902488916266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916129902488916266",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916008953898848263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我是觉得一点用没有，翻译软件足够弥合出需要的结论了。如果一个人看不出翻译软件的漏洞和破绽，就算学习了这门语言也没用。一个人能够看出问题，来自更多的是常识/场景，也不需要特殊的语言类学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1916008953898848263",
+        "created_at": "2025-04-26T05:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916008953898848263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/jianlvup/status/1915770709357310355",
+              "start": 75,
+              "url": "https://t.co/shXs5xRlcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916008953898848263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 995,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915770709357310355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以，正好减少我们这代人的竞争压力，一想到下一代人是帮连英语都不会的，00后都笑嘻了，高考那几个学科里面就英语最实用，还有人说不学，我还嫌科目少了。 https://t.co/shXs5xRlcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 536,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1446
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6493,
+          "following_count": 867,
+          "like_count": 41169,
+          "listed_count": 29,
+          "media_count": 839,
+          "tweet_count": 16590
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

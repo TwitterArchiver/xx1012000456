@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1912517967964959099",
+    "created_at": "2025-04-16T18:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T19:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912580338595033364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783474777128386560",
+          "start": 0,
+          "username": "yyyyyyyy707"
+        },
+        {
+          "end": 26,
+          "id": "2603784802",
+          "start": 13,
+          "username": "shiawaseMeow"
+        },
+        {
+          "end": 35,
+          "id": "1851327101946953728",
+          "start": 27,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912580338595033364",
+    "in_reply_to_user_id": "1783474777128386560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912569785327693961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyyyyyy707 @shiawaseMeow @060105o 说白了就是又贪又蠢，能窝在香港搞到渠道就3r/t卖给有兴趣的代理就好。或者2r自己吃2r给本来就往返两地的oder做过关2r找个或几个内地的合作者发货，稳稳的坐壁上观，非要以身入局"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1912517967964959099",
+        "created_at": "2025-04-16T18:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T19:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912580338595033364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783474777128386560",
+              "start": 0,
+              "username": "yyyyyyyy707"
+            },
+            {
+              "end": 26,
+              "id": "2603784802",
+              "start": 13,
+              "username": "shiawaseMeow"
+            },
+            {
+              "end": 35,
+              "id": "1851327101946953728",
+              "start": 27,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912580338595033364",
+        "in_reply_to_user_id": "1783474777128386560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912569785327693961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyyyyy707 @shiawaseMeow @060105o 说白了就是又贪又蠢，能窝在香港搞到渠道就3r/t卖给有兴趣的代理就好。或者2r自己吃2r给本来就往返两地的oder做过关2r找个或几个内地的合作者发货，稳稳的坐壁上观，非要以身入局"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783474777128386560",
+        "conversation_id": "1912517967964959099",
+        "created_at": "2025-04-16T18:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T19:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912569785327693961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            },
+            {
+              "end": 22,
+              "id": "1851327101946953728",
+              "start": 14,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912569785327693961",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912569236343677104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow @060105o 只能说从一开始优格的脑子根本够不了干这些事 会爆也是迟早"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 524,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1409
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T12:35:08.000Z",
+        "description": "非绿聊天🚪188 线下先过🚪 线上陪玩40/h纯绿 不接kp",
+        "id": "1783474777128386560",
+        "location": "不会醒的美梦",
+        "name": "阴湿养胃男会不会梦见强迫焦虑y",
+        "pinned_tweet_id": "1890076676517920953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897696970376175616/kvQbNeBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 54,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 112
+        },
+        "username": "yyyyyyyy707",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "关注你就是我喜欢你 你们好我是善良的小女孩  希望你们喜欢我\n备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8875,
+          "following_count": 140,
+          "like_count": 1674,
+          "listed_count": 16,
+          "media_count": 188,
+          "tweet_count": 931
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/e人/双向情感障碍/自残/o冰块/羽毛球/跳舞/夹娃/06/164cm 50kg/双性恋/生活推/夹娃娃/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天给你带来乐趣 /是一个刚接触推的小小白 /即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友( *^-^)ρ(*╯^╰)༶ඬ༝ඬ",
+        "id": "1851327101946953728",
+        "location": "🚪10r",
+        "name": "哇咔",
+        "pinned_tweet_id": "1901684621726945354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 292,
+          "like_count": 6493,
+          "listed_count": 2,
+          "media_count": 1006,
+          "tweet_count": 6520
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903752965447667907",
+    "created_at": "2025-03-23T11:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T12:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903774017346998457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903774017346998457",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903752965447667907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 没有安非他酮的话舍曲林、氟西汀、特比萘芬、帕罗西汀、度洛西丁、奎尼丁、氟伏沙明、利托那韦，总有一款适合你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_1903752962863960064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmt9O7OakAA01mW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903752965447667907",
+        "created_at": "2025-03-23T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903774017346998457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903774017346998457",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903752965447667907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 没有安非他酮的话舍曲林、氟西汀、特比萘芬、帕罗西汀、度洛西丁、奎尼丁、氟伏沙明、利托那韦，总有一款适合你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903752962863960064"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1903752965447667907",
+        "created_at": "2025-03-23T10:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T11:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903752965447667907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XswSHQrmBB",
+              "end": 108,
+              "expanded_url": "https://x.com/VVV8964/status/1903752965447667907/photo/1",
+              "media_key": "3_1903752962863960064",
+              "start": 85,
+              "url": "https://t.co/XswSHQrmBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903752965447667907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大的右美糖浆，貌似是单方制剂不是愈美，15刀就有750mg的总量了，有没有人说一下什么水平，是不是很便宜\n虽然我不打算od这个，但可能会低剂量试试有没有抗抑郁的效果 https://t.co/XswSHQrmBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 494,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1058
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 162,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 978
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1908233268828529023",
+    "created_at": "2025-04-16T17:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912554311101608018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814654715369816064",
+          "start": 0,
+          "username": "RosaritaCisner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912554311101608018",
+    "in_reply_to_user_id": "1814654715369816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912552129014993334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RosaritaCisner 哪？指个路谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1908233268828529023",
+        "created_at": "2025-04-16T17:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912554311101608018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814654715369816064",
+              "start": 0,
+              "username": "RosaritaCisner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912554311101608018",
+        "in_reply_to_user_id": "1814654715369816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912552129014993334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RosaritaCisner 哪？指个路谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814654715369816064",
+        "conversation_id": "1908233268828529023",
+        "created_at": "2025-04-16T17:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912552129014993334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912552129014993334",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908233268828529023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 刷到了不过好贵，1t5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 523,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1403
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "都是负能，反感拉黑",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1912116579032084499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908060706609704963/3F3w2n0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 148,
+          "like_count": 1141,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 351
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      }
+    ]
+  }
+}

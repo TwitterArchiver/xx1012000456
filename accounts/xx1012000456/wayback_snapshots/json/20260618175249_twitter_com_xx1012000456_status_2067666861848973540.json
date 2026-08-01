@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2054393417166434678",
+    "created_at": "2026-06-18T17:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067666861848973540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067666861848973540",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054393417166434678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValenceLab 你觉得我可以吗😀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2054393417166434678",
+        "created_at": "2026-06-18T17:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067666861848973540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067666861848973540",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054393417166434678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 你觉得我可以吗😀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754774517594181632",
+        "conversation_id": "2054393417166434678",
+        "created_at": "2026-05-13T02:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054393417166434678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054393417166434678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17406,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "神经科学数据收集项目：新型化合物结构性能研究\n\n现招募【研究参与者】：\n✅ 能独立撰写结构化观察报告\n✅ 熟悉实验数据记录规范\n\n📋 我们提供标准化报告模板，参与者需按规范提交完整观察文档。\n\n⚠️ 纯学术研究用途，所有参与者需接受基础筛选。\n\n感兴趣者请私信联系，注明研究背景与报告撰写能力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 465,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 201,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

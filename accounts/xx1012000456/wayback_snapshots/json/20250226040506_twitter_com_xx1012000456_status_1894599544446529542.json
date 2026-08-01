@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1894316703116661070",
+    "created_at": "2025-02-26T04:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894599544446529542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894599544446529542",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894316703116661070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 双氢可待因、甲基麻黄碱、咖啡因这三个有效。我自己体感有轻呼吸抑制，手动档。兴奋作用较大，感觉不太出来阿片系药物的特征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1894316703116661070",
+        "created_at": "2025-02-26T04:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T05:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894599544446529542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894599544446529542",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894316703116661070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 双氢可待因、甲基麻黄碱、咖啡因这三个有效。我自己体感有轻呼吸抑制，手动档。兴奋作用较大，感觉不太出来阿片系药物的特征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1894316703116661070",
+        "created_at": "2025-02-25T09:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T10:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894316703116661070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894316703116661070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以白兔應該有什麼藥效呢？我吃完頭暈暈有點犯睏還手抖，白兔裡可以用來od的有效成分是什麼，可待因嗎？日文是真看不懂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 469,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 792
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 多意识体内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5993,
+          "following_count": 528,
+          "like_count": 16772,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 15052
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

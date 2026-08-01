@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1918227873418346628",
+    "created_at": "2025-05-02T12:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T13:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918275440386687203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918275440386687203",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918227873418346628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 吸溜吸溜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1918227866673905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7qFN9agAAmfJf.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1918227873418346628",
+        "created_at": "2025-05-02T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918275440386687203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918275440386687203",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918227873418346628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 吸溜吸溜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918227866673905664"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "1918227873418346628",
+        "created_at": "2025-05-02T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918227873418346628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LOYCLCAjb",
+              "end": 23,
+              "expanded_url": "https://x.com/skura_ku/status/1918227873418346628/photo/1",
+              "media_key": "3_1918227866673905664",
+              "start": 0,
+              "url": "https://t.co/9LOYCLCAjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918227873418346628",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 964,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/9LOYCLCAjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 542,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1477
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sakuracute4",
+                "end": 23,
+                "expanded_url": "https://t.me/sakuracute4",
+                "start": 0,
+                "url": "https://t.co/rvlE7EFWKw"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "🚪200/520 无福利 好友位/聊天",
+        "name": "アヤナྀིྀི 𓉸ྀི",
+        "pinned_tweet_id": "1881248938080231520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911655806786805760/Ou_kZPf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18892,
+          "following_count": 392,
+          "like_count": 16183,
+          "listed_count": 52,
+          "media_count": 614,
+          "tweet_count": 5770
+        },
+        "url": "https://t.co/rvlE7EFWKw",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

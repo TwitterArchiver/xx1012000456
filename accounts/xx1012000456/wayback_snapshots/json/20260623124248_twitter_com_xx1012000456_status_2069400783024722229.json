@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069400783024722229",
+    "created_at": "2026-06-23T12:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069400783024722229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c020402/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/c020402/status/2067831504819060965",
+          "start": 29,
+          "url": "https://t.co/CAke6TE108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069400783024722229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067831504819060965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不反对，但是不是买的太多了，这毕竟不是右美这种成熟物质 https://t.co/CAke6TE108"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069400783024722229",
+        "created_at": "2026-06-23T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069400783024722229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c020402/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/c020402/status/2067831504819060965",
+              "start": 29,
+              "url": "https://t.co/CAke6TE108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069400783024722229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067831504819060965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不反对，但是不是买的太多了，这毕竟不是右美这种成熟物质 https://t.co/CAke6TE108"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872858571563753472",
+        "conversation_id": "2067831504819060965",
+        "created_at": "2026-06-19T04:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067831504819060965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067831504819060965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 760,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 好的我现在有一个1000g 15000元的1161报价。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 583,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1730
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T04:14:21.000Z",
+        "description": "hold me now!",
+        "id": "1872858571563753472",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060947855200952320/JE-P-e1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "c020402",
+        "verified": false
+      }
+    ]
+  }
+}

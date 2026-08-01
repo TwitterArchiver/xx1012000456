@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1908019063051399518",
+    "created_at": "2025-04-04T05:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T06:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908036743632486603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908036743632486603",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908019063051399518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_8964 这么牛逼的吗？还能点到你头上的🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1908019063051399518",
+        "created_at": "2025-04-04T05:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T06:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908036743632486603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908036743632486603",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908019063051399518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 这么牛逼的吗？还能点到你头上的🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "1908019063051399518",
+        "created_at": "2025-04-04T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908019063051399518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908019063051399518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yuki父母这辈子最关心他的就是现在了，找akira父母扯皮今天还找到我父母头上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 519,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1341
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "对不起kuma是雄性且是路怒症，彼女@nnnnanimonai 无言follow致歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nnnnanimonai"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "kuma",
+        "pinned_tweet_id": "1811349292936053194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903577549059530752/tzFyHGIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 2719,
+          "like_count": 30961,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 6607
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

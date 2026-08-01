@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907013054380077243",
+    "created_at": "2025-04-01T17:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T18:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907117241772159457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964Y_"
+        },
+        {
+          "end": 22,
+          "id": "1829498397184946176",
+          "start": 8,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907117241772159457",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907115927948402762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Y_ @liangxihuigui 你是地雷吗你就来🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907013054380077243",
+        "created_at": "2025-04-01T17:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T18:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907117241772159457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964Y_"
+            },
+            {
+              "end": 22,
+              "id": "1829498397184946176",
+              "start": 8,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907117241772159457",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907115927948402762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Y_ @liangxihuigui 你是地雷吗你就来🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1907013054380077243",
+        "created_at": "2025-04-01T17:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T18:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907115927948402762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907115927948402762",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907013054380077243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 给我一千吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1290
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑｜免费为小女孩提供心理援助",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906991306125312000/CjlWo9in_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 970,
+          "like_count": 11667,
+          "listed_count": 7,
+          "media_count": 597,
+          "tweet_count": 8812
+        },
+        "username": "8964Y_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人，性别男，喜欢女，负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，没任何微博，微博早被封了，重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，目前在吃跨性别药，两个月后彻底丧失性欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901688257387376640/HvIXhbTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280411,
+          "following_count": 425,
+          "like_count": 178,
+          "listed_count": 474,
+          "media_count": 1278,
+          "tweet_count": 3586
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

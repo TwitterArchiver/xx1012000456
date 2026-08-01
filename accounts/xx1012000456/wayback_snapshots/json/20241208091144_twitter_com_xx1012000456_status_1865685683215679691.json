@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1865423126399689106",
+    "created_at": "2024-12-08T09:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T10:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865685683215679691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658222935717580800",
+          "start": 0,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865685683215679691",
+    "in_reply_to_user_id": "1658222935717580800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865425203838509552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong23_3 抑郁成因和很多药物的药理都是猜测，询证要给临床让路，氯胺酮的抗抑郁原理不是或不只是NMDA拮抗/解离，纯解离剂如美金刚晚安地佐环平都被证实没有抗抑郁或抗自杀效果。另外，艾斯氯胺酮是右旋体😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1865423126399689106",
+        "created_at": "2024-12-08T09:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T10:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865685683215679691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865685683215679691",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865425203838509552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 抑郁成因和很多药物的药理都是猜测，询证要给临床让路，氯胺酮的抗抑郁原理不是或不只是NMDA拮抗/解离，纯解离剂如美金刚晚安地佐环平都被证实没有抗抑郁或抗自杀效果。另外，艾斯氯胺酮是右旋体😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1865423126399689106",
+        "created_at": "2024-12-07T15:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865425203838509552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865425203838509552",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1085,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865424340579410304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就是其起效迅速，为什么起效迅速，因为机制特殊\n稍微懂一点的都知道这个的抗抑郁机制就是美金刚的滥用机制，抗NMDA受体解离\n再加上本身就是左旋氯胺酮\n我是真的不认为这种东西配被称为玉玉症福音\n与其把这种东西端上来，不如开发更好更新的nmda拮抗剂，但凡把伏硫西汀引进也成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 374,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 347
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "钢丝2000h玩家｜战雷｜术｜精神病学｜精神药理\n有事找我的话https://t.co/6hCa5huvho",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DpVgmCd65z40Z…",
+                "end": 54,
+                "expanded_url": "https://t.me/+DpVgmCd65z40Zjk1",
+                "start": 31,
+                "url": "https://t.co/6hCa5huvho"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 263,
+          "like_count": 16677,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2304
+        },
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

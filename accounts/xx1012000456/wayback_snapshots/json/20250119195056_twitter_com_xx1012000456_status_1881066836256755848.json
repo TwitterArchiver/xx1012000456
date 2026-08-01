@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1880855540903133416",
+    "created_at": "2025-01-19T19:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T20:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881066836256755848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        },
+        {
+          "end": 19,
+          "id": "1648557921297629184",
+          "start": 10,
+          "username": "e2buddha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881066836256755848",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880948517373657597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 @e2buddha 看颜色应该是氯气，玻璃容器可以排除氟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1880855540903133416",
+        "created_at": "2025-01-19T19:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T20:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881066836256755848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            },
+            {
+              "end": 19,
+              "id": "1648557921297629184",
+              "start": 10,
+              "username": "e2buddha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881066836256755848",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880948517373657597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 @e2buddha 看颜色应该是氯气，玻璃容器可以排除氟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1880855540903133416",
+        "created_at": "2025-01-19T12:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T13:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880948517373657597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648557921297629184",
+              "start": 0,
+              "username": "e2buddha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880948517373657597",
+        "in_reply_to_user_id": "1648557921297629184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880855540903133416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e2buddha 啊？我暴露在氰化氢气体环境下也没事。。。这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 447,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 587
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "pinned_tweet_id": "1851125622191329323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 902,
+          "like_count": 41593,
+          "listed_count": 5,
+          "media_count": 1940,
+          "tweet_count": 10521
+        },
+        "username": "pyke2076",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T05:23:41.000Z",
+        "description": "A MtF🏳️‍⚧️ major in Medicine🏥 on campus/Hope to earn money💸 to protect my family/Illusion could only lead to die☠️/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/add/estriolami…",
+                "end": 23,
+                "expanded_url": "https://www.snapchat.com/add/estriolamitabha?share_id=PwD3Jo0pjqA&locale=zh-TW",
+                "start": 0,
+                "url": "https://t.co/CxmEJ0MN6R"
+              }
+            ]
+          }
+        },
+        "id": "1648557921297629184",
+        "location": "瓦羅西大陸德瑪西亞市",
+        "name": "ProgesteroneAmitabhaSoda🏳️‍🌈🏳️‍⚧️🇦🇶",
+        "pinned_tweet_id": "1852506565196312699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648559775414890497/AYSi2EBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1660,
+          "like_count": 6215,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/CxmEJ0MN6R",
+        "username": "e2buddha",
+        "verified": false
+      }
+    ]
+  }
+}

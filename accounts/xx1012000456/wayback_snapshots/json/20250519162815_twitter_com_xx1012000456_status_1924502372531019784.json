@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924419863084507609",
+    "created_at": "2025-05-19T16:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924502372531019784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "451425069",
+          "start": 0,
+          "username": "hylarucoder"
+        },
+        {
+          "end": 21,
+          "id": "11765952",
+          "start": 13,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924502372531019784",
+    "in_reply_to_user_id": "451425069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924421816124371080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hylarucoder @interjc 其实我倒觉得医保可能性还有点，毕竟就那一点点+现在人普遍慢性病每个月就当美团优惠卷了。社保说实话真不敢想😇，尤其还如今延迟65"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924419863084507609",
+        "created_at": "2025-05-19T16:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924502372531019784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "451425069",
+              "start": 0,
+              "username": "hylarucoder"
+            },
+            {
+              "end": 21,
+              "id": "11765952",
+              "start": 13,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924502372531019784",
+        "in_reply_to_user_id": "451425069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924421816124371080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hylarucoder @interjc 其实我倒觉得医保可能性还有点，毕竟就那一点点+现在人普遍慢性病每个月就当美团优惠卷了。社保说实话真不敢想😇，尤其还如今延迟65"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "451425069",
+        "conversation_id": "1924419863084507609",
+        "created_at": "2025-05-19T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924421816124371080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924421816124371080",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3919,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924419863084507609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 如果交社保不是个艰难的选择, 能交就交, 保险的本质还是用一定额度的钱去防范风险, 医保这块确实能防范一定的风险."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1537
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T12:37:37.000Z",
+        "description": "🖥️ Indie Maker\n🛠️ Vibe Working\n📌 油管「海拉鲁编程客」\n 🌸 沦为程序员的段子手/猫咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lucasay.com",
+                "end": 23,
+                "expanded_url": "https://lucasay.com",
+                "start": 0,
+                "url": "https://t.co/lB6diszeeC"
+              }
+            ]
+          }
+        },
+        "id": "451425069",
+        "location": "site👉",
+        "name": "海拉鲁编程客",
+        "pinned_tweet_id": "1904866006700613760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725593465/1e73398765998062c75cc3f6____normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12196,
+          "following_count": 942,
+          "like_count": 3029,
+          "listed_count": 151,
+          "media_count": 1377,
+          "tweet_count": 10299
+        },
+        "url": "https://t.co/lB6diszeeC",
+        "username": "hylarucoder",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜AI｜技术｜生活\n🇯🇵 大阪 @yokogaisha 社长｜程序员\n🚀 课程：https://t.co/MNSqx9ncpS\n✈️ 启动：https://t.co/0spYqLNn98\n💬 TG群：https://t.co/dN4HDWkmJW\n📱 Wechat：justinchencn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 72,
+                "expanded_url": "http://justincourse.com",
+                "start": 49,
+                "url": "https://t.co/MNSqx9ncpS"
+              },
+              {
+                "display_url": "ship.vibany.com",
+                "end": 102,
+                "expanded_url": "https://ship.vibany.com",
+                "start": 79,
+                "url": "https://t.co/0spYqLNn98"
+              },
+              {
+                "display_url": "s.zhaikr.com/g",
+                "end": 132,
+                "expanded_url": "http://s.zhaikr.com/g",
+                "start": 109,
+                "url": "https://t.co/dN4HDWkmJW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 23,
+                "expanded_url": "https://interjc.net",
+                "start": 0,
+                "url": "https://t.co/ZikItPAYVq"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "1918297658072129884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24257,
+          "following_count": 1421,
+          "like_count": 49218,
+          "listed_count": 180,
+          "media_count": 2717,
+          "tweet_count": 24145
+        },
+        "url": "https://t.co/ZikItPAYVq",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

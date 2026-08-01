@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925377611926311263",
+    "created_at": "2025-05-22T16:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925586046580105539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925586046580105539",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925377611926311263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 有的，列表内的算毒驾，表外的没办法，估计扣个疲劳驾驶之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925377611926311263",
+        "created_at": "2025-05-22T16:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925586046580105539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925586046580105539",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925377611926311263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 有的，列表内的算毒驾，表外的没办法，估计扣个疲劳驾驶之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1925377611926311263",
+        "created_at": "2025-05-22T02:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925377611926311263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925377611926311263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒后不能开车，那有没有od后不能开车的规定（，如果有的话该怎么检测"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 563,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 1560
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "Ankyo🩷可以简称AQ丨友跨丨社恐的ENTP丨已确诊：精分+重抑+中焦+强迫+BPD丨黄毒血自避丨喜欢所有性少数群体╹ヮ╹",
+        "id": "1845844455095762944",
+        "name": "Ankyo꙳.†",
+        "pinned_tweet_id": "1919415446970998867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 50,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 126
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

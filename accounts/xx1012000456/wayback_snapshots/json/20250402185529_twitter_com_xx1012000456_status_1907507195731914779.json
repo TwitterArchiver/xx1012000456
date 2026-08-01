@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907476920058654816",
+    "created_at": "2025-04-02T18:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T19:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907507195731914779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882503926228090880",
+          "start": 0,
+          "username": "puppy_xzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907507195731914779",
+    "in_reply_to_user_id": "1882503926228090880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907476920058654816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppy_xzl 主播主播，无意冒犯，但你这个码打的真的很像盗图水印"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_1907476889863860224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gni4IAWaMAANTWr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1842,
+        "media_key": "3_1907476889868054532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gni4IAXaMAQufpf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907476920058654816",
+        "created_at": "2025-04-02T18:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907507195731914779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882503926228090880",
+              "start": 0,
+              "username": "puppy_xzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907507195731914779",
+        "in_reply_to_user_id": "1882503926228090880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907476920058654816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppy_xzl 主播主播，无意冒犯，但你这个码打的真的很像盗图水印"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907476889863860224",
+            "3_1907476889868054532"
+          ]
+        },
+        "author_id": "1882503926228090880",
+        "conversation_id": "1907476920058654816",
+        "created_at": "2025-04-02T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907476920058654816"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "门槛"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "白幼瘦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/REO4T4DqdR",
+              "end": 41,
+              "expanded_url": "https://x.com/puppy_xzl/status/1907476920058654816/photo/1",
+              "media_key": "3_1907476889863860224",
+              "start": 18,
+              "url": "https://t.co/REO4T4DqdR"
+            },
+            {
+              "display_url": "pic.x.com/REO4T4DqdR",
+              "end": 41,
+              "expanded_url": "https://x.com/puppy_xzl/status/1907476920058654816/photo/1",
+              "media_key": "3_1907476889868054532",
+              "start": 18,
+              "url": "https://t.co/REO4T4DqdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907476920058654816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡前🆚洗澡后  #门槛 #白幼瘦 https://t.co/REO4T4DqdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1322
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T19:02:04.000Z",
+        "description": "睡醒经常被风所以小真理的建议是过门享永久！06 乖brat 反差狗狗 ddlg 钱是我生命🐾",
+        "id": "1882503926228090880",
+        "location": "🚪99 189 289",
+        "name": "鼠鼠泣",
+        "pinned_tweet_id": "1888879545371201866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888793028862853120/RCAvbQka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 37,
+          "like_count": 1249,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 211
+        },
+        "username": "puppy_xzl",
+        "verified": false
+      }
+    ]
+  }
+}

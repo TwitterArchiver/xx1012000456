@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1929688820750209307",
+    "created_at": "2025-06-03T08:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929822522205249678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        },
+        {
+          "end": 25,
+          "id": "1561334508212723713",
+          "start": 17,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929822522205249678",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929735201141542977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo @VVV8964 策划药也称新精神活性物质，一般表外的叫策划药，表内的就是毒了，伊斯卡林已经进表了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1929688820750209307",
+        "created_at": "2025-06-03T08:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929822522205249678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            },
+            {
+              "end": 25,
+              "id": "1561334508212723713",
+              "start": 17,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929822522205249678",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929735201141542977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo @VVV8964 策划药也称新精神活性物质，一般表外的叫策划药，表内的就是毒了，伊斯卡林已经进表了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1929688820750209307",
+        "created_at": "2025-06-03T03:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929735201141542977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929735201141542977",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929729288523452793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 而且艾斯卡林和dpt也不是策划药呀 都是危险化学品 在化源网买的。艾斯卡林是麦斯卡林的加强版 效果和麦斯卡林基本无异 但药效更强 所需剂量更小。dpt的话效果比dmt弱点 但时效更长 而且体验更深邃黑暗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 565,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1594
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy  i dont wanna be",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/qFkb2xwIVC"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品吗",
+        "name": "I love You",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 334,
+          "like_count": 12162,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/qFkb2xwIVC",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 243,
+          "like_count": 738,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1669
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

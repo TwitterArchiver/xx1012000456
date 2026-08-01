@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1925208130348372330",
+    "created_at": "2025-05-21T15:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925212246323716394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682474617208709122",
+          "start": 0,
+          "username": "jpdrugdealer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925212246323716394",
+    "in_reply_to_user_id": "1682474617208709122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925208130348372330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jpdrugdealer 算了吧，我感觉大部分人是分不出的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1925208052523012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gre2hglbEAA5kX7.jpg",
+        "width": 584
+      },
+      {
+        "height": 842,
+        "media_key": "3_1925208112317046784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gre2k_VboAANscD.png",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1925208130348372330",
+        "created_at": "2025-05-21T15:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925212246323716394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682474617208709122",
+              "start": 0,
+              "username": "jpdrugdealer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925212246323716394",
+        "in_reply_to_user_id": "1682474617208709122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925208130348372330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpdrugdealer 算了吧，我感觉大部分人是分不出的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925208052523012096",
+            "3_1925208112317046784"
+          ]
+        },
+        "author_id": "1682474617208709122",
+        "conversation_id": "1925208130348372330",
+        "created_at": "2025-05-21T15:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925208130348372330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "[分享]如何免费搞到迷幻蘑菇？ 大家好啊，这里是Japan Drug Dealer，分享一下如何在本国“免费”吃到迷幻蘑菇。 这里免费是指需要你自己付出时间、金钱、精力、汗水、劳动等等成为一个蘑菇猎手。 去大自然中狩猎你想寻找的蘑菇。 如果你对迷幻蘑菇好奇，想了解更多知识，建议你去下面论坛多逛逛。 https://www.shroomery.org/forums/ 如果你想了解你的国家有哪些本地生长的迷幻蘑菇，你可以在下面的页面了解： https://www.shroomery.org/12247/Mushroom-Locations 或者下面两个网站： https://www.inaturalist.org/taxa/54026-Psilocybe 这个网站有观察记录和地图，可以看到采集地点。相对好用。 https://mushroomobserver.org/ 这个网站建议使用高级搜索 先注册 注册后才可以正常使用全部功能 高级搜索： https://mushroomobserver.org/search/advanced Name可以尝试输入Psilocybe 或者 https://www.shroomery.org/12247/Mushroom-Locations 这个页面提到的名字 Location输入你所在的国家 搜索 这时候应该可以跳出一些结果 如果你所在的国家不是任何结果都没有 那么你就可以准备准备 去上面网站提到的区域采蘑菇了 如果上面的网站搜不到结果 https://www.shroomery.org/forums/ 那就去论坛里搜一搜 实在没有结果可以发帖 记住 发帖请教别人一定一定要有礼貌 别人没有义务消耗自己的时间回复你的帖子 采蘑菇之前 先了解一下你的狩猎对象 把相关资讯和照片保存到手机里 路上多看看 如果不熟悉很容易错误你的目标 采蘑菇最好是在雨后的第一天第二天 建议叫上朋友一起 做好充分准备 如果需要进山 一定要穿长袖长裤 小心遇到蛇或者其他危险的生物",
+              "display_url": "t.me/records_review…",
+              "end": 35,
+              "expanded_url": "https://t.me/records_reviews_share/4",
+              "start": 12,
+              "status": 200,
+              "title": "Japan Drug Dealer 记录&反馈&分享",
+              "unwound_url": "https://t.me/records_reviews_share/4",
+              "url": "https://t.co/67BrQ3XVEX"
+            },
+            {
+              "display_url": "pic.x.com/hturK4wbrH",
+              "end": 59,
+              "expanded_url": "https://x.com/jpdrugdealer/status/1925208130348372330/photo/1",
+              "media_key": "3_1925208052523012096",
+              "start": 36,
+              "url": "https://t.co/hturK4wbrH"
+            },
+            {
+              "display_url": "pic.x.com/hturK4wbrH",
+              "end": 59,
+              "expanded_url": "https://x.com/jpdrugdealer/status/1925208130348372330/photo/1",
+              "media_key": "3_1925208112317046784",
+              "start": 36,
+              "url": "https://t.co/hturK4wbrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925208130348372330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何免费搞到迷幻蘑菇？\nhttps://t.co/67BrQ3XVEX https://t.co/hturK4wbrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 563,
+          "like_count": 23,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1554
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T19:36:45.000Z",
+        "description": "Live in Tokyo.\n备胎号！",
+        "id": "1682474617208709122",
+        "name": "Japan Drug Dealer",
+        "pinned_tweet_id": "1727571569197907996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682477426960646144/OdQe9aZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 113,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 74
+        },
+        "username": "jpdrugdealer",
+        "verified": false
+      }
+    ]
+  }
+}

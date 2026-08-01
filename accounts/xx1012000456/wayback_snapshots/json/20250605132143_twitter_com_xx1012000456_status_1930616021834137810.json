@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930428502647681043",
+    "created_at": "2025-06-05T13:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930616021834137810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        },
+        {
+          "end": 25,
+          "id": "1865636851643744257",
+          "start": 13,
+          "username": "akanenene19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930616021834137810",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930429922918707686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 @akanenene19 所谓的有关系基本都是假的😅当有人说有关系的时候除非你是真的那种特别硬可以开绿灯，不然大部分都是本来程序该怎么样就怎么样，顺便卖个人情或吃点利益骗人的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930428502647681043",
+        "created_at": "2025-06-05T13:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930616021834137810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            },
+            {
+              "end": 25,
+              "id": "1865636851643744257",
+              "start": 13,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930616021834137810",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930429922918707686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 @akanenene19 所谓的有关系基本都是假的😅当有人说有关系的时候除非你是真的那种特别硬可以开绿灯，不然大部分都是本来程序该怎么样就怎么样，顺便卖个人情或吃点利益骗人的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1930428502647681043",
+        "created_at": "2025-06-05T01:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T02:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930429922918707686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865636851643744257",
+              "start": 0,
+              "username": "akanenene19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930429922918707686",
+        "in_reply_to_user_id": "1865636851643744257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930428502647681043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akanenene19 我的天啊!还好你爸有关系，要不然是进去了 还是有点用的这爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 565,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1608
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "豆沙包 04 坐标上海 玩烘焙钩针\n重度抑郁/重度焦虑症/双向情感障碍/心境障碍/精神障碍/精神分裂/分离障碍/\n这些都是确诊过的，不是一下子得的 \n 也许你很想帮助我会给我打赏的对吗\n谢谢你们支持我 喜欢我 我会愿意追随你们滴\n谢谢你们给我的 我想失联会等我吗\nhttps://t.co/WcBjKJ1Quw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wiopqwtrpp5",
+                "end": 155,
+                "expanded_url": "https://ngl.link/wiopqwtrpp5",
+                "start": 132,
+                "url": "https://t.co/WcBjKJ1Quw"
+              }
+            ]
+          }
+        },
+        "id": "1608034171456294912",
+        "location": "距离你800m",
+        "name": "豆沙包（只和妹宝深交版 ）",
+        "pinned_tweet_id": "1919023559864705113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929584102476599297/OraaQykl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1939,
+          "like_count": 52020,
+          "listed_count": 9,
+          "media_count": 1716,
+          "tweet_count": 29992
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:57:56.000Z",
+        "description": "代替我活下去｜第二人格：@Tsukishima_hane",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "Tsukishima_hane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanenene",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanenene",
+                "start": 0,
+                "url": "https://t.co/IqQ2zRy2gf"
+              }
+            ]
+          }
+        },
+        "id": "1865636851643744257",
+        "location": "🇯🇵",
+        "name": "茜Akane",
+        "pinned_tweet_id": "1870020495170760959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899753285944520704/PP8tXtzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 114,
+          "like_count": 8506,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 3146
+        },
+        "url": "https://t.co/IqQ2zRy2gf",
+        "username": "akanenene19",
+        "verified": false
+      }
+    ]
+  }
+}

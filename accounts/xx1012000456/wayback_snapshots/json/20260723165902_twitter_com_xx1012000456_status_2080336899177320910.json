@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080331362738032640",
+        "3_2080332006072987653",
+        "3_2080333205941727234",
+        "3_2080333725842485252"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2080336899177320910",
+    "created_at": "2026-07-23T16:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080336899177320910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oyidKWnWQt",
+          "end": 144,
+          "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+          "media_key": "3_2080331362738032640",
+          "start": 121,
+          "url": "https://t.co/oyidKWnWQt"
+        },
+        {
+          "display_url": "pic.x.com/oyidKWnWQt",
+          "end": 144,
+          "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+          "media_key": "3_2080332006072987653",
+          "start": 121,
+          "url": "https://t.co/oyidKWnWQt"
+        },
+        {
+          "display_url": "pic.x.com/oyidKWnWQt",
+          "end": 144,
+          "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+          "media_key": "3_2080333205941727234",
+          "start": 121,
+          "url": "https://t.co/oyidKWnWQt"
+        },
+        {
+          "display_url": "pic.x.com/oyidKWnWQt",
+          "end": 144,
+          "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+          "media_key": "3_2080333725842485252",
+          "start": 121,
+          "url": "https://t.co/oyidKWnWQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080336899177320910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.没法缓解，这是抗胆碱能的止涎作用体现，只能等药效过了\n2.看体重5-10t起手慢慢试吧，舒不舒适取决于你是否喜欢解离\n3.哪家？理论上得是真的，不然他就是卖假货\n4.没啥办法。我其实也是解离剂爱好者，我是高敏人，削弱感知可以高度屏蔽痛苦 https://t.co/oyidKWnWQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2080331362738032640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7SWjMa0AANQif.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080332006072987653",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7S7_zbMAUxnuy.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080333205941727234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7UB1qbMAINWIP.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080333725842485252",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7UgGcbMAQ6UEo.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080331362738032640",
+            "3_2080332006072987653",
+            "3_2080333205941727234",
+            "3_2080333725842485252"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2080336899177320910",
+        "created_at": "2026-07-23T16:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080336899177320910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyidKWnWQt",
+              "end": 144,
+              "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+              "media_key": "3_2080331362738032640",
+              "start": 121,
+              "url": "https://t.co/oyidKWnWQt"
+            },
+            {
+              "display_url": "pic.x.com/oyidKWnWQt",
+              "end": 144,
+              "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+              "media_key": "3_2080332006072987653",
+              "start": 121,
+              "url": "https://t.co/oyidKWnWQt"
+            },
+            {
+              "display_url": "pic.x.com/oyidKWnWQt",
+              "end": 144,
+              "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+              "media_key": "3_2080333205941727234",
+              "start": 121,
+              "url": "https://t.co/oyidKWnWQt"
+            },
+            {
+              "display_url": "pic.x.com/oyidKWnWQt",
+              "end": 144,
+              "expanded_url": "https://x.com/xx1012000456/status/2080336899177320910/photo/1",
+              "media_key": "3_2080333725842485252",
+              "start": 121,
+              "url": "https://t.co/oyidKWnWQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080336899177320910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.没法缓解，这是抗胆碱能的止涎作用体现，只能等药效过了\n2.看体重5-10t起手慢慢试吧，舒不舒适取决于你是否喜欢解离\n3.哪家？理论上得是真的，不然他就是卖假货\n4.没啥办法。我其实也是解离剂爱好者，我是高敏人，削弱感知可以高度屏蔽痛苦 https://t.co/oyidKWnWQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 717,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2109
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

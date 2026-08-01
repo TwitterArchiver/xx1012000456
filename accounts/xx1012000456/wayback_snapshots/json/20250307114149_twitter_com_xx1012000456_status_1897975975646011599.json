@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1897890439468138532",
+    "created_at": "2025-03-07T11:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T12:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897975975646011599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        },
+        {
+          "end": 20,
+          "id": "1697903165570686976",
+          "start": 12,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897975975646011599",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897890439468138532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 @kikoxts 其实只有盐是致命的，别的都不在致死剂量里，16小时要么没死要么早升天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1897890439468138532",
+        "created_at": "2025-03-07T11:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897975975646011599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            },
+            {
+              "end": 20,
+              "id": "1697903165570686976",
+              "start": 12,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897975975646011599",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897890439468138532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 @kikoxts 其实只有盐是致命的，别的都不在致死剂量里，16小时要么没死要么早升天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740188738469367808",
+        "conversation_id": "1897890439468138532",
+        "created_at": "2025-03-07T06:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T07:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897890439468138532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1697903165570686976",
+              "start": 21,
+              "username": "kikoxts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kikoxts/status…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/kikoxts/status/1897678560065908875",
+              "start": 164,
+              "url": "https://t.co/q1MbqnlY7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897890439468138532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897678560065908875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "現在是2025/3/7  下午2:00，距@kikoxts吞藥至少已過16小時 \n當前生死未卜\n類型  中毒計量  擦邊致死計量\n類型  計劃性自殺\n原因推測  為家長\n地點推測  杭州家中\n無其家長電話  無其電話\n在我 溝通失效後\n具 唯一一次見面瞭解的信息\n沒有採取 報警-醫療措施\n\n……第一次感到無力，真的是第一次麽 https://t.co/q1MbqnlY7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 858
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些 魔王 荒景肆（Arakei Shi）\n|⚠️| od | 文學向 @HJS_2403_2 |碎碎念|圖片重加工| LGBTQ\n虛無主義者|理想主義者|灰天使| INFP-A |🩵🩶心裏建設供給\n- EOTS-程式 寫作 繪畫 願你幸福\n🏳️‍🌈  🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1857305945015296224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 269,
+          "like_count": 26235,
+          "listed_count": 5,
+          "media_count": 654,
+          "tweet_count": 2662
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "INF是固定，J/P随时刷新。休学中。想要变成女孩子。精神封印不稳定。渴望安全感。永远的好朋友@ringochichidim和@HJS_2403_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "HJS_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 243,
+          "like_count": 3026,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1601
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

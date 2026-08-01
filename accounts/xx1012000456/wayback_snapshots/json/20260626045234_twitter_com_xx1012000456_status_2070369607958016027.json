@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070206546089595106",
+    "created_at": "2026-06-26T04:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070369607958016027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070369607958016027",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070206546089595106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 几年前就关注过这东西，可能会有些危险？这东西的另一个名字是伊伯加因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070206546089595106",
+        "created_at": "2026-06-26T04:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070369607958016027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070369607958016027",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070206546089595106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 几年前就关注过这东西，可能会有些危险？这东西的另一个名字是伊伯加因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2070206546089595106",
+        "created_at": "2026-06-25T18:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070206546089595106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070206546089595106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 790,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人对伊伯格碱感兴趣吗？大概是闭眼会看见高分辨率自己曾经的经历像放电影一样（但是自己可以参与其中），睁眼几乎啥都没有\n\n被用于治疗PTSD、单次给药即可中断阿片类/酒精/尼古丁/兴奋剂依赖的抗成瘾效应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 604,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2070228611668623717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 139,
+          "like_count": 2785,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

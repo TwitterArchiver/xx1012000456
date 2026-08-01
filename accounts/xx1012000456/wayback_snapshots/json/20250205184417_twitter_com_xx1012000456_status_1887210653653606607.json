@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1887022689799561531",
+    "created_at": "2025-02-05T18:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T19:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887210653653606607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 27,
+          "id": "1638893284218261504",
+          "start": 11,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887210653653606607",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887022886495641959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @Benzyl_titanium 前者是K的苯环端的硫代环近似物，曾在氟胺酮列管后短暂流行过，应该是不太好用的。氟托是依托的苯环对位F代的产物，最早的评价是副作用大（有毒），但随着配方和剂量调整目前应该能慢慢接近依托"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1887022689799561531",
+        "created_at": "2025-02-05T18:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T19:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887210653653606607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 27,
+              "id": "1638893284218261504",
+              "start": 11,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887210653653606607",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887022886495641959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Benzyl_titanium 前者是K的苯环端的硫代环近似物，曾在氟胺酮列管后短暂流行过，应该是不太好用的。氟托是依托的苯环对位F代的产物，最早的评价是副作用大（有毒），但随着配方和剂量调整目前应该能慢慢接近依托"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1887022689799561531",
+        "created_at": "2025-02-05T06:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887022886495641959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887022886495641959",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887022689799561531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 这个好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 457,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 677
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 800,
+          "like_count": 34506,
+          "listed_count": 18,
+          "media_count": 948,
+          "tweet_count": 15660
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 518,
+          "like_count": 8301,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

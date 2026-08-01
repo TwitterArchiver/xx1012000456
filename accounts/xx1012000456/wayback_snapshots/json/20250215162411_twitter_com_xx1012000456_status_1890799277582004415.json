@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1890715281279816191",
+    "created_at": "2025-02-15T16:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890799277582004415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878157862263980032",
+          "start": 0,
+          "username": "5thCuteKitten"
+        },
+        {
+          "end": 28,
+          "id": "1797727504540807168",
+          "start": 15,
+          "username": "overdose__jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890799277582004415",
+    "in_reply_to_user_id": "1878157862263980032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890787194035470374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5thCuteKitten @overdose__jp 按当量折算1ml6毫克即2.5ml1t平均每ml不足1块，和港美价格差不多，确实没有优势😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1890715281279816191",
+        "created_at": "2025-02-15T16:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890799277582004415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878157862263980032",
+              "start": 0,
+              "username": "5thCuteKitten"
+            },
+            {
+              "end": 28,
+              "id": "1797727504540807168",
+              "start": 15,
+              "username": "overdose__jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890799277582004415",
+        "in_reply_to_user_id": "1878157862263980032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890787194035470374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5thCuteKitten @overdose__jp 按当量折算1ml6毫克即2.5ml1t平均每ml不足1块，和港美价格差不多，确实没有优势😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878157862263980032",
+        "conversation_id": "1890715281279816191",
+        "created_at": "2025-02-15T15:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890787194035470374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "overdose__jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890787194035470374",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890715281279816191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose__jp 我只知道好贵o不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 460,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 715
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T19:11:51.000Z",
+        "description": "支黑｜发点自己喜欢的 @moeTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "moeTvT"
+              }
+            ]
+          }
+        },
+        "id": "1878157862263980032",
+        "name": "キラーニャンコ",
+        "pinned_tweet_id": "1889898892055167154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890098522718105601/j5NFw39d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 354,
+          "like_count": 6505,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2108
+        },
+        "username": "5thCuteKitten",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw85LH"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1889540094710915274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 3956,
+          "like_count": 2057,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/nDuhQw85LH",
+        "username": "overdose__jp",
+        "verified": false
+      }
+    ]
+  }
+}

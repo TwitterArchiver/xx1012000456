@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871812916774838368",
+    "created_at": "2024-12-28T07:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T08:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872914355312050357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847212253361364992",
+          "start": 0,
+          "username": "ee5077662441896"
+        },
+        {
+          "end": 27,
+          "id": "3022697779",
+          "start": 17,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872914355312050357",
+    "in_reply_to_user_id": "1847212253361364992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872544559621972045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ee5077662441896 @RXdruglab 心瘾这个概念不太会在致幻剂中出现。但你说的对，有很大风险bad trip或者心理精神创伤，所有的致幻剂都有类似的风险，据我所知2cb衍生物应该风险是最大的，使用务必准备下机药以防万一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871812916774838368",
+        "created_at": "2024-12-28T07:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872914355312050357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847212253361364992",
+              "start": 0,
+              "username": "ee5077662441896"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872914355312050357",
+        "in_reply_to_user_id": "1847212253361364992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872544559621972045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ee5077662441896 @RXdruglab 心瘾这个概念不太会在致幻剂中出现。但你说的对，有很大风险bad trip或者心理精神创伤，所有的致幻剂都有类似的风险，据我所知2cb衍生物应该风险是最大的，使用务必准备下机药以防万一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847212253361364992",
+        "conversation_id": "1871812916774838368",
+        "created_at": "2024-12-27T07:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T08:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872544559621972045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "3022697779",
+              "start": 14,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872544559621972045",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872236331440763234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @RXdruglab 谢谢。你说的很准。请问会不会有心瘾。比如导致抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 400,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 418
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T09:45:02.000Z",
+        "description": "",
+        "id": "1847212253361364992",
+        "name": "ee",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 102,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ee5077662441896",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

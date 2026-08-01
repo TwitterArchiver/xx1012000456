@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907468406280098146",
+    "created_at": "2025-04-02T16:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907472722902528290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799381491493036032",
+          "start": 0,
+          "username": "Tina_sgz90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907472722902528290",
+    "in_reply_to_user_id": "1799381491493036032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907471785974784295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_sgz90 有没有可能这是愚人节玩笑😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907468406280098146",
+        "created_at": "2025-04-02T16:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907472722902528290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799381491493036032",
+              "start": 0,
+              "username": "Tina_sgz90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907472722902528290",
+        "in_reply_to_user_id": "1799381491493036032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907471785974784295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_sgz90 有没有可能这是愚人节玩笑😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799381491493036032",
+        "conversation_id": "1907468406280098146",
+        "created_at": "2025-04-02T16:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907471785974784295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907471785974784295",
+        "in_reply_to_user_id": "1799381491493036032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907468406280098146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话，我真觉得这个跟某些人有点关系哈，就算不是他们造成的影响也多少有一点，去年又美被禁止的时候，时间上算算好像就是他们在外面od多少导致了一点吧 恶心不恶心？就是因为你们这些人害得所有人都没药吃，以死谢罪OK不？还有吉他章那群人天天宣传od，去你妈逼的吃过吗就在那里玩梗。死不死全家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1315
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T10:02:40.000Z",
+        "description": "@RiveraDarc31186     营业号我是Tina  200 520 1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "RiveraDarc31186"
+              }
+            ]
+          }
+        },
+        "id": "1799381491493036032",
+        "name": "Tina",
+        "pinned_tweet_id": "1861013250567262280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864915269027778560/ITL0nC1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 83,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 704
+        },
+        "username": "Tina_sgz90",
+        "verified": false
+      }
+    ]
+  }
+}

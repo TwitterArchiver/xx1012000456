@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893671713692361012",
+    "created_at": "2025-02-23T19:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T20:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893752513385414900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893752513385414900",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893671713692361012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 不仅如此，黑人不同街区不同帮派之间的仇恨往往大于对白人的仇恨，中国人尤其是在外域环境下更是老乡骗老乡🤣🤣🤣黑人不分你我同仇敌忾是黑命贵抗议的时候，那么女性在反抗完“男权”后会……（？？？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893671713692361012",
+        "created_at": "2025-02-23T19:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T20:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893752513385414900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893752513385414900",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893671713692361012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 不仅如此，黑人不同街区不同帮派之间的仇恨往往大于对白人的仇恨，中国人尤其是在外域环境下更是老乡骗老乡🤣🤣🤣黑人不分你我同仇敌忾是黑命贵抗议的时候，那么女性在反抗完“男权”后会……（？？？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1893671713692361012",
+        "created_at": "2025-02-23T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893671713692361012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratratrat2952/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/ratratrat2952/status/1893569306698695093",
+              "start": 147,
+              "url": "https://t.co/5HVB6O99b2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893671713692361012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3447,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893569306698695093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我很相信女性之间是有天然的情感联结的，只是时时刻刻在被外力挑拨。”\n\n看到这就脑壳疼。\n\n我不想批判原推主。我只是想说，任何时候，一个“单一身份”，都不足以说明任何。\n\n黑人也会坑害黑人同胞，女上司也会压榨女下属，中国人也会骗中国人，同担同好也会背刺搞你，gay之间一样可能看不惯甚至举报。 https://t.co/5HVB6O99b2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 779
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26966,
+          "following_count": 3416,
+          "like_count": 135329,
+          "listed_count": 91,
+          "media_count": 3109,
+          "tweet_count": 50049
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

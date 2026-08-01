@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1885351887861670018",
+    "created_at": "2025-01-31T17:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T18:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885376209229668818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885376209229668818",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885351887861670018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snake_lesyeux 你还别说这个真行，90%的pr都是原型经过尿液代谢的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1885351887861670018",
+        "created_at": "2025-01-31T17:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T18:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885376209229668818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885376209229668818",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885351887861670018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snake_lesyeux 你还别说这个真行，90%的pr都是原型经过尿液代谢的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1885351887861670018",
+        "created_at": "2025-01-31T15:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885351887861670018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885351887861670018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o了普瑞的人是否可以通过饮用自己的尿液来实现普瑞永动机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 458,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 643
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "蛇瞳，无性别，祈求永恒的光",
+        "id": "1754871332091682817",
+        "name": "屍犬",
+        "pinned_tweet_id": "1842224842852192315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856817015736156160/Gop-5lTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 972,
+          "like_count": 53378,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 5716
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

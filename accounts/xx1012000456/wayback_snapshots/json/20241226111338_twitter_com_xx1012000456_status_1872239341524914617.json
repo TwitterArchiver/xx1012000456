@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-26T11:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872239341524914617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847909934203097088",
+          "start": 0,
+          "username": "momoisaiba15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872239341524914617",
+    "in_reply_to_user_id": "1847909934203097088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872167171503300871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoisaiba15 34我不是wiki成员，我对相关知识的态度是只要你去请求那我就会给予。本人也不区分治疗代替、现实逃避、娱乐化目的使用，不关心恢复和减害的意义，这部分我们不需要讨论。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T11:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872239341524914617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872239341524914617",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872167171503300871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 34我不是wiki成员，我对相关知识的态度是只要你去请求那我就会给予。本人也不区分治疗代替、现实逃避、娱乐化目的使用，不关心恢复和减害的意义，这部分我们不需要讨论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847909934203097088",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T06:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872167171503300871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872167171503300871",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872166997079011369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 3.对圈子的利害并不直接取决于药理水平的高低。例子：后藤的恢复术有实际价值，而这完全是他个人的经验。\n4.同上一点，后藤在写药物条目时采取的态度（突出药物的副作用、分类）对od有劝阻作用，这从总体上看使更少人受害…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 398,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 408
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:59:34.000Z",
+        "description": "",
+        "id": "1847909934203097088",
+        "name": "natsuki_natsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847910631954911232/vY6AuUM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 719,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "momoisaiba15",
+        "verified": false
+      }
+    ]
+  }
+}

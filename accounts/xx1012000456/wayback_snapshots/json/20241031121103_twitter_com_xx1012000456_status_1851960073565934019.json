@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1851877753500635429",
+    "created_at": "2024-10-31T12:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T13:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851960073565934019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583858559544332290",
+          "start": 0,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851960073565934019",
+    "in_reply_to_user_id": "1583858559544332290",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851877753500635429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sharkee1024 别的不说右美真的是SNRI可以治抑郁（国外有复方）、pr是gaba类真的可以治焦虑，解离剂的NMDA拮抗似乎也和快速逆转自杀的艾斯氯胺酮原理相似，都有科学支持的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1851877753500635429",
+        "created_at": "2024-10-31T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851960073565934019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583858559544332290",
+              "start": 0,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851960073565934019",
+        "in_reply_to_user_id": "1583858559544332290",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851877753500635429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sharkee1024 别的不说右美真的是SNRI可以治抑郁（国外有复方）、pr是gaba类真的可以治焦虑，解离剂的NMDA拮抗似乎也和快速逆转自杀的艾斯氯胺酮原理相似，都有科学支持的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583858559544332290",
+        "conversation_id": "1851877753500635429",
+        "created_at": "2024-10-31T06:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T07:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851877753500635429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851877753500635429",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "常有人觉得喝酒抽烟磕药是解压方式\n确定是解压而不是麻痹么？\n真的不想再看到有人因这些而堕落了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 320,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 214
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "喜欢聊天！/接受烦恼咨询/欢迎找咱交朋友哦o(≧v≦)o/愿坚强的人都能被温柔相待 咱的好好好好姐姐@miaowu075/🚪10 同类无门槛=w=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "miaowu075"
+              }
+            ]
+          }
+        },
+        "id": "1583858559544332290",
+        "location": "匹诺康尼小酒店",
+        "name": "村雨🏳️‍⚧️",
+        "pinned_tweet_id": "1850732621044875396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838561192991952896/pKk2dXyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 387,
+          "like_count": 2127,
+          "listed_count": 0,
+          "tweet_count": 797
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1862072252583297384",
+    "created_at": "2024-11-28T10:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T11:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862077063425036376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xO_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862077063425036376",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862072252583297384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xO_snow 啊你不是吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1862072252583297384",
+        "created_at": "2024-11-28T10:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862077063425036376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xO_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862077063425036376",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862072252583297384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xO_snow 啊你不是吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "1862072252583297384",
+        "created_at": "2024-11-28T09:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862072252583297384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862072252583297384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我完全想不出除了衣服我有哪点像地雷女了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 370,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 301
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "ᜊ˃ ᵕ ˂ᜊ 我是れん｜07高二｜喜欢唱歌打扮和白色相簿❄️想交朋友可以多多给我评论我会记住你哒",
+        "id": "1522094329954652161",
+        "location": "私信基本不回｜不领陌生人红包｜不互转不和陌生人互fo",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "1852142638050480267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861794874472931328/N9m_MvDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15024,
+          "following_count": 306,
+          "like_count": 7190,
+          "listed_count": 22,
+          "media_count": 660,
+          "tweet_count": 5805
+        },
+        "username": "0xO_snow",
+        "verified": false
+      }
+    ]
+  }
+}

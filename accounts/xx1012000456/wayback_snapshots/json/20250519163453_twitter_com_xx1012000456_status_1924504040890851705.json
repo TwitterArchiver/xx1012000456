@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924391513230090465",
+    "created_at": "2025-05-19T16:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924504040890851705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818731995310309376",
+          "start": 0,
+          "username": "MOLeren198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924504040890851705",
+    "in_reply_to_user_id": "1818731995310309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924391513230090465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MOLeren198964 抑郁是比较容易出的，表差不多+问询时情绪低落、兴趣减退、精力丧失这几个核心症状都出来或出两个基本就是了，ADHD不懂，也没法想象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924391513230090465",
+        "created_at": "2025-05-19T16:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924504040890851705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "MOLeren198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924504040890851705",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924391513230090465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MOLeren198964 抑郁是比较容易出的，表差不多+问询时情绪低落、兴趣减退、精力丧失这几个核心症状都出来或出两个基本就是了，ADHD不懂，也没法想象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818731995310309376",
+        "conversation_id": "1924391513230090465",
+        "created_at": "2025-05-19T09:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T10:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924391513230090465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924391513230090465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3044,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你推的诸位是怎么确诊抑郁或者ADHD之类的？\n我也想整一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1539
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "不熟：@isaactan8964 小号：@Moleren114514 飞机杯：@5mRtist 姐姐：@IAmTheSolipsism 爷爷：@KINGSLAY3RV想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @LeQing123 @SHEEPLOVESGRASS @VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5mRtist"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "KINGSLAY3RV"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "LeQing123"
+              },
+              {
+                "end": 150,
+                "start": 134,
+                "username": "SHEEPLOVESGRASS"
+              },
+              {
+                "end": 159,
+                "start": 151,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ蘋果汁🍥",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1983,
+          "like_count": 125836,
+          "listed_count": 10,
+          "media_count": 971,
+          "tweet_count": 21845
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      }
+    ]
+  }
+}

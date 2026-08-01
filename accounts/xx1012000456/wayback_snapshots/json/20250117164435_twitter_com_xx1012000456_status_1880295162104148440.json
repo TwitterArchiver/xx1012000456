@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1880163870901481519",
+    "created_at": "2025-01-17T16:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880295162104148440"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "TMT",
+          "probability": 0.6934,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "methoxy",
+          "probability": 0.6209,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "MeO",
+          "probability": 0.5042,
+          "start": 59,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "TMT",
+          "probability": 0.6675,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 148,
+          "normalized_text": "DMT",
+          "probability": 0.6626,
+          "start": 146,
+          "type": "Other"
+        },
+        {
+          "end": 172,
+          "normalized_text": "ethyl",
+          "probability": 0.673,
+          "start": 168,
+          "type": "Other"
+        },
+        {
+          "end": 184,
+          "normalized_text": "bromo",
+          "probability": 0.6259,
+          "start": 180,
+          "type": "Other"
+        },
+        {
+          "end": 203,
+          "normalized_text": "DMT",
+          "probability": 0.7299,
+          "start": 201,
+          "type": "Other"
+        },
+        {
+          "end": 269,
+          "normalized_text": "HT2",
+          "probability": 0.7255,
+          "start": 267,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880295162104148440",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880163870901481519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial both 7-TMT and its 5-methoxy derivative 5-MeO-7-TMT produced behavioural responses similar to those of psychedelic drugs such as DMT, but the larger 7-ethyl and 7-bromo derivatives of DMT did not produce psychedelic responses despite having higher 5-HT2 receptor affinity in vitro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1880163870901481519",
+        "created_at": "2025-01-17T16:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880295162104148440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "TMT",
+              "probability": 0.6934,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "methoxy",
+              "probability": 0.6209,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "MeO",
+              "probability": 0.5042,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "TMT",
+              "probability": 0.6675,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "DMT",
+              "probability": 0.6626,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 172,
+              "normalized_text": "ethyl",
+              "probability": 0.673,
+              "start": 168,
+              "type": "Other"
+            },
+            {
+              "end": 184,
+              "normalized_text": "bromo",
+              "probability": 0.6259,
+              "start": 180,
+              "type": "Other"
+            },
+            {
+              "end": 203,
+              "normalized_text": "DMT",
+              "probability": 0.7299,
+              "start": 201,
+              "type": "Other"
+            },
+            {
+              "end": 269,
+              "normalized_text": "HT2",
+              "probability": 0.7255,
+              "start": 267,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880295162104148440",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880163870901481519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial both 7-TMT and its 5-methoxy derivative 5-MeO-7-TMT produced behavioural responses similar to those of psychedelic drugs such as DMT, but the larger 7-ethyl and 7-bromo derivatives of DMT did not produce psychedelic responses despite having higher 5-HT2 receptor affinity in vitro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1880163870901481519",
+        "created_at": "2025-01-17T08:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:02:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880163799598264751",
+          "1880163870901481519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880163870901481519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1599,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉\n\n我们的DMT合法类似物测试失败了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 446,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 569
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "合法过检利他林｜您的抑郁症痊愈｜杀死失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi2加速回復｜ENG OK👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "Nootropic/向知性藥",
+        "name": "☯️🧬無極生物科技｜利他林 莫达非尼 专注达",
+        "pinned_tweet_id": "1880249297268273573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880246510853722112/ccqRc5aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8525,
+          "following_count": 364,
+          "like_count": 6173,
+          "listed_count": 25,
+          "media_count": 1329,
+          "tweet_count": 11024
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

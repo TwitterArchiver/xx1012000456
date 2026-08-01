@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075649268250234880",
+        "3_2075649292614991872",
+        "3_2075649333089959936",
+        "3_2075649363146395648"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075653283079922004",
+    "created_at": "2026-07-10T18:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075653283079922004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tm0mZRhrJ1",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+          "media_key": "3_2075649268250234880",
+          "start": 151,
+          "url": "https://t.co/tm0mZRhrJ1"
+        },
+        {
+          "display_url": "pic.x.com/tm0mZRhrJ1",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+          "media_key": "3_2075649292614991872",
+          "start": 151,
+          "url": "https://t.co/tm0mZRhrJ1"
+        },
+        {
+          "display_url": "pic.x.com/tm0mZRhrJ1",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+          "media_key": "3_2075649333089959936",
+          "start": 151,
+          "url": "https://t.co/tm0mZRhrJ1"
+        },
+        {
+          "display_url": "pic.x.com/tm0mZRhrJ1",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+          "media_key": "3_2075649363146395648",
+          "start": 151,
+          "url": "https://t.co/tm0mZRhrJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075653283079922004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.有可行性，七氟烷有点像N2O的原理，但药效强烈+是否可溶于丙二醇/甘油基的溶剂+热稳定性可能需要测试\n2.毒品的范围只有精、麻、非医用增补录这几个表，肯定不会\n3.不太能o，这东西你可以简单理解为喹硫平+舍曲林的复方😅\n4.开发肯定有人开发，成品估计还没有😅替来从氟胺酮/依托后就有人开发到成熟的 https://t.co/tm0mZRhrJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2075649268250234880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4wAyBa0AAi5eP.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075649292614991872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4wCMybgAAIj55.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075649333089959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4wEjkagAABlyK.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075649363146395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4wGTibUAAzoia.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075649268250234880",
+            "3_2075649292614991872",
+            "3_2075649333089959936",
+            "3_2075649363146395648"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075653283079922004",
+        "created_at": "2026-07-10T18:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075653283079922004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tm0mZRhrJ1",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+              "media_key": "3_2075649268250234880",
+              "start": 151,
+              "url": "https://t.co/tm0mZRhrJ1"
+            },
+            {
+              "display_url": "pic.x.com/tm0mZRhrJ1",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+              "media_key": "3_2075649292614991872",
+              "start": 151,
+              "url": "https://t.co/tm0mZRhrJ1"
+            },
+            {
+              "display_url": "pic.x.com/tm0mZRhrJ1",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+              "media_key": "3_2075649333089959936",
+              "start": 151,
+              "url": "https://t.co/tm0mZRhrJ1"
+            },
+            {
+              "display_url": "pic.x.com/tm0mZRhrJ1",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2075653283079922004/photo/1",
+              "media_key": "3_2075649363146395648",
+              "start": 151,
+              "url": "https://t.co/tm0mZRhrJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075653283079922004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.有可行性，七氟烷有点像N2O的原理，但药效强烈+是否可溶于丙二醇/甘油基的溶剂+热稳定性可能需要测试\n2.毒品的范围只有精、麻、非医用增补录这几个表，肯定不会\n3.不太能o，这东西你可以简单理解为喹硫平+舍曲林的复方😅\n4.开发肯定有人开发，成品估计还没有😅替来从氟胺酮/依托后就有人开发到成熟的 https://t.co/tm0mZRhrJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 673,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

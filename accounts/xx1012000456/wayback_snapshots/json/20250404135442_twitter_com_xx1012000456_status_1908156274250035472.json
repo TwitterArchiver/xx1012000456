@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1908150141204521215",
+    "created_at": "2025-04-04T13:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T14:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908156274250035472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784402348447813633",
+          "start": 0,
+          "username": "mimiymym1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908156274250035472",
+    "in_reply_to_user_id": "1784402348447813633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908150141204521215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimiymym1 确实这么一看这头发是真见鬼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1828,
+        "media_key": "3_1908150124360105985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnscbaSaAAEYizL.jpg",
+        "width": 1371
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908150124397944832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnscbabbYAAEvUs.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1908150141204521215",
+        "created_at": "2025-04-04T13:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908156274250035472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784402348447813633",
+              "start": 0,
+              "username": "mimiymym1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908156274250035472",
+        "in_reply_to_user_id": "1784402348447813633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908150141204521215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimiymym1 确实这么一看这头发是真见鬼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908150124360105985",
+            "3_1908150124397944832"
+          ]
+        },
+        "author_id": "1784402348447813633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908150141204521215",
+        "created_at": "2025-04-04T13:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908150141204521215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvDUJaXAjb",
+              "end": 31,
+              "expanded_url": "https://x.com/mimiymym1/status/1908150141204521215/photo/1",
+              "media_key": "3_1908150124360105985",
+              "start": 8,
+              "url": "https://t.co/zvDUJaXAjb"
+            },
+            {
+              "display_url": "pic.x.com/zvDUJaXAjb",
+              "end": 31,
+              "expanded_url": "https://x.com/mimiymym1/status/1908150141204521215/photo/1",
+              "media_key": "3_1908150124397944832",
+              "start": 8,
+              "url": "https://t.co/zvDUJaXAjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908150141204521215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就不爱化妆🙄 https://t.co/zvDUJaXAjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 519,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1345
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T02:00:54.000Z",
+        "description": "ただのお金好きの幽霊⤴︎188/520🚪小野daisiki🥰 @Jack830529 「主頁網址：封建迷信一條龍服務/詛咒係療愈係緩慢上新中…」其实我叫吱吱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Jack830529"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/QgIa8VtK",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/QgIa8VtK",
+                "start": 0,
+                "url": "https://t.co/NLjgg4bn4X"
+              }
+            ]
+          }
+        },
+        "id": "1784402348447813633",
+        "location": "🐈‍⬛门槛可用猫砂/猫粮代偿…",
+        "name": "妹様",
+        "pinned_tweet_id": "1905590921749565627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902722175913852928/kZoDnrII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5893,
+          "following_count": 160,
+          "like_count": 1454,
+          "listed_count": 18,
+          "media_count": 79,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/NLjgg4bn4X",
+        "username": "mimiymym1",
+        "verified": false
+      }
+    ]
+  }
+}

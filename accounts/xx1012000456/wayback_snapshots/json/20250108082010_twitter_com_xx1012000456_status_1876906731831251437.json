@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876906345447993345"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876192584357523578",
+    "created_at": "2025-01-08T08:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T09:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876906731831251437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822320938781978624",
+          "start": 0,
+          "username": "painofuuuuuuuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKDUhbDFZm",
+          "end": 70,
+          "expanded_url": "https://x.com/xx1012000456/status/1876906731831251437/photo/1",
+          "media_key": "3_1876906345447993345",
+          "start": 47,
+          "url": "https://t.co/bKDUhbDFZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876906731831251437",
+    "in_reply_to_user_id": "1822320938781978624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876192584357523578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painofuuuuuuuu 到货，包装很好，伪装手法也很真，一度让我怀疑快递是不是拿错了 https://t.co/bKDUhbDFZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1876906345447993345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwcYH0asAE_oyJ.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876906345447993345"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876192584357523578",
+        "created_at": "2025-01-08T08:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876906731831251437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822320938781978624",
+              "start": 0,
+              "username": "painofuuuuuuuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKDUhbDFZm",
+              "end": 70,
+              "expanded_url": "https://x.com/xx1012000456/status/1876906731831251437/photo/1",
+              "media_key": "3_1876906345447993345",
+              "start": 47,
+              "url": "https://t.co/bKDUhbDFZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876906731831251437",
+        "in_reply_to_user_id": "1822320938781978624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876192584357523578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painofuuuuuuuu 到货，包装很好，伪装手法也很真，一度让我怀疑快递是不是拿错了 https://t.co/bKDUhbDFZm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822320938781978624",
+        "conversation_id": "1876192584357523578",
+        "created_at": "2025-01-06T09:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T10:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876192584357523578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876192584357523578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4749,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "优格的港美反馈活动开始啦\n把在我这里下单收到货的港美拍照发到评论区转发本条推文即可参加抽奖活动~\n\n抽【8】个宝宝寄出【每人30t体验装】~也可留到以后免单🥰\n\n本周日开奖\n\n关注本账号以后有更多抽奖活动，不仅限普通港美，还有糖衣版港美，SNS等等，详情以后发布！敬请期待～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 424,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 485
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T17:15:58.000Z",
+        "description": "期待住進阿卡姆瘋人院的精神病患者！",
+        "id": "1822320938781978624",
+        "location": "阿卡姆瘋人院",
+        "name": "優格的藥代帳號（唯一）",
+        "pinned_tweet_id": "1823762366242161109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822321177517539328/tIlJRWIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 1,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "painofuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1876891912256233835",
+    "created_at": "2025-01-08T07:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876898499360378986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876898499360378986",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876891912256233835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 对的没问题，但这部分应该不重要吧😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1876891912256233835",
+        "created_at": "2025-01-08T07:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876898499360378986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876898499360378986",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876891912256233835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 对的没问题，但这部分应该不重要吧😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "1876891912256233835",
+        "created_at": "2025-01-08T07:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876891912256233835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🐰れん⊹’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1BRJj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BRJjwZlqBoxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1876891913296424960/bLwS6WoE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1876891913296424960/bLwS6WoE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 来监督我学习谁能教我物理必修三明天合格考",
+              "unwound_url": "https://twitter.com/i/spaces/1BRJjwZlqBoxw/peek",
+              "url": "https://t.co/LXqkmw14fE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876891912256233835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LXqkmw14fE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 422,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 482
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "ᜊ˃ ᵕ ˂ᜊ れん｜07高二｜喜欢唱歌打扮和白色相簿的美少女博主❄️想交朋友可以多多给我评论我会记住你哒",
+        "id": "1522094329954652161",
+        "location": "私信基本不回｜没有任何业务｜不互转不和陌生人互fo",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "1867557374745358476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866069081088270336/S2CbBQcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15472,
+          "following_count": 317,
+          "like_count": 8149,
+          "listed_count": 23,
+          "media_count": 741,
+          "tweet_count": 6725
+        },
+        "username": "0xo_snow",
+        "verified": false
+      }
+    ]
+  }
+}

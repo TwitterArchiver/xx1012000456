@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1899806005397188989",
+    "created_at": "2025-03-12T17:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T18:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899869468135927840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897309588699168768",
+          "start": 0,
+          "username": "right_drugs_knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899869468135927840",
+    "in_reply_to_user_id": "1897309588699168768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899806005397188989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@right_drugs_knl 什么也查不出来，医院不负责药物检验。肝肾功能我反正在12小时内做过生化25项，也没有特别夸张的标志性异常。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899806005397188989",
+        "created_at": "2025-03-12T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899869468135927840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897309588699168768",
+              "start": 0,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899869468135927840",
+        "in_reply_to_user_id": "1897309588699168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899806005397188989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right_drugs_knl 什么也查不出来，医院不负责药物检验。肝肾功能我反正在12小时内做过生化25项，也没有特别夸张的标志性异常。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897309588699168768",
+        "conversation_id": "1899806005397188989",
+        "created_at": "2025-03-12T12:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899806005397188989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899806005397188989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多oder会惧怕去医院，担心查出来什么。其实不用怕，绝大多数时候不会查的，除非你手上有自残痕迹这种，医生才会往那边想。有病乖乖去看就行，身体重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 895
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 48,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      }
+    ]
+  }
+}

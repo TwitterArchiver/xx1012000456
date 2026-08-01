@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1916936583514886401",
+    "created_at": "2025-04-28T19:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T20:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916937350581784738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "sonanimonaikedo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916937350581784738",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916936583514886401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonanimonaikedo 并不，你要是年纪大我就是老爷爷了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1916936583514886401",
+        "created_at": "2025-04-28T19:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T20:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916937350581784738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "sonanimonaikedo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916937350581784738",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916936583514886401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonanimonaikedo 并不，你要是年纪大我就是老爷爷了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1916936583514886401",
+        "created_at": "2025-04-28T19:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916936583514886401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916936583514886401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点接受不了自己在推特中文已经算是年龄最大的那批了(擦汗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 534,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1458
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ",
+        "id": "1847153221900685312",
+        "location": "🚪门槛188/288/520▪️",
+        "name": "匿名",
+        "pinned_tweet_id": "1886404944393314796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913489558832058368/ZH4U8p2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 255,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 961
+        },
+        "username": "sonanimonaikedo",
+        "verified": false
+      }
+    ]
+  }
+}

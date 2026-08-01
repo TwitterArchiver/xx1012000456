@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1896225740368322683",
+    "created_at": "2025-03-02T18:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T19:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896268556444270952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1669293678836465664",
+          "start": 0,
+          "username": "xixxxci"
+        },
+        {
+          "end": 24,
+          "id": "13605432",
+          "start": 9,
+          "username": "FelicityCWells"
+        },
+        {
+          "end": 39,
+          "id": "1600208165269741570",
+          "start": 25,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896268556444270952",
+    "in_reply_to_user_id": "1669293678836465664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896262402968338882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixxxci @FelicityCWells @MeowCatherina 效果没那么差，所有胰高血糖素受体药物都可以使用，无非是效力和副作用有区别，司美做过FDA认证，数据相对准确。就和没有布洛芬退烧完全可以使用依托考昔、氨基比林、双氯芬酸一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1896225740368322683",
+        "created_at": "2025-03-02T18:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T19:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896268556444270952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1669293678836465664",
+              "start": 0,
+              "username": "xixxxci"
+            },
+            {
+              "end": 24,
+              "id": "13605432",
+              "start": 9,
+              "username": "FelicityCWells"
+            },
+            {
+              "end": 39,
+              "id": "1600208165269741570",
+              "start": 25,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896268556444270952",
+        "in_reply_to_user_id": "1669293678836465664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896262402968338882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixxxci @FelicityCWells @MeowCatherina 效果没那么差，所有胰高血糖素受体药物都可以使用，无非是效力和副作用有区别，司美做过FDA认证，数据相对准确。就和没有布洛芬退烧完全可以使用依托考昔、氨基比林、双氯芬酸一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669293678836465664",
+        "conversation_id": "1896225740368322683",
+        "created_at": "2025-03-02T18:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T19:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896262402968338882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "13605432",
+              "start": 0,
+              "username": "FelicityCWells"
+            },
+            {
+              "end": 30,
+              "id": "1600208165269741570",
+              "start": 16,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896262402968338882",
+        "in_reply_to_user_id": "13605432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896230941586346221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FelicityCWells @MeowCatherina 我今天刚打这个😨原来效果这么差吗\n而且原价买不比司美便宜多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 473,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 834
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T10:40:12.000Z",
+        "description": "精神病院日记本\n\n永远的主人兼爱人是@KanagawaerWren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "KanagawaerWren"
+              }
+            ]
+          }
+        },
+        "id": "1669293678836465664",
+        "location": "第五高原",
+        "name": "阴暗猫罐头",
+        "pinned_tweet_id": "1804120139056714175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874028406331105287/MrwIEZB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 396,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 533
+        },
+        "username": "xixxxci",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🧬new 👗girl 🎀and 🖖still 🚀scifi 🌌space 🤖nerd 🌈arc\n∞asd 🦋adhd 🥀mdd ❤️‍🩹cptsd 💋agp 🌸sapphic\n🏳️‍⚧️she/her/slut",
+        "id": "13605432",
+        "location": "RLE/Terra-Sol",
+        "name": "✨Lady💋Felicity✨🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871561615004606465/2SO0dw9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 3512,
+          "like_count": 8782,
+          "listed_count": 38,
+          "media_count": 580,
+          "tweet_count": 29247
+        },
+        "username": "FelicityCWells",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INFP｜⚠️是一只学不会说话和社交的小阿斯｜🐈/🏹/🚴/💻｜CS&EE&AM｜某司高管(逃)｜🍝FSM｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🏫Monash｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜❤️@Carafutaba @AsabaSeiban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Carafutaba"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "AsabaSeiban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893683122824429568/1r72TXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 1002,
+          "like_count": 44791,
+          "listed_count": 16,
+          "media_count": 1481,
+          "tweet_count": 16089
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

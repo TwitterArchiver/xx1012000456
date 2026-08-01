@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1899755412112478416",
+    "created_at": "2025-03-12T13:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T14:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899809634371915818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899809634371915818",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899809533318611171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 打了个错字“做”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899755412112478416",
+        "created_at": "2025-03-12T13:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899809634371915818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899809634371915818",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899809533318611171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 打了个错字“做”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1899755412112478416",
+        "created_at": "2025-03-12T13:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899809533318611171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899809533318611171",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899755412112478416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 如果你能在大陆法同样的调查，你会发现结果也差不多🤣爱好战争的大多都是觉得自己不用上战场的或者别有用心的，俄罗斯刚打起来不也势如破竹，发现风向不顺士气就不一定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 886
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🇺🇦🇺🇦🇺🇦",
+        "id": "1699273459325390848",
+        "location": "Victoria, Australia",
+        "name": "Luke 桜局長 ⛩️",
+        "pinned_tweet_id": "1899150127555834356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1321,
+          "like_count": 16541,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 5053
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

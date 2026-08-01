@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924356325108220167",
+    "created_at": "2025-05-19T16:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924498550270079183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924498550270079183",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924496440589684784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 真记错了😅我一直觉得沙鹰是45马格南，45的手枪真没任何印象，左轮或1911吗？我对我国涉枪的印象一直是大批大批的仿黑星，制式武器很多吗？回填弹在我国这种一没废弃物二没优质火药表现肯定不良"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924356325108220167",
+        "created_at": "2025-05-19T16:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924498550270079183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924498550270079183",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924496440589684784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 真记错了😅我一直觉得沙鹰是45马格南，45的手枪真没任何印象，左轮或1911吗？我对我国涉枪的印象一直是大批大批的仿黑星，制式武器很多吗？回填弹在我国这种一没废弃物二没优质火药表现肯定不良"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645627834701082624",
+        "conversation_id": "1924356325108220167",
+        "created_at": "2025-05-19T16:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924496440589684784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924496440589684784",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924495860215517642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 你又从哪看到的小工厂作坊了…武汉之前涉黑这么多遗留枪支上万把光走私案件就数不清了，真当人人白沙瓦手搓呗…你那句.45是沙鹰我就看清你成分了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1535
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "🚪30\n@keaiiea←这是我的黄推号\n入门可关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas",
+        "pinned_tweet_id": "1914812256770199869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1337,
+          "like_count": 46675,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 3715
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

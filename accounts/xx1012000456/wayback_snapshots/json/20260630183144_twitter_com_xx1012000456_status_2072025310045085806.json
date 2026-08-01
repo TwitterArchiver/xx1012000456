@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072023515000389632",
+        "3_2072023551226564609",
+        "3_2072023586643337216"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2072025310045085806",
+    "created_at": "2026-06-30T18:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072025310045085806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pw5E5Qgrsb",
+          "end": 161,
+          "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+          "media_key": "3_2072023515000389632",
+          "start": 138,
+          "url": "https://t.co/Pw5E5Qgrsb"
+        },
+        {
+          "display_url": "pic.x.com/Pw5E5Qgrsb",
+          "end": 161,
+          "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+          "media_key": "3_2072023551226564609",
+          "start": 138,
+          "url": "https://t.co/Pw5E5Qgrsb"
+        },
+        {
+          "display_url": "pic.x.com/Pw5E5Qgrsb",
+          "end": 161,
+          "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+          "media_key": "3_2072023586643337216",
+          "start": 138,
+          "url": "https://t.co/Pw5E5Qgrsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072025310045085806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1delsym是单方右美，海外止咳很多也是复方，自己一个个查成分就好\n2我不知道，但是他肯定是发了货之后出事的，货在揽收后1h被召回\n3由2知肯定是被抓了，买家有可能被晶。大概率做个笔录有可能会被定吸毒，小概率14或37天，极小概率参考我和于小姐（在北京请赶紧换个城市待😅） https://t.co/Pw5E5Qgrsb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2072023515000389632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFOaKnawAAq8mw.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072023551226564609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFOcRkaUAEKDxQ.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2072023586643337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFOeVgbYAA5S-K.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072023515000389632",
+            "3_2072023551226564609",
+            "3_2072023586643337216"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2072025310045085806",
+        "created_at": "2026-06-30T18:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072025310045085806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pw5E5Qgrsb",
+              "end": 161,
+              "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+              "media_key": "3_2072023515000389632",
+              "start": 138,
+              "url": "https://t.co/Pw5E5Qgrsb"
+            },
+            {
+              "display_url": "pic.x.com/Pw5E5Qgrsb",
+              "end": 161,
+              "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+              "media_key": "3_2072023551226564609",
+              "start": 138,
+              "url": "https://t.co/Pw5E5Qgrsb"
+            },
+            {
+              "display_url": "pic.x.com/Pw5E5Qgrsb",
+              "end": 161,
+              "expanded_url": "https://x.com/xx1012000456/status/2072025310045085806/photo/1",
+              "media_key": "3_2072023586643337216",
+              "start": 138,
+              "url": "https://t.co/Pw5E5Qgrsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072025310045085806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1delsym是单方右美，海外止咳很多也是复方，自己一个个查成分就好\n2我不知道，但是他肯定是发了货之后出事的，货在揽收后1h被召回\n3由2知肯定是被抓了，买家有可能被晶。大概率做个笔录有可能会被定吸毒，小概率14或37天，极小概率参考我和于小姐（在北京请赶紧换个城市待😅） https://t.co/Pw5E5Qgrsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 634,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

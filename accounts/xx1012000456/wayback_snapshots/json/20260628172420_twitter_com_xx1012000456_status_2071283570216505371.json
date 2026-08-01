@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071181046985707698",
+    "created_at": "2026-06-28T17:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071283570216505371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071283570216505371",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071181046985707698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 这东西没有达成共识，24年就有测试这东西的报告。感觉有很大的个体差异"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071181033920450560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5QLUBa0AARuwh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071181046985707698",
+        "created_at": "2026-06-28T17:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071283570216505371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071283570216505371",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181046985707698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 这东西没有达成共识，24年就有测试这东西的报告。感觉有很大的个体差异"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071181033920450560"
+          ]
+        },
+        "author_id": "1591344896757026821",
+        "conversation_id": "2071181046985707698",
+        "created_at": "2026-06-28T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071181046985707698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObwxlivJsV",
+              "end": 41,
+              "expanded_url": "https://x.com/xng328460971/status/2071181046985707698/photo/1",
+              "media_key": "3_2071181033920450560",
+              "start": 18,
+              "url": "https://t.co/ObwxlivJsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071181046985707698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1153,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下就是。这个有娱乐价值吗？ https://t.co/ObwxlivJsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 617,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…\n｜自伤｜od｜同类互fo｜画画的｜不加墙内｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2047528717719642466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 173,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

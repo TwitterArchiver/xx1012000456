@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067659067183759772",
+    "created_at": "2026-06-18T17:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067659067183759772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caomeiweimaoma…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/caomeiweimaomao/status/1997193423913390508",
+          "start": 70,
+          "url": "https://t.co/sO2ZABqnhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067659067183759772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997193423913390508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚从看守所出来就得到这个噩耗，本来想着25年就去线下见你，本来想着有一天取保出去就周游全国见见网友，可惜😭\nRIP，我的导师，我的引路人🙏 https://t.co/sO2ZABqnhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997193417760415745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7d01PVboAEzvxv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067659067183759772",
+        "created_at": "2026-06-18T17:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067659067183759772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caomeiweimaoma…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/caomeiweimaomao/status/1997193423913390508",
+              "start": 70,
+              "url": "https://t.co/sO2ZABqnhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067659067183759772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997193423913390508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚从看守所出来就得到这个噩耗，本来想着25年就去线下见你，本来想着有一天取保出去就周游全国见见网友，可惜😭\nRIP，我的导师，我的引路人🙏 https://t.co/sO2ZABqnhD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997193417760415745"
+          ]
+        },
+        "author_id": "1499709348616241155",
+        "conversation_id": "1997193423913390508",
+        "created_at": "2025-12-06T06:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997193423913390508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFFw4fvPXh",
+              "end": 26,
+              "expanded_url": "https://x.com/caomeiweimaomao/status/1997193423913390508/photo/1",
+              "media_key": "3_1997193417760415745",
+              "start": 3,
+              "url": "https://t.co/uFFw4fvPXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997193423913390508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 161561,
+          "like_count": 270,
+          "quote_count": 24,
+          "reply_count": 218,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "阳光 https://t.co/uFFw4fvPXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 462,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1678
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀写故事的人丨🦜嘤鹉：@SENDOH214丨🚪55",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "SENDOH214"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天国",
+        "name": "爱礼",
+        "pinned_tweet_id": "1929894091644645497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38976,
+          "following_count": 1024,
+          "like_count": 23452,
+          "listed_count": 57,
+          "media_count": 2922,
+          "tweet_count": 31992
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

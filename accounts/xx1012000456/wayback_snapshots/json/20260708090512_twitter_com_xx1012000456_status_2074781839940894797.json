@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2074387083851141289",
+    "created_at": "2026-07-08T09:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074781839940894797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1804951689553924096",
+          "start": 0,
+          "username": "Ccjnya"
+        },
+        {
+          "end": 19,
+          "id": "1900582570045353984",
+          "start": 8,
+          "username": "nnn1748713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074781839940894797",
+    "in_reply_to_user_id": "1804951689553924096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074750984866451486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccjnya @nnn1748713 心电图吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2074387083851141289",
+        "created_at": "2026-07-08T09:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074781839940894797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1804951689553924096",
+              "start": 0,
+              "username": "Ccjnya"
+            },
+            {
+              "end": 19,
+              "id": "1900582570045353984",
+              "start": 8,
+              "username": "nnn1748713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781839940894797",
+        "in_reply_to_user_id": "1804951689553924096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074750984866451486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccjnya @nnn1748713 心电图吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804951689553924096",
+        "conversation_id": "2074387083851141289",
+        "created_at": "2026-07-08T07:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074750984866451486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900582570045353984",
+              "start": 0,
+              "username": "nnn1748713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074750984866451486",
+        "in_reply_to_user_id": "1900582570045353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410743349522552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnn1748713 我说下面贴的。我去抢救的时候给我贴的撕下来还留胶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 659,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1905
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T18:56:48.000Z",
+        "description": "·＋复活＋·⎮我的发疯日常@@Ccjnya｜穿刺/原创绘画/switch⎮混合型双相情感障碍伴精神性重度抑郁｜infp｜🚪88/288/688｜为我哭泣｜盗图替我挡灾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "Ccjnya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+QaHFjdfUlVFkZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+QaHFjdfUlVFkZTNl",
+                "start": 0,
+                "url": "https://t.co/4JEMghn4ip"
+              }
+            ]
+          }
+        },
+        "id": "1804951689553924096",
+        "location": "刺痛 烫伤 刀割 窒息 中毒 抽搐 肢解 榨汁 品尝",
+        "name": "刺刺",
+        "pinned_tweet_id": "1826887243732320622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049183890619985920/hLDTIUAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 74,
+          "like_count": 624,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/4JEMghn4ip",
+        "username": "Ccjnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T16:19:42.000Z",
+        "description": "",
+        "id": "1900582570045353984",
+        "name": "你你你",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "nnn1748713",
+        "verified": false
+      }
+    ]
+  }
+}

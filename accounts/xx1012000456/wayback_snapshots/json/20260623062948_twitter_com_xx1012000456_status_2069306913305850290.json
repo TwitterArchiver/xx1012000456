@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069301291172642856",
+    "created_at": "2026-06-23T06:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069306913305850290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069306913305850290",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069301291172642856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 你骗人😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069301291172642856",
+        "created_at": "2026-06-23T06:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069306913305850290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069306913305850290",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069301291172642856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 你骗人😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "2069301291172642856",
+        "created_at": "2026-06-23T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069301291172642856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069301291172642856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我已经几个月没有收到🚪了你们太坏蛋了 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 575,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💙🌍 神@nagaikousi_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "nagaikousi_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1UFB7LOMI2R6F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/uTbdtOmXZG"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "2015443909175066858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066082337037955072/j5K3AZK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21256,
+          "following_count": 389,
+          "like_count": 16836,
+          "listed_count": 69,
+          "media_count": 925,
+          "tweet_count": 7146
+        },
+        "url": "https://t.co/uTbdtOmXZG",
+        "username": "skura_ku",
+        "verified": true
+      }
+    ]
+  }
+}

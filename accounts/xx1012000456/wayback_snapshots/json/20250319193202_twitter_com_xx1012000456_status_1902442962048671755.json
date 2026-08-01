@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902236960501981204",
+    "created_at": "2025-03-19T19:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T20:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902442962048671755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 26,
+          "id": "1476149587421413386",
+          "start": 17,
+          "username": "2O12O72O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902442962048671755",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902245854951493738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od @2O12O72O 这东西不就基本是赛洛西宾吗😅一个磷酸酯一个乙酸酯的区别而已😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902236960501981204",
+        "created_at": "2025-03-19T19:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902442962048671755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 26,
+              "id": "1476149587421413386",
+              "start": 17,
+              "username": "2O12O72O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902442962048671755",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902245854951493738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od @2O12O72O 这东西不就基本是赛洛西宾吗😅一个磷酸酯一个乙酸酯的区别而已😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1902236960501981204",
+        "created_at": "2025-03-19T06:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T07:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902245854951493738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476149587421413386",
+              "start": 0,
+              "username": "2O12O72O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902245854951493738",
+        "in_reply_to_user_id": "1476149587421413386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902236960501981204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2O12O72O 没有赛罗西宾没意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 483,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 978
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神 本账号为多人账号 发广告和发几把照片的直接拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1901216591343391081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5762,
+          "following_count": 4439,
+          "like_count": 2966,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T11:14:34.000Z",
+        "description": "絵｜世界是一片荒原。",
+        "id": "1476149587421413386",
+        "name": "10⁴⁰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901030524074029060/hj_N6pHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 189,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 173
+        },
+        "username": "2O12O72O",
+        "verified": false
+      }
+    ]
+  }
+}

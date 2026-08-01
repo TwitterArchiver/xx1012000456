@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070448067917283457",
+    "created_at": "2026-06-27T14:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070882591230824564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        },
+        {
+          "end": 28,
+          "id": "1560533329912311808",
+          "start": 16,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070882591230824564",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070566187508121731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 @BdZzbw6goo2 舌下的本质是通过口腔黏膜吸收物质，尽量避免口水带着物质吞下去就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070448067917283457",
+        "created_at": "2026-06-27T14:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070882591230824564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            },
+            {
+              "end": 28,
+              "id": "1560533329912311808",
+              "start": 16,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070882591230824564",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070566187508121731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 @BdZzbw6goo2 舌下的本质是通过口腔黏膜吸收物质，尽量避免口水带着物质吞下去就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2070448067917283457",
+        "created_at": "2026-06-26T17:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070566187508121731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070566187508121731",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070503133911114209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 就是放舌头下面让它自己化开吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 613,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 239,
+          "like_count": 3508,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1240,
+          "like_count": 83561,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

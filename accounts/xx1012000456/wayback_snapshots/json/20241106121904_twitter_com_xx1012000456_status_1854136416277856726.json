@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854134413418009021",
+    "created_at": "2024-11-06T12:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T13:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854136416277856726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1640801817142624257",
+          "start": 0,
+          "username": "caicai4_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854136416277856726",
+    "in_reply_to_user_id": "1640801817142624257",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854134413418009021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai4_0 记得准备可乐定或者美托洛尔做下机或对抗🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854134413418009021",
+        "created_at": "2024-11-06T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854136416277856726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640801817142624257",
+              "start": 0,
+              "username": "caicai4_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854136416277856726",
+        "in_reply_to_user_id": "1640801817142624257",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854134413418009021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai4_0 记得准备可乐定或者美托洛尔做下机或对抗🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640801817142624257",
+        "conversation_id": "1854134413418009021",
+        "created_at": "2024-11-06T12:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854134413418009021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854134413418009021",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马不玩苯乙胺了下次把自己玩死了感觉要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 358,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 257
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T19:43:33.000Z",
+        "description": "我是一具尸体 小号@caicai5_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "caicai5_0"
+              }
+            ]
+          }
+        },
+        "id": "1640801817142624257",
+        "name": "菜菜4.0",
+        "pinned_tweet_id": "1707585740790501740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644893260362711040/JFGmDGaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 212,
+          "like_count": 1138,
+          "listed_count": 7,
+          "tweet_count": 1577
+        },
+        "username": "caicai4_0",
+        "verified": false
+      }
+    ]
+  }
+}

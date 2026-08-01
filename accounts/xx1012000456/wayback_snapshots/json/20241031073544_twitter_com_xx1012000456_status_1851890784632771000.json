@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1849505326820946338",
+    "created_at": "2024-10-31T07:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T08:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851890784632771000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        },
+        {
+          "end": 27,
+          "id": "1804587925805596672",
+          "start": 12,
+          "username": "OverSpeed_Wiki"
+        },
+        {
+          "end": 42,
+          "id": "1374591253631836169",
+          "start": 28,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851890784632771000",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851841684348506130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 @OverSpeed_Wiki @OVERDOSE_Wiki 我把资料和论文又看了一遍，好像确实不好解释。右啡烷的NMDA活性大概是右美的3-5倍，2D6通道好像是占比80%以上，复杂的药代动力学实验数据我也不是很明白，但似乎是抑制2D6维持血药浓度的收益比2D6正常代谢产生右啡烷的收益高（7-8%的人右美代谢慢，血药浓度可达正常人的20倍）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1849505326820946338",
+        "created_at": "2024-10-31T07:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T08:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851890784632771000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 27,
+              "id": "1804587925805596672",
+              "start": 12,
+              "username": "OverSpeed_Wiki"
+            },
+            {
+              "end": 42,
+              "id": "1374591253631836169",
+              "start": 28,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851890784632771000",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851841684348506130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 @OverSpeed_Wiki @OVERDOSE_Wiki 我把资料和论文又看了一遍，好像确实不好解释。右啡烷的NMDA活性大概是右美的3-5倍，2D6通道好像是占比80%以上，复杂的药代动力学实验数据我也不是很明白，但似乎是抑制2D6维持血药浓度的收益比2D6正常代谢产生右啡烷的收益高（7-8%的人右美代谢慢，血药浓度可达正常人的20倍）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1849505326820946338",
+        "created_at": "2024-10-31T04:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T05:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851841684348506130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 29,
+              "id": "1804587925805596672",
+              "start": 14,
+              "username": "OverSpeed_Wiki"
+            },
+            {
+              "end": 44,
+              "id": "1374591253631836169",
+              "start": 30,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851841684348506130",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851828289549242509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @OverSpeed_Wiki @OVERDOSE_Wiki 我的意思是只取DXM本体吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 318,
+          "like_count": 7,
+          "listed_count": 1,
+          "tweet_count": 210
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "☂︎英那河畔大天使☂︎丨我会清fo",
+        "id": "1617685747116675073",
+        "location": "IP属地：土星",
+        "name": "牧雨",
+        "pinned_tweet_id": "1816846415689400450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848788934719115266/VPh7XtIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 508,
+          "like_count": 37581,
+          "listed_count": 1,
+          "tweet_count": 4754
+        },
+        "username": "_mucha_000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为OSSuki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CW7Im"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OvackSpeed Suki",
+        "pinned_tweet_id": "1807266640221872551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 458,
+          "like_count": 6516,
+          "listed_count": 1,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/YS4b5CW7Im",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T05:17:57.000Z",
+        "description": "这里是od-wiki在官网上标明的唯一官号，od-wiki已恢复全部数据并正常运营，会乱关注人，会乱点赞，会乱转发，会乱向别人发私信，请见谅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/zUSII2h4qr"
+              }
+            ]
+          }
+        },
+        "id": "1374591253631836169",
+        "location": "✝️天国✝️",
+        "name": "OverdoseWiki",
+        "pinned_tweet_id": "1846545450343780399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809949044544024576/AiQM__jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 219,
+          "like_count": 1197,
+          "listed_count": 0,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/zUSII2h4qr",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

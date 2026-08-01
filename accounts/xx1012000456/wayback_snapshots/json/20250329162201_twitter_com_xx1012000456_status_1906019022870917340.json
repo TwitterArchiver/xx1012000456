@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905971375631691858",
+    "created_at": "2025-03-29T16:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T17:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906019022870917340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669543422586421248",
+          "start": 0,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906019022870917340",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905971375631691858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Letana358121 虽然我不知道为什么，在我的成长经历中好像是因为有谣言致癌，什么薯条致癌炸鸡致癌染发致癌，甚至还是央视带的节奏。因此可能讲抽烟喝酒烫头放在一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-29T16:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906019022870917340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906019022870917340",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905971375631691858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 虽然我不知道为什么，在我的成长经历中好像是因为有谣言致癌，什么薯条致癌炸鸡致癌染发致癌，甚至还是央视带的节奏。因此可能讲抽烟喝酒烫头放在一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1905971375631691858",
+        "created_at": "2025-03-29T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905971375631691858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905971375631691858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1156,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直很不理解一个点，就是为什么中国人喜欢把抽烟喝酒和烫头染发放到一起去？抽烟喝酒被叫做不良嗜好，我能理解。毕竟这个确实对身体不好，但是烫头染发不是最多也就对头皮不好吗？而且爱美之心人皆有追求美又有什么错呢？为什么就被放在一起说成是一个坏孩子的象征呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 506,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1238
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1896157793171988526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253266722328577/3wQ85jIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1134,
+          "like_count": 36987,
+          "listed_count": 5,
+          "media_count": 1516,
+          "tweet_count": 13220
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

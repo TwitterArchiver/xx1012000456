@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1895343042091229570",
+    "created_at": "2025-03-12T16:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T17:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899865922057519610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1836030544272117760",
+          "start": 0,
+          "username": "koiyuQvQ"
+        },
+        {
+          "end": 19,
+          "id": "1826984800390889472",
+          "start": 10,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899865922057519610",
+    "in_reply_to_user_id": "1836030544272117760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899479673601695807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koiyuQvQ @LethalRC DPT：俗名二丙基色胺，标准化学名3-[2-(二丙基氨基)乙基]吲哚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1895343042091229570",
+        "created_at": "2025-03-12T16:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T17:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899865922057519610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1836030544272117760",
+              "start": 0,
+              "username": "koiyuQvQ"
+            },
+            {
+              "end": 19,
+              "id": "1826984800390889472",
+              "start": 10,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899865922057519610",
+        "in_reply_to_user_id": "1836030544272117760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899479673601695807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koiyuQvQ @LethalRC DPT：俗名二丙基色胺，标准化学名3-[2-(二丙基氨基)乙基]吲哚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836030544272117760",
+        "conversation_id": "1895343042091229570",
+        "created_at": "2025-03-11T15:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899479673601695807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899479673601695807",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895343042091229570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC 1688 dpt搜什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 481,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 891
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T13:12:57.000Z",
+        "description": "",
+        "id": "1836030544272117760",
+        "name": "她走之後留下的愛我在蚕食",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890785445077983232/ls3CDysu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "koiyuQvQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "纯良地雷男｜LehtalRC老板 | OD相关问题解答 | 提供各类研究化学品（禁止服用）永久群组用户名：https://t.co/r3NePGKCHK OD科普机器人：https://t.co/AU4I64XZOO 自助购物：https://t.co/Usj1sMLusv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 76,
+                "expanded_url": "https://t.me/LethalRC",
+                "start": 53,
+                "url": "https://t.co/r3NePGKCHK"
+              },
+              {
+                "display_url": "t.me/DrugDataBot",
+                "end": 108,
+                "expanded_url": "https://t.me/DrugDataBot",
+                "start": 85,
+                "url": "https://t.co/AU4I64XZOO"
+              },
+              {
+                "display_url": "t.me/LethalRC_bot",
+                "end": 137,
+                "expanded_url": "https://t.me/LethalRC_bot",
+                "start": 114,
+                "url": "https://t.co/Usj1sMLusv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 23,
+                "expanded_url": "http://t.me/LethalRC",
+                "start": 0,
+                "url": "https://t.co/X82pA7CmoH"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "荷兰",
+        "name": "凌驾",
+        "pinned_tweet_id": "1882019627238338898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 34,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/X82pA7CmoH",
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

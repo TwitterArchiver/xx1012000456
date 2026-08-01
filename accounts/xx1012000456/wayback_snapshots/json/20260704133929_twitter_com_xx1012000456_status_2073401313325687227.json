@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073375788897067441",
+    "created_at": "2026-07-04T13:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073401313325687227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073401313325687227",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073375788897067441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 这个频率就算是RC也太....😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22766,
+        "height": 720,
+        "media_key": "13_2073375696974671872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073375696974671872/img/lQif73Pny_J8cbfn.jpg",
+        "public_metrics": {
+          "view_count": 4568
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073375696974671872/vid/avc1/480x270/5y1bhoaCgDp1e1Dr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073375696974671872/vid/avc1/640x360/j4ZvrxRerm2Es1u5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073375696974671872/vid/avc1/1280x720/9blwWRZA756MpXeR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073375696974671872/pl/hUSzXkD9lt-PyQQF.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073375788897067441",
+        "created_at": "2026-07-04T13:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073401313325687227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073401313325687227",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073375788897067441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 这个频率就算是RC也太....😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073375696974671872"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073375788897067441",
+        "created_at": "2026-07-04T11:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073375788897067441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReCeHkHXsw",
+              "end": 55,
+              "expanded_url": "https://x.com/5oke_k29/status/2073375788897067441/video/1",
+              "media_key": "13_2073375696974671872",
+              "start": 32,
+              "url": "https://t.co/ReCeHkHXsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073375788897067441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9957,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的最后一次 从明天开始我要开始控制次数了..我不想这么频繁 https://t.co/ReCeHkHXsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 651,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1867
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 129,
+          "like_count": 931,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 2299
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

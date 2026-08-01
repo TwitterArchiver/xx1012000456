@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905528249796739485",
+    "created_at": "2025-03-28T15:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905644543803797628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869848673288331264",
+          "start": 0,
+          "username": "CartierILOVEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905644543803797628",
+    "in_reply_to_user_id": "1869848673288331264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905528249796739485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CartierILOVEU 那这条黑我有点魔怔了，建议换一条嗷。yuki是我朋友，我是他的法律咨询和用药咨询，另外两位至少也是群友，不好意是还真比你熟哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905528249796739485",
+        "created_at": "2025-03-28T15:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905644543803797628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869848673288331264",
+              "start": 0,
+              "username": "CartierILOVEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905644543803797628",
+        "in_reply_to_user_id": "1869848673288331264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905528249796739485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CartierILOVEU 那这条黑我有点魔怔了，建议换一条嗷。yuki是我朋友，我是他的法律咨询和用药咨询，另外两位至少也是群友，不好意是还真比你熟哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869848673288331264",
+        "conversation_id": "1905528249796739485",
+        "created_at": "2025-03-28T07:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T08:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905528249796739485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx1012000456/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/xx1012000456/status/1905491880671862786",
+              "start": 53,
+              "url": "https://t.co/ncCB0jg7SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905528249796739485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905491880671862786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這哥們不會真以為自己很聰明吧天天評論區底下裝瘋賣傻 你和別人很熟嗎一天到晚評價這個評價那個 最支那的一集 https://t.co/ncCB0jg7SL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1206
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T20:54:19.000Z",
+        "description": "我會詛咒所有人❤",
+        "id": "1869848673288331264",
+        "location": "臺灣國",
+        "name": "瘋狂謀杀犯",
+        "pinned_tweet_id": "1897314493346218115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899662489744465920/iBkdwJYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 101,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 204
+        },
+        "username": "CartierILOVEU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907262022108266918",
+    "created_at": "2025-04-02T07:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T08:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907336535457792120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907336535457792120",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907262022108266918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 坏了，好像是海眠😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907262022108266918",
+        "created_at": "2025-04-02T07:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907336535457792120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907336535457792120",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907262022108266918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 坏了，好像是海眠😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "1907262022108266918",
+        "created_at": "2025-04-02T02:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907262022108266918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907262022108266918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到现在还是觉得第一个骂碳酸锂的简直就是天才啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 512,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1295
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪99/188详情可以私信我(｡ì _ í｡)这是我的小号关注她好吗@ayou080103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "ayou080103"
+              }
+            ]
+          }
+        },
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10348,
+          "following_count": 499,
+          "like_count": 10063,
+          "listed_count": 20,
+          "media_count": 210,
+          "tweet_count": 8648
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

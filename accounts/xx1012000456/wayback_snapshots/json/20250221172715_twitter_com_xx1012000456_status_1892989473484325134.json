@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1892984595953389747",
+    "created_at": "2025-02-21T17:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T18:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892989473484325134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892989473484325134",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892984595953389747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 军队应该天生对觉醒剂持更宽容的态度，毕竟士兵是耗材（bushi），能人造几个X国队长就是赚的。二战和冷战期间就已经大规模使用柏飞丁（安非他命）了，现代战争估计直接按人发觉醒剂都可能🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 273,
+        "media_key": "3_1892984581651079170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkU7cpKaoAIRaDT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1892984595953389747",
+        "created_at": "2025-02-21T17:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T18:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892989473484325134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892989473484325134",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892984595953389747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 军队应该天生对觉醒剂持更宽容的态度，毕竟士兵是耗材（bushi），能人造几个X国队长就是赚的。二战和冷战期间就已经大规模使用柏飞丁（安非他命）了，现代战争估计直接按人发觉醒剂都可能🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892984581651079170"
+          ]
+        },
+        "author_id": "1614594152062406656",
+        "conversation_id": "1892984595953389747",
+        "created_at": "2025-02-21T17:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T18:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892984595953389747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "81.cn/yw_208727/9914",
+              "end": 102,
+              "expanded_url": "http://81.cn/yw_208727/9914",
+              "start": 79,
+              "status": 404,
+              "unwound_url": "http://www.81.cn/yw_208727/9914",
+              "url": "https://t.co/tbrymVMU4R"
+            },
+            {
+              "display_url": "pic.x.com/y6dIbEGvO7",
+              "end": 126,
+              "expanded_url": "https://x.com/fnggnjn1/status/1892984595953389747/photo/1",
+              "media_key": "3_1892984581651079170",
+              "start": 103,
+              "url": "https://t.co/y6dIbEGvO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892984595953389747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国军网真有意思（承认了利他林的正面作用 \n但是中国的其他媒体从不承认其正面作用😆😆😆\n本文作者是不是应该去和xx禁毒的编辑探讨出一个统一性的结果?🤣🤣🤣） https://t.co/tbrymVMU4R https://t.co/y6dIbEGvO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 467,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 756
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化研究者 物种：蛆 可以叫我蛆老师 反超人主义 提供用药及药理咨询（不包括任何已列管毒品！） 不推荐任何人使用我提到的药品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yiqunfeiwu",
+                "end": 23,
+                "expanded_url": "https://t.me/yiqunfeiwu",
+                "start": 0,
+                "url": "https://t.co/Nc6Ly3FTVF"
+              }
+            ]
+          }
+        },
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884396929767071746/vz8FuozQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 35,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/Nc6Ly3FTVF",
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

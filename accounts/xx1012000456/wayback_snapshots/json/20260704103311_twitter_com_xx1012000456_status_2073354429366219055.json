@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073095976672469361",
+    "created_at": "2026-07-04T10:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073354429366219055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044100242413375488",
+          "start": 0,
+          "username": "sudaqishui02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073354429366219055",
+    "in_reply_to_user_id": "2044100242413375488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073350740773617764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sudaqishui02 4所以说了作为买家问题是不大的，这东西是进口、合法包装的产品，有任何图文不符是产品而非个人买家的问题。卖家大概率也只能37天，只要她有当初淘宝京东的交易快照完全可以抗辩说能在大电商平台交易的物品怎么可能会有这种问题😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073095976672469361",
+        "created_at": "2026-07-04T10:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073354429366219055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044100242413375488",
+              "start": 0,
+              "username": "sudaqishui02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073354429366219055",
+        "in_reply_to_user_id": "2044100242413375488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073350740773617764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sudaqishui02 4所以说了作为买家问题是不大的，这东西是进口、合法包装的产品，有任何图文不符是产品而非个人买家的问题。卖家大概率也只能37天，只要她有当初淘宝京东的交易快照完全可以抗辩说能在大电商平台交易的物品怎么可能会有这种问题😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044100242413375488",
+        "conversation_id": "2073095976672469361",
+        "created_at": "2026-07-04T10:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073350740773617764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073350740773617764",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073095976672469361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 4会被抓帽子说含有精一类非法物质 我五月份因为这个事情京爷远赴万里四个壮汉冲进我房间把我最后两盒愈美片没收了 我是od厕收物自己吃了 上门两次做笔录后没事了 卖家测妹立刑事案件了 这个软糖现在能买到的都是钓鱼执法搞业绩  我就是被鱼带鱼一条龙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 649,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1865
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T17:08:37.000Z",
+        "description": "转生5.0求放过 \n\n20/166cm/114斤/75G \n\nこんなSNS抜けだしで 二人で海を見に行くぞ",
+        "id": "2044100242413375488",
+        "location": "门88/128/188/520/1314",
+        "name": "小苏泡泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102993898049536/WKZN5bbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "sudaqishui02",
+        "verified": false
+      }
+    ]
+  }
+}

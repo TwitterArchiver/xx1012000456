@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924228506658943278",
+    "created_at": "2025-05-19T10:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T11:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924410322754105473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1621020295061712896",
+          "start": 0,
+          "username": "YellowBlade2023"
+        },
+        {
+          "end": 33,
+          "id": "4752010152",
+          "start": 17,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924410322754105473",
+    "in_reply_to_user_id": "1621020295061712896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924405630737215824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YellowBlade2023 @garrulous_abyss 同非杠，我觉得你对跨专业人才的定义有偏差。举例，一个编程+法学的跨专业人才应该是ta既可以成为码农又可以成为法务或律师，而不是你大学毕业拿了张法学的双学位证书，本质上是两种技能的入手难易度有偏差红利。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924228506658943278",
+        "created_at": "2025-05-19T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924410322754105473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1621020295061712896",
+              "start": 0,
+              "username": "YellowBlade2023"
+            },
+            {
+              "end": 33,
+              "id": "4752010152",
+              "start": 17,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924410322754105473",
+        "in_reply_to_user_id": "1621020295061712896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924405630737215824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YellowBlade2023 @garrulous_abyss 同非杠，我觉得你对跨专业人才的定义有偏差。举例，一个编程+法学的跨专业人才应该是ta既可以成为码农又可以成为法务或律师，而不是你大学毕业拿了张法学的双学位证书，本质上是两种技能的入手难易度有偏差红利。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621020295061712896",
+        "conversation_id": "1924228506658943278",
+        "created_at": "2025-05-19T10:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924405630737215824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 30,
+              "id": "4752010152",
+              "start": 14,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924405630737215824",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924403095624372382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @garrulous_abyss 那我问你，项目经理这个职位是怎么来的？非抬杠。现代社会，未来可以通过AI干掉95%以上的人类工作。人更多地是需要了解、解构相关行业的运行逻辑，你不较为深入地了解客户的领域你怎么沟通？彼此并不了解的专业人士的沟通成本要不要计算，企业是不是只做一个行业的客户。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 562,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1513
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T05:39:10.000Z",
+        "description": "INTJ  \nSC E-Sports Pro-gamer\n专注个人进化 欢迎投稿",
+        "id": "1621020295061712896",
+        "name": "Yellow Blade SiMoN",
+        "pinned_tweet_id": "1920295127701999949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631345288681263104/lt3uP12b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 201,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 497
+        },
+        "username": "YellowBlade2023",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28395,
+          "following_count": 3528,
+          "like_count": 144576,
+          "listed_count": 96,
+          "media_count": 3338,
+          "tweet_count": 53537
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

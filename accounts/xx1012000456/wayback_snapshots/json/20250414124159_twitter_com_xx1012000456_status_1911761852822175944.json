@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1911625752333935052",
+    "created_at": "2025-04-14T12:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T13:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911761852822175944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911761852822175944",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911625752333935052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 麻黄碱咖啡因拉到别恶心就行了，也可以搞瓶氧气长跑前饱和吸氧，不比什么都强吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1911625752333935052",
+        "created_at": "2025-04-14T12:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T13:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911761852822175944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911761852822175944",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911625752333935052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 麻黄碱咖啡因拉到别恶心就行了，也可以搞瓶氧气长跑前饱和吸氧，不比什么都强吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "National Rifle Association",
+              "id": "993576046648741888",
+              "name": "National Rifle Association"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1911625752333935052",
+        "created_at": "2025-04-14T03:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911625752333935052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuanyu20240316…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/xuanyu20240316/status/1911425900094095655",
+              "start": 134,
+              "url": "https://t.co/imtomPec4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911625752333935052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1399,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911425900094095655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "短时间提高运动机能，用NE能药物激动肾上腺素受体就行了，NRA（麻黄碱类）、NRI（高剂量托莫）、MAO-BI（司来/反苯）都可以，咖啡因也行。不然你猜为什么这些药写的运动员禁用，但是体育中考又不是奥运会，谁会查这些非精麻列管药物啊\n犯得着动hrt吗，都不动脑子想想 https://t.co/imtomPec4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 524,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1392
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 515,
+          "like_count": 9055,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

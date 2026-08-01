@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1872619499251515692",
+    "created_at": "2024-12-28T16:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T17:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873040664281399382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862544472590229504",
+          "start": 0,
+          "username": "DongJunyan84887"
+        },
+        {
+          "end": 27,
+          "id": "3022697779",
+          "start": 17,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873040664281399382",
+    "in_reply_to_user_id": "1862544472590229504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873037813924683983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongJunyan84887 @RXdruglab 想法接近，关于溶解度的问题目前来看没有定论，估计得让有原粉的人测试。应该不会溶解度这么大，不然没法解释愈美糖浆要醇类物质工艺生产。我在思考直接用碳酸钠碱化取沉淀是否可行，目前有可能的思路要么是有机溶剂取愈创要么沉淀分离右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1872619499251515692",
+        "created_at": "2024-12-28T16:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873040664281399382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862544472590229504",
+              "start": 0,
+              "username": "DongJunyan84887"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873040664281399382",
+        "in_reply_to_user_id": "1862544472590229504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873037813924683983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongJunyan84887 @RXdruglab 想法接近，关于溶解度的问题目前来看没有定论，估计得让有原粉的人测试。应该不会溶解度这么大，不然没法解释愈美糖浆要醇类物质工艺生产。我在思考直接用碳酸钠碱化取沉淀是否可行，目前有可能的思路要么是有机溶剂取愈创要么沉淀分离右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862544472590229504",
+        "conversation_id": "1872619499251515692",
+        "created_at": "2024-12-28T16:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873037813924683983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 24,
+              "id": "1386670401422434304",
+              "start": 11,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873037813924683983",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872619499251515692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @xx1012000456 不对，右美沙芬盐溶解度不是这个数据，药典实验里面25mg氢溴酸右美沙芬，加水5ml就能溶解了，真正的溶解度应该要比药典实验用的量大。感觉得换个思路，把右美沙芬游离碱给沉淀出来。我口嗨一波：加入大量水溶解，去上清液加入过量碳酸氢钠，过滤得到右美沙芬游离碱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 403,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 425
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T17:09:57.000Z",
+        "description": "",
+        "id": "1862544472590229504",
+        "name": "KOCH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862544540848332806/zVBPShhZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "DongJunyan84887",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871369346788073602",
+    "created_at": "2024-12-24T19:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T20:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871642021414535445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871642021414535445",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871369346788073602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 可以，我记得以前有拆分专注达的教程（拆外壳、去除尾端、平均数值切分药物端）再重新计算剂量。不过这东西本质上是兴奋剂（弱化冰），不一定会有好的体验。（有使用4F哌甲酯和哌异丙酯bad trip的报告）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871369346788073602",
+        "created_at": "2024-12-24T19:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T20:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871642021414535445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871642021414535445",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871369346788073602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 可以，我记得以前有拆分专注达的教程（拆外壳、去除尾端、平均数值切分药物端）再重新计算剂量。不过这东西本质上是兴奋剂（弱化冰），不一定会有好的体验。（有使用4F哌甲酯和哌异丙酯bad trip的报告）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871369331021590528"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "conversation_id": "1871369346788073602",
+        "created_at": "2024-12-24T01:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T02:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871369346788073602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xspxY9OSjR",
+              "end": 36,
+              "expanded_url": "https://x.com/NagiVictoria/status/1871369346788073602/photo/1",
+              "media_key": "3_1871369331021590528",
+              "start": 13,
+              "url": "https://t.co/xspxY9OSjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871369346788073602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 940,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然在想\n能不能o专注达 https://t.co/xspxY9OSjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 397,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 396
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 568,
+          "like_count": 8337,
+          "listed_count": 4,
+          "media_count": 1095,
+          "tweet_count": 8357
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

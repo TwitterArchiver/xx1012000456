@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071165028867145919",
+    "created_at": "2026-06-28T17:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071291216856297801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071291216856297801",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071165028867145919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider 地芬诺酯是吧🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071165028867145919",
+        "created_at": "2026-06-28T17:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071291216856297801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071291216856297801",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071165028867145919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 地芬诺酯是吧🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2071165028867145919",
+        "created_at": "2026-06-28T09:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071165028867145919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071165028867145919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友家的止泻药特别有效，结果一搜才知道是精二买不到，上天入地我再也找不到比这个更好用的止泻药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 619,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 21,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 104,
+          "like_count": 717,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

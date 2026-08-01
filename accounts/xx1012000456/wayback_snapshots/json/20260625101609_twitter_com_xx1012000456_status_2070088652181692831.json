@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2070041815005471030",
+    "created_at": "2026-06-25T10:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070088652181692831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070088652181692831",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070041815005471030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 对的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070041815005471030",
+        "created_at": "2026-06-25T10:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070088652181692831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070088652181692831",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070041815005471030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 对的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541798404321292293",
+        "conversation_id": "2070041815005471030",
+        "created_at": "2026-06-25T07:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070041815005471030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070041815005471030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理论上痛经是不是也能用吗啡。我要疼死了没拿布洛芬没钱再买。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 603,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "我是槿爻。09生理女性向女/双相/血od有/友跨/直fo是喜欢你/互关欢迎fo我会回/我会评论装熟欢迎随意互动（English/Japanese勉強中）不键政不吵架不站队专心经营我的糖逼生活。                          ID只是个人属性。有好多女孩子男孩子跟我玩我好开心😋私信没消息提醒看见就回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JKBLv"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "location": "埃弗拉德金库",
+        "name": "理查德斯特林的梦幻之逼8964",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 212,
+          "like_count": 9406,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/y7Yg6JKBLv",
+        "username": "pao79617382",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1878119417827238326",
+    "created_at": "2025-01-11T16:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T17:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878119741623308347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964Y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878119741623308347",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878119417827238326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Y_ 拟态大师🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1878119417827238326",
+        "created_at": "2025-01-11T16:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T17:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878119741623308347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964Y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878119741623308347",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878119417827238326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Y_ 拟态大师🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878119411242143744"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1878119417827238326",
+        "created_at": "2025-01-11T16:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T17:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878119417827238326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWIpUoKO5z",
+              "end": 35,
+              "expanded_url": "https://x.com/8964Y_/status/1878119417827238326/photo/1",
+              "media_key": "3_1878119411242143744",
+              "start": 12,
+              "url": "https://t.co/JWIpUoKO5z"
+            },
+            {
+              "display_url": "x.com/8964y_/status/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/8964y_/status/1878084790701953138",
+              "start": 36,
+              "url": "https://t.co/POv50HVwZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878119417827238326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878084790701953138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命他是不是看见这个了 https://t.co/JWIpUoKO5z https://t.co/POv50HVwZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 439,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 522
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "藤本树孝子｜藤本树本人小号：@9464LL ｜Eng ok 日本語OK 中文OK｜大爱momo酱｜想和我互fo的女孩直接私信我好吗好的｜取关请拉黑我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "9464LL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki/zh/index",
+                "end": 23,
+                "expanded_url": "https://www.overdose.wiki/zh/index",
+                "start": 0,
+                "url": "https://t.co/ONmfmZktbg"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878062138335563776/HvVXU4Pk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 721,
+          "like_count": 5942,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 4322
+        },
+        "url": "https://t.co/ONmfmZktbg",
+        "username": "8964Y_",
+        "verified": false
+      }
+    ]
+  }
+}

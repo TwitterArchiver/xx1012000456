@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069743582228144147",
+    "created_at": "2026-06-24T11:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069743582228144147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/frontier_tut/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/frontier_tut/status/2069726397350990152",
+          "start": 6,
+          "url": "https://t.co/71x8BMbcwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069743582228144147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069726397350990152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的对的😇 https://t.co/71x8BMbcwj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069743582228144147",
+        "created_at": "2026-06-24T11:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069743582228144147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frontier_tut/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/frontier_tut/status/2069726397350990152",
+              "start": 6,
+              "url": "https://t.co/71x8BMbcwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069743582228144147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069726397350990152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的对的😇 https://t.co/71x8BMbcwj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069726397350990152",
+        "created_at": "2026-06-24T10:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069726397350990152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069726397350990152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们学药理就是为了给自己配呼吸抑制大套餐的😠）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 593,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1742
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 108,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

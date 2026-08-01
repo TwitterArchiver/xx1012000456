@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895057483812741226",
+    "created_at": "2025-02-27T17:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T18:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895171990006472931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628054803741032449",
+          "start": 0,
+          "username": "NozomiACR"
+        },
+        {
+          "end": 27,
+          "id": "1272405078683430913",
+          "start": 11,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 44,
+          "id": "1534853448608677888",
+          "start": 28,
+          "username": "BryannaEichste1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895171990006472931",
+    "in_reply_to_user_id": "1628054803741032449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895158244601143499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NozomiACR @PaitangOfficial @BryannaEichste1 是这样的，但IPPH应该和利他林去比较而不是Vyvanse，国内利他林价格我不是很清楚，查了下大概在15-20元/10mg，国内ADHD这两种都是精一，完全合法的策划药这个价格只能说还行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895057483812741226",
+        "created_at": "2025-02-27T17:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T18:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895171990006472931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628054803741032449",
+              "start": 0,
+              "username": "NozomiACR"
+            },
+            {
+              "end": 27,
+              "id": "1272405078683430913",
+              "start": 11,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 44,
+              "id": "1534853448608677888",
+              "start": 28,
+              "username": "BryannaEichste1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895171990006472931",
+        "in_reply_to_user_id": "1628054803741032449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895158244601143499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NozomiACR @PaitangOfficial @BryannaEichste1 是这样的，但IPPH应该和利他林去比较而不是Vyvanse，国内利他林价格我不是很清楚，查了下大概在15-20元/10mg，国内ADHD这两种都是精一，完全合法的策划药这个价格只能说还行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628054803741032449",
+        "conversation_id": "1895057483812741226",
+        "created_at": "2025-02-27T17:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T18:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895158244601143499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 30,
+              "id": "1272405078683430913",
+              "start": 14,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 47,
+              "id": "1534853448608677888",
+              "start": 31,
+              "username": "BryannaEichste1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895158244601143499",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895156057372270720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @PaitangOfficial @BryannaEichste1 问题是自制/策划药连仿制药一致性评价都过不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 472,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 805
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T15:31:38.000Z",
+        "description": "🏳️‍🌈？xtx ｜feel free to call me with any pronouns｜ボカロ 音ゲー CHUNITHM ｜持证含专のADHD&&ASD ｜無言フォロー失礼します ｜推文无时效性敬请谅解｜@TakotamiChan tako可爱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "TakotamiChan"
+              }
+            ]
+          }
+        },
+        "id": "1628054803741032449",
+        "location": "青岛市妇女儿童医院心理科",
+        "name": "のぞみnkzmomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895159556218773504/6wWdVdJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 103,
+          "like_count": 357,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 656
+        },
+        "username": "NozomiACR",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "ASD+ADHD+INTP｜生物黑客｜合法过检利他林替代品｜ADHD弥赛亚｜逆转抑郁症｜消灭失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi3加速回復｜ENG OK👌 #让人类保持理智确实是一种奢求",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 139,
+                "tag": "让人类保持理智确实是一种奢求"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "paitangcuzhi3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "生物工程从业者，从事逆转衰老、干细胞和基因治疗研发",
+        "name": "☯️🧬無極生物科技公司",
+        "pinned_tweet_id": "1895057483812741226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895081938311942145/nvRqLviB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8793,
+          "following_count": 377,
+          "like_count": 6697,
+          "listed_count": 26,
+          "media_count": 1414,
+          "tweet_count": 11572
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T11:02:54.000Z",
+        "description": "",
+        "id": "1534853448608677888",
+        "name": "包二爷",
+        "pinned_tweet_id": "1869331556751523843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841097498347388929/8ybrgfYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 490,
+          "like_count": 85,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 227
+        },
+        "username": "BryannaEichste1",
+        "verified": false
+      }
+    ]
+  }
+}

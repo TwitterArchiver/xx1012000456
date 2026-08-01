@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073838884895744000",
+        "3_2073838911374368768",
+        "3_2073838939555897344",
+        "3_2073838965787168768"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073840637573820813",
+    "created_at": "2026-07-05T18:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073840637573820813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHg5Y7pWAt",
+          "end": 170,
+          "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+          "media_key": "3_2073838884895744000",
+          "start": 147,
+          "url": "https://t.co/eHg5Y7pWAt"
+        },
+        {
+          "display_url": "pic.x.com/eHg5Y7pWAt",
+          "end": 170,
+          "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+          "media_key": "3_2073838911374368768",
+          "start": 147,
+          "url": "https://t.co/eHg5Y7pWAt"
+        },
+        {
+          "display_url": "pic.x.com/eHg5Y7pWAt",
+          "end": 170,
+          "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+          "media_key": "3_2073838939555897344",
+          "start": 147,
+          "url": "https://t.co/eHg5Y7pWAt"
+        },
+        {
+          "display_url": "pic.x.com/eHg5Y7pWAt",
+          "end": 170,
+          "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+          "media_key": "3_2073838965787168768",
+          "start": 147,
+          "url": "https://t.co/eHg5Y7pWAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073840637573820813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.是否被晶和具体的行为没有关系，我当初在24.7.1前买右美照样被晶😅只能说你的行为完全合法不怕被晶而已\n2.药理、生物、医学和有机化学？更多的是要记忆+类比推理。可以只关注一小部分熟悉领域的东西以点破面\n3.有可能，阳就阳了。再次强调阳性≠吸毒，你别被诈唬就没事\n4.参考1，白兔完全合法 https://t.co/eHg5Y7pWAt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2073838884895744000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfBemeaYAAwiYd.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073838911374368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfBgJHaIAAYwok.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073838939555897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfBhyGaIAAKuba.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2073838965787168768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfBjT0bkAADMVd.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073838884895744000",
+            "3_2073838911374368768",
+            "3_2073838939555897344",
+            "3_2073838965787168768"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073840637573820813",
+        "created_at": "2026-07-05T18:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073840637573820813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHg5Y7pWAt",
+              "end": 170,
+              "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+              "media_key": "3_2073838884895744000",
+              "start": 147,
+              "url": "https://t.co/eHg5Y7pWAt"
+            },
+            {
+              "display_url": "pic.x.com/eHg5Y7pWAt",
+              "end": 170,
+              "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+              "media_key": "3_2073838911374368768",
+              "start": 147,
+              "url": "https://t.co/eHg5Y7pWAt"
+            },
+            {
+              "display_url": "pic.x.com/eHg5Y7pWAt",
+              "end": 170,
+              "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+              "media_key": "3_2073838939555897344",
+              "start": 147,
+              "url": "https://t.co/eHg5Y7pWAt"
+            },
+            {
+              "display_url": "pic.x.com/eHg5Y7pWAt",
+              "end": 170,
+              "expanded_url": "https://x.com/xx1012000456/status/2073840637573820813/photo/1",
+              "media_key": "3_2073838965787168768",
+              "start": 147,
+              "url": "https://t.co/eHg5Y7pWAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073840637573820813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.是否被晶和具体的行为没有关系，我当初在24.7.1前买右美照样被晶😅只能说你的行为完全合法不怕被晶而已\n2.药理、生物、医学和有机化学？更多的是要记忆+类比推理。可以只关注一小部分熟悉领域的东西以点破面\n3.有可能，阳就阳了。再次强调阳性≠吸毒，你别被诈唬就没事\n4.参考1，白兔完全合法 https://t.co/eHg5Y7pWAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 660,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1891
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

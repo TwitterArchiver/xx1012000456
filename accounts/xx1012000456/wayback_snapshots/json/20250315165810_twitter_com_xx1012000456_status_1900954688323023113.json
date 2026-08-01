@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1900944648161706209",
+    "created_at": "2025-03-15T16:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T17:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900954688323023113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900954688323023113",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900944648161706209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 我刷到过，这世界真小🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900944640184119299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmGDFB_bcAMW5Ga.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1900944648161706209",
+        "created_at": "2025-03-15T16:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900954688323023113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900954688323023113",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900944648161706209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 我刷到过，这世界真小🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900944640184119299"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900944648161706209",
+        "created_at": "2025-03-15T16:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900944648161706209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08wPuE4U3c",
+              "end": 33,
+              "expanded_url": "https://x.com/luobo4444/status/1900944648161706209/photo/1",
+              "media_key": "3_1900944640184119299",
+              "start": 10,
+              "url": "https://t.co/08wPuE4U3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900944648161706209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播在这里语音直播 https://t.co/08wPuE4U3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 484,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 930
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜空蝉原｜06｜INFP｜ 高中生｜不互关互转｜日本語学习中｜随缘fo｜已婚",
+        "id": "1850566498412318720",
+        "location": "空蝉如此世，幻灭若朝霞",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891763287198662686/WWAessG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595,
+          "following_count": 201,
+          "like_count": 1232,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 912
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

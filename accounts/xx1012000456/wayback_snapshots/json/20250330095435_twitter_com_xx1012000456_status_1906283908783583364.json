@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906247911362765150",
+    "created_at": "2025-03-30T09:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T10:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906283908783583364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906283908783583364",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906247911362765150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 od圈大概率会向策划药圈转变，到毒圈可能性有但不多。普瑞下的替代品已经有XX加巴林、加巴喷丁。以来时路和路径相似指向卡马西平、托吡酯。策划药的本质和这个类似，都是基于原物的衍生路径。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906247911362765150",
+        "created_at": "2025-03-30T09:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906283908783583364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906283908783583364",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906247911362765150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 od圈大概率会向策划药圈转变，到毒圈可能性有但不多。普瑞下的替代品已经有XX加巴林、加巴喷丁。以来时路和路径相似指向卡马西平、托吡酯。策划药的本质和这个类似，都是基于原物的衍生路径。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573863666000224256",
+        "conversation_id": "1906247911362765150",
+        "created_at": "2025-03-30T07:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T08:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906247911362765150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/od_angelkaii_o…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/od_angelkaii_od/status/1906246443746390401",
+              "start": 44,
+              "url": "https://t.co/7RS4cnUJJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906247911362765150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 280,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906246443746390401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来荣先生说的没错，od圈早晚会向du圈转变的，不可能一直存在介于黑与白之间的灰色地带 https://t.co/7RS4cnUJJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 507,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1253
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "你会讨厌我吗？",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1890321283470266672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871560984130965504/p8sGx3b8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 592,
+          "like_count": 118848,
+          "listed_count": 2,
+          "media_count": 943,
+          "tweet_count": 22118
+        },
+        "username": "Futuristic2007",
+        "verified": true
+      }
+    ]
+  }
+}

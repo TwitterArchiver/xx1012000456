@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1834527779716817273",
+    "created_at": "2024-09-17T15:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T16:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836066344959455457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464586716010921985",
+          "start": 0,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836066344959455457",
+    "in_reply_to_user_id": "1464586716010921985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836009821025513701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RDrugLab 不对，列管的合成大麻素还真是形似THC的骨架上做基团修改，和芬太尼类不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1834527779716817273",
+        "created_at": "2024-09-17T15:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T16:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836066344959455457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836066344959455457",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836009821025513701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 不对，列管的合成大麻素还真是形似THC的骨架上做基团修改，和芬太尼类不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464586716010921985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1834527779716817273",
+        "created_at": "2024-09-17T11:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T12:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836009821025513701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836009821025513701",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834527779716817273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样的道理，人工合成大麻素并不是类似THC结构的物质，而是激活大麻素受体的化学物质。因为那玩意确实叫大麻素受体，所以叫人工合成大麻素倒也没有什么问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 184,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "id": "1464586716010921985",
+        "location": "距您7945km 𝕏",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1834909423854403793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820173045639651328/jasu6zB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 23,
+          "like_count": 6,
+          "listed_count": 10,
+          "tweet_count": 545
+        },
+        "username": "RDrugLab",
+        "verified": false
+      }
+    ]
+  }
+}

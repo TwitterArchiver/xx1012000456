@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924442465928618301",
+    "created_at": "2025-05-19T12:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T13:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924442465928618301"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924442465928618301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近闲的没事看了看郭律的直播切片，不是真有点蚌埠住了，od圈是真的需要好好学习下警方的套路和话术。看着优格案卖右美的思诺思的什么的上来连麦，真的我突然有动力写杂谈3了😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924442465928618301",
+        "created_at": "2025-05-19T12:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T13:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924442465928618301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924442465928618301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近闲的没事看了看郭律的直播切片，不是真有点蚌埠住了，od圈是真的需要好好学习下警方的套路和话术。看着优格案卖右美的思诺思的什么的上来连麦，真的我突然有动力写杂谈3了😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 563,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1524
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

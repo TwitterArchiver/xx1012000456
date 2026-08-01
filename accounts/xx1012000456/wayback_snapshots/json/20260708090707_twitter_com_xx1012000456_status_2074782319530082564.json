@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2074734688024093172",
+    "created_at": "2026-07-08T09:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074782319530082564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074782319530082564",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074734688024093172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 至少20mg起步吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2074734688024093172",
+        "created_at": "2026-07-08T09:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074782319530082564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074782319530082564",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074734688024093172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 至少20mg起步吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2074734688024093172",
+        "created_at": "2026-07-08T05:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074734688024093172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074734688024093172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗啡多少mg能有欣快感呀，我好像能开到一个含吗啡的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 659,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1906
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "2074621267400077792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 80,
+          "like_count": 330,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1881540764347572254",
+    "created_at": "2025-01-21T18:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T19:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881770705798508813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 27,
+          "id": "1456231777224347651",
+          "start": 11,
+          "username": "dDguwkiRkZcCSrt"
+        },
+        {
+          "end": 44,
+          "id": "1638893284218261504",
+          "start": 28,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881770705798508813",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881604078222094793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @dDguwkiRkZcCSrt @Benzyl_titanium LSD本来就有4个同分异构体，只有一个有活性🤣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1881604078222094793].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1881604078222094793",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1881604078222094793"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1881540764347572254",
+        "created_at": "2025-01-21T18:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T19:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881770705798508813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 27,
+              "id": "1456231777224347651",
+              "start": 11,
+              "username": "dDguwkiRkZcCSrt"
+            },
+            {
+              "end": 44,
+              "id": "1638893284218261504",
+              "start": 28,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881770705798508813",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881604078222094793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @dDguwkiRkZcCSrt @Benzyl_titanium LSD本来就有4个同分异构体，只有一个有活性🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 449,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 603
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 14,
+          "like_count": 11,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1864929593679057128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 44,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2798
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 505,
+          "like_count": 8318,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

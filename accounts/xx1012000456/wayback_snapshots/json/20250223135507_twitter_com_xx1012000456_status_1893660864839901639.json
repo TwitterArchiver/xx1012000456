@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893506435289637026",
+    "created_at": "2025-02-23T13:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T14:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893660864839901639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491838845901750272",
+          "start": 0,
+          "username": "yuki03aria"
+        },
+        {
+          "end": 23,
+          "id": "1757616332240224256",
+          "start": 12,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893660864839901639",
+    "in_reply_to_user_id": "1491838845901750272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893529669103952038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki03aria @B_cat38324 应该是有的，术后改证相当于注销原身份产生新身份，你落户就能重置"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893506435289637026",
+        "created_at": "2025-02-23T13:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893660864839901639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491838845901750272",
+              "start": 0,
+              "username": "yuki03aria"
+            },
+            {
+              "end": 23,
+              "id": "1757616332240224256",
+              "start": 12,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893660864839901639",
+        "in_reply_to_user_id": "1491838845901750272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893529669103952038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki03aria @B_cat38324 应该是有的，术后改证相当于注销原身份产生新身份，你落户就能重置"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491838845901750272",
+        "conversation_id": "1893506435289637026",
+        "created_at": "2025-02-23T05:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893529669103952038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893529669103952038",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1700,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893506435289637026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 真能有本省身份证前缀吗，如果是上海那太牛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 776
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T18:18:00.000Z",
+        "description": "露の世は 露の世ながら さりながら",
+        "id": "1491838845901750272",
+        "location": "小熊座alpha-B",
+        "name": "阿雪Yukki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837437046492913664/zaQ1Sfuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12088,
+          "following_count": 330,
+          "like_count": 10630,
+          "listed_count": 38,
+          "media_count": 565,
+          "tweet_count": 3165
+        },
+        "username": "yuki03aria",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "o什么的",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14524,
+          "following_count": 185,
+          "like_count": 462,
+          "listed_count": 51,
+          "media_count": 76,
+          "tweet_count": 14130
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

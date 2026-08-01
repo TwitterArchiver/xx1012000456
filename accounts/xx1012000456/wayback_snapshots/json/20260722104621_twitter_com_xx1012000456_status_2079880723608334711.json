@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2079717780694471096",
+    "created_at": "2026-07-22T10:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079880723608334711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079880723608334711",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079717780694471096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ 克利加巴林？美洛加巴林？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-22T10:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079880723608334711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079880723608334711",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079717780694471096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ 克利加巴林？美洛加巴林？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-21T23:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079717780694471096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079717780694471096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 5127,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发现了个普瑞的升级版 同等剂量下效果是普瑞的25倍！ 现缺少大剂量下的测试！且很容易在拼多多美团上面买到 我查找了下 发现没什么人吃 但确实是升级版普瑞\n\n等快递到了 测一测它！！\n\n目前知道的人并不多 知道的可以评论区打出来 一起交流呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 698,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2056
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用｜看心情的药代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/I1qBUCSlfD"
+              }
+            ]
+          }
+        },
+        "id": "1771909316909604864",
+        "name": "NEKOOOO🍥💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079718343460970496/wDuU8Hxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 377,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/I1qBUCSlfD",
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

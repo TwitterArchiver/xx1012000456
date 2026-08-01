@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2073013247293403448",
+    "created_at": "2026-07-03T13:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073029743637909691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061329105266831360",
+          "start": 0,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073029743637909691",
+    "in_reply_to_user_id": "2061329105266831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073013247293403448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangion73 有的有的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073013234471493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTSja9bYAAUsZc.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073013234488209408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTSjbBacAA_kM0.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2073013247293403448",
+        "created_at": "2026-07-03T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073029743637909691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073029743637909691",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073013247293403448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 有的有的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073013234471493632",
+            "3_2073013234488209408"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073013247293403448",
+        "created_at": "2026-07-03T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073013247293403448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zXWsj7V6b",
+              "end": 70,
+              "expanded_url": "https://x.com/yangion73/status/2073013247293403448/photo/1",
+              "media_key": "3_2073013234471493632",
+              "start": 47,
+              "url": "https://t.co/7zXWsj7V6b"
+            },
+            {
+              "display_url": "pic.x.com/7zXWsj7V6b",
+              "end": 70,
+              "expanded_url": "https://x.com/yangion73/status/2073013247293403448/photo/1",
+              "media_key": "3_2073013234488209408",
+              "start": 47,
+              "url": "https://t.co/7zXWsj7V6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073013247293403448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问\n这个有 od 价值吗，每瓶含右美 200mg，现在愈美也被禁了，这个不知道行不行😇 https://t.co/7zXWsj7V6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 642,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 152,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

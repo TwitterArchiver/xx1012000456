@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077339992712683716",
+    "created_at": "2026-07-15T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077359633069670789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601599920276140033",
+          "start": 0,
+          "username": "ayanamirei_may"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077359633069670789",
+    "in_reply_to_user_id": "1601599920276140033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077346662251634746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamirei_may 这是连用普瑞的双重抑制，400mg曲也是40mg吗啡的级别了，还是多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077346655654076417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ3xu2bYAEtpAD.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077346655633043456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ3xuxacAAtyIm.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077339992712683716",
+        "created_at": "2026-07-15T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077359633069670789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601599920276140033",
+              "start": 0,
+              "username": "ayanamirei_may"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077359633069670789",
+        "in_reply_to_user_id": "1601599920276140033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077346662251634746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamirei_may 这是连用普瑞的双重抑制，400mg曲也是40mg吗啡的级别了，还是多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077346655654076417",
+            "3_2077346655633043456"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "2077339992712683716",
+        "created_at": "2026-07-15T10:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077346662251634746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uo1JomKOT",
+              "end": 51,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2077346662251634746/photo/1",
+              "media_key": "3_2077346655654076417",
+              "start": 28,
+              "url": "https://t.co/1uo1JomKOT"
+            },
+            {
+              "display_url": "pic.x.com/1uo1JomKOT",
+              "end": 51,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2077346662251634746/photo/1",
+              "media_key": "3_2077346655633043456",
+              "start": 28,
+              "url": "https://t.co/1uo1JomKOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077346662251634746",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077346060884975838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我看到这两篇帖子感觉好吓人 https://t.co/1uo1JomKOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 684,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1993
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "存在しない人",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "pinned_tweet_id": "1874382445925245100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24173,
+          "following_count": 143,
+          "like_count": 1110,
+          "listed_count": 53,
+          "media_count": 74,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

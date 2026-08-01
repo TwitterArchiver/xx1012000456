@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2077311847645253881",
+    "created_at": "2026-07-15T13:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077384925419102393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077384925419102393",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077311847645253881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 应该是不需要的毕竟疼痛是个很主观的感受，没东西能证明你疼不疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077311847645253881",
+        "created_at": "2026-07-15T13:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077384925419102393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077384925419102393",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077311847645253881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 应该是不需要的毕竟疼痛是个很主观的感受，没东西能证明你疼不疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2077311847645253881",
+        "created_at": "2026-07-15T08:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077311847645253881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077311847645253881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 240,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇一件事你们这些能开到羟考酮的要做什么具体的检查吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 683,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1995
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "he/him 🏳️‍🌈 oder/drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/omdLQg",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/omdLQg",
+                "start": 0,
+                "url": "https://t.co/D225M96ROQ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "想吃1161是一种处境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074106003067461632/ZR23tI7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 546,
+          "like_count": 6125,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/D225M96ROQ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

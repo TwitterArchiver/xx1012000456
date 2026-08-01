@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2069104877578678360",
+    "created_at": "2026-06-29T04:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071443783124930814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037193859978153984",
+          "start": 0,
+          "username": "tzy9101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071443783124930814",
+    "in_reply_to_user_id": "2037193859978153984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071334630502941076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzy9101 无所谓，请参考：哎呀我不知道啊我就是想买点进口止咳药我都没读过大学，看不懂日文啊这上面也没写有管制成分啊，既然是单方精二还能在平台卖应该去查处平台和商家我只是个不知情的受害者啊😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2069104877578678360",
+        "created_at": "2026-06-29T04:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071443783124930814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037193859978153984",
+              "start": 0,
+              "username": "tzy9101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071443783124930814",
+        "in_reply_to_user_id": "2037193859978153984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071334630502941076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzy9101 无所谓，请参考：哎呀我不知道啊我就是想买点进口止咳药我都没读过大学，看不懂日文啊这上面也没写有管制成分啊，既然是单方精二还能在平台卖应该去查处平台和商家我只是个不知情的受害者啊😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037193859978153984",
+        "conversation_id": "2069104877578678360",
+        "created_at": "2026-06-28T20:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071334630502941076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071334630502941076",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069104877578678360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我在北京我要是买了这个会不会大概率被查（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 621,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T15:44:13.000Z",
+        "description": "GL｜弗洛洛｜直吉不拆不逆｜家产就是生活动力\n发的都是自己约的稿，不是本人画的，看到喜欢的会转帖，本人生理性别♂，请别讨厌我",
+        "id": "2037193859978153984",
+        "name": "夕樱",
+        "pinned_tweet_id": "2058688665057149174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062543264373460992/DEu0xv3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 69,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "tzy9101",
+        "verified": false
+      }
+    ]
+  }
+}

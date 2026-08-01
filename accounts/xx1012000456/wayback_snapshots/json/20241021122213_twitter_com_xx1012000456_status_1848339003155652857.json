@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1848015676688191940",
+    "created_at": "2024-10-21T12:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T13:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848339003155652857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848339003155652857",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848015676688191940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 500ml15-18块的就行，工业对应大概是3-5块左右不用担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1848015676688191940",
+        "created_at": "2024-10-21T12:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T13:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848339003155652857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848339003155652857",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848015676688191940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 500ml15-18块的就行，工业对应大概是3-5块左右不用担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1848015676688191940",
+        "created_at": "2024-10-20T14:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848015676688191940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1848015676688191940",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么把无水乙醇兑成酒呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 289,
+          "like_count": 8,
+          "listed_count": 1,
+          "tweet_count": 136
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 909,
+          "like_count": 23096,
+          "listed_count": 3,
+          "tweet_count": 10401
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

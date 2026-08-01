@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075995655290683392",
+        "3_2075995679189798912",
+        "3_2075995700693979136",
+        "3_2075998351913619456"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075998362877513905",
+    "created_at": "2026-07-11T17:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075998362877513905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1124790071314587648",
+          "start": 2,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/otJX5Qxts7",
+          "end": 176,
+          "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+          "media_key": "3_2075995655290683392",
+          "start": 153,
+          "url": "https://t.co/otJX5Qxts7"
+        },
+        {
+          "display_url": "pic.x.com/otJX5Qxts7",
+          "end": 176,
+          "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+          "media_key": "3_2075995679189798912",
+          "start": 153,
+          "url": "https://t.co/otJX5Qxts7"
+        },
+        {
+          "display_url": "pic.x.com/otJX5Qxts7",
+          "end": 176,
+          "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+          "media_key": "3_2075995700693979136",
+          "start": 153,
+          "url": "https://t.co/otJX5Qxts7"
+        },
+        {
+          "display_url": "pic.x.com/otJX5Qxts7",
+          "end": 176,
+          "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+          "media_key": "3_2075998351913619456",
+          "start": 153,
+          "url": "https://t.co/otJX5Qxts7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075998362877513905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.@LanwujiDrink 可以试试他的产品\n2.风险其实很小，但是你一旦事发很有可能就和我一样进去待一年，毕竟人家在境外是0风险\n3.被晶是指被上门还是被处罚？前者没办法只能指望上家靠谱，被处罚不会只要你别被诱供别瞎签笔录就行\n4.必须用枪，气弹减压会汽化吸热，那个小东西会冻伤你，一看你就是没玩过 https://t.co/otJX5Qxts7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2075995655290683392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9rDKTbAAAXAdT.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075995679189798912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9rEjVakAAgIvT.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075995700693979136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9rFzcaUAAb0nA.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075998351913619456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9tgIAbkAAFIvL.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075995655290683392",
+            "3_2075995679189798912",
+            "3_2075995700693979136",
+            "3_2075998351913619456"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075998362877513905",
+        "created_at": "2026-07-11T17:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075998362877513905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1124790071314587648",
+              "start": 2,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/otJX5Qxts7",
+              "end": 176,
+              "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+              "media_key": "3_2075995655290683392",
+              "start": 153,
+              "url": "https://t.co/otJX5Qxts7"
+            },
+            {
+              "display_url": "pic.x.com/otJX5Qxts7",
+              "end": 176,
+              "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+              "media_key": "3_2075995679189798912",
+              "start": 153,
+              "url": "https://t.co/otJX5Qxts7"
+            },
+            {
+              "display_url": "pic.x.com/otJX5Qxts7",
+              "end": 176,
+              "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+              "media_key": "3_2075995700693979136",
+              "start": 153,
+              "url": "https://t.co/otJX5Qxts7"
+            },
+            {
+              "display_url": "pic.x.com/otJX5Qxts7",
+              "end": 176,
+              "expanded_url": "https://x.com/xx1012000456/status/2075998362877513905/photo/1",
+              "media_key": "3_2075998351913619456",
+              "start": 153,
+              "url": "https://t.co/otJX5Qxts7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075998362877513905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.@LanwujiDrink 可以试试他的产品\n2.风险其实很小，但是你一旦事发很有可能就和我一样进去待一年，毕竟人家在境外是0风险\n3.被晶是指被上门还是被处罚？前者没办法只能指望上家靠谱，被处罚不会只要你别被诱供别瞎签笔录就行\n4.必须用枪，气弹减压会汽化吸热，那个小东西会冻伤你，一看你就是没玩过 https://t.co/otJX5Qxts7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 679,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1945
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2075991801836835185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 110,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

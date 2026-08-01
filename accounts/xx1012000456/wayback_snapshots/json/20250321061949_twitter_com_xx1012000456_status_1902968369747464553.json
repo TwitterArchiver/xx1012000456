@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1902968369747464553",
+    "created_at": "2025-03-21T06:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T07:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902968369747464553"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902968369747464553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没用过色胺类药物作为参考，初体感，有持续的轻微的胃部不适，一丝苦味回味幽长，但不类似于佐匹的强烈化学苦\n轻微的色彩与光影变化，类似于色彩饱和与对比度调高的效果，感觉亮处更鲜艳，暗处更昏暗晦涩。\n轻微的抑郁解除感，光影变化类似首次服用舍曲林\n考虑到只服用20ml应该是有精神活性，但不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1902968369747464553",
+        "created_at": "2025-03-21T06:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902968369747464553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902968369747464553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没用过色胺类药物作为参考，初体感，有持续的轻微的胃部不适，一丝苦味回味幽长，但不类似于佐匹的强烈化学苦\n轻微的色彩与光影变化，类似于色彩饱和与对比度调高的效果，感觉亮处更鲜艳，暗处更昏暗晦涩。\n轻微的抑郁解除感，光影变化类似首次服用舍曲林\n考虑到只服用20ml应该是有精神活性，但不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 485,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1002
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1914780624331874644",
+    "created_at": "2025-04-23T13:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T14:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915040378019041746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915040378019041746",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914780624331874644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 你以为中国这土地上产什么好人呢，本质上都是一群趋利避害的傻逼。自己在下位就要革命，自己在上位就拼命压榨攫取。不然也不可能轮轮回回走了5千年的循环，最后还是靠殖民打破了怪圈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1914780624331874644",
+        "created_at": "2025-04-23T13:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T14:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915040378019041746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915040378019041746",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914780624331874644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 你以为中国这土地上产什么好人呢，本质上都是一群趋利避害的傻逼。自己在下位就要革命，自己在上位就拼命压榨攫取。不然也不可能轮轮回回走了5千年的循环，最后还是靠殖民打破了怪圈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1914780624331874644",
+        "created_at": "2025-04-22T20:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T21:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914780624331874644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Minokakay/status/1914778815697707400",
+              "start": 141,
+              "url": "https://t.co/Pv0wt06yXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914780624331874644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以我很不喜欢一些主义者觉得有钱人就该杀的论调，第一，很多有钱人是尊重劳动法和工农，用自己的智慧来组织生产赚取财富的，并且通过纳税等手段来帮助社会共同富裕，第二，不是越穷越底层越光荣越正义，那我可不可以说最穷最穷的贫农都在「压迫剥削」老黄牛？最最底层的小偷扒手也是圣人？而哪怕最最低层的人，比蝼蚁高一个等级，也算是剥削者？第三，你认为改良资本在受约束下组织生产给予合理报酬也算是剥削劳动者，那你觉得该怎么组织社会生产运作？公社化？那公社的管理者算剥削吗？是不是全世界的人都穷的很平均才算消灭了剥削的大同世界？不然你吃西红柿炒鸡蛋，我吃白菜炖粉条，我也可以说你是剥削我？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1458,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914778815697707400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我很不喜欢一些主义者觉得有钱人就该杀的论调，第一，很多有钱人是尊重劳动法和工农，用自己的智慧来组织生产赚取财富的，并且通过纳税等手段来帮助社会共同富裕，第二，不是越穷越底层越光荣越正义，那我可不可以说最穷最穷的贫农都在「压迫剥削」老黄牛？最最底层的小偷扒手也是圣人？而哪怕最最 https://t.co/Pv0wt06yXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 534,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1437
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6464,
+          "following_count": 867,
+          "like_count": 41017,
+          "listed_count": 30,
+          "media_count": 821,
+          "tweet_count": 16445
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

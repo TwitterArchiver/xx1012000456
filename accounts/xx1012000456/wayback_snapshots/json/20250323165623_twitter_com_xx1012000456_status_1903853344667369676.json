@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903852017946402935",
+    "created_at": "2025-03-23T16:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903853344667369676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "kansj68531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903853344667369676",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903852017946402935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansj68531 追求解离的更应该这样，因为这样等效剂量大，虽然这风险是真的大就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903852017946402935",
+        "created_at": "2025-03-23T16:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903853344667369676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "kansj68531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903853344667369676",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903852017946402935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansj68531 追求解离的更应该这样，因为这样等效剂量大，虽然这风险是真的大就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1903852017946402935",
+        "created_at": "2025-03-23T16:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903852017946402935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rxdruglab/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/rxdruglab/status/1889972875505086930",
+              "start": 42,
+              "url": "https://t.co/xgeXT8XcfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903852017946402935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889972875505086930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "追求解离强度和内部幻觉的直接pass这条吧，这两天吃不打粉的才发现解离感会提高不少 https://t.co/xgeXT8XcfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 496,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1070
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899304337999810560/sEeF268-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 42,
+          "like_count": 378,
+          "listed_count": 9,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "kansj68531",
+        "verified": false
+      }
+    ]
+  }
+}

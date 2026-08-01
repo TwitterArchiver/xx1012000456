@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903838886901485711",
+    "created_at": "2025-03-23T16:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903850049970590096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1778757957796405248",
+          "start": 0,
+          "username": "xiaoQTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903850049970590096",
+    "in_reply_to_user_id": "1778757957796405248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903838886901485711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoQTvT 快给我微信😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11366,
+        "height": 1280,
+        "media_key": "13_1903838822393323520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1903838822393323520/img/v9t6t4WQw5as28TQ.jpg",
+        "public_metrics": {
+          "view_count": 620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903838822393323520/vid/avc1/320x568/71Y_415aIMngRdya.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903838822393323520/vid/avc1/480x852/Lqs6xoKv7dVtvfZd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903838822393323520/vid/avc1/720x1280/4MqA7oT3i-xgYmA7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1903838822393323520/pl/84h9rek95MssGB9T.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903838886901485711",
+        "created_at": "2025-03-23T16:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903850049970590096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1778757957796405248",
+              "start": 0,
+              "username": "xiaoQTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903850049970590096",
+        "in_reply_to_user_id": "1778757957796405248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903838886901485711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoQTvT 快给我微信😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903838822393323520"
+          ]
+        },
+        "author_id": "1778757957796405248",
+        "conversation_id": "1903838886901485711",
+        "created_at": "2025-03-23T15:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903838886901485711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gdywGE6gW",
+              "end": 33,
+              "expanded_url": "https://x.com/xiaoQTvT/status/1903838886901485711/video/1",
+              "media_key": "13_1903838822393323520",
+              "start": 10,
+              "url": "https://t.co/3gdywGE6gW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903838886901485711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1931,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友圈看更高清呀～ https://t.co/3gdywGE6gW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 496,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1069
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T12:12:33.000Z",
+        "description": "问坐标口令10r一次 只回口令 身高体重158/80 /🚪zfb口令 188朋友圈/388（带姓氏）含线下价目表 防走失小号@SamarHa32491957，熟人刷到我了不要说出来好吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "SamarHa32491957"
+              }
+            ]
+          }
+        },
+        "id": "1778757957796405248",
+        "location": "🚪188/388/520/1314",
+        "name": "小q",
+        "pinned_tweet_id": "1888630340044095984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902991355825229828/OQrI4jLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67886,
+          "following_count": 135,
+          "like_count": 437,
+          "listed_count": 128,
+          "media_count": 187,
+          "tweet_count": 740
+        },
+        "username": "xiaoQTvT",
+        "verified": false
+      }
+    ]
+  }
+}

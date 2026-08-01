@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1903437415672582318",
+    "created_at": "2025-03-23T06:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T07:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903691847756927254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1713050867786526720",
+          "start": 0,
+          "username": "siuuuuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903691847756927254",
+    "in_reply_to_user_id": "1713050867786526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903437415672582318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siuuuuneo 可能有细微的区别，毕竟各个国家执行的标准下限不同，但只要你副作用不强烈选便宜的就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1903437415672582318",
+        "created_at": "2025-03-23T06:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T07:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903691847756927254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1713050867786526720",
+              "start": 0,
+              "username": "siuuuuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903691847756927254",
+        "in_reply_to_user_id": "1713050867786526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903437415672582318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siuuuuneo 可能有细微的区别，毕竟各个国家执行的标准下限不同，但只要你副作用不强烈选便宜的就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "1903437415672582318",
+        "created_at": "2025-03-22T13:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903437415672582318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903437415672582318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伏硫西汀好贵诶，跟医生探讨了半天觉得这个药比较适合我\n土耳其分装的和国产原研分装的有区别吗...？便宜了这么多，药费1k直接变200了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 493,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 1044
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "如果你饿了，你可以吃小黄鱼）",
+        "id": "1713050867786526720",
+        "location": "在你的肚子里",
+        "name": "小黄鱼a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878336617850781696/fdcPjz2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 813,
+          "like_count": 6257,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1992
+        },
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

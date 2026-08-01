@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1882765684645699965",
+    "created_at": "2025-01-24T12:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882772908017365294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882772908017365294",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882769579321221426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 普瑞没有抗胆碱能，晚安药效确实混杂的厉害，说是谁的问题不好定论，但从已知来看同为过镇静的解释可行性较高，至少不是药物的特异性作用或者是代谢竞争的原理，驳斥错误观点已经足够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1882765684645699965",
+        "created_at": "2025-01-24T12:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882772908017365294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882772908017365294",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882769579321221426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 普瑞没有抗胆碱能，晚安药效确实混杂的厉害，说是谁的问题不好定论，但从已知来看同为过镇静的解释可行性较高，至少不是药物的特异性作用或者是代谢竞争的原理，驳斥错误观点已经足够了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "1882765684645699965",
+        "created_at": "2025-01-24T12:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882769579321221426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882769579321221426",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882768107120607345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 我怎么感觉是普瑞和晚安一起把胆碱干死了呢\n而且晚安本身也动了儿茶酚胺系统吧 再谈镇静兴奋效应没啥意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 452,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 620
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子and小菊丨削いで、",
+        "id": "1726969617850286080",
+        "location": "我很失衡",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1869126075059667434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869408717520986112/6lUi9s8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 177,
+          "like_count": 15128,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 7753
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

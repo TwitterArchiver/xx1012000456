@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1877111866255712642",
+    "created_at": "2025-01-09T09:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T10:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877285874997526595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        },
+        {
+          "end": 28,
+          "id": "1499709348616241155",
+          "start": 12,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877285874997526595",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877111866255712642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 @caomeiweimaomao 导师快来吃瓜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1877111866255712642",
+        "created_at": "2025-01-09T09:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877285874997526595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 28,
+              "id": "1499709348616241155",
+              "start": 12,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877285874997526595",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877111866255712642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 @caomeiweimaomao 导师快来吃瓜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877111863877709825"
+          ]
+        },
+        "author_id": "1617685747116675073",
+        "conversation_id": "1877111866255712642",
+        "created_at": "2025-01-08T21:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T22:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877111866255712642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "od"
+            },
+            {
+              "end": 152,
+              "start": 145,
+              "tag": "超级后后后藤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZ8iGk7L6b",
+              "end": 176,
+              "expanded_url": "https://x.com/_mucha_000/status/1877111866255712642/photo/1",
+              "media_key": "3_1877111863877709825",
+              "start": 153,
+              "url": "https://t.co/iZ8iGk7L6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877111866255712642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3512,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最后汇总下后藤的事，当整合包吧\n\n【一  出轨及相关事件】\n他一开始和A恋爱期间与B C搞暧昧，后面与A分手和B在一起。他说B出轨，然后和B分开期间与A复合，继续与C暧昧。\nA知道了他和C的关系，然后让他自己做决定。这时他说学妹和他告白，他之前也喜欢学妹，来问我的意见。（1/12）#od #超级后后后藤 https://t.co/iZ8iGk7L6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 429,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 509
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "「雨声大了许多」",
+        "id": "1617685747116675073",
+        "name": "牧雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877249171063029760/baLAT9nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 538,
+          "like_count": 44806,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 5984
+        },
+        "username": "_mucha_000",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "/关注我加入爱礼教/腿照或日记本推/非常喜欢各种猫/水手服控/坐标南方/🚪68/小号@lanmeiweimaomai 只过眼熟的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "lanmeiweimaomai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 0,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "自用梯子🪜：",
+        "name": "爱礼",
+        "pinned_tweet_id": "1870340780147315013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37167,
+          "following_count": 905,
+          "like_count": 21551,
+          "listed_count": 45,
+          "media_count": 1667,
+          "tweet_count": 23443
+        },
+        "url": "https://t.co/DW6ufDaBlY",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

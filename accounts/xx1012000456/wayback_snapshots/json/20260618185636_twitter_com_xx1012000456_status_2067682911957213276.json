@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067042171207967228",
+    "created_at": "2026-06-18T18:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067682911957213276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067682911957213276",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067042171207967228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 1替来本质上是K的相似物，我觉得还有一些😀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2067029926390464512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-QxDabAAAt_mF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2067029926394654720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-QxDba8AAeuVI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2067029926390501376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-QxDabkAAppl5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2067029926516330497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-QxD4bkAEB5GB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067042171207967228",
+        "created_at": "2026-06-18T18:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067682911957213276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067682911957213276",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067042171207967228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 1替来本质上是K的相似物，我觉得还有一些😀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067029926390464512",
+            "3_2067029926394654720",
+            "3_2067029926390501376",
+            "3_2067029926516330497"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067042171207967228",
+        "created_at": "2026-06-17T00:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067042171207967228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIEIhuSSZ5",
+              "end": 93,
+              "expanded_url": "https://x.com/zyj156383/status/2067042171207967228/photo/1",
+              "media_key": "3_2067029926390464512",
+              "start": 70,
+              "url": "https://t.co/AIEIhuSSZ5"
+            },
+            {
+              "display_url": "pic.x.com/AIEIhuSSZ5",
+              "end": 93,
+              "expanded_url": "https://x.com/zyj156383/status/2067042171207967228/photo/1",
+              "media_key": "3_2067029926394654720",
+              "start": 70,
+              "url": "https://t.co/AIEIhuSSZ5"
+            },
+            {
+              "display_url": "pic.x.com/AIEIhuSSZ5",
+              "end": 93,
+              "expanded_url": "https://x.com/zyj156383/status/2067042171207967228/photo/1",
+              "media_key": "3_2067029926390501376",
+              "start": 70,
+              "url": "https://t.co/AIEIhuSSZ5"
+            },
+            {
+              "display_url": "pic.x.com/AIEIhuSSZ5",
+              "end": 93,
+              "expanded_url": "https://x.com/zyj156383/status/2067042171207967228/photo/1",
+              "media_key": "3_2067029926516330497",
+              "start": 70,
+              "url": "https://t.co/AIEIhuSSZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067042171207967228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1115,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.没有 都列管了\n2.可以的 效果不错\n3.怕你制毒而已 上门看看，送点温暖，没事的 不会抓你\n4.普瑞剂量大导致的水肿吧 停药就恢复了 https://t.co/AIEIhuSSZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 475,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 404,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

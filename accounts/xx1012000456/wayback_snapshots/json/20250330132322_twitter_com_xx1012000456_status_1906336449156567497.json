@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1906236368701043136",
+    "created_at": "2025-03-30T13:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T14:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906336449156567497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906336449156567497",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906236368701043136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 有数据告诉你，13g舍曲林、18g喹硫平、100t地西泮不至死案例，想靠药送走自己估计只有XXXX了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1906236368701043136",
+        "created_at": "2025-03-30T13:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T14:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906336449156567497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906336449156567497",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906236368701043136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 有数据告诉你，13g舍曲林、18g喹硫平、100t地西泮不至死案例，想靠药送走自己估计只有XXXX了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1906236368701043136",
+        "created_at": "2025-03-30T06:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T07:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906236368701043136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906236368701043136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乱吃一堆乱七八糟的药真的能死吗？比如舍曲林 拉莫三嗪 阿立哌挫 右美沙芬 普瑞巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 508,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1257
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你我皆为可怜又可悲的众生。｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904698481417347074/bQb4DgC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 264,
+          "like_count": 2879,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 6766
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

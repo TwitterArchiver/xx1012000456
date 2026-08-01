@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1841522579900920056",
+    "created_at": "2024-10-02T20:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T21:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841573388734881955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520816008394645507",
+          "start": 0,
+          "username": "chirstian926"
+        },
+        {
+          "end": 23,
+          "id": "1464586716010921985",
+          "start": 14,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841573388734881955",
+    "in_reply_to_user_id": "1520816008394645507",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841530121947382027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chirstian926 @RDrugLab 4氟利他林/4氟哌甲酯、哌醋异丙酯、丙烯基麦司卡林、1D-AL-LAD很多啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1841522579900920056",
+        "created_at": "2024-10-02T20:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T21:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841573388734881955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520816008394645507",
+              "start": 0,
+              "username": "chirstian926"
+            },
+            {
+              "end": 23,
+              "id": "1464586716010921985",
+              "start": 14,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841573388734881955",
+        "in_reply_to_user_id": "1520816008394645507",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841530121947382027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chirstian926 @RDrugLab 4氟利他林/4氟哌甲酯、哌醋异丙酯、丙烯基麦司卡林、1D-AL-LAD很多啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520816008394645507",
+        "conversation_id": "1841522579900920056",
+        "created_at": "2024-10-02T17:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T18:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841530121947382027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841530121947382027",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841522579900920056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 像哪些未列管？真的很想知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 214,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 46
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T17:22:55.000Z",
+        "description": "",
+        "id": "1520816008394645507",
+        "name": "chirstian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536003412541710344/rsgca4Up_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 771,
+          "listed_count": 0,
+          "tweet_count": 96
+        },
+        "username": "chirstian926",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "id": "1464586716010921985",
+        "location": "距您7945km 𝕏",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1836751590738591887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820173045639651328/jasu6zB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 22,
+          "like_count": 7,
+          "listed_count": 11,
+          "tweet_count": 669
+        },
+        "username": "RDrugLab",
+        "verified": true
+      }
+    ]
+  }
+}

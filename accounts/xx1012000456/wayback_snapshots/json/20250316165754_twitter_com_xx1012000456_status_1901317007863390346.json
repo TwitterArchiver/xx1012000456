@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1901294371242434762",
+    "created_at": "2025-03-16T16:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T17:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901317007863390346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        },
+        {
+          "end": 33,
+          "id": "1272405078683430913",
+          "start": 17,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901317007863390346",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901315955529302385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt @PaitangOfficial 酮康挫和二硫化硒对脂溢性皮炎引起的脱发有效，不是就P用没有，别的不懂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901315955529302385].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901315955529302385",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901315955529302385"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1901294371242434762",
+        "created_at": "2025-03-16T16:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T17:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901317007863390346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            },
+            {
+              "end": 33,
+              "id": "1272405078683430913",
+              "start": 17,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901317007863390346",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901315955529302385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt @PaitangOfficial 酮康挫和二硫化硒对脂溢性皮炎引起的脱发有效，不是就P用没有，别的不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 486,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 939
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1896156483093778815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 55,
+          "like_count": 1869,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 4478
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "ASD+ADHD+INTP｜东方生物黑客｜合法过检利他林替代品｜ADHD弥赛亚｜逆转抑郁症｜消灭失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi3加速回復｜ENG OK👌 #让人类保持理智确实是一种奢求",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 156,
+                "start": 141,
+                "tag": "让人类保持理智确实是一种奢求"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "paitangcuzhi3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqN78M"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "生物工程从业者，从事逆转衰老、干细胞和基因治疗研发",
+        "name": "☯️🧬無極生物科技会社",
+        "pinned_tweet_id": "1900430020994118128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895373899451203584/iYVTiUNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8841,
+          "following_count": 385,
+          "like_count": 6816,
+          "listed_count": 26,
+          "media_count": 1454,
+          "tweet_count": 11744
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1853093768360251667",
+    "created_at": "2024-11-03T15:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T16:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853096777123242046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583317300152651776",
+          "start": 0,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853096777123242046",
+    "in_reply_to_user_id": "1583317300152651776",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853093768360251667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki_NekoY 发个地雷女那条？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1853093768360251667",
+        "created_at": "2024-11-03T15:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T16:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853096777123242046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583317300152651776",
+              "start": 0,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853096777123242046",
+        "in_reply_to_user_id": "1583317300152651776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853093768360251667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki_NekoY 发个地雷女那条？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "1853093768360251667",
+        "created_at": "2024-11-03T15:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T16:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853093768360251667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853093768360251667",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝成分查询\n你是因为什么关注了rikana的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 341,
+          "like_count": 8,
+          "listed_count": 1,
+          "tweet_count": 242
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/陰キャ/⚓️/精神障害/無性別/Sakuraの猫猫/日本語/裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪88/150(入门解锁v➕小号 私信只回口令红包",
+        "name": "Rikana",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789396683450896384/9IOKOejK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 52,
+          "like_count": 665,
+          "listed_count": 2,
+          "tweet_count": 1163
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

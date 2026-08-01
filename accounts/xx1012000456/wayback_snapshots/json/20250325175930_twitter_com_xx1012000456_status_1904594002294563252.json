@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904594002294563252",
+    "created_at": "2025-03-25T17:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T18:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904594002294563252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 57,
+          "id": "1797727504540807168",
+          "start": 41,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 68,
+          "id": "1826984800390889472",
+          "start": 59,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904594002294563252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这淘宝小店真是卧虎藏龙啊，我看见又卖上CBD电子烟油了🤣这店主发财了真应该给百科哥@od_angelkaii_od凌驾@LethalRC和我磕一个🤣迷幻系列他销售额应该有10w了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904594002294563252",
+        "created_at": "2025-03-25T17:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T18:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904594002294563252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1797727504540807168",
+              "start": 41,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 68,
+              "id": "1826984800390889472",
+              "start": 59,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904594002294563252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这淘宝小店真是卧虎藏龙啊，我看见又卖上CBD电子烟油了🤣这店主发财了真应该给百科哥@od_angelkaii_od凌驾@LethalRC和我磕一个🤣迷幻系列他销售额应该有10w了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 502,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1126
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "全民吸毒 人类崛起. 欢迎投稿报告我们，私信只回药物咨询和药物报告内容，不闲聊，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1901216591343391081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 4517,
+          "like_count": 3259,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "od交流群 https://t.co/q48tL4xNJ1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_data",
+                "end": 29,
+                "expanded_url": "https://t.me/drug_data",
+                "start": 6,
+                "url": "https://t.co/q48tL4xNJ1"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "name": "凌驾",
+        "pinned_tweet_id": "1903262071153684728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 40,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 52
+        },
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

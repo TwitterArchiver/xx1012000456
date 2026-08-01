@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1924707509383700869",
+    "created_at": "2025-05-23T17:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T18:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925963344323694653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780208570098688000",
+          "start": 0,
+          "username": "hongaibin"
+        },
+        {
+          "end": 21,
+          "id": "1870442976377503744",
+          "start": 11,
+          "username": "misakixyg"
+        },
+        {
+          "end": 31,
+          "id": "1790370144755351552",
+          "start": 22,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925963344323694653",
+    "in_reply_to_user_id": "1780208570098688000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925811665829793881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongaibin @misakixyg @FurinaDF 古柯是可卡因，苯甲酰芽子碱😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1924707509383700869",
+        "created_at": "2025-05-23T17:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T18:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925963344323694653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            },
+            {
+              "end": 21,
+              "id": "1870442976377503744",
+              "start": 11,
+              "username": "misakixyg"
+            },
+            {
+              "end": 31,
+              "id": "1790370144755351552",
+              "start": 22,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925963344323694653",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925811665829793881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin @misakixyg @FurinaDF 古柯是可卡因，苯甲酰芽子碱😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1924707509383700869",
+        "created_at": "2025-05-23T07:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T08:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925811665829793881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "1870442976377503744",
+              "start": 14,
+              "username": "misakixyg"
+            },
+            {
+              "end": 34,
+              "id": "1790370144755351552",
+              "start": 25,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925811665829793881",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925203191022616818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @misakixyg @FurinaDF 那不就古柯嘛 广州禁毒张胜春讲过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 562,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1565
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 2011,
+          "like_count": 18249,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 5089
+        },
+        "username": "hongaibin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活",
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1923332931088502798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 820,
+          "like_count": 8504,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 2489
+        },
+        "username": "misakixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "哈基米，叮咚鸡，胖宝宝，踩踩背，搞核酸，袋鼠鸡，一带一段，栗老师，小豌豆，蹲芳魂，原上咪，龙扛狼，好好汉，盖伦发发，在美国，叫超人，在中国，叫电棍，老爷爷，动起来，我给你，踩踩背，哈哈哈，哈基米，下下楼，搞搞核酸，叮，你看你爹操作，OK前十是谁呢，圆头耄耋和牢财，胖宝宝u好可爱u，auv小白手套~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcHG2X"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25114,
+          "following_count": 2149,
+          "like_count": 25511,
+          "listed_count": 72,
+          "media_count": 4711,
+          "tweet_count": 8786
+        },
+        "url": "https://t.co/UXOSrcHG2X",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

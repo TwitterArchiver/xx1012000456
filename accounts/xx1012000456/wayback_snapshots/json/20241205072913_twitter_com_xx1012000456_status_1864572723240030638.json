@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-05T07:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T08:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864572723240030638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864572723240030638",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864361913423155435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 1.二学士不是2020年的东西，在2019年曾经有个清退二学士的发文，是疫情后朝令夕改又捡回来而已。\n2.二学士专业极受限且偏坑，同时二学士没有特别严格的入场门槛，学历认可度甚至不如辅修和双学位。\n3.所谓的政策仅限于公务员或国企，在竞争中无优势，需要有人脉或资源才能兑现红利，而有资源不如直接考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T07:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T08:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864572723240030638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864572723240030638",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864361913423155435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 1.二学士不是2020年的东西，在2019年曾经有个清退二学士的发文，是疫情后朝令夕改又捡回来而已。\n2.二学士专业极受限且偏坑，同时二学士没有特别严格的入场门槛，学历认可度甚至不如辅修和双学位。\n3.所谓的政策仅限于公务员或国企，在竞争中无优势，需要有人脉或资源才能兑现红利，而有资源不如直接考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-04T17:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:28:16.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864361087602446677",
+          "1864361589455114731",
+          "1864361913423155435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1864293191605768645",
+              "start": 99,
+              "url": "https://t.co/Ni6emxpk6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864361913423155435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。\n\n因此中国从2020年开始重新推行的“第二学士学位”解决了这个问题：只需要两年时间，就可以拿到第二个专业的本科学士学位和本科毕业证。相当于是“重读本科”。\n\n这两年时间，只修专业课，不修公共课，课程完全和四年正常的本科的专业课等同甚至更多。\n\n而且还非常贴心的推出了相关政策：取得第二学士学位的毕业生在政策上待遇等同于硕士，解决了年龄问题。\n\n第二学士学位唯一一个效力无法等同于正常本科的专业是，临床医学；临床医学考执医证不承认第二学士学位，必须五年制本科或三年专科+三年本科才能考执医证。\n\n所以几乎所有中国重新高考重读本科的新闻，都是去读临床医学。因为其他所有专业都有第二学士或者硕士可以选择。\n\n另外从近两年开始，第二学士学位出现了大规模缩招的情况。\n\n因为很多学生都会认为“与其花两年再读一个本科，最高学历得不到提升，为什么不花三年读一个硕士，出国还只需要花一年。”\n\n很多第二学士学位的学生在这种心态的影响下，学校沦为了“免费考研自习室”。读一年后考上研直接退学，课也不上，蹭学校的宿舍，食堂，图书馆。浪费了大量的教学资源。\n\n大部分中国的学生受环境影响，功利性太重。\n\n也注定了“重读本科”的稀少性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6818,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864293191605768645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。… https://t.co/Ni6emxpk6Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 322
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33889,
+          "following_count": 3425,
+          "like_count": 296,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

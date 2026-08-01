@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1854508700146545063",
+    "created_at": "2024-11-08T04:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T05:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854743745759265130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854743745759265130",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854508700146545063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 是因为普通家庭根本不会去医院，我在安定特需，还听到两个家长认为抑郁是玩手机玩的呢，34线的地方怎么妖魔化都不知道😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1854508700146545063",
+        "created_at": "2024-11-08T04:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T05:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854743745759265130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854743745759265130",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854508700146545063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 是因为普通家庭根本不会去医院，我在安定特需，还听到两个家长认为抑郁是玩手机玩的呢，34线的地方怎么妖魔化都不知道😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854508697554415617"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1854508700146545063",
+        "created_at": "2024-11-07T12:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T13:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854508700146545063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMn6l5ztdw",
+              "end": 59,
+              "expanded_url": "https://x.com/0502railgun1949/status/1854508700146545063/photo/1",
+              "media_key": "3_1854508697554415617",
+              "start": 36,
+              "url": "https://t.co/bMn6l5ztdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854508700146545063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实在医院看到的还是抑郁的小女孩多\n而且大多家庭有钱\n普通家庭好像很少 https://t.co/bMn6l5ztdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 360,
+          "like_count": 9,
+          "listed_count": 1,
+          "tweet_count": 265
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 760,
+          "like_count": 5537,
+          "listed_count": 1,
+          "tweet_count": 4458
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

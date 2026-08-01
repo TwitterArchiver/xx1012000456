@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1904892458716021098",
+    "created_at": "2025-03-27T16:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T17:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905300038785663291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 27,
+          "id": "1608413813648527360",
+          "start": 17,
+          "username": "Cano_3118"
+        },
+        {
+          "end": 42,
+          "id": "1390652924481527810",
+          "start": 28,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 58,
+          "id": "1000763746430500865",
+          "start": 43,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905300038785663291",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905236326791905748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @Cano_3118 @zqtlovekris99 @manoj901858808 氟硝、氟西畔是两个东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1904892458716021098",
+        "created_at": "2025-03-27T16:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T17:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905300038785663291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 27,
+              "id": "1608413813648527360",
+              "start": 17,
+              "username": "Cano_3118"
+            },
+            {
+              "end": 42,
+              "id": "1390652924481527810",
+              "start": 28,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 58,
+              "id": "1000763746430500865",
+              "start": 43,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905300038785663291",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905236326791905748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @Cano_3118 @zqtlovekris99 @manoj901858808 氟硝、氟西畔是两个东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1904892458716021098",
+        "created_at": "2025-03-27T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905236326791905748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            },
+            {
+              "end": 25,
+              "id": "1390652924481527810",
+              "start": 11,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 41,
+              "id": "1000763746430500865",
+              "start": 26,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905236326791905748",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905231792531267992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 @zqtlovekris99 @manoj901858808 如果我没记错的话是蓝色的吧，氟西泮 国内好像被ban了 跟三唑仑一个地位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 504,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1181
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  Non-binary🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n没人要的雾岛🥺",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1903121425768337747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 6505,
+          "like_count": 91689,
+          "listed_count": 11,
+          "media_count": 877,
+          "tweet_count": 58726
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "谁用乌云换日星 谁用匕首换光明/小猫@abaablon /enby/不正常人类/潮酷骚孩/等待复学.ver",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "abaablon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "精液与诗句的十字路口",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1901160571510419748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 626,
+          "like_count": 17314,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6304,
+          "following_count": 535,
+          "like_count": 17308,
+          "listed_count": 8,
+          "media_count": 1951,
+          "tweet_count": 16017
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "只回复正常信息和门槛相关｜没回就是没看到",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1901577804141220053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904999097196748800/M_1fIkst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41004,
+          "following_count": 355,
+          "like_count": 2088,
+          "listed_count": 78,
+          "media_count": 169,
+          "tweet_count": 988
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

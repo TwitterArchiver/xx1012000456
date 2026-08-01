@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1913800618126590027",
+    "created_at": "2025-04-20T12:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T13:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913933657330647520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913933657330647520",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913800618126590027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 不对吧😅欠拟合这是欠在哪了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1913800618126590027",
+        "created_at": "2025-04-20T12:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T13:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913933657330647520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913933657330647520",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913800618126590027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 不对吧😅欠拟合这是欠在哪了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1913800618126590027",
+        "created_at": "2025-04-20T03:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T04:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913800618126590027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913800618126590027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 271,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何理解过拟合与欠拟合\n欠拟合：某个地雷妹觉得右美沙芬吃得越多，药效就越爽\n过拟合：某个地雷妹必须要用魔爪送服白兔之后用红贝印在手臂内侧划出一条鲸鱼才会开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 527,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1425
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1894371095572254742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1103,
+          "like_count": 15860,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 6198
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1893282085239943189",
+    "created_at": "2025-02-22T13:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893286358761849020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799360815751200768",
+          "start": 0,
+          "username": "youmeishafen99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893286358761849020",
+    "in_reply_to_user_id": "1799360815751200768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893282085239943189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmeishafen99 坏了，大家都找到流量密码了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1893282085239943189",
+        "created_at": "2025-02-22T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893286358761849020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799360815751200768",
+              "start": 0,
+              "username": "youmeishafen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893286358761849020",
+        "in_reply_to_user_id": "1799360815751200768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893282085239943189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmeishafen99 坏了，大家都找到流量密码了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799360815751200768",
+        "conversation_id": "1893282085239943189",
+        "created_at": "2025-02-22T12:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893282085239943189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893282085239943189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有地雷女网恋一下，不见面。炒作炒作。我也想要流量。药管够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 466,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 766
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T08:40:32.000Z",
+        "description": "群聊—https://t.co/Izv1A9Dzwk     批发过检产品",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Over_Dose_Wiki",
+                "end": 26,
+                "expanded_url": "https://t.me/Over_Dose_Wiki",
+                "start": 3,
+                "url": "https://t.co/Izv1A9Dzwk"
+              }
+            ]
+          }
+        },
+        "id": "1799360815751200768",
+        "location": "广州",
+        "name": "可达鸭滴化学乐园",
+        "pinned_tweet_id": "1802298141473181986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799360973683449856/yF3Vd0US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 338,
+          "like_count": 254,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 881
+        },
+        "username": "youmeishafen99",
+        "verified": true
+      }
+    ]
+  }
+}

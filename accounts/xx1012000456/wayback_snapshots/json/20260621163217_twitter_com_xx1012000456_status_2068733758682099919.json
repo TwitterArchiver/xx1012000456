@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068657180279247162",
+    "created_at": "2026-06-21T16:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068733758682099919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068733758682099919",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068657180279247162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 8是胡说八道，不履行救助义务和间接杀人的要件差远了，记得这是哪一年的法考题衍生出来的谣言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068657180279247162",
+        "created_at": "2026-06-21T16:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068733758682099919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068733758682099919",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068657180279247162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 8是胡说八道，不履行救助义务和间接杀人的要件差远了，记得这是哪一年的法考题衍生出来的谣言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2068657180279247162",
+        "created_at": "2026-06-21T11:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068657180279247162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068657180279247162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "情侣之间你以为合法但却是违法的行为\n\n1.不让对象出门，违反宪法第37条，限制他人人身自由\n\n2.偷看对象手机，未经他人同意偷看手机，属于侵犯个人隐私\n\n3.跟已婚者同居，如果跟已婚人士以夫妻名义同居，即使没有领证，也有可能构成重婚罪，最高判处2年\n\n4.注销对象游戏账号，游戏账号属于虚拟财产，也是个人财产受法律保护\n\n5.要求上交工资，未经他人自愿，带有强迫性，属于私自占有他人财产\n\n6.强吻对象，在未经他人同意的情况下强吻，属于违背他人意愿，情节严重的，可能构成猥亵或强奸罪\n\n7.冷暴力，冷暴力也属于暴力的一种，一旦造成了精神伤害，对方可以要求精神赔偿\n\n8.女友和母亲落水先救谁？先救妈妈，因为你对妈妈有法定救助义务，不救妈妈会构成不作为的故意杀人。但对女友只有道德义务，没有刑责\n\n9.索要分手费。分手费，青春损失费，不受法律保护，暴力胁迫他人的，可能构成敲诈勒索、抢劫罪\n\n10.在家cosplay玩情侣情趣游戏互动，比如护士、老师是没有问题的。但是警察、军人不可以，是违法的，相关的制服道具都是禁止购买的，仿制的也不行"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3272,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情侣之间你以为合法但却是违法的行为\n\n1.不让对象出门，违反宪法第37条，限制他人人身自由\n\n2.偷看对象手机，未经他人同意偷看手机，属于侵犯个人隐私\n\n3.跟已婚者同居，如果跟已婚人士以夫妻名义同居，即使没有领证，也有可能构成重婚罪，最高判处2年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 564,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 599,
+          "like_count": 1186,
+          "listed_count": 24,
+          "media_count": 315,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

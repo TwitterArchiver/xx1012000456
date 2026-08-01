@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905714382031729112",
+    "created_at": "2025-03-29T10:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T11:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905927547369742401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535504522423914497",
+          "start": 0,
+          "username": "AmongQAQ"
+        },
+        {
+          "end": 26,
+          "id": "1499709348616241155",
+          "start": 10,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905927547369742401",
+    "in_reply_to_user_id": "1535504522423914497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905859894231630308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmongQAQ @caomeiweimaomao 我是做了，他直接建议我去就诊，后面两年基本上也没人管我了，抽到体侧也让辅导员换人了，看地方吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905714382031729112",
+        "created_at": "2025-03-29T10:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905927547369742401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535504522423914497",
+              "start": 0,
+              "username": "AmongQAQ"
+            },
+            {
+              "end": 26,
+              "id": "1499709348616241155",
+              "start": 10,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905927547369742401",
+        "in_reply_to_user_id": "1535504522423914497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905859894231630308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmongQAQ @caomeiweimaomao 我是做了，他直接建议我去就诊，后面两年基本上也没人管我了，抽到体侧也让辅导员换人了，看地方吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535504522423914497",
+        "conversation_id": "1905714382031729112",
+        "created_at": "2025-03-29T05:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T06:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905859894231630308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905859894231630308",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905714382031729112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 我有个朋友就是听说有用就去了，结果去了就被各种问....然后灌输各种“正能量”，还和辅导员说了我朋友情况，说要重点照顾....弄的后面时不时就问我朋友心理怎么样，出学校也要报备。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1229
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T06:09:50.000Z",
+        "description": "一般路过男性",
+        "id": "1535504522423914497",
+        "name": "考试抄别人卷子，不小心把她草稿抄了",
+        "pinned_tweet_id": "1572449584135413762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788230051684884480/NK3dyROj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 284,
+          "like_count": 2712,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 854
+        },
+        "username": "AmongQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "丨 🧸关注我加入爱礼教丨🚪门槛77r仅闲聊丨里账号仅熟人@lanmeiweimaomao 丨嘤鹉：@SENDOH214丨🪜自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "lanmeiweimaomao"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 89,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 66,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "爱礼的天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1905854435840160120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40855,
+          "following_count": 934,
+          "like_count": 22376,
+          "listed_count": 45,
+          "media_count": 1883,
+          "tweet_count": 25231
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

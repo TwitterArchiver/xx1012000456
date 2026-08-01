@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1874882033069260933",
+    "created_at": "2025-01-03T09:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T10:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875113961588486431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875113961588486431",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874882033069260933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 一方面，上消化道是拒绝乙醇这种有毒物质的，这也是你喝酒过了很长时间也能吐出来的原因，但直肠不会。另一方面，两种脱氢酶及辅助代谢路径的p450都在肝脏，直肠绕过首关效应会使血中酒精浓度飙升。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1874882033069260933",
+        "created_at": "2025-01-03T09:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T10:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875113961588486431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875113961588486431",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874882033069260933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 一方面，上消化道是拒绝乙醇这种有毒物质的，这也是你喝酒过了很长时间也能吐出来的原因，但直肠不会。另一方面，两种脱氢酶及辅助代谢路径的p450都在肝脏，直肠绕过首关效应会使血中酒精浓度飙升。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1874882033069260933",
+        "created_at": "2025-01-02T18:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T19:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874882033069260933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CypressAlbert/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/CypressAlbert/status/1874859919486431249",
+              "start": 96,
+              "url": "https://t.co/lOrrsKyznr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874882033069260933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874859919486431249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人说直肠吸收更快，我倒是知道这一点，其实我就是奔着断片去的，遗书也编辑好了，到时候意外死了就能发出来\n不过我有一个小小小问题……酒精总量不变是吸收更快导致一下代谢不了这么多带来的急性毒性嘛 https://t.co/lOrrsKyznr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 411,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 446
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "你好我是柏树|精神状态是量子叠加态|成分复杂|分裂情感性障碍|阿斯伯各|INFJ-T 5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|误block致歉|欢迎理性讨论|攻击我的死全家哈|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 138,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/iBEVtehwcv"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1873270180970905606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 724,
+          "like_count": 10958,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/iBEVtehwcv",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

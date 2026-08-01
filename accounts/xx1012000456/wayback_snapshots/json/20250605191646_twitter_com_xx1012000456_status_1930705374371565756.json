@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1930609199748424134",
+    "created_at": "2025-06-05T19:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T20:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930705374371565756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769408963102265344",
+          "start": 0,
+          "username": "tICDh2g4Rz89685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930705374371565756",
+    "in_reply_to_user_id": "1769408963102265344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930609199748424134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tICDh2g4Rz89685 酸枣仁有安眠，朱砂是镇静（汞中毒）合欢好像有一点血清素能，五味子可以掩盖部分转氨酶升高，因此被认为是护肝。别的东西以传统意义上滋补品为主，感觉加进来卖药+骗钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930609189011046400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrm1B8bwAA-iTS.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930609189233344512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrm1CxbwAAR1Jt.jpg",
+        "width": 945
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1930609189434638337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsrm1DhbQAEaaJN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1930609199748424134",
+        "created_at": "2025-06-05T19:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T20:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930705374371565756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769408963102265344",
+              "start": 0,
+              "username": "tICDh2g4Rz89685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930705374371565756",
+        "in_reply_to_user_id": "1769408963102265344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930609199748424134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tICDh2g4Rz89685 酸枣仁有安眠，朱砂是镇静（汞中毒）合欢好像有一点血清素能，五味子可以掩盖部分转氨酶升高，因此被认为是护肝。别的东西以传统意义上滋补品为主，感觉加进来卖药+骗钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930609189011046400",
+            "3_1930609189233344512",
+            "3_1930609189434638337"
+          ]
+        },
+        "author_id": "1769408963102265344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930609199748424134",
+        "created_at": "2025-06-05T12:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T13:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930609199748424134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgDdikoj4H",
+              "end": 59,
+              "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930609199748424134/photo/1",
+              "media_key": "3_1930609189011046400",
+              "start": 36,
+              "url": "https://t.co/NgDdikoj4H"
+            },
+            {
+              "display_url": "pic.x.com/NgDdikoj4H",
+              "end": 59,
+              "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930609199748424134/photo/1",
+              "media_key": "3_1930609189233344512",
+              "start": 36,
+              "url": "https://t.co/NgDdikoj4H"
+            },
+            {
+              "display_url": "pic.x.com/NgDdikoj4H",
+              "end": 59,
+              "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930609199748424134/photo/1",
+              "media_key": "3_1930609189434638337",
+              "start": 36,
+              "url": "https://t.co/NgDdikoj4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930609199748424134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1481,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂中药的推友 这是做什么的\n我妈硬是要买这个一个月的量花了一千多 https://t.co/NgDdikoj4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 570,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1614
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T17:03:50.000Z",
+        "description": "是符符符 /mtf 很抱歉我的言论影响到你",
+        "id": "1769408963102265344",
+        "name": "符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893217141882789888/zqpJZRsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 204,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 132
+        },
+        "username": "tICDh2g4Rz89685",
+        "verified": false
+      }
+    ]
+  }
+}

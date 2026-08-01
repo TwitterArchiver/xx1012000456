@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1892435332672438303",
+    "created_at": "2025-02-20T06:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T07:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892461439324967060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892461439324967060",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892435332672438303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@manoj901858808 不是别乱用药，右美是兴奋和镇静对冲可不容易睡着的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1892435332672438303",
+        "created_at": "2025-02-20T06:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T07:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892461439324967060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892461439324967060",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892435332672438303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@manoj901858808 不是别乱用药，右美是兴奋和镇静对冲可不容易睡着的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1892435332672438303",
+        "created_at": "2025-02-20T04:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892435332672438303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manoj901858808…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/manoj901858808/status/1892343630301446391",
+              "start": 23,
+              "url": "https://t.co/djQoBjzKkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892435332672438303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892343630301446391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "仍然没有睡着我甚至连右美沙芬的药效都没有半分 https://t.co/djQoBjzKkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 467,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 741
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "@OZAKIsama123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "OZAKIsama123"
+              }
+            ]
+          }
+        },
+        "id": "1000763746430500865",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1890257065874227523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892340913172860932/W0k3qBVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34865,
+          "following_count": 316,
+          "like_count": 1776,
+          "listed_count": 72,
+          "media_count": 136,
+          "tweet_count": 1149
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

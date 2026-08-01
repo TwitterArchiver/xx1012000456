@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2068898121749573903",
+    "created_at": "2026-06-23T06:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069310983580070351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069310983580070351",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068898121749573903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 不是啊opr男的会没感觉硬不起来的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2068898121749573903",
+        "created_at": "2026-06-23T06:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069310983580070351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069310983580070351",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068898121749573903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 不是啊opr男的会没感觉硬不起来的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468680674458488833",
+        "conversation_id": "2068898121749573903",
+        "created_at": "2026-06-22T03:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068898121749573903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068898121749573903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女的od完全性冷淡知道不😂😂男的就不一样随便都能，女的就不是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 576,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "扩列52谁想加我",
+        "id": "1468680674458488833",
+        "name": "yd",
+        "pinned_tweet_id": "1998762211867766834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893254177893060608/Hu16SB4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 120,
+          "like_count": 796,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071099014070804978",
+    "created_at": "2026-06-28T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071130132308508882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        },
+        {
+          "end": 17,
+          "id": "1922389433510461442",
+          "start": 10,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071130132308508882",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071128794124161331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 @RieXwX 按不同报告的描述有类似普瑞的爽、酥酥麻麻、类解离到全是badtrip不等，这东西类似没有达成过共识，有愿意体验的用完可以给我发个报告，说不准这就是下一代od药物😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071099014070804978",
+        "created_at": "2026-06-28T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071130132308508882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            },
+            {
+              "end": 17,
+              "id": "1922389433510461442",
+              "start": 10,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071130132308508882",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071128794124161331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 @RieXwX 按不同报告的描述有类似普瑞的爽、酥酥麻麻、类解离到全是badtrip不等，这东西类似没有达成过共识，有愿意体验的用完可以给我发个报告，说不准这就是下一代od药物😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557450235621695488",
+        "conversation_id": "2071099014070804978",
+        "created_at": "2026-06-28T07:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071128794124161331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 21,
+              "id": "1922389433510461442",
+              "start": 14,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071128794124161331",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071101509333561845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @RieXwX 这个是啥药效呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 617,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2069433003848409098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3880,
+          "following_count": 603,
+          "like_count": 4789,
+          "listed_count": 6,
+          "media_count": 1003,
+          "tweet_count": 3659
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "愛してるならもっと強く殴って",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9651,
+          "following_count": 52,
+          "like_count": 347,
+          "listed_count": 12,
+          "media_count": 350,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

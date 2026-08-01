@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907364064050962655",
+    "created_at": "2025-04-02T11:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907393391224393889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907393391224393889",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907364064050962655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 琥珀酰胆碱+异戊巴比妥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_1907364052726317057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhRgBQaAAE3ZSK.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907364064050962655",
+        "created_at": "2025-04-02T11:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907393391224393889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907393391224393889",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907364064050962655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 琥珀酰胆碱+异戊巴比妥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907364052726317057"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1907364064050962655",
+        "created_at": "2025-04-02T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907364064050962655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLEwMW1oNe",
+              "end": 25,
+              "expanded_url": "https://x.com/pyke2076/status/1907364064050962655/photo/1",
+              "media_key": "3_1907364052726317057",
+              "start": 2,
+              "url": "https://t.co/DLEwMW1oNe"
+            },
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/pyke2076/status/1905856038517301744",
+              "start": 26,
+              "url": "https://t.co/Q7SqCNTX6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907364064050962655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905856038517301744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/DLEwMW1oNe https://t.co/Q7SqCNTX6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 513,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1299
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 1017,
+          "like_count": 49754,
+          "listed_count": 5,
+          "media_count": 2306,
+          "tweet_count": 12873
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2075971265865843098",
+    "created_at": "2026-07-11T16:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075980594979500376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075980594979500376",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075971265865843098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 可能把你当钓鱼的了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2075971265865843098",
+        "created_at": "2026-07-11T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075980594979500376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075980594979500376",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075971265865843098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 可能把你当钓鱼的了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640751385502425088",
+        "conversation_id": "2075971265865843098",
+        "created_at": "2026-07-11T15:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075971265865843098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075971265865843098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连续给三个药店打电话问有没有玉米和pr，都说没有然后直接把我电话挂断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 677,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "🪦魂兮归来～互fo大欢迎！\n06女/双相/坐标北京\n情绪失禁之人🚨\n急需被拯救中🚑",
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075443555062206464/v1S5MOlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

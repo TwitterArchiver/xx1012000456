@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895918103865029088",
+    "created_at": "2025-03-02T06:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T07:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896090171738898659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813141830453850113",
+          "start": 0,
+          "username": "daisyyyzzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896090171738898659",
+    "in_reply_to_user_id": "1813141830453850113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895918103865029088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daisyyyzzy 有可能，但不推荐，不是一下子送走那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895918103865029088",
+        "created_at": "2025-03-02T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896090171738898659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813141830453850113",
+              "start": 0,
+              "username": "daisyyyzzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896090171738898659",
+        "in_reply_to_user_id": "1813141830453850113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895918103865029088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daisyyyzzy 有可能，但不推荐，不是一下子送走那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813141830453850113",
+        "conversation_id": "1895918103865029088",
+        "created_at": "2025-03-01T19:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895918103865029088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895918103865029088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一盒布洛芬一盒对乙酰氨基酚会死吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 470,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 825
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T09:21:24.000Z",
+        "description": "私信都会回",
+        "id": "1813141830453850113",
+        "location": "上海",
+        "name": "daisyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813142118413512704/R1NTSYKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 92,
+          "like_count": 770,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "daisyyyzzy",
+        "verified": false
+      }
+    ]
+  }
+}

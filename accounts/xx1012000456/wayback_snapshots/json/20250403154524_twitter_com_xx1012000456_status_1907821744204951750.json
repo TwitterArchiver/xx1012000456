@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907489346657333425",
+    "created_at": "2025-04-03T15:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907821744204951750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "MelissaLoptr"
+        },
+        {
+          "end": 30,
+          "id": "1897309588699168768",
+          "start": 14,
+          "username": "right_drugs_knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907821744204951750",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907813210981589466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MelissaLoptr @right_drugs_knl 太小众了，风险在卖的人身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907489346657333425",
+        "created_at": "2025-04-03T15:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907821744204951750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "MelissaLoptr"
+            },
+            {
+              "end": 30,
+              "id": "1897309588699168768",
+              "start": 14,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907821744204951750",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907813210981589466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MelissaLoptr @right_drugs_knl 太小众了，风险在卖的人身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1907489346657333425",
+        "created_at": "2025-04-03T15:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907813210981589466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897309588699168768",
+              "start": 0,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907813210981589466",
+        "in_reply_to_user_id": "1897309588699168768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907489346657333425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@right_drugs_knl 但列管就意味着使用有风险啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 517,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1336
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ▪️リリカbot▪️接线下，过门槛后开放▪️没有福利没有非绿只有纯绿和聊天。",
+        "id": "1847153221900685312",
+        "location": "🚪门槛188/288/520▪️",
+        "name": "匿名",
+        "pinned_tweet_id": "1886404944393314796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901238328063913984/OM-i3Acj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 216,
+          "like_count": 357,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 685
+        },
+        "username": "MelissaLoptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 59,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 101
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      }
+    ]
+  }
+}

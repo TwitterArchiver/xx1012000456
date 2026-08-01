@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080336963715141632",
+        "3_2080337006077571072",
+        "3_2080337039434895360",
+        "3_2080337081059180544"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048428",
+          "name": "Delsym"
+        }
+      }
+    ],
+    "conversation_id": "2080340906285359193",
+    "created_at": "2026-07-23T17:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080340906285359193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwulNmHgTn",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+          "media_key": "3_2080336963715141632",
+          "start": 151,
+          "url": "https://t.co/UwulNmHgTn"
+        },
+        {
+          "display_url": "pic.x.com/UwulNmHgTn",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+          "media_key": "3_2080337006077571072",
+          "start": 151,
+          "url": "https://t.co/UwulNmHgTn"
+        },
+        {
+          "display_url": "pic.x.com/UwulNmHgTn",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+          "media_key": "3_2080337039434895360",
+          "start": 151,
+          "url": "https://t.co/UwulNmHgTn"
+        },
+        {
+          "display_url": "pic.x.com/UwulNmHgTn",
+          "end": 174,
+          "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+          "media_key": "3_2080337081059180544",
+          "start": 151,
+          "url": "https://t.co/UwulNmHgTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080340906285359193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.PCP衍，到时候发售了再说吧，感兴趣可以私信官方号或者我\n2.delsym缓释的，淘宝还是京东就有，好像还有美美之类的，这些你得知道再定向搜索\n3.不太会，两三天尿检基本就不会有结果了。发检这个就得看你为什么被传唤了，去漂下头发可以破坏部分增加发检难度\n4.不太可能，金时是个成熟团队，他们有隔离 https://t.co/UwulNmHgTn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2080336963715141632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7XckdbEAAYYKn.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080337006077571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7XfCRacAAWyO6.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080337039434895360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7Xg-ia0AA_nel.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2080337081059180544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7XjZmbAAAn5EK.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080336963715141632",
+            "3_2080337006077571072",
+            "3_2080337039434895360",
+            "3_2080337081059180544"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2080340906285359193",
+        "created_at": "2026-07-23T17:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080340906285359193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwulNmHgTn",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+              "media_key": "3_2080336963715141632",
+              "start": 151,
+              "url": "https://t.co/UwulNmHgTn"
+            },
+            {
+              "display_url": "pic.x.com/UwulNmHgTn",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+              "media_key": "3_2080337006077571072",
+              "start": 151,
+              "url": "https://t.co/UwulNmHgTn"
+            },
+            {
+              "display_url": "pic.x.com/UwulNmHgTn",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+              "media_key": "3_2080337039434895360",
+              "start": 151,
+              "url": "https://t.co/UwulNmHgTn"
+            },
+            {
+              "display_url": "pic.x.com/UwulNmHgTn",
+              "end": 174,
+              "expanded_url": "https://x.com/xx1012000456/status/2080340906285359193/photo/1",
+              "media_key": "3_2080337081059180544",
+              "start": 151,
+              "url": "https://t.co/UwulNmHgTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080340906285359193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.PCP衍，到时候发售了再说吧，感兴趣可以私信官方号或者我\n2.delsym缓释的，淘宝还是京东就有，好像还有美美之类的，这些你得知道再定向搜索\n3.不太会，两三天尿检基本就不会有结果了。发检这个就得看你为什么被传唤了，去漂下头发可以破坏部分增加发检难度\n4.不太可能，金时是个成熟团队，他们有隔离 https://t.co/UwulNmHgTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 717,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2110
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

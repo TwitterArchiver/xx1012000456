@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1905890027315323055",
+    "created_at": "2025-03-29T10:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T11:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905925347364987188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805558423280664576",
+          "start": 0,
+          "username": "lljjdjodjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905925347364987188",
+    "in_reply_to_user_id": "1805558423280664576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905890027315323055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lljjdjodjd 剂量*10可能差不多，这些会让你难受好久但不会致死😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1905890027315323055",
+        "created_at": "2025-03-29T10:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T11:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905925347364987188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805558423280664576",
+              "start": 0,
+              "username": "lljjdjodjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905925347364987188",
+        "in_reply_to_user_id": "1805558423280664576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905890027315323055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lljjdjodjd 剂量*10可能差不多，这些会让你难受好久但不会致死😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805558423280664576",
+        "conversation_id": "1905890027315323055",
+        "created_at": "2025-03-29T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905890027315323055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905890027315323055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉莫三嗪片吃20片，阿立哌唑片吃三十片会致死吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 505,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1228
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:07:36.000Z",
+        "description": "这里是我和我的生活，过门一切属于自愿赠予，不接推广",
+        "id": "1805558423280664576",
+        "name": "理",
+        "pinned_tweet_id": "1884112387386884228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900146576984825856/fYVHbG2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12056,
+          "following_count": 128,
+          "like_count": 1252,
+          "listed_count": 23,
+          "media_count": 245,
+          "tweet_count": 1187
+        },
+        "username": "lljjdjodjd",
+        "verified": false
+      }
+    ]
+  }
+}

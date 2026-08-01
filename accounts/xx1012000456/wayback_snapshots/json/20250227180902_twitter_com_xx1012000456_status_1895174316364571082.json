@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1895154098711994421",
+    "created_at": "2025-02-27T18:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T19:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895174316364571082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895174316364571082",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895154098711994421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 混用同类药物是罕见的，我能猜想的原因：1医保或药典规定外的超剂量超量程使用，但一般这时候会推荐换药。\n2伴随强迫、极其罕见的躯体化症状、人格解体（自解离）、快速循环双相等复杂情况且药物能解除部分状态\n3药物适应性差，多次换药无效并包含12"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1895154098711994421",
+        "created_at": "2025-02-27T18:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T19:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895174316364571082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895174316364571082",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895154098711994421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 混用同类药物是罕见的，我能猜想的原因：1医保或药典规定外的超剂量超量程使用，但一般这时候会推荐换药。\n2伴随强迫、极其罕见的躯体化症状、人格解体（自解离）、快速循环双相等复杂情况且药物能解除部分状态\n3药物适应性差，多次换药无效并包含12"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1895154098711994421",
+        "created_at": "2025-02-27T16:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895154098711994421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895154098711994421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉给一个人同时吃艾司西酞普兰阿立哌唑氟西汀真的好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 472,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 806
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。｜我的善良友好贴心温暖等等只留给我喜欢的人，我没有能力和义务去普渡众生，但我会尽力让所有我喜欢的人都觉得我很好很好。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1867680915759280197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 434,
+          "like_count": 117612,
+          "listed_count": 10,
+          "media_count": 904,
+          "tweet_count": 19592
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

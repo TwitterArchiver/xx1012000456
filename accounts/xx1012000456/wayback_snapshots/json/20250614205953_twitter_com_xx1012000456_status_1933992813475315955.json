@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1933926567446741095",
+    "created_at": "2025-06-14T20:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T21:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933992813475315955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933992813475315955",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933926567446741095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 或许，艺术创作需要一定的精神不稳定性？🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1933926567446741095",
+        "created_at": "2025-06-14T20:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T21:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933992813475315955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933992813475315955",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933926567446741095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 或许，艺术创作需要一定的精神不稳定性？🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1933926567446741095",
+        "created_at": "2025-06-14T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933926567446741095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933926567446741095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这件事讲出来可能真的很神奇，但确实是发生了。\n\n我读高中的时候是在理科班后来转去了艺术班，然后我的成绩当时在班里排第三名吧，第一第二都是稳居不动的那种，她俩当时是艺术文化都很好，老师很看重的人。\n结果她俩相继因为抑郁症休学了……\n\n于是我就成为了第一名，本来默默无闻的我成为班主任眼中的希望，但最抽象的是，我也抑郁了，只是我没休学，我坚持下来了而已。\n\n后面有一次和她们两个去学校探望老师，语文老师问询现在就读什么学校，她俩一位考上了北方的普通三本，一位还在准备成人高考，我们三个人只有我熬过来了，挺唏嘘的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 453,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这件事讲出来可能真的很神奇，但确实是发生了。\n\n我读高中的时候是在理科班后来转去了艺术班，然后我的成绩当时在班里排第三名吧，第一第二都是稳居不动的那种，她俩当时是艺术文化都很好，老师很看重的人。\n结果她俩相继因为抑郁症休学了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 576,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1658
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🐙我是爱礼/是碎碎念推和猫猫推丨ff14猫区欢迎加我丨🚪门槛55r丨嘤鹉：@SENDOH214丨 是自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 55,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "仿生柴郡貓想夢見電子愛麗絲",
+        "pinned_tweet_id": "1931985739627266454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41121,
+          "following_count": 1067,
+          "like_count": 23397,
+          "listed_count": 47,
+          "media_count": 2391,
+          "tweet_count": 28162
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

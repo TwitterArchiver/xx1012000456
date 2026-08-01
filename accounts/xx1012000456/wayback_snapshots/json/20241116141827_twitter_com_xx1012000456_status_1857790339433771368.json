@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1857780566365712504",
+    "created_at": "2024-11-16T14:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T15:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857790339433771368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        },
+        {
+          "end": 18,
+          "id": "1836782122037874688",
+          "start": 7,
+          "username": "mio1738468"
+        },
+        {
+          "end": 31,
+          "id": "1557253790088466432",
+          "start": 19,
+          "username": "misakiyugan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857790339433771368",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857780918905352199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 @mio1738468 @misakiyugan 当然有，一般意义上的中枢兴奋剂都有类似的效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1857780566365712504",
+        "created_at": "2024-11-16T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857790339433771368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            },
+            {
+              "end": 18,
+              "id": "1836782122037874688",
+              "start": 7,
+              "username": "mio1738468"
+            },
+            {
+              "end": 31,
+              "id": "1557253790088466432",
+              "start": 19,
+              "username": "misakiyugan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857790339433771368",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857780918905352199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 @mio1738468 @misakiyugan 当然有，一般意义上的中枢兴奋剂都有类似的效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "1857780566365712504",
+        "created_at": "2024-11-16T13:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857780918905352199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            },
+            {
+              "end": 24,
+              "id": "1557253790088466432",
+              "start": 12,
+              "username": "misakiyugan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857780918905352199",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857780566365712504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 @misakiyugan 有这种药吗？这不够科学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 358,
+          "like_count": 10,
+          "listed_count": 1,
+          "tweet_count": 276
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "从梦的世界里跑出来的梦梦……那个现实世界的怎么会是我，我只在梦里对吧？唔～要是大家一起去美梦里永远在一起生活该多好……交朋友其实很难……而且我也没多少精力……",
+        "id": "1456872541952229379",
+        "location": "梦之岛",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "1582751880924389376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791346022238834688/F98krNGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 383,
+          "like_count": 34654,
+          "listed_count": 2,
+          "tweet_count": 7735
+        },
+        "username": "txqv3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/清水推/碎碎念-分享日常/抽象妹/🚪20纯绿陪聊，给的越多越热情/粥批/亲友妹 @WeiShen60223 /小号：@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "WeiShen60223"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1850400229272814004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 472,
+          "like_count": 5482,
+          "listed_count": 2,
+          "tweet_count": 4233
+        },
+        "username": "mio1738468",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，是男娘！可爱，单推 本是🐟 ，所以是小鱼干如果你需要什么都可以私信我，无论是朋友，药物，涩涩，一起玩还是什么别的，我尽量满足你@poetry_luna超级可爱的老婆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "poetry_luna"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（男娘版",
+        "pinned_tweet_id": "1857502638604201992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9829,
+          "following_count": 2055,
+          "like_count": 138532,
+          "listed_count": 25,
+          "tweet_count": 19593
+        },
+        "username": "misakiyugan",
+        "verified": false
+      }
+    ]
+  }
+}

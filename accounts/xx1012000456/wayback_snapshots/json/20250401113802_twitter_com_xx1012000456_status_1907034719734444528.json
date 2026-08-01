@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1907018432723476709",
+    "created_at": "2025-04-01T11:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T12:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907034719734444528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907034719734444528",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907018432723476709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od 这就是我说的真正自杀该用的药，比什么亚硝酸钠强多了，希望各位表演艺术家都用上这个😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1907018424691326976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncXJ0faAAARmAg.jpg",
+        "width": 1033
+      },
+      {
+        "height": 1050,
+        "media_key": "3_1907018424695521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncXJ0gaAAAkJNT.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1907018432723476709",
+        "created_at": "2025-04-01T11:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907034719734444528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907034719734444528",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907018432723476709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 这就是我说的真正自杀该用的药，比什么亚硝酸钠强多了，希望各位表演艺术家都用上这个😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907018424691326976",
+            "3_1907018424695521280"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1907018432723476709",
+        "created_at": "2025-04-01T10:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907018432723476709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ahx7qDCU2R",
+              "end": 123,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1907018432723476709/photo/1",
+              "media_key": "3_1907018424691326976",
+              "start": 100,
+              "url": "https://t.co/Ahx7qDCU2R"
+            },
+            {
+              "display_url": "pic.x.com/Ahx7qDCU2R",
+              "end": 123,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1907018432723476709/photo/1",
+              "media_key": "3_1907018424695521280",
+              "start": 100,
+              "url": "https://t.co/Ahx7qDCU2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907018432723476709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "管制药物，秋水仙碱开箱\n\n秋水仙碱的毒性极强，治疗剂量与中毒剂量接近，易引发中毒。 其致死剂量约为0.8 mg/kg（成人超过40-50 mg可能致命），中毒后可能引发多器官衰竭，需严格遵医嘱使用。 https://t.co/Ahx7qDCU2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 510,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1281
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "最好的od百科，最专业的od专家.全民od，人类崛起. 欢迎投稿报告我们，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6853,
+          "following_count": 4743,
+          "like_count": 3603,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 4106
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

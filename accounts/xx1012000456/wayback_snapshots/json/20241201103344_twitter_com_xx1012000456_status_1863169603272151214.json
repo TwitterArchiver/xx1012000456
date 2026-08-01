@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1862810170482360549",
+    "created_at": "2024-12-01T10:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863169603272151214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710375641000935424",
+          "start": 0,
+          "username": "Y_74dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863169603272151214",
+    "in_reply_to_user_id": "1710375641000935424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863167534482051163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_74dead 药房只要药师补一个处方就行，所以本来就不会有人特意区分处方非处方😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1862810170482360549",
+        "created_at": "2024-12-01T10:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863169603272151214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710375641000935424",
+              "start": 0,
+              "username": "Y_74dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863169603272151214",
+        "in_reply_to_user_id": "1710375641000935424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863167534482051163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_74dead 药房只要药师补一个处方就行，所以本来就不会有人特意区分处方非处方😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710375641000935424",
+        "conversation_id": "1862810170482360549",
+        "created_at": "2024-12-01T10:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863167534482051163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863167534482051163",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863165992123441464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 普瑞不是处方药啊在网上买要处方但是在药房随便买啊 根本没人问😂但是昨天我去药房医师说普瑞快管制了现在青少年滥用查得严   加巴喷丁我试过效果没普瑞好而且一次要吃很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 308
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:25:26.000Z",
+        "description": "",
+        "id": "1710375641000935424",
+        "name": "Y_74",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766523256897519616/XtQNhHhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 563,
+          "like_count": 26935,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13060
+        },
+        "username": "Y_74dead",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1917542970901029001",
+    "created_at": "2025-04-30T18:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917642572832596138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878443514952134656",
+          "start": 0,
+          "username": "ADLYN123456"
+        },
+        {
+          "end": 26,
+          "id": "1131016972404051968",
+          "start": 13,
+          "username": "SydneyDaddy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917642572832596138",
+    "in_reply_to_user_id": "1878443514952134656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917572844512502090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADLYN123456 @SydneyDaddy1 从逻辑链上：屠龙到自身变龙大多需要一段时间转化，哪怕是间歇性的屠龙-堕落循环也比一直在龙生活下好。\n从现实上：美国三权本身还是分立的，至少你需要煽动大部分的民意来作为你“独裁”的保障"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1917542970901029001",
+        "created_at": "2025-04-30T18:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917642572832596138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878443514952134656",
+              "start": 0,
+              "username": "ADLYN123456"
+            },
+            {
+              "end": 26,
+              "id": "1131016972404051968",
+              "start": 13,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917642572832596138",
+        "in_reply_to_user_id": "1878443514952134656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917572844512502090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADLYN123456 @SydneyDaddy1 从逻辑链上：屠龙到自身变龙大多需要一段时间转化，哪怕是间歇性的屠龙-堕落循环也比一直在龙生活下好。\n从现实上：美国三权本身还是分立的，至少你需要煽动大部分的民意来作为你“独裁”的保障"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878443514952134656",
+        "conversation_id": "1917542970901029001",
+        "created_at": "2025-04-30T13:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917572844512502090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131016972404051968",
+              "start": 0,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917572844512502090",
+        "in_reply_to_user_id": "1131016972404051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917542970901029001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyDaddy1 但是，如果以彼之道还施彼身，即便取得了胜利，难道不会成为屠龙者变成龙吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 537,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1474
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T14:07:09.000Z",
+        "description": "",
+        "id": "1878443514952134656",
+        "location": "Edogawa-ku, Tokyo",
+        "name": "阿德里亚诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878443606610210817/OaAo2SvB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 18,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 466
+        },
+        "username": "ADLYN123456",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-22T02:00:34.000Z",
+        "description": "Youtuber: https://t.co/9HHxD7j6V3 堂堂正正做人，踏踏实实要饭 不差钱的打发点呗：https://t.co/6ldNis9QnU 或者比特币bitcoin:1CWDyMsKFJcwgAgmwadM9DkzxZJnyj4zBP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 33,
+                "expanded_url": "http://bit.ly/2tJ7Rui",
+                "start": 10,
+                "url": "https://t.co/9HHxD7j6V3"
+              },
+              {
+                "display_url": "PayPal.Me/sydneydaddy",
+                "end": 80,
+                "expanded_url": "https://PayPal.Me/sydneydaddy",
+                "start": 57,
+                "url": "https://t.co/6ldNis9QnU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2tJ7Rui",
+                "start": 0,
+                "url": "https://t.co/HOwitHqdwI"
+              }
+            ]
+          }
+        },
+        "id": "1131016972404051968",
+        "location": "2000",
+        "name": "悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692765532704092161/zjKkeYE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98055,
+          "following_count": 1840,
+          "like_count": 2462,
+          "listed_count": 454,
+          "media_count": 8192,
+          "tweet_count": 19203
+        },
+        "url": "https://t.co/HOwitHqdwI",
+        "username": "SydneyDaddy1",
+        "verified": true
+      }
+    ]
+  }
+}

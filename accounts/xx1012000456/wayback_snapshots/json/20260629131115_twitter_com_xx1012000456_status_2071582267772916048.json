@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2071451228954071272",
+    "created_at": "2026-06-29T13:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071582267772916048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071582267772916048",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071476862732427499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE 1不是每个人都有着充分的法律知识和素养的，作为在边缘上的行为，我想不该苛求受害者对自己的行为有着充分的认知\n2不是每个人像我有决心有毅力要抗争到底，更多人的目标是尽早出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2071451228954071272",
+        "created_at": "2026-06-29T13:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071582267772916048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071582267772916048",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071476862732427499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 1不是每个人都有着充分的法律知识和素养的，作为在边缘上的行为，我想不该苛求受害者对自己的行为有着充分的认知\n2不是每个人像我有决心有毅力要抗争到底，更多人的目标是尽早出去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2071451228954071272",
+        "created_at": "2026-06-29T06:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071476862732427499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071476862732427499",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071451228954071272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 那既然这么坚持不该认罪，于某怎么就认罪认罚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 624,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 115,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

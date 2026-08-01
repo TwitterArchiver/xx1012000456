@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2067789012841160846",
+    "created_at": "2026-06-20T08:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068246552209138060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2024200554868834304",
+          "start": 0,
+          "username": "QuanYou43542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068246552209138060",
+    "in_reply_to_user_id": "2024200554868834304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067789012841160846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanYou43542 感觉也就环球？别的适合年轻人的地方真不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2067789012841160846",
+        "created_at": "2026-06-20T08:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068246552209138060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2024200554868834304",
+              "start": 0,
+              "username": "QuanYou43542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068246552209138060",
+        "in_reply_to_user_id": "2024200554868834304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067789012841160846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanYou43542 感觉也就环球？别的适合年轻人的地方真不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024200554868834304",
+        "conversation_id": "2067789012841160846",
+        "created_at": "2026-06-19T01:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067789012841160846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067789012841160846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7211,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京有啥好玩的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n公子实验室（施工中）",
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 527,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:13:26.000Z",
+        "description": "我只是一个脆弱的人类",
+        "id": "2024200554868834304",
+        "location": "8.88🚪纯绿 只回口令",
+        "name": "狗狗命",
+        "pinned_tweet_id": "2067923285149650997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024200887036686336/61pCLfl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4732,
+          "following_count": 9,
+          "like_count": 780,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "QuanYou43542",
+        "verified": false
+      }
+    ]
+  }
+}

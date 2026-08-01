@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1871967743664329091",
+    "created_at": "2024-12-26T11:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872239811354067390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847909934203097088",
+          "start": 0,
+          "username": "momoisaiba15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872239811354067390",
+    "in_reply_to_user_id": "1847909934203097088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872167310049591432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoisaiba15 5据我了解鸡哥是先塌房再被披上了wiki官号的外衣，和有劣迹的人合作代表着.......emmmm我也不好说，反正这个也是他塌房的主管感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T11:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872239811354067390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847909934203097088",
+              "start": 0,
+              "username": "momoisaiba15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872239811354067390",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872167310049591432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoisaiba15 5据我了解鸡哥是先塌房再被披上了wiki官号的外衣，和有劣迹的人合作代表着.......emmmm我也不好说，反正这个也是他塌房的主管感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847909934203097088",
+        "conversation_id": "1871967743664329091",
+        "created_at": "2024-12-26T06:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T07:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872167310049591432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872167310049591432",
+        "in_reply_to_user_id": "1847909934203097088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872167171503300871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 5.“好鸟”是主观判断，而“和鸡哥共事”是客观事实。可以用主观判断来评价客观事实，可是，不能反过来用客观事实得出主观判断（不存在绝对的‘好鸟’）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 398,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 409
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:59:34.000Z",
+        "description": "",
+        "id": "1847909934203097088",
+        "name": "natsuki_natsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847910631954911232/vY6AuUM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 719,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "momoisaiba15",
+        "verified": false
+      }
+    ]
+  }
+}

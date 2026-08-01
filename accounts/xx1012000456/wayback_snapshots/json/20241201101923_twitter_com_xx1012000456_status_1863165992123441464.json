@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1862810170482360549",
+    "created_at": "2024-12-01T10:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863165992123441464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710375641000935424",
+          "start": 0,
+          "username": "Y_74dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863165992123441464",
+    "in_reply_to_user_id": "1710375641000935424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862810170482360549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_74dead pr本来就是处方药啊。。。pr没了建议去加巴喷丁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1862810170482360549",
+        "created_at": "2024-12-01T10:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863165992123441464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710375641000935424",
+              "start": 0,
+              "username": "Y_74dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863165992123441464",
+        "in_reply_to_user_id": "1710375641000935424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862810170482360549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_74dead pr本来就是处方药啊。。。pr没了建议去加巴喷丁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710375641000935424",
+        "conversation_id": "1862810170482360549",
+        "created_at": "2024-11-30T10:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862810170482360549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862810170482360549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1047,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵普瑞巴林快变成处方药了偶对妹们好自为之吧😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 371,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 307
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:25:26.000Z",
+        "description": "",
+        "id": "1710375641000935424",
+        "name": "Y_74",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766523256897519616/XtQNhHhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 563,
+          "like_count": 26928,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13058
+        },
+        "username": "Y_74dead",
+        "verified": false
+      }
+    ]
+  }
+}

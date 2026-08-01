@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "1896673883174121890",
+    "created_at": "2025-03-04T08:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T09:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896833160899703284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        },
+        {
+          "end": 21,
+          "id": "1851327101946953728",
+          "start": 13,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896833160899703284",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896781944677154884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 @060105o 你抗精分的药能吃出精分？别开玩笑了好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1896673883174121890",
+        "created_at": "2025-03-04T08:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T09:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896833160899703284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            },
+            {
+              "end": 21,
+              "id": "1851327101946953728",
+              "start": 13,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896833160899703284",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896781944677154884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 @060105o 你抗精分的药能吃出精分？别开玩笑了好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1896673883174121890",
+        "created_at": "2025-03-04T04:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896781944677154884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896781944677154884",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896673883174121890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 别吃多了哈 要不然就有精分的症状了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "pinned_tweet_id": "1846915131630145976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 483,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 847
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "哦呀哦米 这里是豆沙包大王 现实中小透明 喜欢在网络上找存在感 不黄 不政治  不发血图喜欢玩游戏看动漫 现实中是死宅 喜欢交朋友 想被喜欢 被需要 想被爱 讨厌坏男生  想和妹子交朋友 我爱你 我想一直一直陪你 可以私信我 我愿意一直听你讲话 陪着你 喜欢我好https://t.co/kxn3C10laC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wiopqwtrpp5/",
+                "end": 154,
+                "expanded_url": "https://ngl.link/wiopqwtrpp5/",
+                "start": 131,
+                "url": "https://t.co/kxn3C10laC"
+              }
+            ]
+          }
+        },
+        "id": "1608034171456294912",
+        "location": "距离你520m",
+        "name": "豆沙包",
+        "pinned_tweet_id": "1878022968225202245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877794345266696192/w9QsuLhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1013,
+          "like_count": 15555,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 8132
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/e人/双向情感障碍/自残/o冰块/羽毛球/跳舞/夹娃/06/164cm 50kg/双性恋/生活推/夹娃娃/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天给你带来乐趣 /是一个刚接触推的小小白 /即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友( *^-^)ρ(*╯^╰)༶ඬ༝ඬ",
+        "id": "1851327101946953728",
+        "location": "🚪10r",
+        "name": "哇咔",
+        "pinned_tweet_id": "1878507664684261834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 239,
+          "like_count": 5928,
+          "listed_count": 2,
+          "media_count": 795,
+          "tweet_count": 4894
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}
