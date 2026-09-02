@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085789072581353472",
+        "3_2085789358716866560",
+        "3_2085789820266360832",
+        "3_2085790081206616064"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2085790095496643063",
+    "created_at": "2026-08-07T18:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085790095496643063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5r4dRv0OO",
+          "end": 23,
+          "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+          "media_key": "3_2085789072581353472",
+          "start": 0,
+          "url": "https://t.co/O5r4dRv0OO"
+        },
+        {
+          "display_url": "pic.x.com/O5r4dRv0OO",
+          "end": 23,
+          "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+          "media_key": "3_2085789358716866560",
+          "start": 0,
+          "url": "https://t.co/O5r4dRv0OO"
+        },
+        {
+          "display_url": "pic.x.com/O5r4dRv0OO",
+          "end": 23,
+          "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+          "media_key": "3_2085789820266360832",
+          "start": 0,
+          "url": "https://t.co/O5r4dRv0OO"
+        },
+        {
+          "display_url": "pic.x.com/O5r4dRv0OO",
+          "end": 23,
+          "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+          "media_key": "3_2085790081206616064",
+          "start": 0,
+          "url": "https://t.co/O5r4dRv0OO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085790095496643063",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/O5r4dRv0OO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2085789072581353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2HEuaYAAZRta.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085789358716866560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2Xuqb0AARCbH.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085789820266360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI2ymEaMAADl2n.png",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2085790081206616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI3ByJagAA56jy.png",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085789072581353472",
+            "3_2085789358716866560",
+            "3_2085789820266360832",
+            "3_2085790081206616064"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2085790095496643063",
+        "created_at": "2026-08-07T18:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085790095496643063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789072581353472",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789358716866560",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085789820266360832",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            },
+            {
+              "display_url": "pic.x.com/O5r4dRv0OO",
+              "end": 23,
+              "expanded_url": "https://x.com/xx1012000456/status/2085790095496643063/photo/1",
+              "media_key": "3_2085790081206616064",
+              "start": 0,
+              "url": "https://t.co/O5r4dRv0OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085790095496643063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O5r4dRv0OO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 702,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

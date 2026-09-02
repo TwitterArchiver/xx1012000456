@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2090778422071136436",
+    "created_at": "2026-08-21T12:29:55.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090778422071136436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx1012000456/s…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/xx1012000456/status/2070057101939069274",
+          "start": 149,
+          "url": "https://t.co/NnXLhxGvLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090778422071136436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070057101939069274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该物质为二甲啡烷，昨天测试，发布报告。\n剂量：38t 10mg\n体感：有一点晕眩，不类似解离，可能为心理作用\n明显的呼吸抑制感，带一点困倦，一点点漂浮\n心脏、血压未测量，但有体感上的心跳加速和升压感，可能是呼吸抑制带来的代偿。\n总体上可能更接近白兔的体感但比白兔干净，有od价值，但不是DXM代替 https://t.co/NnXLhxGvLw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2090778422071136436",
+        "created_at": "2026-08-21T12:29:55.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090778422071136436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx1012000456/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/xx1012000456/status/2070057101939069274",
+              "start": 149,
+              "url": "https://t.co/NnXLhxGvLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090778422071136436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070057101939069274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该物质为二甲啡烷，昨天测试，发布报告。\n剂量：38t 10mg\n体感：有一点晕眩，不类似解离，可能为心理作用\n明显的呼吸抑制感，带一点困倦，一点点漂浮\n心脏、血压未测量，但有体感上的心跳加速和升压感，可能是呼吸抑制带来的代偿。\n总体上可能更接近白兔的体感但比白兔干净，有od价值，但不是DXM代替 https://t.co/NnXLhxGvLw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2070057101939069274",
+        "created_at": "2026-06-25T08:10:47.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070057101939069274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070057101939069274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 13003,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发现了一种有可能成为下一代od药物的东西，本来是我进去前有人私我问可不可以o的。当时因为那个药物版本是香港的很贵就没太在意，现在发现价格其实也还好入手也算方便。加上prym购买难度增加，有没有同行讨论一下或者组织测试的🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090778422071136436",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 774,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2231
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

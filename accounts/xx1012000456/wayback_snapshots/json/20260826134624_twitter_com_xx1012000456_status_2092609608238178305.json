@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092604137867534719",
+    "created_at": "2026-08-26T13:46:24.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092609608238178305"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092609608238178305",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092604137867534719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一样的，有需要都可以来找我要模版😇o圈律师正在发力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092604118565298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpsW9aaoAA9i3w.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092604118519123969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpsW9PaEAE9YYJ.jpg",
+        "width": 2896
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092604118493990913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpsW9JakAEEX2M.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092604137867534719",
+        "created_at": "2026-08-26T13:46:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092609608238178305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092609608238178305",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092604137867534719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一样的，有需要都可以来找我要模版😇o圈律师正在发力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092604118565298176",
+            "3_2092604118519123969",
+            "3_2092604118493990913"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092604137867534719",
+        "created_at": "2026-08-26T13:24:39.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092604137867534719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bhosk2tl2d",
+              "end": 113,
+              "expanded_url": "https://x.com/xx1012000456/status/2092604137867534719/photo/1",
+              "media_key": "3_2092604118565298176",
+              "start": 90,
+              "url": "https://t.co/Bhosk2tl2d"
+            },
+            {
+              "display_url": "pic.x.com/Bhosk2tl2d",
+              "end": 113,
+              "expanded_url": "https://x.com/xx1012000456/status/2092604137867534719/photo/1",
+              "media_key": "3_2092604118519123969",
+              "start": 90,
+              "url": "https://t.co/Bhosk2tl2d"
+            },
+            {
+              "display_url": "pic.x.com/Bhosk2tl2d",
+              "end": 113,
+              "expanded_url": "https://x.com/xx1012000456/status/2092604137867534719/photo/1",
+              "media_key": "3_2092604118493990913",
+              "start": 90,
+              "url": "https://t.co/Bhosk2tl2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092604137867534719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092604118565298176"
+          },
+          {
+            "media_key": "3_2092604118519123969"
+          },
+          {
+            "media_key": "3_2092604118493990913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复议书二模版，主要针对盐野义的特化型，主要打的是证据不闭合/无法排除合理可能性的思路，橙子/金时案子也可以按这个模版修改，大家复议起来，给晶哥们一点小小的oder法律震撼和反击😋 https://t.co/Bhosk2tl2d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092609608238178305",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 858,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2269
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

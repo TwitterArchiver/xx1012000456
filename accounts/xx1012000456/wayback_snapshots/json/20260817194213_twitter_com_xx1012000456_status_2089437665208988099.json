@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089437665208988099",
+    "created_at": "2026-08-17T19:42:13.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089437665208988099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KfirC10SRC/sta…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/KfirC10SRC/status/2089112118922715162",
+          "start": 137,
+          "url": "https://t.co/hZJBVF4eSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089437665208988099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089112118922715162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "充分说明就是个法盲还喜欢指指点点，首先这个叫伤情鉴定，伤残能鉴定上妥妥就是重伤了。故意伤害轻伤是0-3，轻伤有一级二级之分，轻二大概也就一年出头。原地等待大概率自首保底-40%，就算不是公安认罪认罚也-30%，还不论可能精神病鉴定的限制行为-50%以上，可别不会还教别人了 https://t.co/hZJBVF4eSS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2089112110307643392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP4EZU7akAAO4Vq.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089437665208988099",
+        "created_at": "2026-08-17T19:42:13.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089437665208988099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2089112118922715162",
+              "start": 137,
+              "url": "https://t.co/hZJBVF4eSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089437665208988099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089112118922715162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "充分说明就是个法盲还喜欢指指点点，首先这个叫伤情鉴定，伤残能鉴定上妥妥就是重伤了。故意伤害轻伤是0-3，轻伤有一级二级之分，轻二大概也就一年出头。原地等待大概率自首保底-40%，就算不是公安认罪认罚也-30%，还不论可能精神病鉴定的限制行为-50%以上，可别不会还教别人了 https://t.co/hZJBVF4eSS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089112110307643392"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "conversation_id": "2089112118922715162",
+        "created_at": "2026-08-16T22:08:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T23:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089112118922715162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWNmJsxfji",
+              "end": 164,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2089112118922715162/photo/1",
+              "media_key": "3_2089112110307643392",
+              "start": 141,
+              "url": "https://t.co/jWNmJsxfji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089112118922715162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089112110307643392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3608,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海超天酱快闪捅人的那事被害者真他妈不会操作，直接去伤残鉴定，看现在这个情况是轻伤二级八九不离十的，然后去打官司啊，这个情况捅的人没2，3年出不来，要么就是联系他家属调解，能赔将近10w，关于什么那人精神病的，ptsd什么的压根不是法定精神病，且已经诊断出来，还有哪怕真确定精神病 https://t.co/jWNmJsxfji"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089437665208988099",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 724,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2197
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "",
+        "id": "1689095384956633088",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089264427183001639",
+        "name": "KfirC10",
+        "pinned_tweet_id": "2067118496895697078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689095384956633088/1776852013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080593363854852096/diibPAn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 304,
+          "like_count": 475,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "KfirC10SRC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

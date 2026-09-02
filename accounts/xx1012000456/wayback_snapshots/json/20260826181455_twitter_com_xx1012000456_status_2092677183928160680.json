@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092672963942518848",
+    "created_at": "2026-08-26T18:14:55.000Z",
+    "display_text_range": [
+      12,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092677183928160680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3230572947",
+          "start": 0,
+          "username": "tamako_ttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092677183928160680",
+    "in_reply_to_user_id": "3230572947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092672963942518848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_ttt 大概率死不了而且会很惨，我听说有个好友从教学楼4楼跳下去叫的很惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092672963942518848",
+        "created_at": "2026-08-26T18:14:55.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092677183928160680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3230572947",
+              "start": 0,
+              "username": "tamako_ttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092677183928160680",
+        "in_reply_to_user_id": "3230572947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092672963942518848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_ttt 大概率死不了而且会很惨，我听说有个好友从教学楼4楼跳下去叫的很惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3230572947",
+        "conversation_id": "2092672963942518848",
+        "created_at": "2026-08-26T17:58:09.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092672963942518848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092672963942518848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四楼跳下去会死吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092677183928160680",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 867,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2276
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-03T13:59:00.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 @tamako_0406_ @Secret_oo_oo @ovoaini @tamko_aini 只收口令红包 约活私信看价格表 🚪30好友位 80開放pyq 110回復純綠消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "tamako_0406_"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "Secret_oo_oo"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "ovoaini"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "tamko_aini"
+              }
+            ]
+          }
+        },
+        "id": "3230572947",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092675649123287218",
+        "name": "tamako（第七次重生/被骗钱还债中",
+        "pinned_tweet_id": "2085402363180069094",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3230572947/1786033255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085400691208859649/lMAlJB0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "tamako_ttt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

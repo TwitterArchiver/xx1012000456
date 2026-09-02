@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089999403939708928"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089962217508831720",
+    "created_at": "2026-08-19T09:00:58.000Z",
+    "display_text_range": [
+      15,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090001065186111960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963203648437239808",
+          "start": 0,
+          "username": "Aphantasia314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5XdklsMlj",
+          "end": 139,
+          "expanded_url": "https://x.com/xx1012000456/status/2090001065186111960/photo/1",
+          "media_key": "3_2089999403939708928",
+          "start": 116,
+          "url": "https://t.co/E5XdklsMlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090001065186111960",
+    "in_reply_to_user_id": "1963203648437239808",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089999403939708928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089985592792699272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphantasia314 不知您是否听说过定向捐赠和附条件捐赠？显然是没有的对吧？所以对应的承诺可以随意挑选兑现，人员筛选可以随意按个人喜好丈量对吧？名人堂从头到尾都是成分公开的支持者，不知道你们怎么就敢宣称我们是不开名药商。 https://t.co/E5XdklsMlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2089999403939708928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQErYnSawAAmVQt.png",
+        "width": 174
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2089985583359942656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEe0JnbYAAq_77.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089999403939708928"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T09:00:58.000Z",
+        "display_text_range": [
+          15,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090001065186111960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963203648437239808",
+              "start": 0,
+              "username": "Aphantasia314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5XdklsMlj",
+              "end": 139,
+              "expanded_url": "https://x.com/xx1012000456/status/2090001065186111960/photo/1",
+              "media_key": "3_2089999403939708928",
+              "start": 116,
+              "url": "https://t.co/E5XdklsMlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090001065186111960",
+        "in_reply_to_user_id": "1963203648437239808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089999403939708928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089985592792699272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphantasia314 不知您是否听说过定向捐赠和附条件捐赠？显然是没有的对吧？所以对应的承诺可以随意挑选兑现，人员筛选可以随意按个人喜好丈量对吧？名人堂从头到尾都是成分公开的支持者，不知道你们怎么就敢宣称我们是不开名药商。 https://t.co/E5XdklsMlj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089985583359942656"
+          ]
+        },
+        "author_id": "1963203648437239808",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T07:59:30.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089985592792699272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmf7o0vmjo",
+              "end": 37,
+              "expanded_url": "https://x.com/Aphantasia314/status/2089985592792699272/photo/1",
+              "media_key": "3_2089985583359942656",
+              "start": 14,
+              "url": "https://t.co/hmf7o0vmjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089985592792699272",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089985583359942656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089962217508831720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 https://t.co/hmf7o0vmjo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090001065186111960",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 739,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T11:33:29.000Z",
+        "description": "",
+        "id": "1963203648437239808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089996776627732760",
+        "name": "Aphantasia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963203648437239808/1785179481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089746399315529728/p6XZOKPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Aphantasia314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2090350823469621431",
+    "created_at": "2026-08-20T10:31:05.000Z",
+    "display_text_range": [
+      12,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090386128952316096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971649593147379712",
+          "start": 0,
+          "username": "Echo_Sking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090386128952316096",
+    "in_reply_to_user_id": "1971649593147379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090350823469621431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Echo_Sking 基本上一样的，不会很明显，本来也不会有人盯着舌头看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2090350823469621431",
+        "created_at": "2026-08-20T10:31:05.000Z",
+        "display_text_range": [
+          12,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090386128952316096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971649593147379712",
+              "start": 0,
+              "username": "Echo_Sking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090386128952316096",
+        "in_reply_to_user_id": "1971649593147379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090350823469621431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echo_Sking 基本上一样的，不会很明显，本来也不会有人盯着舌头看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971649593147379712",
+        "conversation_id": "2090350823469621431",
+        "created_at": "2026-08-20T08:10:47.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090350823469621431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090350823469621431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想打个舌钉，但是如果之后后悔了摘了的话长出来的肉会像是我原来的舌头一样吗？还是会有个疤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090386128952316096",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 748,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2223
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-26T18:54:59.000Z",
+        "description": "🩷💜💙\n互fo寻回中… msk还我大号命来\n一个呆傻的高中生 希望我的碎碎念可以给你提供情绪价值💖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 0,
+                "url": "https://t.co/6asJgqFqBL"
+              }
+            ]
+          }
+        },
+        "id": "1971649593147379712",
+        "is_identity_verified": false,
+        "location": "29🥕千G主播自用vpn➡️",
+        "most_recent_tweet_id": "2090350823469621431",
+        "name": "银（2.0",
+        "pinned_tweet_id": "2088409290533192127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971649593147379712/1786697282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088185820692013056/sr9NoVoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 59,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/6asJgqFqBL",
+        "username": "Echo_Sking",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2093329996651893125",
+    "created_at": "2026-08-28T13:34:03.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093331276069736577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088949136292982784",
+          "start": 0,
+          "username": "Xiaoyu2133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093331276069736577",
+    "in_reply_to_user_id": "2088949136292982784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093329996651893125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyu2133 太坏了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2093329996651893125",
+        "created_at": "2026-08-28T13:34:03.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093331276069736577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088949136292982784",
+              "start": 0,
+              "username": "Xiaoyu2133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093331276069736577",
+        "in_reply_to_user_id": "2088949136292982784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093329996651893125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyu2133 太坏了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088949136292982784",
+        "conversation_id": "2093329996651893125",
+        "created_at": "2026-08-28T13:28:58.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093329996651893125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093329996651893125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要没收我的电子烟了，自从教会男友过肺以后一直嘬嘬我的电子烟，我好像真的带坏了，又是抽烟又是od的诶呦😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2093331276069736577",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 909,
+          "like_count": 164,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2301
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T11:23:52.000Z",
+        "description": "世界大爆炸，我是小魚，rin（莉音）\n我被影子dan了，回不了评论\n量產&地雷💊🩸双相\n墙内外割席，但是刷到墙外可以和我互关🥰\n前世@xyv__3\n我是个很无聊的人，全友好，微微查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 66,
+                "username": "xyv__3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/3600%E7%99%BE%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/3600%E7%99%BE%E6%96%A4",
+                "start": 0,
+                "url": "https://t.co/nrIyfpxAiB"
+              }
+            ]
+          }
+        },
+        "id": "2088949136292982784",
+        "is_identity_verified": false,
+        "location": "我不收门槛…别问我了",
+        "most_recent_tweet_id": "2093329996651893125",
+        "name": "3600斤3.0",
+        "pinned_tweet_id": "2093024449734049907",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088949136292982784/1786879650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088957496744677376/0NRh62QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 89,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/nrIyfpxAiB",
+        "username": "Xiaoyu2133",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

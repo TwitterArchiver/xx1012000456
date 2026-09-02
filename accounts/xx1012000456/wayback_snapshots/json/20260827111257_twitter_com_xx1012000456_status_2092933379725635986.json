@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092933379725635986",
+    "created_at": "2026-08-27T11:12:57.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092933379725635986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/licar1949/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/licar1949/status/2092928859427717124",
+          "start": 3,
+          "url": "https://t.co/zoHq1go5VN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092933379725635986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092928859427717124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同愿 https://t.co/zoHq1go5VN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092933379725635986",
+        "created_at": "2026-08-27T11:12:57.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092933379725635986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/licar1949/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/licar1949/status/2092928859427717124",
+              "start": 3,
+              "url": "https://t.co/zoHq1go5VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092933379725635986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092928859427717124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同愿 https://t.co/zoHq1go5VN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449641629",
+        "conversation_id": "2092928859427717124",
+        "created_at": "2026-08-27T10:54:59.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092928859427717124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shikiri5lkk/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Shikiri5lkk/status/2092917707184517366",
+              "start": 14,
+              "url": "https://t.co/tSaybvplz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092928859427717124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092917707184517366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我许愿能和我一起嗑药的真爱 https://t.co/tSaybvplz2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092933379725635986",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 885,
+          "like_count": 156,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 2283
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹！｜od自伤｜傻福精神病复学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖🥰\n\n请跟我交朋友吧！ᕙ(  •̀ ᗜ •́  )ᕗ回fo会查同类！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2092929477584257460",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2089926828727439613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 305,
+          "like_count": 2026,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

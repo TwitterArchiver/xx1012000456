@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2092542567489658954",
+    "created_at": "2026-08-26T12:27:54.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092589854953750751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092589854953750751",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092542567489658954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我们od圈已经火到BBC了！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 246833,
+        "height": 720,
+        "media_key": "13_2092449839724556288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092449839724556288/img/ITH-_Zm86xfb4Jp7.jpg",
+        "public_metrics": {
+          "view_count": 16253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092449839724556288/vid/avc1/480x270/hdXbmDbkmvn1j4f1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092449839724556288/vid/avc1/640x360/XW287o7hKZWEoP_O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092449839724556288/vid/avc1/1280x720/1KMAJmULYBOWoY_5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092449839724556288/pl/w10fGAKUH2XIykVn.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2092449852575940608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQngDf0bgAA0tXF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 517,
+        "media_key": "3_2092449915574308864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQngHKgaUAAiZmu.png",
+        "width": 640
+      },
+      {
+        "height": 265,
+        "media_key": "3_2092449987137589248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQngLVGbUAAxv4o.png",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2092542567489658954",
+        "created_at": "2026-08-26T12:27:54.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092589854953750751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589854953750751",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092542567489658954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我们od圈已经火到BBC了！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092449839724556288",
+            "3_2092449852575940608",
+            "3_2092449915574308864",
+            "3_2092449987137589248"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2092542567489658954",
+        "created_at": "2026-08-26T09:20:00.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092542567489658954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkZ4xoYyAX",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092542567489658954/video/1",
+              "media_key": "13_2092449839724556288",
+              "start": 108,
+              "url": "https://t.co/EkZ4xoYyAX"
+            },
+            {
+              "display_url": "pic.x.com/EkZ4xoYyAX",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092542567489658954/video/1",
+              "media_key": "3_2092449852575940608",
+              "start": 108,
+              "url": "https://t.co/EkZ4xoYyAX"
+            },
+            {
+              "display_url": "pic.x.com/EkZ4xoYyAX",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092542567489658954/video/1",
+              "media_key": "3_2092449915574308864",
+              "start": 108,
+              "url": "https://t.co/EkZ4xoYyAX"
+            },
+            {
+              "display_url": "pic.x.com/EkZ4xoYyAX",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2092542567489658954/video/1",
+              "media_key": "3_2092449987137589248",
+              "start": 108,
+              "url": "https://t.co/EkZ4xoYyAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092542567489658954",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092449839724556288"
+          },
+          {
+            "media_key": "3_2092449852575940608"
+          },
+          {
+            "media_key": "3_2092449915574308864"
+          },
+          {
+            "media_key": "3_2092449987137589248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“不被听见的孩子选择了嗑药”\n8月26日，BBC发表长篇调查报道，中国青少年正面临日益严峻的处方药滥用危机。受升学压力驱使，越来越多的青少年通过网络渠道购买止咳药、镇痛药、癫痫药等处方药物，以追求麻木感来逃避现实。\nBBC采访的一名14岁女生”小梅”表示，每当考试失利或与父母争吵，便会服用大量药片，”只是想逃离现实\"。她曾一次吞下50粒药片，险些酿成大祸。\n\n这一现象在社交媒体聊天群中广泛蔓延。青少年互相分享用药心得，甚至教导彼此如何规避监管、寻找替代药物。中国政府虽已多次出手整治，将相关药品列为精神药物加以管控，但青少年往往迅速转向其他尚未受管制的药物。\n\n专家指出，问题根源在于社会环境。中国青少年每天在校时间长达九至十小时，甚至更长，社交空间极为有限，既要承载父母的全部期望，又要在教育淘汰制中拼命求存。著名社会学家项飚表示，青少年最需要的，是有人真正聆听他们的感受，而非一味要求他们”坚强”。\n\n2023年数据显示，中国约9500万人患有抑郁症，其中逾三成为未成年人。2020年英国医学杂志《柳叶刀》称中国合格的儿童精神科医师只有500人。中山大学附属第三医院精神（心理）科医师郑俩荣认为，“青少年药物滥用背后，是未被看见的孤独与空虚。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 32702,
+          "like_count": 201,
+          "quote_count": 10,
+          "reply_count": 23,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "“不被听见的孩子选择了嗑药”\n8月26日，BBC发表长篇调查报道，中国青少年正面临日益严峻的处方药滥用危机。受升学压力驱使，越来越多的青少年通过网络渠道购买止咳药、镇痛药、癫痫药等处方药物，以追求麻木感来逃避现实。 https://t.co/EkZ4xoYyAX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092589854953750751",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 868,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2263
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2092588742418530573",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255761,
+          "following_count": 1081,
+          "like_count": 10215,
+          "listed_count": 8894,
+          "media_count": 52715,
+          "tweet_count": 60027
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

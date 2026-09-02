@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089671105145708724",
+    "created_at": "2026-08-18T14:03:55.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089714916970438984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "831435613937102848",
+          "start": 0,
+          "username": "5koPainful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089714916970438984",
+    "in_reply_to_user_id": "831435613937102848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089671105145708724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5koPainful 猫猫也要吃，为什么不给猫猫od"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57866,
+        "height": 1920,
+        "media_key": "13_2089670929131651072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089670929131651072/img/eVYVzNZYpX1RKH6p.jpg",
+        "public_metrics": {
+          "view_count": 144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089670929131651072/vid/avc1/480x852/AHnFPXq2FwwQnD0-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089670929131651072/vid/avc1/1080x1920/tQ9E-v6rm2gDQKUE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089670929131651072/pl/6tShQRKEa9CFZmB0.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089670929131651072/vid/avc1/320x568/ENuA8ayQAiVJbIGN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089670929131651072/vid/avc1/720x1280/CYByyGyQDLRXvSon.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089671105145708724",
+        "created_at": "2026-08-18T14:03:55.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089714916970438984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "831435613937102848",
+              "start": 0,
+              "username": "5koPainful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089714916970438984",
+        "in_reply_to_user_id": "831435613937102848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089671105145708724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5koPainful 猫猫也要吃，为什么不给猫猫od"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089670929131651072"
+          ]
+        },
+        "author_id": "831435613937102848",
+        "conversation_id": "2089671105145708724",
+        "created_at": "2026-08-18T11:09:50.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089671105145708724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEuQVVb27J",
+              "end": 27,
+              "expanded_url": "https://x.com/5koPainful/status/2089671105145708724/video/1",
+              "media_key": "13_2089670929131651072",
+              "start": 4,
+              "url": "https://t.co/DEuQVVb27J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089671105145708724",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089670929131651072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚服用 https://t.co/DEuQVVb27J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089714916970438984",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 735,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-14T09:31:12.000Z",
+        "description": "别烦 我复活了 寻回互关中ovo",
+        "id": "831435613937102848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089708703599780027",
+        "name": "穹",
+        "pinned_tweet_id": "2089663831278797095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831435613937102848/1787048170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 30,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "5koPainful",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

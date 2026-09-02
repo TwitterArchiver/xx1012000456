@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2088640386822758678",
+    "created_at": "2026-08-15T18:40:13.000Z",
+    "display_text_range": [
+      18,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088697284578206175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        },
+        {
+          "end": 17,
+          "id": "853937729201086464",
+          "start": 8,
+          "username": "Astrioia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088697284578206175",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088648700109414523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ @Astrioia 难，最好获得赔偿的时机是在警局，以撤案+和解为条件获得医药费+赔偿。错过这个时间点就只能自行起诉了，而大概率这些神人是没有个人财产的，除非他未成年可以起诉家人承担连带赔偿责任"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2088640386822758678",
+        "created_at": "2026-08-15T18:40:13.000Z",
+        "display_text_range": [
+          18,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088697284578206175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            },
+            {
+              "end": 17,
+              "id": "853937729201086464",
+              "start": 8,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088697284578206175",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088648700109414523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ @Astrioia 难，最好获得赔偿的时机是在警局，以撤案+和解为条件获得医药费+赔偿。错过这个时间点就只能自行起诉了，而大概率这些神人是没有个人财产的，除非他未成年可以起诉家人承担连带赔偿责任"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "2088640386822758678",
+        "created_at": "2026-08-15T15:27:09.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088648700109414523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "853937729201086464",
+              "start": 0,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088648700109414523",
+        "in_reply_to_user_id": "853937729201086464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088640386822758678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrioia 所以最后会得到赔偿吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2088697284578206175",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 707,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai|好朋友@Quitewaterqwq @aya__maimai|小号@5leep1ng_|防炸备用号@OU0CT8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "5leep1ng_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "OU0CT8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0_an",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0_an",
+                "start": 0,
+                "url": "https://t.co/pKvp7ES0S4"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2088664748057616779",
+        "name": "0_an",
+        "pinned_tweet_id": "2026540174684074130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087820313870708736/PPTXvL5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 1408,
+          "like_count": 42291,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 13021
+        },
+        "url": "https://t.co/pKvp7ES0S4",
+        "username": "ElP15_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088696029889876303",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 1397,
+          "like_count": 3028,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

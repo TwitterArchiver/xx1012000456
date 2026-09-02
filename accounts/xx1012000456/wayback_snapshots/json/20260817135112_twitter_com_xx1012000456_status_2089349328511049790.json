@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089347371943813373",
+    "created_at": "2026-08-17T13:51:12.000Z",
+    "display_text_range": [
+      10,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089349328511049790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071924874163912704",
+          "start": 0,
+          "username": "EVEgojj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089349328511049790",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089347371943813373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EVEgojj5 结膜炎，滴点普拉洛芬或者双氯芬酸钠就好了😅去医院也是给你开这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2089347341879029760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7aVm0bMAAkdnh.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2089347341874831360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7aVmzbIAA7TzF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2089347343061843968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7aVrObgAA017V.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2089347343086948352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7aVrUakAAPxjk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089347371943813373",
+        "created_at": "2026-08-17T13:51:12.000Z",
+        "display_text_range": [
+          10,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089349328511049790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "EVEgojj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089349328511049790",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089347371943813373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EVEgojj5 结膜炎，滴点普拉洛芬或者双氯芬酸钠就好了😅去医院也是给你开这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089347341879029760",
+            "3_2089347341874831360",
+            "3_2089347343061843968",
+            "3_2089347343086948352"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2089347371943813373",
+        "created_at": "2026-08-17T13:43:26.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089347371943813373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHh3U0hiNr",
+              "end": 55,
+              "expanded_url": "https://x.com/EVEgojj5/status/2089347371943813373/photo/1",
+              "media_key": "3_2089347341879029760",
+              "start": 32,
+              "url": "https://t.co/rHh3U0hiNr"
+            },
+            {
+              "display_url": "pic.x.com/rHh3U0hiNr",
+              "end": 55,
+              "expanded_url": "https://x.com/EVEgojj5/status/2089347371943813373/photo/1",
+              "media_key": "3_2089347341874831360",
+              "start": 32,
+              "url": "https://t.co/rHh3U0hiNr"
+            },
+            {
+              "display_url": "pic.x.com/rHh3U0hiNr",
+              "end": 55,
+              "expanded_url": "https://x.com/EVEgojj5/status/2089347371943813373/photo/1",
+              "media_key": "3_2089347343061843968",
+              "start": 32,
+              "url": "https://t.co/rHh3U0hiNr"
+            },
+            {
+              "display_url": "pic.x.com/rHh3U0hiNr",
+              "end": 55,
+              "expanded_url": "https://x.com/EVEgojj5/status/2089347371943813373/photo/1",
+              "media_key": "3_2089347343086948352",
+              "start": 32,
+              "url": "https://t.co/rHh3U0hiNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089347371943813373",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089347341879029760"
+          },
+          {
+            "media_key": "3_2089347341874831360"
+          },
+          {
+            "media_key": "3_2089347343061843968"
+          },
+          {
+            "media_key": "3_2089347343086948352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈哥哥姐姐们，路过能不能资助小艾一些钱明天去大医院看医生 https://t.co/rHh3U0hiNr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089349328511049790",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 722,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2190
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089348529408057367",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 375,
+          "like_count": 5191,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1585
+        },
+        "url": "",
+        "username": "EVEgojj5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

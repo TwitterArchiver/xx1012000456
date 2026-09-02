@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089961895575121920"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089962217508831720",
+    "created_at": "2026-08-19T06:26:36.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089962217508831720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbVTHUYyTR",
+          "end": 67,
+          "expanded_url": "https://x.com/xx1012000456/status/2089962217508831720/photo/1",
+          "media_key": "3_2089961895575121920",
+          "start": 44,
+          "url": "https://t.co/ZbVTHUYyTR"
+        },
+        {
+          "display_url": "x.com/jiejinghua/sta…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/jiejinghua/status/2089948800152428616",
+          "start": 68,
+          "url": "https://t.co/bbBzPDi63W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089962217508831720",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089961895575121920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089948800152428616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样，而且在我捐助30u之后，以这种理由黑钱。不知道是不是疯了。交易哈希可查，不怕锤 https://t.co/ZbVTHUYyTR https://t.co/bbBzPDi63W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2089961895575121920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEJRVvbcAAkS30.png",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089961895575121920"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T06:26:36.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089962217508831720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbVTHUYyTR",
+              "end": 67,
+              "expanded_url": "https://x.com/xx1012000456/status/2089962217508831720/photo/1",
+              "media_key": "3_2089961895575121920",
+              "start": 44,
+              "url": "https://t.co/ZbVTHUYyTR"
+            },
+            {
+              "display_url": "x.com/jiejinghua/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/jiejinghua/status/2089948800152428616",
+              "start": 68,
+              "url": "https://t.co/bbBzPDi63W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089962217508831720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089961895575121920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089948800152428616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样，而且在我捐助30u之后，以这种理由黑钱。不知道是不是疯了。交易哈希可查，不怕锤 https://t.co/ZbVTHUYyTR https://t.co/bbBzPDi63W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2089948800152428616",
+        "created_at": "2026-08-19T05:33:17.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089948800152428616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089948800152428616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所谓“化工原料革命”，更像是一小部分人的致富通道，而不是让所有人都获得廉价物质的市场革命。\n\n以谱锐扒臨为例，同一种东西，有人可以卖到每克1.7元，也有人长期以每克10元的价格销售，而且双方都能保留自己的客户。这说明消费者购买的并不只是原料本身，还在为便利、信任、渠道和风险承担支付溢价。即使上游原料价格已经极低，大多数人仍不会直接接触复杂且高风险的来源。\n\n因此，“原料革命”真正降低的主要是少数参与者的采购成本，而非整个市场的准入门槛。低价销售往往集中在竞争初期，长期经营又面临执法、同行竞争等风险，很难持续压低终端价格。\n\n更值得警惕的是，对“原料革命”的不断吹捧，会把低价、易得塑造成一种潮流叙事，反而扩大尝试者和滥用群体。最终，它对市场价格的影响可能只是小幅下降，对滥用规模的推动却可能更加明显。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所谓“化工原料革命”，更像是一小部分人的致富通道，而不是让所有人都获得廉价物质的市场革命。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2089962217508831720",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 745,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2206
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089959578850971995",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2087973981735235673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 112,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2088615086764204091",
+    "created_at": "2026-08-15T14:55:47.000Z",
+    "display_text_range": [
+      27,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088640806001557656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786464617031733248",
+          "start": 0,
+          "username": "QueerMasculism"
+        },
+        {
+          "end": 26,
+          "id": "3022697779",
+          "start": 16,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088640806001557656",
+    "in_reply_to_user_id": "786464617031733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088618302117728649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QueerMasculism @RXdruglab 寻讯滋事很难认定，伤害类寻滋最重要的是“随意”殴打他人，也就是对不特定的对象实施行为，比如喝酒后闹事对靠近的路人实施殴打。该案件中是被害人与同行人之间因为疑似偷拍发生口角（误认），因此产生了冲突升级，大概率无法认定随意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2088615086764204091",
+        "created_at": "2026-08-15T14:55:47.000Z",
+        "display_text_range": [
+          27,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088640806001557656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786464617031733248",
+              "start": 0,
+              "username": "QueerMasculism"
+            },
+            {
+              "end": 26,
+              "id": "3022697779",
+              "start": 16,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088640806001557656",
+        "in_reply_to_user_id": "786464617031733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088618302117728649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QueerMasculism @RXdruglab 寻讯滋事很难认定，伤害类寻滋最重要的是“随意”殴打他人，也就是对不特定的对象实施行为，比如喝酒后闹事对靠近的路人实施殴打。该案件中是被害人与同行人之间因为疑似偷拍发生口角（误认），因此产生了冲突升级，大概率无法认定随意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "2088615086764204091",
+        "created_at": "2026-08-15T13:26:22.000Z",
+        "display_text_range": [
+          11,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088618302117728649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/QueerMasculism…",
+              "end": 159,
+              "expanded_url": "https://x.com/QueerMasculism/status/2088274124909203724",
+              "start": 136,
+              "url": "https://t.co/nyqAHoTfsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088618302117728649",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088274124909203724",
+            "type": "quoted"
+          },
+          {
+            "id": "2088615086764204091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab “偷拍”在治安管理处罚法中也有规定，即“偷窥、偷拍、窃听、散布他人隐私的”，处五日以下拘留或者一千元以下罚款，治安管理处罚法规定的“偷拍”仅限侵犯隐私权。侵犯肖像权需要提起民事诉讼来救济，公安是不管的。\n另外本案即使不考虑伤情，也可能构成寻衅滋事罪：https://t.co/nyqAHoTfsM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2088640806001557656",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 707,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "is_identity_verified": false,
+        "location": "郑州",
+        "most_recent_tweet_id": "2088621747696468362",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786464617031733248/1758120956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 3061,
+          "like_count": 2221,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088615086764204091",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20432,
+          "following_count": 15,
+          "like_count": 40,
+          "listed_count": 23,
+          "media_count": 63,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

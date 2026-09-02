@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2088640386822758678",
+    "created_at": "2026-08-16T03:18:09.000Z",
+    "display_text_range": [
+      18,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088827626156958204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "853937729201086464",
+          "start": 0,
+          "username": "Astrioia"
+        },
+        {
+          "end": 17,
+          "id": "1676228046247038976",
+          "start": 10,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088827626156958204",
+    "in_reply_to_user_id": "853937729201086464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088736213314490417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astrioia @ElP15_ 首先呢我个人持中立态度，你要不要追责是你自己的事情。其次你是有权利撤案的，最简单的方法就是拒绝警方的伤情鉴定，你不配合警方很难把案子推进下去。这个方法是过去打出轻二后常见的大事化小和解方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2088640386822758678",
+        "created_at": "2026-08-16T03:18:09.000Z",
+        "display_text_range": [
+          18,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088827626156958204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "853937729201086464",
+              "start": 0,
+              "username": "Astrioia"
+            },
+            {
+              "end": 17,
+              "id": "1676228046247038976",
+              "start": 10,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088827626156958204",
+        "in_reply_to_user_id": "853937729201086464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088736213314490417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrioia @ElP15_ 首先呢我个人持中立态度，你要不要追责是你自己的事情。其次你是有权利撤案的，最简单的方法就是拒绝警方的伤情鉴定，你不配合警方很难把案子推进下去。这个方法是过去打出轻二后常见的大事化小和解方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853937729201086464",
+        "conversation_id": "2088640386822758678",
+        "created_at": "2026-08-15T21:14:54.000Z",
+        "display_text_range": [
+          22,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088736213314490417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 21,
+              "id": "1676228046247038976",
+              "start": 14,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088736213314490417",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088697284578206175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @ElP15_ 我无法要求撤案。即使我说是自己捅的也没人信"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beidao, Gansu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  105.89333,
+                  34.56861
+                ],
+                "type": "Point"
+              },
+              "locality": "Beidao",
+              "region": "Gansu Sheng"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2088827626156958204",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 710,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2179
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088762732833362259",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1411,
+          "like_count": 3312,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai|好朋友@Quitewaterqwq @aya__maimai|小号@5leep1ng_|防炸备用号@OU0CT8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "5leep1ng_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "OU0CT8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0_an",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0_an",
+                "start": 0,
+                "url": "https://t.co/pKvp7ES0S4"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2088819201733783569",
+        "name": "0_an",
+        "pinned_tweet_id": "2026540174684074130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087820313870708736/PPTXvL5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1414,
+          "like_count": 42488,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 13060
+        },
+        "url": "https://t.co/pKvp7ES0S4",
+        "username": "ElP15_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

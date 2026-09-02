@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090015006570278912",
+        "3_2090015029311750144",
+        "3_2090015061318533120"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089962217508831720",
+    "created_at": "2026-08-19T09:58:45.000Z",
+    "display_text_range": [
+      26,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090015606221496595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044176423460515840",
+          "start": 0,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 25,
+          "id": "1963203648437239808",
+          "start": 11,
+          "username": "Aphantasia314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gcp1ouOJc2",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+          "media_key": "3_2090015006570278912",
+          "start": 154,
+          "url": "https://t.co/gcp1ouOJc2"
+        },
+        {
+          "display_url": "pic.x.com/gcp1ouOJc2",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+          "media_key": "3_2090015029311750144",
+          "start": 154,
+          "url": "https://t.co/gcp1ouOJc2"
+        },
+        {
+          "display_url": "pic.x.com/gcp1ouOJc2",
+          "end": 177,
+          "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+          "media_key": "3_2090015061318533120",
+          "start": 154,
+          "url": "https://t.co/gcp1ouOJc2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090015606221496595",
+    "in_reply_to_user_id": "2044176423460515840",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090015006570278912"
+      },
+      {
+        "media_key": "3_2090015029311750144"
+      },
+      {
+        "media_key": "3_2090015061318533120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090008964767580330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dupinkepu @Aphantasia314 这个当然没有问题，不过我很好奇，你们基金会是投票选择了这么一个毫无素质到处咬人的狗作为概念的发起人和代言人，还是他擅自代表基金会发言？你们能拿到卡特尔的聊天记录也应该知道，我是一直表示克制和不支持的，这傻逼干嘛对我有这么大的恶意，啥帽子都往我头上扣？？？ https://t.co/gcp1ouOJc2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2090015006570278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5kznbcAAe6b5.png",
+        "width": 554
+      },
+      {
+        "height": 809,
+        "media_key": "3_2090015029311750144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5mIVawAAn4oc.png",
+        "width": 537
+      },
+      {
+        "height": 638,
+        "media_key": "3_2090015061318533120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5n_kbgAA_U9K.png",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090015006570278912",
+            "3_2090015029311750144",
+            "3_2090015061318533120"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T09:58:45.000Z",
+        "display_text_range": [
+          26,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090015606221496595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044176423460515840",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 25,
+              "id": "1963203648437239808",
+              "start": 11,
+              "username": "Aphantasia314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015006570278912",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            },
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015029311750144",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            },
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015061318533120",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090015606221496595",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090015006570278912"
+          },
+          {
+            "media_key": "3_2090015029311750144"
+          },
+          {
+            "media_key": "3_2090015061318533120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090008964767580330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @Aphantasia314 这个当然没有问题，不过我很好奇，你们基金会是投票选择了这么一个毫无素质到处咬人的狗作为概念的发起人和代言人，还是他擅自代表基金会发言？你们能拿到卡特尔的聊天记录也应该知道，我是一直表示克制和不支持的，这傻逼干嘛对我有这么大的恶意，啥帽子都往我头上扣？？？ https://t.co/gcp1ouOJc2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044176423460515840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T09:32:22.000Z",
+        "display_text_range": [
+          29,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090008964767580330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 28,
+              "id": "1963203648437239808",
+              "start": 14,
+              "username": "Aphantasia314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090008964767580330",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090001065186111960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Aphantasia314 内部还要投票一下走个程序，明天大概率可以退你钱。如果基金会不同意退你钱，我以个人名义退你钱，可以吗？请发我usdt地址。trx的话发我tg号用okpay。谢谢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090015606221496595",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 740,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2211
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090008964767580330",
+        "name": "橘雪莉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044176423460515840/1780542200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 200,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T11:33:29.000Z",
+        "description": "",
+        "id": "1963203648437239808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089996776627732760",
+        "name": "Aphantasia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963203648437239808/1785179481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089746399315529728/p6XZOKPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Aphantasia314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

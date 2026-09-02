@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2089437665208988099",
+    "created_at": "2026-08-19T11:56:40.000Z",
+    "display_text_range": [
+      11,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090045280494456969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085986483417251840",
+          "start": 0,
+          "username": "babenhua3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090045280494456969",
+    "in_reply_to_user_id": "2085986483417251840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089670808960672124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babenhua3 绝大多数能导致永久性功能损害的伤害都是重伤，伤残鉴定是对不可恢复的伤害后果的评级，因此这里推论出能做伤残鉴定的大多是重伤。这里跳步了不好意思，但肯定不是完全不对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089437665208988099",
+        "created_at": "2026-08-19T11:56:40.000Z",
+        "display_text_range": [
+          11,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090045280494456969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085986483417251840",
+              "start": 0,
+              "username": "babenhua3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090045280494456969",
+        "in_reply_to_user_id": "2085986483417251840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089670808960672124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babenhua3 绝大多数能导致永久性功能损害的伤害都是重伤，伤残鉴定是对不可恢复的伤害后果的评级，因此这里推论出能做伤残鉴定的大多是重伤。这里跳步了不好意思，但肯定不是完全不对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085986483417251840",
+        "conversation_id": "2089437665208988099",
+        "created_at": "2026-08-18T11:08:39.000Z",
+        "display_text_range": [
+          14,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089670808960672124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089670808960672124",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089437665208988099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 还有那个伤情鉴定跟伤残鉴定 你说的完全不对 本案伤情鉴定是刑事的鉴定 用于定量罪数情节 伤残鉴定是民事的鉴定 通过被害人的伤残程度来确定刑事附带民事的民事赔偿范围 只是一个刑事跟民事的区别，你完全这个是误导"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090045280494456969",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 741,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2212
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T07:08:49.000Z",
+        "description": "",
+        "id": "2085986483417251840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089969582408978822",
+        "name": "八本华",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085986483417251840/1786173292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085988095149867008/Rsvh5Y-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 13,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "babenhua3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

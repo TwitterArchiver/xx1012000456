@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092886629656449224",
+    "created_at": "2026-08-27T11:34:06.000Z",
+    "display_text_range": [
+      27,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092938701777371548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945371083827503105",
+          "start": 0,
+          "username": "zhmng189975"
+        },
+        {
+          "end": 26,
+          "id": "1488754158647738369",
+          "start": 13,
+          "username": "mingquan0326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092938701777371548",
+    "in_reply_to_user_id": "1945371083827503105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092930422594531734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhmng189975 @mingquan0326 男友估计没了，按推主的描述的保守程度估计不接受毒虫😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092886629656449224",
+        "created_at": "2026-08-27T11:34:06.000Z",
+        "display_text_range": [
+          27,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092938701777371548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945371083827503105",
+              "start": 0,
+              "username": "zhmng189975"
+            },
+            {
+              "end": 26,
+              "id": "1488754158647738369",
+              "start": 13,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092938701777371548",
+        "in_reply_to_user_id": "1945371083827503105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092930422594531734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhmng189975 @mingquan0326 男友估计没了，按推主的描述的保守程度估计不接受毒虫😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945371083827503105",
+        "conversation_id": "2092886629656449224",
+        "created_at": "2026-08-27T11:01:12.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092930422594531734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092930422594531734",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092886629656449224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingquan0326 ？有男友还找这个？？？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092938701777371548",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 886,
+          "like_count": 156,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 2285
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T06:33:20.000Z",
+        "description": "我都把你当人了你能不能装点像一点\nhttps://t.co/sp9TY4Tm7B谁来给我发",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1111116440",
+                "end": 40,
+                "expanded_url": "https://ngl.link/1111116440",
+                "start": 17,
+                "url": "https://t.co/sp9TY4Tm7B"
+              }
+            ]
+          }
+        },
+        "id": "1945371083827503105",
+        "is_identity_verified": false,
+        "location": "Florida, USA",
+        "most_recent_tweet_id": "2092930422594531734",
+        "name": "忧郁喵社男",
+        "pinned_tweet_id": "2070446716072136780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945371083827503105/1752815577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092884313830567936/vo67nGzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 130,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "zhmng189975",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "双向情感障碍/od/自残/穿孔/电吉他",
+        "id": "1488754158647738369",
+        "is_identity_verified": false,
+        "location": "Le Piccadilly",
+        "most_recent_tweet_id": "2092918935767191869",
+        "name": "小飒",
+        "pinned_tweet_id": "2091557779609616554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488754158647738369/1780744041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 351,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "mingquan0326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

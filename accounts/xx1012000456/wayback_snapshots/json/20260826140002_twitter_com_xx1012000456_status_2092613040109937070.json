@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092567732990644416",
+    "created_at": "2026-08-26T14:00:02.000Z",
+    "display_text_range": [
+      25,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092613040109937070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "kizumiyamizuki"
+        },
+        {
+          "end": 24,
+          "id": "1344660543131557895",
+          "start": 16,
+          "username": "k3Cat24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092613040109937070",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092595560171864438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kizumiyamizuki @k3Cat24 这里我表示反对，我以前见过的案例也只是相约自杀后如果反悔需要告知和劝阻对方，不然是一种放任的故意杀人。\n这个案子细节我不清楚，但是如果按这个描述，实施了对等的自杀行为并由于外力打断造成的幸存，我不知道哪里有放任的 故 意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092567732990644416",
+        "created_at": "2026-08-26T14:00:02.000Z",
+        "display_text_range": [
+          25,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092613040109937070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "kizumiyamizuki"
+            },
+            {
+              "end": 24,
+              "id": "1344660543131557895",
+              "start": 16,
+              "username": "k3Cat24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092613040109937070",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092595560171864438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kizumiyamizuki @k3Cat24 这里我表示反对，我以前见过的案例也只是相约自杀后如果反悔需要告知和劝阻对方，不然是一种放任的故意杀人。\n这个案子细节我不清楚，但是如果按这个描述，实施了对等的自杀行为并由于外力打断造成的幸存，我不知道哪里有放任的 故 意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2092567732990644416",
+        "created_at": "2026-08-26T12:50:34.000Z",
+        "display_text_range": [
+          9,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092595560171864438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1344660543131557895",
+              "start": 0,
+              "username": "k3Cat24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092595560171864438",
+        "in_reply_to_user_id": "1344660543131557895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092567732990644416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3Cat24 。。。相约一起去zs是一种“不作为的故意sr行为”。\n“放任”行为构成了对方死亡的结果。\n\n在法律中，生命权至高无上。除非被判处死刑，没有人有资格处置他人的生命，事实上连你自己都没有资格处置你自己的生命。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092613040109937070",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 858,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "夏日之花。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAVHyg"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "is_identity_verified": false,
+        "location": "127.0.0.1",
+        "most_recent_tweet_id": "2092597991526031584",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809754445162639361/1785920082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073190551978213376/5Pwq-kXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 882,
+          "like_count": 1061,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/gbSTeAVHyg",
+        "username": "kizumiyamizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T15:04:51.000Z",
+        "description": "为什么是猫猫却要用狐狸头像？因为可爱。。。。qvq  #成分请自己查\n// 期望回fo直接私信就好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "成分请自己查"
+              }
+            ]
+          }
+        },
+        "id": "1344660543131557895",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092580597579616444",
+        "name": "k᳐3喵᳐੭ 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344660543131557895/1726674736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 437,
+          "like_count": 4259,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 2847
+        },
+        "url": "",
+        "username": "k3Cat24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

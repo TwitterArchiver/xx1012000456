@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2092665356183855564",
+    "created_at": "2026-08-26T17:33:51.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092666850937385404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092666850937385404",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092665356183855564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 啊啊啊啊啊啊好漂亮的颜色，羡慕😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5318,
+        "height": 1146,
+        "media_key": "13_2092665326064562176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092665326064562176/img/PEHdT1GjNo2rvIHQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092665326064562176/vid/avc1/320x508/xFLkn_x4q1wCk9UT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092665326064562176/vid/avc1/480x764/OkWNEROeZZUsK06q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092665326064562176/vid/avc1/720x1146/BhyiIKIsK92bpfUA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092665326064562176/pl/spSJ1JBriEvrMX4r.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2092665356183855564",
+        "created_at": "2026-08-26T17:33:51.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092666850937385404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092666850937385404",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092665356183855564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 啊啊啊啊啊啊好漂亮的颜色，羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092665326064562176"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2092665356183855564",
+        "created_at": "2026-08-26T17:27:55.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092665356183855564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzGgLILcLf",
+              "end": 55,
+              "expanded_url": "https://x.com/0xo_snow/status/2092665356183855564/video/1",
+              "media_key": "13_2092665326064562176",
+              "start": 32,
+              "url": "https://t.co/CzGgLILcLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092665356183855564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092665326064562176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次用某知名发膜，就很像刚从理发店做完头发的效果….我知足了 https://t.co/CzGgLILcLf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092666850937385404",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 864,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 2274
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "我叫れん/恋🎀 ip北京 在接线下\n不要欺负我 我是个温良且胆小的普通人😳\n唯一想要的只是可爱\n🪦另一面@rina20496141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rina20496141"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "is_identity_verified": false,
+        "location": "🚪88",
+        "most_recent_tweet_id": "2092666385369591942",
+        "name": "🐰银河系No.1無聊小姐",
+        "pinned_tweet_id": "2090659658977689698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094329954652161/1787512714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090910158474166272/6XBFdxF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17989,
+          "following_count": 422,
+          "like_count": 17950,
+          "listed_count": 35,
+          "media_count": 1512,
+          "tweet_count": 15395
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
