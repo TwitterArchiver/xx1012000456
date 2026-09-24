@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100102016563572786",
+    "created_at": "2026-09-16T09:33:55.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100156215192166610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809823960969940992",
+          "start": 0,
+          "username": "rina20496141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100156215192166610",
+    "in_reply_to_user_id": "1809823960969940992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100102016563572786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rina20496141 你过来我带你玩小妹妹😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100102016563572786",
+        "created_at": "2026-09-16T09:33:55.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100156215192166610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809823960969940992",
+              "start": 0,
+              "username": "rina20496141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100156215192166610",
+        "in_reply_to_user_id": "1809823960969940992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100102016563572786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rina20496141 你过来我带你玩小妹妹😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809823960969940992",
+        "conversation_id": "2100102016563572786",
+        "created_at": "2026-09-16T05:58:33.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100102016563572786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100102016563572786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：大一目标🎯\n1.尝试逃一次课（水课）\n2.很晚回宿舍(大概9点多的样子)\n3.尝试喝一点酒（一口就行）\n4.上课睡一会觉(五六分钟那种)\n5.尝试和异性说话（你好这种就行）\n6.上课玩一会儿手机（几秒就行）\n7.尝试说一句脏话（你个坏人那种）\n8.尽量熬一次夜(大概11点的样子)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100156215192166610",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 1049,
+          "like_count": 217,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2413
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T05:37:23.000Z",
+        "description": "掉落负能与日常😳😳\n有一个发猫的电报废话群 可以私聊进群\n另一面@0xo_snow\n永远活着\n猎奇音频 #恋在唱歌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "恋在唱歌"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1809823960969940992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100102016563572786",
+        "name": "我什么都看不到我逃跑了",
+        "pinned_tweet_id": "2085921542685544774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809823960969940992/1786130729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087128349126840320/lw4oXSav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 14,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "rina20496141",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

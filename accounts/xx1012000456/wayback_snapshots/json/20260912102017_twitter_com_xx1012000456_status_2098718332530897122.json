@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2098430371658662096",
+    "created_at": "2026-09-12T10:20:17.000Z",
+    "display_text_range": [
+      21,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098718332530897122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "722248615716978688",
+          "start": 0,
+          "username": "Kong_Hank"
+        },
+        {
+          "end": 20,
+          "id": "1884546510919979008",
+          "start": 11,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098718332530897122",
+    "in_reply_to_user_id": "722248615716978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098446671713906691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kong_Hank @iamThuja 如果你稍微学一点化学，你就会知道那张列管表其实是千疮百孔，不在表里的阿片可能比在里面的还多，你需要我随时可以给你找出几十个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098430371658662096",
+        "created_at": "2026-09-12T10:20:17.000Z",
+        "display_text_range": [
+          21,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098718332530897122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "722248615716978688",
+              "start": 0,
+              "username": "Kong_Hank"
+            },
+            {
+              "end": 20,
+              "id": "1884546510919979008",
+              "start": 11,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098718332530897122",
+        "in_reply_to_user_id": "722248615716978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098446671713906691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kong_Hank @iamThuja 如果你稍微学一点化学，你就会知道那张列管表其实是千疮百孔，不在表里的阿片可能比在里面的还多，你需要我随时可以给你找出几十个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2098430371658662096",
+        "created_at": "2026-09-11T16:20:48.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098446671713906691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098446671713906691",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1709,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098430371658662096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 不是哥们儿，他哪来的阿片这种东西，卧槽这群ODer也太能整狠活儿了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2098718332530897122",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1013,
+          "like_count": 194,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "赛博乐子人，喜欢鼓捣点AI，不嘴臭不站队。",
+        "id": "722248615716978688",
+        "is_identity_verified": false,
+        "location": "Uranus",
+        "most_recent_tweet_id": "2098711727764541504",
+        "name": "清郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722248615716978688/1468668207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1077,
+          "like_count": 492,
+          "listed_count": 6,
+          "media_count": 763,
+          "tweet_count": 11684
+        },
+        "url": "",
+        "username": "Kong_Hank",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/亚文化头号粪海狂蛆（我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "is_identity_verified": false,
+        "location": "航天基地中心区总裁室（距您85m）",
+        "most_recent_tweet_id": "2098654874233971112",
+        "name": "岑柏今天堵桥了吗（扫狐狸没有在千恋万花打折时为了丛雨忍痛买正版不快进打完从雨线结果发现从雨一点也不平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884546510919979008/1789111605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095477013247348736/45QoLpbE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1035,
+          "like_count": 10313,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 4561
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

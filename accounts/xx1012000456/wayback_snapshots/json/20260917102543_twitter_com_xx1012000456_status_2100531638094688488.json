@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100344213565018564",
+    "created_at": "2026-09-17T10:25:43.000Z",
+    "display_text_range": [
+      14,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100531638094688488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100531638094688488",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100344213565018564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 打个广告，名人堂出售pr原粉，可以通过药百官号联系沐雨交流下单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100344206765989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXr7Y5WIAApMsp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100344206778617857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXr7Y8W0AE3jbn.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100344206711521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXr7YsXAAA_Nr-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100344213565018564",
+        "created_at": "2026-09-17T10:25:43.000Z",
+        "display_text_range": [
+          14,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100531638094688488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100531638094688488",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100344213565018564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 打个广告，名人堂出售pr原粉，可以通过药百官号联系沐雨交流下单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100344206765989888",
+            "3_2100344206778617857",
+            "3_2100344206711521280"
+          ]
+        },
+        "author_id": "2053116713692966913",
+        "conversation_id": "2100344213565018564",
+        "created_at": "2026-09-16T22:00:57.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100344213565018564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otYEmt7e1N",
+              "end": 156,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2100344213565018564/photo/1",
+              "media_key": "3_2100344206765989888",
+              "start": 133,
+              "url": "https://t.co/otYEmt7e1N"
+            },
+            {
+              "display_url": "pic.x.com/otYEmt7e1N",
+              "end": 156,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2100344213565018564/photo/1",
+              "media_key": "3_2100344206778617857",
+              "start": 133,
+              "url": "https://t.co/otYEmt7e1N"
+            },
+            {
+              "display_url": "pic.x.com/otYEmt7e1N",
+              "end": 156,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2100344213565018564/photo/1",
+              "media_key": "3_2100344206711521280",
+              "start": 133,
+              "url": "https://t.co/otYEmt7e1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100344213565018564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100344206765989888"
+          },
+          {
+            "media_key": "3_2100344206778617857"
+          },
+          {
+            "media_key": "3_2100344206711521280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1宝子这些药物耐受叠加的很快，所以说药效会逐步大打折扣。入睡实在很困难的话，我建议你最好去医院做系统的诊断，而且一日三餐都要按时吃并吃点碳水\np2-3抱歉，我这边暂时不推药商了，也没有别的途径，别的药的话因为几个月没了解过了也不知道加巴和白兔这些老英雄能不能买到 https://t.co/otYEmt7e1N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100531638094688488",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1065,
+          "like_count": 222,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2433
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "https://t.co/St6DRfq3uq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 23,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 0,
+                "url": "https://t.co/St6DRfq3uq"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100487567846130045",
+        "name": "我是废物",
+        "pinned_tweet_id": "2056439958777266683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053116713692966913/1789147667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098462897680916480/q1GfhQI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 442,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "FREUNDIS4021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2099503669913977325",
+    "created_at": "2026-09-14T16:34:31.000Z",
+    "display_text_range": [
+      24,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099537288023920675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1436017918098149377",
+          "start": 0,
+          "username": "KaraMakima"
+        },
+        {
+          "end": 23,
+          "id": "1207582399099330561",
+          "start": 12,
+          "username": "AKIRA_MiN_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099537288023920675",
+    "in_reply_to_user_id": "1436017918098149377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099536384138826220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaraMakima @AKIRA_MiN_ 我只能说有人被这么报复过，比起毁眼必定重伤估计要待4-6年，这个算是性价比极高的手段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T16:34:31.000Z",
+        "display_text_range": [
+          24,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099537288023920675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1436017918098149377",
+              "start": 0,
+              "username": "KaraMakima"
+            },
+            {
+              "end": 23,
+              "id": "1207582399099330561",
+              "start": 12,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099537288023920675",
+        "in_reply_to_user_id": "1436017918098149377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099536384138826220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaraMakima @AKIRA_MiN_ 我只能说有人被这么报复过，比起毁眼必定重伤估计要待4-6年，这个算是性价比极高的手段"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436017918098149377",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T16:30:56.000Z",
+        "display_text_range": [
+          26,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099536384138826220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1207582399099330561",
+              "start": 14,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099536384138826220",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099533642796265850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @AKIRA_MiN_ 你就是这么被捅过？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099537288023920675",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 1037,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-09T17:25:27.000Z",
+        "description": "Funny Mother P",
+        "id": "1436017918098149377",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099536384138826220",
+        "name": "西瓜大王麦麦提",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436017918098149377/1635493663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770863958234214400/x6GPFmod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 2053,
+          "like_count": 3927,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "KaraMakima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-19T08:44:31.000Z",
+        "description": "暴风雨的夜晚，蟋蟀仍将继续鸣叫。",
+        "id": "1207582399099330561",
+        "is_identity_verified": false,
+        "location": "帰らずの都",
+        "most_recent_tweet_id": "2099503669913977325",
+        "name": "AKIRA MIN🇺🇦",
+        "pinned_tweet_id": "1866336652433719545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207582399099330561/1649166747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701654423578238978/dg0zeHpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 7453,
+          "like_count": 19343,
+          "listed_count": 8,
+          "media_count": 1352,
+          "tweet_count": 16757
+        },
+        "url": "",
+        "username": "AKIRA_MiN_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

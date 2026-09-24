@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2095302189245931653",
+    "created_at": "2026-09-16T11:56:34.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100192113120125380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998633997623300096",
+          "start": 0,
+          "username": "17kxscvooo45974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100192113120125380",
+    "in_reply_to_user_id": "1998633997623300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095302189245931653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17kxscvooo45974 其实，有人在开发艾斯美沙酮作为抗抑郁药😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2095302189245931653",
+        "created_at": "2026-09-16T11:56:34.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100192113120125380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998633997623300096",
+              "start": 0,
+              "username": "17kxscvooo45974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100192113120125380",
+        "in_reply_to_user_id": "1998633997623300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095302189245931653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17kxscvooo45974 其实，有人在开发艾斯美沙酮作为抗抑郁药😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998633997623300096",
+        "conversation_id": "2095302189245931653",
+        "created_at": "2026-09-03T00:05:45.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T01:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095302189245931653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095302189245931653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪既然，氯安🪣可以治疗yy 裸盖🍄也能治疗yy，为什么啊片不可以，而且啊片有下机💊，也可以用美沙🪣截断。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100192113120125380",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 1052,
+          "like_count": 219,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2421
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2Xn3ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2Xn3ac"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099442894704968049",
+        "name": "liyuexi263527282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998633997623300096/1781697073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 293,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

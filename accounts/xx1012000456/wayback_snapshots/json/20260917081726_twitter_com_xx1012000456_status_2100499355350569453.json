@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100499355350569453",
+    "created_at": "2026-09-17T08:17:26.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100499355350569453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OVOyiran/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/OVOyiran/status/2100466182528884823",
+          "start": 9,
+          "url": "https://t.co/xjIcgHMXZ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100499355350569453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100466182528884823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转一下支持下同类 https://t.co/xjIcgHMXZ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2100466172781318144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZa2vta0AAv8xx.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100466172831629312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZa2v5agAAypPG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2100466172789751808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZa2vvbgAAMXiK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100499355350569453",
+        "created_at": "2026-09-17T08:17:26.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100499355350569453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OVOyiran/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/OVOyiran/status/2100466182528884823",
+              "start": 9,
+              "url": "https://t.co/xjIcgHMXZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100499355350569453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100466182528884823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转一下支持下同类 https://t.co/xjIcgHMXZ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100466172781318144",
+            "3_2100466172831629312",
+            "3_2100466172789751808"
+          ]
+        },
+        "author_id": "1772645327113531392",
+        "conversation_id": "2100466182528884823",
+        "created_at": "2026-09-17T06:05:37.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100466182528884823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1982087657703591936",
+              "start": 19,
+              "username": "ugaoOVO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtyKZdbKAl",
+              "end": 132,
+              "expanded_url": "https://x.com/OVOyiran/status/2100466182528884823/photo/1",
+              "media_key": "3_2100466172781318144",
+              "start": 109,
+              "url": "https://t.co/EtyKZdbKAl"
+            },
+            {
+              "display_url": "pic.x.com/EtyKZdbKAl",
+              "end": 132,
+              "expanded_url": "https://x.com/OVOyiran/status/2100466182528884823/photo/1",
+              "media_key": "3_2100466172831629312",
+              "start": 109,
+              "url": "https://t.co/EtyKZdbKAl"
+            },
+            {
+              "display_url": "pic.x.com/EtyKZdbKAl",
+              "end": 132,
+              "expanded_url": "https://x.com/OVOyiran/status/2100466182528884823/photo/1",
+              "media_key": "3_2100466172789751808",
+              "start": 109,
+              "url": "https://t.co/EtyKZdbKAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100466182528884823",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100466172781318144"
+          },
+          {
+            "media_key": "3_2100466172831629312"
+          },
+          {
+            "media_key": "3_2100466172789751808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是u糕\n\n这是我的自我介绍。前世@ugaoOVO申诉中\n我需要💰吃药。。。\n会散播一些我的经历和奇妙思想\n喜欢我就支持一下\n转发这条，9.27中秋节抽10个宝宝12.8（能有10个人转吗？）\n祝大家中秋节快乐🥮 https://t.co/EtyKZdbKAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100499355350569453",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1061,
+          "like_count": 218,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2427
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-26T15:22:45.000Z",
+        "description": "前世@ugaoOVO🚪52/188。同类互fo。日本語話せる。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "ugaoOVO"
+              }
+            ]
+          }
+        },
+        "id": "1772645327113531392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100466400091684972",
+        "name": "u糕",
+        "pinned_tweet_id": "2100466182528884823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772645327113531392/1788068998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093938697813270528/7EfTDfjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "OVOyiran",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

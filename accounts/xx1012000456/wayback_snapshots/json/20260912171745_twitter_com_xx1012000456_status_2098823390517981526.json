@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2098805914702909751",
+    "created_at": "2026-09-12T17:17:45.000Z",
+    "display_text_range": [
+      27,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098823390517981526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009465046213251076",
+          "start": 0,
+          "username": "mysoulis586g"
+        },
+        {
+          "end": 26,
+          "id": "2022874915012333568",
+          "start": 14,
+          "username": "liyfn130024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098823390517981526",
+    "in_reply_to_user_id": "2009465046213251076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098815750161264795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mysoulis586g @liyfn130024 接不住的，他的药物联用方案和使用剂量在我学医的那些朋友看来都应该会尖声惊叫，哪怕在我和沐雨这种算是不太惜命的自由派看来也相当夸张，属于在阎王殿门口疯狂试探了，更何况他家里人应该就他自己一个人懂药理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2098805914702909751",
+        "created_at": "2026-09-12T17:17:45.000Z",
+        "display_text_range": [
+          27,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098823390517981526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009465046213251076",
+              "start": 0,
+              "username": "mysoulis586g"
+            },
+            {
+              "end": 26,
+              "id": "2022874915012333568",
+              "start": 14,
+              "username": "liyfn130024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098823390517981526",
+        "in_reply_to_user_id": "2009465046213251076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098815750161264795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mysoulis586g @liyfn130024 接不住的，他的药物联用方案和使用剂量在我学医的那些朋友看来都应该会尖声惊叫，哪怕在我和沐雨这种算是不太惜命的自由派看来也相当夸张，属于在阎王殿门口疯狂试探了，更何况他家里人应该就他自己一个人懂药理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009465046213251076",
+        "conversation_id": "2098805914702909751",
+        "created_at": "2026-09-12T16:47:23.000Z",
+        "display_text_range": [
+          13,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098815750161264795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022874915012333568",
+              "start": 0,
+              "username": "liyfn130024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098815750161264795",
+        "in_reply_to_user_id": "2022874915012333568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098805914702909751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyfn130024 就是因为没有人接住他呀\n不可以做这些危险的事\n家里人不会接住他，为了找存在感，去混了太多的圈子，在混乱的时候做了很多不好的事\n所以没有什么朋友会接住他……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2098823390517981526",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 1025,
+          "like_count": 201,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2370
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-09T03:19:48.000Z",
+        "description": "废话大王爱碎碎念。啥都发话特别多高强度刷屏。不营业日常吐黑泥看黄",
+        "id": "2009465046213251076",
+        "is_identity_verified": false,
+        "location": "徐汇",
+        "most_recent_tweet_id": "2098822775314223129",
+        "name": "荔枝Tsukuyomirachi",
+        "pinned_tweet_id": "2093143565237158237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009465046213251076/1780419381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084951919420915713/0VkDu_6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 687,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "mysoulis586g",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098820704531833130",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 136,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

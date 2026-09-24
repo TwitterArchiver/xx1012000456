@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100776928173314115",
+    "created_at": "2026-09-18T11:05:14.000Z",
+    "display_text_range": [
+      35,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100903974065099036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1454774835549065220",
+          "start": 0,
+          "username": "LivyLI3"
+        },
+        {
+          "end": 21,
+          "id": "862358975278452741",
+          "start": 9,
+          "username": "yandangwuyi"
+        },
+        {
+          "end": 34,
+          "id": "1968359592267759622",
+          "start": 22,
+          "username": "zzwinwinwin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100903974065099036",
+    "in_reply_to_user_id": "1454774835549065220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100902420662600107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LivyLI3 @yandangwuyi @zzwinwinwin 你当最高院巡回庭是摆设？疑难杂症和再审都有上级法院受理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100776928173314115",
+        "created_at": "2026-09-18T11:05:14.000Z",
+        "display_text_range": [
+          35,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100903974065099036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1454774835549065220",
+              "start": 0,
+              "username": "LivyLI3"
+            },
+            {
+              "end": 21,
+              "id": "862358975278452741",
+              "start": 9,
+              "username": "yandangwuyi"
+            },
+            {
+              "end": 34,
+              "id": "1968359592267759622",
+              "start": 22,
+              "username": "zzwinwinwin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100903974065099036",
+        "in_reply_to_user_id": "1454774835549065220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100902420662600107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LivyLI3 @yandangwuyi @zzwinwinwin 你当最高院巡回庭是摆设？疑难杂症和再审都有上级法院受理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454774835549065220",
+        "conversation_id": "2100776928173314115",
+        "created_at": "2026-09-18T10:59:04.000Z",
+        "display_text_range": [
+          26,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100902420662600107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "862358975278452741",
+              "start": 0,
+              "username": "yandangwuyi"
+            },
+            {
+              "end": 25,
+              "id": "1968359592267759622",
+              "start": 13,
+              "username": "zzwinwinwin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100902420662600107",
+        "in_reply_to_user_id": "862358975278452741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100826812632740331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yandangwuyi @zzwinwinwin 什么打到最高法院，中国的最高法院不审案子，二审就终审了，都出不了省"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100903974065099036",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 1069,
+          "like_count": 228,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-31T11:38:59.000Z",
+        "description": "",
+        "id": "1454774835549065220",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100902420662600107",
+        "name": "Livy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454774902477639686/gt7qg6Jy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 626,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "LivyLI3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-10T17:29:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/yandangwuyi",
+                "end": 23,
+                "expanded_url": "https://twitter.com/yandangwuyi",
+                "start": 0,
+                "url": "https://t.co/AewmgNhRBX"
+              }
+            ]
+          }
+        },
+        "id": "862358975278452741",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2100879181290602779",
+        "name": "Alexander",
+        "pinned_tweet_id": "865997268901437440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862358975278452741/1540663117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549261102495584256/g8tFyXEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 783,
+          "like_count": 3695,
+          "listed_count": 5,
+          "media_count": 414,
+          "tweet_count": 15202
+        },
+        "url": "https://t.co/AewmgNhRBX",
+        "username": "yandangwuyi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T17:01:44.000Z",
+        "description": "不键政，Crypto 小白，观点输出型博主，不说废话！做一个活生生的人，而不是一个搬运机器！",
+        "id": "1968359592267759622",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100875993405890809",
+        "name": "Lucas｜冷哥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968359592267759622/1784363994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036467277735010310/DEeEpGiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9480,
+          "following_count": 6608,
+          "like_count": 14579,
+          "listed_count": 13,
+          "media_count": 285,
+          "tweet_count": 19405
+        },
+        "url": "",
+        "username": "zzwinwinwin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

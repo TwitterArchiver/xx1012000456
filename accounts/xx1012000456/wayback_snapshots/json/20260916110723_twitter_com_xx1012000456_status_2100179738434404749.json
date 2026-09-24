@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100039963341668678",
+    "created_at": "2026-09-16T11:07:23.000Z",
+    "display_text_range": [
+      27,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100179738434404749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1692041330774638592",
+          "start": 0,
+          "username": "huangshang1982"
+        },
+        {
+          "end": 26,
+          "id": "1892256210608697344",
+          "start": 16,
+          "username": "Btc8888XF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100179738434404749",
+    "in_reply_to_user_id": "1692041330774638592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100127971050762308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangshang1982 @Btc8888XF 什么都不用做，介绍没到3次判不了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100039963341668678",
+        "created_at": "2026-09-16T11:07:23.000Z",
+        "display_text_range": [
+          27,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100179738434404749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1692041330774638592",
+              "start": 0,
+              "username": "huangshang1982"
+            },
+            {
+              "end": 26,
+              "id": "1892256210608697344",
+              "start": 16,
+              "username": "Btc8888XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100179738434404749",
+        "in_reply_to_user_id": "1692041330774638592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100127971050762308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangshang1982 @Btc8888XF 什么都不用做，介绍没到3次判不了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692041330774638592",
+        "conversation_id": "2100039963341668678",
+        "created_at": "2026-09-16T07:41:41.000Z",
+        "display_text_range": [
+          11,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100127971050762308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892256210608697344",
+              "start": 0,
+              "username": "Btc8888XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100127971050762308",
+        "in_reply_to_user_id": "1892256210608697344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 676,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100039963341668678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Btc8888XF 请回答下面那种做法可以免除法律风险\n\nA : 退肥宅2000元。\n\nB: 给肥宅也穿上COS服，谎称自己只是卖服装。\n\nC:  不找肥宅，自己完事给小姐500元。\n\nD：不找肥宅，自己完事也不给钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100179738434404749",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 1051,
+          "like_count": 218,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T05:11:13.000Z",
+        "description": "",
+        "id": "1692041330774638592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100127971050762308",
+        "name": "众人皆罪",
+        "pinned_tweet_id": "1696227266152546317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692041330774638592/1758522030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064901552616222720/3G019lFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 178,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 5870
+        },
+        "url": "",
+        "username": "huangshang1982",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1925123366492745729/NGDodCQg_bigger.jpg",
+          "description": "BiyaPay 中文",
+          "url": "https://twitter.com/BIYAPAYOFFICIAL",
+          "user_id": [
+            "1404674977866018816"
+          ]
+        },
+        "created_at": "2025-02-19T16:53:47.000Z",
+        "description": "段子手 | 价值投资 | all in 推特\n\n脱下孔乙己的长衫，赚钱即正义！\n\nweb2是生活，web3是梦想 JUST DO IT ！ \n\nHTXDAO志愿者 | #蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "蓝鸟会"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "htx.com.hr/zh-cn/invite-r…",
+                "end": 23,
+                "expanded_url": "https://www.htx.com.hr/zh-cn/invite-register?inviter_id=11343840&invite_code=tbuae223",
+                "start": 0,
+                "url": "https://t.co/x9iCAPVrhS"
+              }
+            ]
+          }
+        },
+        "id": "1892256210608697344",
+        "is_identity_verified": false,
+        "location": "注册火币",
+        "most_recent_tweet_id": "2100167240352149530",
+        "name": "7w 🕊️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892256210608697344/1769086519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988090512793042944/uBAwecUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25114,
+          "following_count": 7423,
+          "like_count": 6017,
+          "listed_count": 60,
+          "media_count": 3669,
+          "tweet_count": 25020
+        },
+        "url": "https://t.co/x9iCAPVrhS",
+        "username": "Btc8888XF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

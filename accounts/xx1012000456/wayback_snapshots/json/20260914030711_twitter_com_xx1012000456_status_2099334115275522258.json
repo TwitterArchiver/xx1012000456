@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2099288401598087358",
+    "created_at": "2026-09-14T03:07:11.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099334115275522258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065698971063132160",
+          "start": 0,
+          "username": "linglinlll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099334115275522258",
+    "in_reply_to_user_id": "2065698971063132160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099288401598087358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglinlll 300块钱的东西就像骗炮？除非他给你买100g😄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2099288391653478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSIrq3GbUAApEJF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2099288401598087358",
+        "created_at": "2026-09-14T03:07:11.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099334115275522258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065698971063132160",
+              "start": 0,
+              "username": "linglinlll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099334115275522258",
+        "in_reply_to_user_id": "2065698971063132160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099288401598087358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglinlll 300块钱的东西就像骗炮？除非他给你买100g😄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099288391653478400"
+          ]
+        },
+        "author_id": "2065698971063132160",
+        "conversation_id": "2099288401598087358",
+        "created_at": "2026-09-14T00:05:32.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T01:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099288401598087358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSznpsoLsp",
+              "end": 25,
+              "expanded_url": "https://x.com/linglinlll/status/2099288401598087358/photo/1",
+              "media_key": "3_2099288391653478400",
+              "start": 2,
+              "url": "https://t.co/xSznpsoLsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099288401598087358",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099288391653478400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/xSznpsoLsp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099334115275522258",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 1032,
+          "like_count": 209,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2383
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T07:33:49.000Z",
+        "description": "11/💊/cos/🔪/ip武汉\n我是茶呆鱼的小狗\n直fo=喜欢你\n前世@lingling527527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "lingling527527"
+              }
+            ]
+          }
+        },
+        "id": "2065698971063132160",
+        "is_identity_verified": false,
+        "location": "青少年灾难",
+        "most_recent_tweet_id": "2099288401598087358",
+        "name": "Linglin527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065698971063132160/1786048783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082110357972156416/Xdhi2IsM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 94,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "linglinlll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

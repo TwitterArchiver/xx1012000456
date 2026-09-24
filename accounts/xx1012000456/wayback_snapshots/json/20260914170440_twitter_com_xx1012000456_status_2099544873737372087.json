@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2099503669913977325",
+    "created_at": "2026-09-14T17:04:40.000Z",
+    "display_text_range": [
+      21,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T18:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099544873737372087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642231380150210560",
+          "start": 0,
+          "username": "HYDXJLG"
+        },
+        {
+          "end": 20,
+          "id": "1207582399099330561",
+          "start": 9,
+          "username": "AKIRA_MiN_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099544873737372087",
+    "in_reply_to_user_id": "1642231380150210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099539081780961668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYDXJLG @AKIRA_MiN_ 未造成器质性或功能性损伤时参考的就是创面大小，屁股这里没有类似的结构造成创伤，所以就算这种捅刺变成肛瘘也最多轻伤。与之相对的手指的伸屈肌及肌腱即使损伤也很容易定的更重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T17:04:40.000Z",
+        "display_text_range": [
+          21,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099544873737372087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642231380150210560",
+              "start": 0,
+              "username": "HYDXJLG"
+            },
+            {
+              "end": 20,
+              "id": "1207582399099330561",
+              "start": 9,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099544873737372087",
+        "in_reply_to_user_id": "1642231380150210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099539081780961668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYDXJLG @AKIRA_MiN_ 未造成器质性或功能性损伤时参考的就是创面大小，屁股这里没有类似的结构造成创伤，所以就算这种捅刺变成肛瘘也最多轻伤。与之相对的手指的伸屈肌及肌腱即使损伤也很容易定的更重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642231380150210560",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T16:41:39.000Z",
+        "display_text_range": [
+          26,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099539081780961668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 25,
+              "id": "1207582399099330561",
+              "start": 14,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099539081780961668",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099533642796265850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @AKIRA_MiN_ 谁告诉你按照伤口大小判定的？\n要看功能丧失程度的\n把牛子剁了就比砍胳膊/砍腿要重一个档次\n牛子切完是重伤一级，没有更重的了，把人打成植物人也就是重伤一级。但是砍胳膊砍腿只有重伤二级"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099544873737372087",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1037,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2387
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T18:24:16.000Z",
+        "description": "梦想是和抖s又温柔的SSBBW姐姐结婚然后永远在一起",
+        "id": "1642231380150210560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099542597186584589",
+        "name": "TSF",
+        "pinned_tweet_id": "2097339948869292417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642231380150210560/1701591593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731063424648658945/WOigBPGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 849,
+          "like_count": 19777,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2567
+        },
+        "url": "",
+        "username": "HYDXJLG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-19T08:44:31.000Z",
+        "description": "暴风雨的夜晚，蟋蟀仍将继续鸣叫。",
+        "id": "1207582399099330561",
+        "is_identity_verified": false,
+        "location": "帰らずの都",
+        "most_recent_tweet_id": "2099542157359276170",
+        "name": "AKIRA MIN🇺🇦",
+        "pinned_tweet_id": "1866336652433719545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207582399099330561/1649166747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701654423578238978/dg0zeHpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 7453,
+          "like_count": 19345,
+          "listed_count": 8,
+          "media_count": 1352,
+          "tweet_count": 16761
+        },
+        "url": "",
+        "username": "AKIRA_MiN_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

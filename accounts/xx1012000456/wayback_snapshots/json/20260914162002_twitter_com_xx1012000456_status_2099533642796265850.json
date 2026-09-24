@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2099503669913977325",
+    "created_at": "2026-09-14T16:20:02.000Z",
+    "display_text_range": [
+      12,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099533642796265850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1207582399099330561",
+          "start": 0,
+          "username": "AKIRA_MiN_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099533642796265850",
+    "in_reply_to_user_id": "1207582399099330561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099503669913977325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIRA_MiN_ 如果追求伤害最大化的，可以使用类似碎冰锥的窄刃刀具，对屁股附近捅刺。因为伤情鉴定是根据伤口大小判定的，有极大概率被定位轻微伤或轻伤，最多也就1年多的刑法，但是受害者会必须经过多轮肛门重建等手术，而且基本上不能久坐😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T16:20:02.000Z",
+        "display_text_range": [
+          12,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099533642796265850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1207582399099330561",
+              "start": 0,
+              "username": "AKIRA_MiN_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099533642796265850",
+        "in_reply_to_user_id": "1207582399099330561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099503669913977325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIRA_MiN_ 如果追求伤害最大化的，可以使用类似碎冰锥的窄刃刀具，对屁股附近捅刺。因为伤情鉴定是根据伤口大小判定的，有极大概率被定位轻微伤或轻伤，最多也就1年多的刑法，但是受害者会必须经过多轮肛门重建等手术，而且基本上不能久坐😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207582399099330561",
+        "conversation_id": "2099503669913977325",
+        "created_at": "2026-09-14T14:20:56.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099503669913977325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099503669913977325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9621,
+          "like_count": 273,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "捅眼睛这招妙啊\n如果只捅一只眼睛的话\n只有可能定故意伤害\n基本上不会判死刑\n但是非常非常恶心人\n会批量制造出被社会排挤的边缘人\n你说独眼龙又不耽误打螺丝\n但是社会上那么多健全的人\n我为什么要招个独眼龙？\n就有点像秦国抓了俘虏一律砍掉大拇指放回去\n这些人回去以后不能种田也不能拿剑，就是恶心人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099533642796265850",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 1037,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-19T08:44:31.000Z",
+        "description": "暴风雨的夜晚，蟋蟀仍将继续鸣叫。",
+        "id": "1207582399099330561",
+        "is_identity_verified": false,
+        "location": "帰らずの都",
+        "most_recent_tweet_id": "2099503669913977325",
+        "name": "AKIRA MIN🇺🇦",
+        "pinned_tweet_id": "1866336652433719545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207582399099330561/1649166747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701654423578238978/dg0zeHpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 7453,
+          "like_count": 19343,
+          "listed_count": 8,
+          "media_count": 1352,
+          "tweet_count": 16757
+        },
+        "url": "",
+        "username": "AKIRA_MiN_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

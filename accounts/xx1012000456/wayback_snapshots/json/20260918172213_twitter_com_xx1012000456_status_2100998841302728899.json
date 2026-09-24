@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100845502585774080",
+        "3_2100845502573256704"
+      ],
+      "media_source_tweet_id": [
+        "2100845519702749625",
+        "2100845519702749625"
+      ]
+    },
+    "author_id": "1386670401422434304",
+    "conversation_id": "2100998841302728899",
+    "created_at": "2026-09-18T17:22:13.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100998841302728899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1946216654217900033",
+          "start": 3,
+          "username": "Xiao_Lan_412"
+        },
+        {
+          "end": 95,
+          "id": "1681992776626602014",
+          "start": 84,
+          "username": "_XnanX_418"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgcGy5xOfU",
+          "end": 119,
+          "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+          "media_key": "3_2100845502585774080",
+          "start": 96,
+          "url": "https://t.co/OgcGy5xOfU"
+        },
+        {
+          "display_url": "pic.x.com/OgcGy5xOfU",
+          "end": 119,
+          "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+          "media_key": "3_2100845502573256704",
+          "start": 96,
+          "url": "https://t.co/OgcGy5xOfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100998841302728899",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100845502585774080"
+      },
+      {
+        "media_key": "3_2100845502573256704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100845519702749625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_Lan_412: 你们好我是小澜 被msk制裁了\n割欧餐券妹主頁废话自拍猫咪出没\n女孩关注都会回 炫压抑男的不要私信我\n互fo互转扩列dm呀\n我的男友@_XnanX_418 https://t.co/OgcGy5xOfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100845502585774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSez2pWaIAAsge2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2100845502573256704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSez2pTbIAAOLmU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100845502585774080",
+            "3_2100845502573256704"
+          ],
+          "media_source_tweet_id": [
+            "2100845519702749625",
+            "2100845519702749625"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2100998841302728899",
+        "created_at": "2026-09-18T17:22:13.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100998841302728899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1946216654217900033",
+              "start": 3,
+              "username": "Xiao_Lan_412"
+            },
+            {
+              "end": 95,
+              "id": "1681992776626602014",
+              "start": 84,
+              "username": "_XnanX_418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgcGy5xOfU",
+              "end": 119,
+              "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+              "media_key": "3_2100845502585774080",
+              "start": 96,
+              "url": "https://t.co/OgcGy5xOfU"
+            },
+            {
+              "display_url": "pic.x.com/OgcGy5xOfU",
+              "end": 119,
+              "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+              "media_key": "3_2100845502573256704",
+              "start": 96,
+              "url": "https://t.co/OgcGy5xOfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100998841302728899",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100845502585774080"
+          },
+          {
+            "media_key": "3_2100845502573256704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100845519702749625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiao_Lan_412: 你们好我是小澜 被msk制裁了\n割欧餐券妹主頁废话自拍猫咪出没\n女孩关注都会回 炫压抑男的不要私信我\n互fo互转扩列dm呀\n我的男友@_XnanX_418 https://t.co/OgcGy5xOfU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100845502585774080",
+            "3_2100845502573256704"
+          ]
+        },
+        "author_id": "1946216654217900033",
+        "conversation_id": "2100845519702749625",
+        "created_at": "2026-09-18T07:12:58.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100845519702749625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1681992776626602014",
+              "start": 66,
+              "username": "_XnanX_418"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgcGy5xOfU",
+              "end": 101,
+              "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+              "media_key": "3_2100845502585774080",
+              "start": 78,
+              "url": "https://t.co/OgcGy5xOfU"
+            },
+            {
+              "display_url": "pic.x.com/OgcGy5xOfU",
+              "end": 101,
+              "expanded_url": "https://x.com/Xiao_Lan_412/status/2100845519702749625/photo/1",
+              "media_key": "3_2100845502573256704",
+              "start": 78,
+              "url": "https://t.co/OgcGy5xOfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100845519702749625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100845502585774080"
+          },
+          {
+            "media_key": "3_2100845502573256704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是小澜 被msk制裁了\n割欧餐券妹主頁废话自拍猫咪出没\n女孩关注都会回 炫压抑男的不要私信我\n互fo互转扩列dm呀\n我的男友@_XnanX_418 https://t.co/OgcGy5xOfU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100998841302728899",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 1076,
+          "like_count": 229,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2452
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T14:33:15.000Z",
+        "description": "我是小澜 餐券🈹o负能 有对象@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1946216654217900033",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2100978549746471401",
+        "name": "小澜，梦想哭了",
+        "pinned_tweet_id": "2100845519702749625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946216654217900033/1789408002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603983408877568/Ew4UbNLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Xiao_Lan_412",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T11:41:43.000Z",
+        "description": "我最可爱的女朋友@Haocha_Feiming_ 哲 幻 杂语",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "Haocha_Feiming_"
+              }
+            ]
+          }
+        },
+        "id": "1681992776626602014",
+        "is_identity_verified": false,
+        "location": "距你2.6公里",
+        "most_recent_tweet_id": "2082518672682426401",
+        "name": "418",
+        "pinned_tweet_id": "2012454520647778729",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681992776626602014/1747922650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925557269422645255/h3SnET9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 46,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1307
+        },
+        "url": "",
+        "username": "_XnanX_418",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
