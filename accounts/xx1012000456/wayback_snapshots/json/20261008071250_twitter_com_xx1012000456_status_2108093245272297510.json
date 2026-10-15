@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2108026907870859619",
+    "created_at": "2026-10-08T07:12:50.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T08:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108093245272297510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822109599459397632",
+          "start": 0,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108093245272297510",
+    "in_reply_to_user_id": "1822109599459397632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108026907870859619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifensix 我和沐雨 be like🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2108026895896076288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUE3SwLa4AAdRTL.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2108026907870859619",
+        "created_at": "2026-10-08T07:12:50.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108093245272297510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108093245272297510",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108026907870859619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix 我和沐雨 be like🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108026895896076288"
+          ]
+        },
+        "author_id": "1822109599459397632",
+        "conversation_id": "2108026907870859619",
+        "created_at": "2026-10-08T02:49:14.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108026907870859619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBmQ0nG43J",
+              "end": 173,
+              "expanded_url": "https://x.com/zifensix/status/2108026907870859619/photo/1",
+              "media_key": "3_2108026895896076288",
+              "start": 150,
+              "url": "https://t.co/dBmQ0nG43J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108026907870859619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108026895896076288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 848,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈 在工作的时候嗑药这种行为简直无法理喻 我的合伙人在工作的时候磕了很多色胺的东西 我让他不要在没有称的情况下去磕 真的很危险 我不希望朋友死掉是其一 我怕影响赚钱是其二 他说就剩一点了 然后莫名其妙消失了 喊也不回 他昨天还吃了10g普瑞巴林 没错就是10克 希望不会死掉吧 我们的压力太大 https://t.co/dBmQ0nG43J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Gyeonggi Province, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.25,
+                  37.6
+                ],
+                "type": "Point"
+              },
+              "region": "Gyeonggi Province"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2108093245272297510",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 1102,
+          "like_count": 244,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2502
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人 自己找骂的除外😎\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n兜麦总部@doumaiNPS\n小号 @zifeneight静默中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "doumaiNPS"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenzy66",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenzy66",
+                "start": 0,
+                "url": "https://t.co/PkBemmdXxs"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108090699329728808",
+        "name": "自分（兜麦创始人版）",
+        "pinned_tweet_id": "2105663916798013916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822109599459397632/1790405847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 211,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/PkBemmdXxs",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

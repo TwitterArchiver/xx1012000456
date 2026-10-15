@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2108234129741660579",
+    "created_at": "2026-10-08T18:34:25.000Z",
+    "display_text_range": [
+      30,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T19:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108264769983824176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062838193372979200",
+          "start": 0,
+          "username": "Paru_to_Mio"
+        },
+        {
+          "end": 29,
+          "id": "2103402426812489728",
+          "start": 13,
+          "username": "MutsumiDisappea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108264769983824176",
+    "in_reply_to_user_id": "2062838193372979200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108250800007028907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paru_to_Mio @MutsumiDisappea 仅仅40mg1161口服就能产生明显的呼吸抑制😱敬畏阿片这话说多少次也不为过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2108234129741660579",
+        "created_at": "2026-10-08T18:34:25.000Z",
+        "display_text_range": [
+          30,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T19:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108264769983824176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062838193372979200",
+              "start": 0,
+              "username": "Paru_to_Mio"
+            },
+            {
+              "end": 29,
+              "id": "2103402426812489728",
+              "start": 13,
+              "username": "MutsumiDisappea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108264769983824176",
+        "in_reply_to_user_id": "2062838193372979200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108250800007028907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paru_to_Mio @MutsumiDisappea 仅仅40mg1161口服就能产生明显的呼吸抑制😱敬畏阿片这话说多少次也不为过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062838193372979200",
+        "conversation_id": "2108234129741660579",
+        "created_at": "2026-10-08T17:38:54.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108250800007028907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2103402426812489728",
+              "start": 0,
+              "username": "MutsumiDisappea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108250800007028907",
+        "in_reply_to_user_id": "2103402426812489728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108249446467424646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiDisappea 唉阿片。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2108264769983824176",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 1113,
+          "like_count": 246,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2509
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T10:06:43.000Z",
+        "description": "不见证不月抛不聊骚 pr dxm 亚硝酸钠在售 不要扒我大号，，",
+        "id": "2062838193372979200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108264685145604150",
+        "name": "°-°",
+        "pinned_tweet_id": "2108260859806179753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062838193372979200/1791439127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108074161977581568/lMP4ifBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "Paru_to_Mio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T08:52:34.000Z",
+        "description": "小睦的5代目转生号~\n好久不见呀，米娜桑 ヾ(^▽^*)))\n这次又会活多久呢？以及我这个人还会活多久呢？？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/fpos7uKWBl"
+              }
+            ]
+          }
+        },
+        "id": "2103402426812489728",
+        "is_identity_verified": false,
+        "location": "Mercy所在之处",
+        "most_recent_tweet_id": "2108249446467424646",
+        "name": "MutsumiDisappeared",
+        "pinned_tweet_id": "2106446031999435087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103402426812489728/1790326892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103408078993707008/2T3ZbJBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 123,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/fpos7uKWBl",
+        "username": "MutsumiDisappea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

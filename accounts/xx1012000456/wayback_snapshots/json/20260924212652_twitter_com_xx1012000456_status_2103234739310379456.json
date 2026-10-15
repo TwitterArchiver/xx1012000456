@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2103234739310379456",
+    "created_at": "2026-09-24T21:26:52.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T22:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103234739310379456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bui_tu46916/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bui_tu46916/status/2103091306700624304",
+          "start": 6,
+          "url": "https://t.co/8nvVQla0Ih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103234739310379456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103091306700624304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？尤为恶毒 https://t.co/8nvVQla0Ih"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2103234739310379456",
+        "created_at": "2026-09-24T21:26:52.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T22:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103234739310379456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2103091306700624304",
+              "start": 6,
+              "url": "https://t.co/8nvVQla0Ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103234739310379456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103091306700624304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？尤为恶毒 https://t.co/8nvVQla0Ih"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2103091306700624304",
+        "created_at": "2026-09-24T11:56:55.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103091306700624304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103091306700624304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 297,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝所有oder们中秋节发大财，吃啥都香，受体不耐操，rc不上表，做一个健全比"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2103234739310379456",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 1080,
+          "like_count": 244,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠|情绪阴晴不定|看情况回fo\n有时产出视频",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2103091306700624304",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2100942513586794811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1789611876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 382,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

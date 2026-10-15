@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2106426101400756378",
+    "created_at": "2026-10-03T18:29:04.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106451485907435788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106451485907435788",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106426101400756378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 别推这东西吧，我当初大体重10ml就感觉很夸张了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2106426093058269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuHXw5aIAAXNlo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 448,
+        "media_key": "3_2106426092810883072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuHXv-bUAAjHMo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2106426101400756378",
+        "created_at": "2026-10-03T18:29:04.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106451485907435788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106451485907435788",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106426101400756378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 别推这东西吧，我当初大体重10ml就感觉很夸张了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106426093058269184",
+            "3_2106426092810883072"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106426101400756378",
+        "created_at": "2026-10-03T16:48:12.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106426101400756378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nolov26uPB",
+              "end": 80,
+              "expanded_url": "https://x.com/YangDowond/status/2106426101400756378/photo/1",
+              "media_key": "3_2106426093058269184",
+              "start": 57,
+              "url": "https://t.co/Nolov26uPB"
+            },
+            {
+              "display_url": "pic.x.com/Nolov26uPB",
+              "end": 80,
+              "expanded_url": "https://x.com/YangDowond/status/2106426101400756378/photo/1",
+              "media_key": "3_2106426092810883072",
+              "start": 57,
+              "url": "https://t.co/Nolov26uPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106426101400756378",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106426093058269184"
+          },
+          {
+            "media_key": "3_2106426092810883072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "1，4-丁二醇，这是第一次被晶的直接原因，但是被审着审着晶哥话题就偏了，跑到愈美片那里去了，完全把这东西忘了（）\n手里还有这东西的同好们，珍惜一下这东西吧，你们可能个人觉得这个东西体验并不好，但其实它如果掌握好剂量去玩这是国内最简单的逼近真正共情剂感觉的物质了，但这个剂量很不好掌握，你得按照自己的情况一点一点去试\n首先它的真正活性产物是经过肝脏两轮代谢产生的GHB，我们下文就直接说GHB了（）\n这个东西掌握好剂量使用首先进入大脑的一部分GHB会激动GABA-B受体，这会产生一个短暂的抑制信号，使得多巴胺神经元的放电暂时减弱，多巴胺无法被释放到突触间隙里，与此同时，GHB会在细胞内部激活酪氨酸羟化酶-这是合成多巴胺的核心马达，随着GHB在脑中浓度升高，开始更高频地激活兴奋性的GHB受体（GHB受体是一个兴奋性受体，对的，你没听错！）时，那个原本压制释放的多巴胺大坝突然被打开，之前被强行压缩、囤积在神经元内部的海量多巴胺，像决堤的洪水一样，以惊人的浓度瞬间拍打在伏隔核（奖励中枢）上，这就是为什么GHB带来的快感不是那种过电般的狂躁，而是一股极度深沉、排山倒海般涌来的巨大欣快，它用抑制剂的手段，实现了最高级别的兴奋剂效果\n与此同时，人脑中GHB受体密度最高的地方，恰好就是海马体、杏仁核和下丘脑，这些部位就是催产素的释放来源，GHB结合这些位置的GHB受体后会释放巨量的催产素，带来绝对的共情体验\n两者结合起来就很恐怖了，多巴胺的开闸泄洪给了你无尽的能量、极度的自信和表达欲，催产素的释放抹除了你所有的心理边界，让你疯狂渴望触碰、倾听和被接纳！\n但这个这种精妙绝伦的多巴胺与催产素双释放作用建立在一个脆弱的生化浓度平衡上，如果剂量稍大它就会去强效激动GABA-B受体让你过度镇静，晕过去甚至是呼吸抑制，所以大家一定要小心使用，体验，娱乐！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1021,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1，4-丁二醇，这是第一次被晶的直接原因，但是被审着审着晶哥话题就偏了，跑到愈美片那里去了，完全把这东西忘了（） https://t.co/Nolov26uPB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106451485907435788",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 1066,
+          "like_count": 243,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106450088214319201",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 338,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

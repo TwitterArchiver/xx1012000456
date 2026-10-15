@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2107831077666750606",
+    "created_at": "2026-10-07T17:27:06.000Z",
+    "display_text_range": [
+      11,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107885440162578478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022153081031733252",
+          "start": 0,
+          "username": "KHika2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107885440162578478",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107831077666750606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KHika2024 精二没有文件天然指单方😅就和白兔一样是处方而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107830983563296768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCFHJ3aQAARXUY.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2107831077666750606",
+        "created_at": "2026-10-07T17:27:06.000Z",
+        "display_text_range": [
+          11,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107885440162578478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "KHika2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107885440162578478",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107831077666750606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KHika2024 精二没有文件天然指单方😅就和白兔一样是处方而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107830983563296768"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2107831077666750606",
+        "created_at": "2026-10-07T13:51:05.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107831077666750606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCh02lQhHP",
+              "end": 92,
+              "expanded_url": "https://x.com/KHika2024/status/2107831077666750606/photo/1",
+              "media_key": "3_2107830983563296768",
+              "start": 69,
+              "url": "https://t.co/pCh02lQhHP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2107831077666750606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107830983563296768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3518,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国家新的，10月1号规定下来了\n第2类精神药品，未成年人也要家长签字，但是看到网上的这个。复方地西泮依旧是普通处方药，随便买，依旧绷不住 https://t.co/pCh02lQhHP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2107885440162578478",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 1098,
+          "like_count": 243,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "BD-II (Dep/Mixed/RC/Mel) + AnxD + OCD\n苏州/09/MTF🏳️‍⚧️\nbirth.2009.10.05\nGAHT.2026.5.11\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为热爱而行，以初心长守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "Echo42es"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0ZjBsN"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2107845620233085220",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2102331456915922974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106254888477048833/K6ZigiuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1748,
+          "like_count": 5054,
+          "listed_count": 0,
+          "media_count": 639,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/PTeX0ZjBsN",
+        "username": "KHika2024",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

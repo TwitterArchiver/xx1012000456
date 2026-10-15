@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2106426101400756378",
+    "created_at": "2026-10-04T15:04:51.000Z",
+    "display_text_range": [
+      40,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106762481129660647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764251282746093569",
+          "start": 0,
+          "username": "bq0523159026961"
+        },
+        {
+          "end": 27,
+          "id": "3022697779",
+          "start": 17,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 39,
+          "id": "990585162722242560",
+          "start": 28,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106762481129660647",
+    "in_reply_to_user_id": "1764251282746093569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106628748925861979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bq0523159026961 @RXdruglab @YangDowond 我使用那会24年初吧，那时候可没有现在这么多的RC测试者，没有明确的剂量推荐。一方面可能确实我体重大，一方面是1:1水互溶后再加入饮料服用，比起干喝还是好不少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2106426101400756378",
+        "created_at": "2026-10-04T15:04:51.000Z",
+        "display_text_range": [
+          40,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106762481129660647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764251282746093569",
+              "start": 0,
+              "username": "bq0523159026961"
+            },
+            {
+              "end": 27,
+              "id": "3022697779",
+              "start": 17,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 39,
+              "id": "990585162722242560",
+              "start": 28,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106762481129660647",
+        "in_reply_to_user_id": "1764251282746093569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106628748925861979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bq0523159026961 @RXdruglab @YangDowond 我使用那会24年初吧，那时候可没有现在这么多的RC测试者，没有明确的剂量推荐。一方面可能确实我体重大，一方面是1:1水互溶后再加入饮料服用，比起干喝还是好不少。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764251282746093569",
+        "conversation_id": "2106426101400756378",
+        "created_at": "2026-10-04T06:13:27.000Z",
+        "display_text_range": [
+          37,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106628748925861979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 24,
+              "id": "1386670401422434304",
+              "start": 11,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 36,
+              "id": "990585162722242560",
+              "start": 25,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106628748925861979",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106620671141007546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @xx1012000456 @YangDowond 老师你好，我是你的粉丝。我看有的说两毫升就吐了非常难受，有的人说一毫升就很猛。这里怎么还有个10毫升？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2106762481129660647",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 1066,
+          "like_count": 242,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T11:27:49.000Z",
+        "description": "",
+        "id": "1764251282746093569",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106628748925861979",
+        "name": "dorothea",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035791061231280128/0cS5S_jT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "bq0523159026961",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106654196707803437",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21413,
+          "following_count": 16,
+          "like_count": 30,
+          "listed_count": 25,
+          "media_count": 68,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106639418820042866",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 340,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

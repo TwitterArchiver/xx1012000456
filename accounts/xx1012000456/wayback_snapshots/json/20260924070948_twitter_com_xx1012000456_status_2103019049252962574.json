@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1386670401422434304",
+    "conversation_id": "2102869900670927349",
+    "created_at": "2026-09-24T07:09:48.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103019049252962574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "orewahara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103019049252962574",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102869900670927349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orewahara 要得要得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2102869893662334976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7lBtybYAA76Td.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2102869893679083521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7lBt2a8AEo1Hu.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2102869900670927349",
+        "created_at": "2026-09-24T07:09:48.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103019049252962574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "orewahara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103019049252962574",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102869900670927349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orewahara 要得要得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102869893662334976",
+            "3_2102869893679083521"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "2102869900670927349",
+        "created_at": "2026-09-23T21:17:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102869900670927349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8AJSGNqam",
+              "end": 34,
+              "expanded_url": "https://x.com/orewahara/status/2102869900670927349/photo/1",
+              "media_key": "3_2102869893662334976",
+              "start": 11,
+              "url": "https://t.co/H8AJSGNqam"
+            },
+            {
+              "display_url": "pic.x.com/H8AJSGNqam",
+              "end": 34,
+              "expanded_url": "https://x.com/orewahara/status/2102869900670927349/photo/1",
+              "media_key": "3_2102869893679083521",
+              "start": 11,
+              "url": "https://t.co/H8AJSGNqam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102869900670927349",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102869893662334976"
+          },
+          {
+            "media_key": "3_2102869893679083521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好 你要跟我恋爱吗 https://t.co/H8AJSGNqam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Beijing, Beijing, China",
+              "geo": {
+                "coordinates": [
+                  116.39723,
+                  39.9075
+                ],
+                "type": "Point"
+              },
+              "locality": "Beijing",
+              "region": "Beijing"
+            }
+          ]
+        },
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa \n小号：@gongzisama1 \n群组https://t.co/jyWN6xpfIZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "gongzisama1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOYIa"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 117,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095578371841536202/My5ZRE761A",
+                "start": 94,
+                "url": "https://t.co/jyWN6xpfIZ"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2103019049252962574",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2099577021563338941",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 1077,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2479
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "一个神秘的人｜誰も知らない私\n现实生活重启中\n负能@Harasaki0｜tktk：harasakisuki\nDM禁止🚫我只是来发疯的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Harasaki0"
+              }
+            ]
+          }
+        },
+        "id": "1942213637902348289",
+        "is_identity_verified": false,
+        "location": "原咲です",
+        "most_recent_tweet_id": "2102950815816356197",
+        "name": "harasaki",
+        "pinned_tweet_id": "2078405824754721276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942213637902348289/1782089166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861332097298432/z6xG7fN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 134,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "orewahara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
